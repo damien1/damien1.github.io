@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>landing pages on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/landing-pages/</link>
+    <description>Recent content in landing pages on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 14 Mar 2010 23:43:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/landing-pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HOW TO use WordPress and design a custom landing page</title>
+      <link>https://damien1.github.io/blog/2010-03-14-wordpress-use-a-custom-design-for-landing-pages-2/</link>
+      <pubDate>Sun, 14 Mar 2010 23:43:45 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2010-03-14-wordpress-use-a-custom-design-for-landing-pages-2/</guid>
+      <description>WordPress may just be one ofthe best solution for building a web and mobile site. One feature is that a user can create static pages that integrate or fit in with the theme of the site. Here is the easy and quick solution for how to create a custom template and have a fresh new look for landing pages or static pages.
+In fact WordPress has a lot of features that make it easy to use as a CMS – content management system and static pages are important.</description>
+    </item>
+    
+    <item>
+      <title>HOW TO use WordPress and design a custom landing page</title>
+      <link>https://damien1.github.io/wordpress/wordpress-use-a-custom-design-for-landing-pages-756/</link>
+      <pubDate>Sun, 14 Mar 2010 23:43:45 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/wordpress/wordpress-use-a-custom-design-for-landing-pages-756/</guid>
+      <description>WordPress may just be one ofthe best solution for building a web and mobile site. One feature is that a user can create static pages that integrate or fit in with the theme of the site. Here is the easy and quick solution for how to create a custom template and have a fresh new look for landing pages or static pages.
+In fact WordPress has a lot of features that make it easy to use as a CMS – content management system and static pages are important.</description>
+    </item>
+    
+  </channel>
+</rss>

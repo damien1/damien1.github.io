@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photography on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/photography/</link>
+    <description>Recent content in photography on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 26 Mar 2011 16:57:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apple Aperture updates to 3.1.2</title>
+      <link>https://damien1.github.io/general/apple-aperture-updates-to-3-1-2-2803/</link>
+      <pubDate>Sat, 26 Mar 2011 16:57:18 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/general/apple-aperture-updates-to-3-1-2-2803/</guid>
+      <description>Apple has updated its Aperture software to 3.1.2 – it seems to focus on the new users who quite likely brought the Appstore copy.
+The release note is not very useful – but maybe the adjustments will be interesting to see what happens.
+ </description>
+    </item>
+    
+    <item>
+      <title>Aperture 3 digital photo software improved integration with Flickr</title>
+      <link>https://damien1.github.io/blog/aperture-3-digital-photo-software-improved-integration-with-flickr-2584/</link>
+      <pubDate>Mon, 24 Jan 2011 09:04:47 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/aperture-3-digital-photo-software-improved-integration-with-flickr-2584/</guid>
+      <description>I’ve been using Apple Aperture 3 for my digital photography and image processing for a couple of years. It’s great for importing those images for clients and quickly doing all the editing, tagging, grouping and touch-ups.
+What I didn’t like about it as a workflow tool – is that it lacks proper integration with Flickr. In the 3.0 version from last year you could publish as a Set of photos to Flickr, but couldn’t just add an image to your photostream.</description>
+    </item>
+    
+    <item>
+      <title>Autodesk SketchBook Mobile comes to Android</title>
+      <link>https://damien1.github.io/blog/android/autodesk-sketchbook-mobile-comes-to-android-2167/</link>
+      <pubDate>Thu, 02 Dec 2010 14:00:54 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/android/autodesk-sketchbook-mobile-comes-to-android-2167/</guid>
+      <description>SketchBook Mobile recently got a mention here as the best iPad app fro sketches, notes, photos and more … and now its available on Android. I bet if you have a Samsung Galaxy Tab – this should be the first app that really is worth paying for.With so many features – it can be hard to know where to start – so my suggestion is use it to play around with some of your photos.</description>
+    </item>
+    
+    <item>
+      <title>Best iPad App for design and graphics gets better</title>
+      <link>https://damien1.github.io/general/best-ipad-app-for-design-and-graphics-gets-better-1857/</link>
+      <pubDate>Sat, 06 Nov 2010 10:59:54 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/general/best-ipad-app-for-design-and-graphics-gets-better-1857/</guid>
+      <description>Sketchbook Pro, in my opinion is the best iPad app for photo editing, graphic and web design. And its new update just makes it better. The new release makes it a great all round tool for note taking, wireframe and web design.
+A Power tool for notes, sketches and mockups I like to think I’m a pro digital photographer so I like my photo software to do amazing things – even if I cant.</description>
+    </item>
+    
+  </channel>
+</rss>

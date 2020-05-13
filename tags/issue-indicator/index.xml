@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Issue Indicator on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/issue-indicator/</link>
+    <description>Recent content in Issue Indicator on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 13 Jan 2012 16:04:21 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/issue-indicator/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Live content not showing</title>
+      <link>https://damien1.github.io/blog/2012-01-13-live-content-not-showing-for-the-new-issue/</link>
+      <pubDate>Fri, 13 Jan 2012 16:04:21 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-01-13-live-content-not-showing-for-the-new-issue/</guid>
+      <description>Are you using W3 Total Cache or a CDN and seeing a broken picture icon on the live site
+Right click on the icon and choose to show image in new tab
+Go to the Performance section
+Choose CDN
+Click on Purge
+Copy paste the broken image link without the Rackspace cdn part
+Refresh the page with the broken image</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How To on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/how-to/</link>
+    <description>Recent content in How To on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 29 Apr 2013 12:00:56 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HOW TO Get Started with WordPress Multisite &amp;#8211; build it in 5 minutes</title>
+      <link>https://damien1.github.io/wordpress-multisite/get-started-with-wordpress-multisite-build-it-in-5-minutes-8659/</link>
+      <pubDate>Mon, 29 Apr 2013 12:00:56 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/wordpress-multisite/get-started-with-wordpress-multisite-build-it-in-5-minutes-8659/</guid>
+      <description>WordPress Multisite or WordPress Network or WPMU – any of these refer to WordPress when it has been setup as a network of blogs or websites.
+I’ve been using WordPress Multisite for about 3 years now – many more famous WordPress people have written about setting up WordPress Multisite, but this is my take on it.
+I want to show you that it is easy to get started with WordPress Multisite in fact you can have your network of WordPress sites up in under 5 minutes (supposing you already have WordPress installed).</description>
+    </item>
+    
+    <item>
+      <title>Isotope Visual Layouts &amp;#8211; jQuery toggleClass</title>
+      <link>https://damien1.github.io/blog/2013-03-07-isotope-visual-layouts-jquery-toggleclass/</link>
+      <pubDate>Thu, 07 Mar 2013 15:07:53 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2013-03-07-isotope-visual-layouts-jquery-toggleclass/</guid>
+      <description>Isotope Visual Layouts Pro pluginintroduces a click to enlarge feature for box items that are part of the grid layout. This uses a cool jQuery element that changes the CSS class and refreshes the layout of the page.
+Checkout the demoand click on each box / image.
+It took me a bit to learn how to do this – only cause I’m not a frontend developer. But if you’d like to add toggleClass to your Isotope WordPress project, then you might like this.</description>
+    </item>
+    
+    <item>
+      <title>HOW TO: Install Jenkins-CI on a Mac OS X with Git &amp;#038; Bitbucket</title>
+      <link>https://damien1.github.io/development/how-to-install-jenkins-ci-on-a-mac-os-x-with-git-bitbucket-8072/</link>
+      <pubDate>Tue, 18 Dec 2012 13:56:15 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/development/how-to-install-jenkins-ci-on-a-mac-os-x-with-git-bitbucket-8072/</guid>
+      <description>A few notes on getting Jenkins-CI installed on your Mac and setup with Git and Bitbucket for source code management. I’ve been using Git for some time but I had problems / major issues with Jenkins and could never seem to get this working.
+Issues with setting up Jenkins and Git on a Mac Here are the issues I was having … the biggest issue was the Error (unable to clone) which showed up when I created a job and added the path to the Bitbucket repo — even after I had added the SSH Key to Bitbucket.</description>
+    </item>
+    
+    <item>
+      <title>HOW TO: Install Selenium 2 for Mac OS X / Python</title>
+      <link>https://damien1.github.io/resources/how-to-install-selenium-2-mac-os-x-python-7391/</link>
+      <pubDate>Sat, 23 Jun 2012 21:54:10 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/resources/how-to-install-selenium-2-mac-os-x-python-7391/</guid>
+      <description>If you own a Mac and want to get started with Selenium for Automated Testing of your web apps, then you’re already most of the way there.
+The Mac operating system already offers a number of baked in solutions and command line tools like Python, Ruby and Java.
+How To Install Selenium on your Mac OSx Mac already has Python and a package manager called easy_install, so open Terminal and type</description>
+    </item>
+    
+    <item>
+      <title>Web server performance &amp;#8211; usage and load</title>
+      <link>https://damien1.github.io/blog/web-server-performance-usage-and-load-5987/</link>
+      <pubDate>Tue, 17 Jan 2012 22:00:03 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/web-server-performance-usage-and-load-5987/</guid>
+      <description>Web Application Development can seem easy if you’re used to a shared host and WordPress running out of the box. Moving into the world of unmanaged VPS can be daunting at first – or really easy if you’re insane.
+If you’ve got access to a terminal or CLI – command line interface then you have here a number of options for checking your website performance. Here’s a few choice one’s I’ve been using lately.</description>
+    </item>
+    
+    <item>
+      <title>HOW TO fix the Fatal Error: Allowed Memory Size in WordPress</title>
+      <link>https://damien1.github.io/blog/2011-12-27-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-2/</link>
+      <pubDate>Tue, 27 Dec 2011 12:30:23 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2011-12-27-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-2/</guid>
+      <description>WordPress offers lots of plugins to choose from and if you add to many you will soon come across this Fatal Error message. You can easily fix the problem (and then go back to adding more plugins).
+This out of memory error doesn’t mean you have to go buy more RAM — just have to amend a line of text in a wordpress settings file.
+ Fix the Fatal Error: Allowed Memory Size When you installed WordPress you either uploaded it using FTP yourself or went to an admin cpanel and installed it.</description>
+    </item>
+    
+    <item>
+      <title>Custom Maintenance Page for WordPress</title>
+      <link>https://damien1.github.io/blog/2011-12-26-custom-maintenance-page-for-wordpress/</link>
+      <pubDate>Mon, 26 Dec 2011 13:00:15 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2011-12-26-custom-maintenance-page-for-wordpress/</guid>
+      <description>WordPress is a great tool. It has its own way of managing updates to your website – and will switch to maintenance mode automatically. Sometimes this is called an HTTP Status 503 Service Unavailable.
+For the best user experience you can setup your own custom maintenance page – where you can show your brand, making it clear that this is planned maintenance and give your visitor some where else to go.</description>
+    </item>
+    
+    <item>
+      <title>HOWTO: Fix no mobile internet after Cyanogenmod install</title>
+      <link>https://damien1.github.io/blog/android/howto-fix-no-mobile-internet-after-cyanogenmod-install-2822/</link>
+      <pubDate>Sun, 03 Apr 2011 21:04:20 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/android/howto-fix-no-mobile-internet-after-cyanogenmod-install-2822/</guid>
+      <description>Here’s a simple fix to problems of no Mobile Internet after installing Cyanogenmod rom on your Android. If you’re new to rooting your Android or just forgotten how complicated it can be to get online with your mobile phone – you might think this is a really useful tip.
+ Check your APN Settings After you root your phone and install CyanogenMod you can find your have no wifi and no wireless internet connection.</description>
+    </item>
+    
+    <item>
+      <title>Slideshare Featured presentation of the day – get started with Foursquare</title>
+      <link>https://damien1.github.io/resources/slideshare-featured-presentation-of-the-day-get-started-with-foursquare-1938/</link>
+      <pubDate>Tue, 16 Nov 2010 11:51:33 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/resources/slideshare-featured-presentation-of-the-day-get-started-with-foursquare-1938/</guid>
+      <description>Here’s my newest Guide to getting started with Foursquareand it was selected by Slideshareas featured presentation on their homepage and on their business marketing section.The cat was definitely out of the bag on this … it’s had more than 460nearly 1000 views in one dayand a number of new favourites
+Thanks to everyone for liking it!</description>
+    </item>
+    
+    <item>
+      <title>HOW TO export posts from WordPress to Word Doc via PDF in Mac OSx</title>
+      <link>https://damien1.github.io/blog/2010-07-25-how-to-export-posts-from-wordpress-to-word-doc-via-pdf-in-mac-osx-2/</link>
+      <pubDate>Sun, 25 Jul 2010 18:00:30 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2010-07-25-how-to-export-posts-from-wordpress-to-word-doc-via-pdf-in-mac-osx-2/</guid>
+      <description>WordPress is one of the best end to end solutions for building a website and it has a large selection of themes, plugins and tools to make it more than just another blog. I recommend WordPress at the start of any project – just because it typically requires less management involvement or decisions from the IT or Tech teams to get started with.Having spent a lot more time writing about Social Media lately, I wanted to collect these posts into an editable collection (maybe I should have started by writing all my posts in word you might say).</description>
+    </item>
+    
+    <item>
+      <title>HOW TO use WordPress and design a custom landing page</title>
+      <link>https://damien1.github.io/blog/2010-03-14-wordpress-use-a-custom-design-for-landing-pages-2/</link>
+      <pubDate>Sun, 14 Mar 2010 23:43:45 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2010-03-14-wordpress-use-a-custom-design-for-landing-pages-2/</guid>
+      <description>WordPress may just be one ofthe best solution for building a web and mobile site. One feature is that a user can create static pages that integrate or fit in with the theme of the site. Here is the easy and quick solution for how to create a custom template and have a fresh new look for landing pages or static pages.
+In fact WordPress has a lot of features that make it easy to use as a CMS – content management system and static pages are important.</description>
+    </item>
+    
+  </channel>
+</rss>

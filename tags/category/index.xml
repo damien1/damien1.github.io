@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>category on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/category/</link>
+    <description>Recent content in category on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 14 Jun 2012 17:27:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/category/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WordPress Isotope &amp;#038; Filtering by Categories</title>
+      <link>https://damien1.github.io/blog/2012-06-14-wordpress-isotope-filtering-by-categories/</link>
+      <pubDate>Thu, 14 Jun 2012 17:27:25 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-06-14-wordpress-isotope-filtering-by-categories/</guid>
+      <description>Isotope is an ‘exquisite jQuery plugin for magical layouts’ which basically means it works wonders on responsive layouts. I’ve created a WordPress plugin for Isotope and just updated this to add Filtering by Categories.
+
+
+How do you add Filtering for Isotope to WordPress? WordPress uses jQuery in no conflict mode. so you just need to modify the Isotope example code
+You’ll need to create your own custom WordPress template with its own WPQuery loop</description>
+    </item>
+    
+  </channel>
+</rss>

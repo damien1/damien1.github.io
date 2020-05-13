@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Copy on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/copy/</link>
+    <description>Recent content in Copy on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 10 May 2012 11:12:28 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/copy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to safely Cut Paste from Word</title>
+      <link>https://damien1.github.io/blog/2012-01-13-how-to-safely-cut-paste-from-word/</link>
+      <pubDate>Fri, 13 Jan 2012 16:09:39 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-01-13-how-to-safely-cut-paste-from-word/</guid>
+      <description>In HTML mode – cut &amp;amp; paste only pastes plain text
+Or use the W icon and paste there first.
+You can also switch back to HTML to check if there is formatting you don’t want</description>
+    </item>
+    
+  </channel>
+</rss>

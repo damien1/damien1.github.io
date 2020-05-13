@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jQuery on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/jquery/</link>
+    <description>Recent content in jQuery on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 28 Apr 2013 12:00:13 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/jquery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to integrate your own Isotope jQuery plugin with your WordPress</title>
+      <link>https://damien1.github.io/blog/2013-04-28-how-to-integrate-your-own-isotope-jquery-plugin-with-your-wordpress/</link>
+      <pubDate>Sun, 28 Apr 2013 12:00:13 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2013-04-28-how-to-integrate-your-own-isotope-jquery-plugin-with-your-wordpress/</guid>
+      <description>I was recently asked if it was easy to integrate Isotope jQuery plugin into a WordPress website. It’s not uncomplicated to add isotope.js to your website – it’s just not as easy as linking a script to your header.
+2 Ways to add Isotope jQuery Plugin to WordPress As always, there are (at least) 2 ways to achieve this
+ Create a page template for the purpose – with all the code you want Add the code to your themes function.</description>
+    </item>
+    
+    <item>
+      <title>Isotope &#43; filtrify &#43; WordPress = No Sweat</title>
+      <link>https://damien1.github.io/blog/2012-09-08-isotope-filtrify-wordpress-no-sweat/</link>
+      <pubDate>Sat, 08 Sep 2012 16:35:17 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-09-08-isotope-filtrify-wordpress-no-sweat/</guid>
+      <description>I’ve been busy this weekend catching up on some development work for my favourite WordPress plugin Visual Post Layouts which uses Isotope.
+Today I’ve integrated filtrifywhich makes it easy to choose your posts by Category.</description>
+    </item>
+    
+    <item>
+      <title>Using Isotope &amp;#038; masonry with WordPress</title>
+      <link>https://damien1.github.io/blog/2012-04-07-using-isotope-masonry-with-wordpress/</link>
+      <pubDate>Sat, 07 Apr 2012 12:56:11 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-04-07-using-isotope-masonry-with-wordpress/</guid>
+      <description>So I have been using Isotope for sometime on my website … I was recently asked why I had stopped using Isotope at which point I discovered that it had stopped working when I changed my theme.
+Using jQuery instead of $ for javascript The basic script for isotope is …
+[php]
+[/php]
+However, WordPress reserves the use of $ so you need to change your script to
+[php]
+[/php]</description>
+    </item>
+    
+    <item>
+      <title>A couple more examples of impressive jQuery and JS</title>
+      <link>https://damien1.github.io/blog/couple-more-examples-of-impressive-js-jquery-5974/</link>
+      <pubDate>Tue, 17 Jan 2012 11:30:49 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/couple-more-examples-of-impressive-js-jquery-5974/</guid>
+      <description>jQuery and Javascript may not be all that bad for you .. or your website.
+Recently I’ve been looking into fluid and responsive layouts for web design and I’ve been using a jQuery framework called Isotope on my blog page.
+Isotope looks like it can do magical things. If only I had the time to make it work properly.
+So here are two more impressive examples of what you can do with .</description>
+    </item>
+    
+    <item>
+      <title>Getting started with Isotope &amp;#038; WordPress</title>
+      <link>https://damien1.github.io/blog/2011-12-10-getting-started-with-isotope-wordpress/</link>
+      <pubDate>Sat, 10 Dec 2011 15:26:34 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2011-12-10-getting-started-with-isotope-wordpress/</guid>
+      <description>If you’re interested in customising WordPress then consider building a fluid grid design with a layout that automatically responds as the page is resized.
+I’m using Isotope with the latest version of WordPress 3.3 release candidate.
+Isotope – An exquisite jQuery Plugin for magical layouts With a few days to spare do check out Isotope from David Desandro. This example uses the periodic table
+Have a look as well at Desandro’s examples – click a few of the buttons on the Filter.</description>
+    </item>
+    
+  </channel>
+</rss>

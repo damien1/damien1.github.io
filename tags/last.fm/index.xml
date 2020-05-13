@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Last.fm on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/last.fm/</link>
+    <description>Recent content in Last.fm on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 08 Apr 2011 20:39:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/last.fm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Last.fm Android Live Wallpaper</title>
+      <link>https://damien1.github.io/blog/android/last-fm-android-live-wallpaper-2832/</link>
+      <pubDate>Fri, 08 Apr 2011 20:39:18 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/android/last-fm-android-live-wallpaper-2832/</guid>
+      <description>I’ve just discovered the (not official) Last.fm live wallpaper for Android. It’s a brilliant change to my boring background on my HTC Desire.
+Last.fm is still there tracking my music listening habits – and doing a good job of that. This live wallpaper has a number of options and the free version allows you to create a wallpaper of your favourite artists for example.
+The idea for this (app) is also brilliant – it needs no real user interface – and for a small price you get a premium wallpaper with options for weekly charts.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/reading/</link>
+    <description>Recent content in Reading on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 12 May 2020 22:10:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Proust Project</title>
+      <link>https://damien1.github.io/blog/2020-05-10-proust-project/</link>
+      <pubDate>Tue, 12 May 2020 22:10:00 +0100</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2020-05-10-proust-project/</guid>
+      <description>I&amp;rsquo;ve been a fan of Marcel Proust and the madeleine in lime blossom tea for some time. When you first think of reading Proust, it can be daunting - 7 books, 4000+ pages and some incredibly dense text. But I did it, and love it.
+It&amp;rsquo;s been over 10 years since I first read In Search of Lost Time &amp;hellip; so it was time to pick up the books again.</description>
+    </item>
+    
+  </channel>
+</rss>

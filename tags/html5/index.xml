@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML5 on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/html5/</link>
+    <description>Recent content in HTML5 on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 17 Jan 2012 11:30:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/html5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A couple more examples of impressive jQuery and JS</title>
+      <link>https://damien1.github.io/blog/couple-more-examples-of-impressive-js-jquery-5974/</link>
+      <pubDate>Tue, 17 Jan 2012 11:30:49 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/couple-more-examples-of-impressive-js-jquery-5974/</guid>
+      <description>jQuery and Javascript may not be all that bad for you .. or your website.
+Recently I’ve been looking into fluid and responsive layouts for web design and I’ve been using a jQuery framework called Isotope on my blog page.
+Isotope looks like it can do magical things. If only I had the time to make it work properly.
+So here are two more impressive examples of what you can do with .</description>
+    </item>
+    
+    <item>
+      <title>[Interactive] Dangermouse wants you to ro.me &amp;#8211; another great HTML5 music video</title>
+      <link>https://damien1.github.io/video/interactive-dangermouse-wants-you-to-ro-me-another-great-html5-music-video-3497/</link>
+      <pubDate>Mon, 30 May 2011 11:22:50 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/video/interactive-dangermouse-wants-you-to-ro-me-another-great-html5-music-video-3497/</guid>
+      <description>Music artist and producer Dangermouse has done it again – or that’s to say Google has done it with HTML5. The new album called Romeis in the style of a (spaghetti western) film soundtrack and if you’ve not hear it — then you’re missing out.
+ HTML5 Music Video wow-ness  Google has again helped to create an interactive music video ‘Chrome Experiment’ – to show off some of the awesome-ness that is HTML5.</description>
+    </item>
+    
+    <item>
+      <title>SEO best practice for using &amp;lt;strong&amp;gt; and &amp;lt;em&amp;gt;</title>
+      <link>https://damien1.github.io/social-media/seo-best-practice-for-using-strong-and-em-2695/</link>
+      <pubDate>Mon, 14 Feb 2011 09:42:31 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/social-media/seo-best-practice-for-using-strong-and-em-2695/</guid>
+      <description>As more people become aware of HTML5 it’s time to review how tagging written content will impact search engine optimisation. Tags like and are redundant – instead and have been in use for a few years by many blogging and web developer tools. Now the HTML5 standard recognises that and should only be used for visual style.
+You can do more with CSS styles If you remember writing HTML back in the 90’s you might be more comfortable using and .</description>
+    </item>
+    
+  </channel>
+</rss>

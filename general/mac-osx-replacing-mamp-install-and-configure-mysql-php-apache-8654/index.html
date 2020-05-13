@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en-gb"><head>
+  <!-- Basic Page Needs -->
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  
+  <meta name="description" content="Damien Saunders - marketing &amp; management consultant">
+  <meta name="author" content="Damien Saunders">
+  <meta name="generator" content="Hugo 0.70.0" />
+  
+  <!-- Mobile Specific Metas -->
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mac OSx replacing MAMP  &amp;#8211; install and configure MySQL, PHP, Apache</title>
+  <link rel="icon" href="https://damien1.github.io/images/favicon.ico">
+
+  <!-- Twitter Bootstrs CSS -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/bootstrap/bootstrap.min.css">
+  <!-- Ionicons Fonts Css -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/ionicons/ionicons.min.css">
+  <!-- animate css -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/animate-css/animate.css">
+  <!-- Hero area slider css-->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/slider/slider.css">
+  <!-- slick slider -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/slick/slick.css">
+  <!-- Fancybox -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/facncybox/jquery.fancybox.css">
+  <!-- hover -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/hover/hover-min.css">
+  <!-- template main css file -->
+  
+  <link rel="stylesheet" href="https://damien1.github.io/css/style.min.css" integrity="" media="screen">
+</head><body><section class="top-bar animated-header">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<nav class="navbar navbar-expand-lg navbar-light bg-light">
+					<a class="navbar-brand" href="https://damien1.github.io">
+						<img src="https://damien1.github.io/damiensaunders.png" alt="Damien Saunders">
+					</a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+						aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+
+					<div class="collapse navbar-collapse" id="navigation">
+						<ul class="navbar-nav ml-auto">
+							<li class="nav-item">
+								<a class="nav-link" href="https://damien1.github.io">Home</a>
+							</li>
+							
+							<li class="nav-item">
+								<a class="nav-link" href="https://damien1.github.io/blog">Blog</a>
+							</li>
+							
+					</div>
+				</nav>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="global-page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h2>Mac OSx replacing MAMP  &amp;#8211; install and configure MySQL, PHP, Apache</h2>
+                    <div class="portfolio-meta">
+                        <span>Sunday, Apr 21, 2013</span>|
+                        <span> Tags:
+                            Apache, mySQL, PHP
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="single-post">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                
+                <div class="post-content">
+                    <p><strong>MAMP</strong> (Mac, Apache, MySQL, PHP) is the first go to solution for anyone developing anything web based on your Mac. Even more so as Apple removed the easy controls to enable ‘<strong>web sharing</strong>‘ as it was called in 10.8 Mountain Lion. </p>
+<p>I had wanted to use <a href="http://wp-cli.org/"><em>WP-CLI</em></a> – which is a set command line tools for WordPress, only that they don’t install / like MAMP. Which means, now is the time to <strong>replace MAMP with my own stack</strong>.</p>
+<p> </p>
+<h2 id="apache">Apache</h2>
+<p>Apache is installed on your Mac in 10.8 Mountain Lion – it’s just probably not running.</p>
+<p> </p>
+<p>Open Terminal and enter the following</p>
+<!-- raw HTML omitted -->
+<p>The version installed on a Mac is 2.2.22</p>
+<p> </p>
+<p>to start it</p>
+<!-- raw HTML omitted -->
+<p>to stop it</p>
+<!-- raw HTML omitted -->
+<p>to restart it</p>
+<!-- raw HTML omitted -->
+<p> </p>
+<p>After you’ve started it, just head to <a href="http://localhost">http://localhost</a></p>
+<h3 id="document-root">Document Root </h3>
+<p>By default, the Apache web pages are stored in</p>
+<!-- raw HTML omitted -->
+<p> You’ll want to change this. So follow the linkage or look up Mac osX and VirtualHosts</p>
+<p> </p>
+<h2 id="virtualhosts-and-virtualhostx">VirtualHosts and VirtualHostX</h2>
+<p>If you want to have more than one local domain  (live wild) think about having a host for dev.local &amp; staging.local, then you’ll need VirtualHosts.</p>
+<p>The easiest app to use is <a href="http://clickontyler.com/virtualhostx/">VirtualHostX</a>, then right the Setup Wizard. It’s free for 15 days so that should be long enough to setup your Vhosts.</p>
+<p><!-- raw HTML omitted --></p>
+<p> After that, you can create all the VirtualHosts you want  (something you couldn’t easily do with MAMP ‘lite’). </p>
+<p> </p>
+<h2 id="mysql">MySQL</h2>
+<p>Is a little bit harder – you need to download and install it.</p>
+<p>Head to <a href="http://dev.mysql.com/downloads/mysql/">http://dev.mysql.com/downloads/mysql/</a></p>
+<p>Download the Mac version</p>
+<p>Open the installer pkg files and run the Installer and when its done double-click on the Pref Pane to install it (In my testing, you don’t need to run the Startup pkg installer if you install the Preference Pane).</p>
+<p><!-- raw HTML omitted --></p>
+<p>From System Preferences, you can start MySQL and set it to run at boot … do that 🙂</p>
+<p> </p>
+<h3 id="set-root-password">Set Root Password</h3>
+<p>(or MySQL won’t work)</p>
+<!-- raw HTML omitted -->
+<p> </p>
+<h3 id="fix-mysql-unable-to-connect-error">Fix MySQL Unable to Connect Error</h3>
+<p>There is a bug in Mac OSx and the MySQL install location is not correctly linked.</p>
+<p>You’ll confirm this, if you try to run a WordPress setup so ..</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>That’s fixed — now you can go try to install / setup WordPress or whatever.</p>
+<p> </p>
+<h3 id="sequelpro">SequelPro</h3>
+<p>Now that you have MySQL running, you’ll want to launch <a href="http://sequelpro.com/">SequelPro</a> and create MySQL database.</p>
+<p>Remember to use the Root user and the Password you set 🙂 </p>
+<p> <!-- raw HTML omitted --></p>
+<p> </p>
+<h2 id="php">PHP</h2>
+<p>PHP is also on your Mac but not running.</p>
+<p>Open Terminal and enter</p>
+<!-- raw HTML omitted -->
+<p>(I prefer Nano – you can use Vi or whatever you prefer)</p>
+<p> Ctrl W to search</p>
+<p>Look for php5_module</p>
+<p>Remove the Hash # from the start of the line</p>
+<p>Ctrl X to Exit</p>
+<p>Yes to Save</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h3 id="linkage">Linkage</h3>
+<p>Setup Apache, PHP and MySQL – <a href="http://coolestguyplanettech.com/downtown/install-and-configure-apache-mysql-php-and-phpmyadmin-osx-108-mountain-lion">http://coolestguyplanettech.com/downtown/install-and-configure-apache-mysql-php-and-phpmyadmin-osx-108-mountain-lion</a></p>
+<p>How to set VirtualHosts in Mac <a href="http://coolestguyplanettech.com/downtown/how-set-virtual-hosts-apache-osx-108-mountain-lion">http://coolestguyplanettech.com/downtown/how-set-virtual-hosts-apache-osx-108-mountain-lion</a></p>
+<p>WP-CLI <a href="http://wp-cli.org/">http://wp-cli.org/</a></p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<!-- Footer Section Start -->
+<footer id="footer">
+    <div class="container">
+        <div class="row content-justify-between">
+            <div class="col-md-8 col-12 text-center text-lg-left text-md-left">
+                <p class="copyright">Copyright &copy;  2004 - 
+                    <span>
+                        <script>document.write(new Date().getFullYear())</script>
+                    </span>  Damien Saunders.
+                    <br> Theme design and developed by
+                    <a href="http://www.Themefisher.com" target="_blank">Themefisher</a>.
+                    
+                </p>
+            </div>
+            <div class="col-md-4 col-12">
+                <!-- Social Media -->
+                <ul class="social text-center text-md-right text-lg-right">
+                    
+                    <li><a href="https://linkedin.com/in/damiensaunders"><i class="ion-social-linkedin"></i></a></li>
+                    
+                    <li><a href="https://twitter.com/damiensaunders"><i class="ion-social-twitter"></i></a></li>
+                    
+                    <li><a href="mailto:hello@damiensaunders.com"><i class="ion-email"></i></a></li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- footer section end -->
+
+<!-- jquery -->
+<script src="https://damien1.github.io/plugins/jQurey/jquery.min.js"></script>
+<!-- Form Validation -->
+<script src="https://damien1.github.io/plugins/form-validation/jquery.form.js"></script>
+<script src="https://damien1.github.io/plugins/form-validation/jquery.validate.min.js"></script>
+<!-- slick slider -->
+<script src="https://damien1.github.io/plugins/slick/slick.min.js"></script>
+<!-- bootstrap js -->
+<script src="https://damien1.github.io/plugins/bootstrap/bootstrap.min.js"></script>
+<!-- wow js -->
+<script src="https://damien1.github.io/plugins/wow-js/wow.min.js"></script>
+<!-- slider js -->
+<script src="https://damien1.github.io/plugins/slider/slider.js"></script>
+<!-- Fancybox -->
+<script src="https://damien1.github.io/plugins/facncybox/jquery.fancybox.js"></script>
+<!-- template main js -->
+
+<script src="https://damien1.github.io/js/script.min.js"></script>
+<!-- google analitycs -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-12356173-11', 'auto');
+    ga('send', 'pageview');
+</script>
+</body>
+</html>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>testing on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/testing/</link>
+    <description>Recent content in testing on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 18 Mar 2013 11:57:12 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1 minute video &amp;#8211; Isotope Visual Layouts WordPress plugin</title>
+      <link>https://damien1.github.io/blog/2013-03-18-1-minute-video-isotope-visual-layouts-wordpress-plugin/</link>
+      <pubDate>Mon, 18 Mar 2013 11:57:12 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2013-03-18-1-minute-video-isotope-visual-layouts-wordpress-plugin/</guid>
+      <description>Just been on a bit of a testing mission this weekend … I’ve put together this 1 minute screen recording of my WordPress plugin Isotope Visual Layouts.
+The video is taken from my Selenium based testing and goes from plugin install, checking plugin options, adding a page, viewing the results and finally deleting the plugin.
+ </description>
+    </item>
+    
+    <item>
+      <title>Can I get at WordPress code from inside a Selenium test?</title>
+      <link>https://damien1.github.io/resources/can-i-get-at-wordpress-code-from-inside-a-selenium-test-7973/</link>
+      <pubDate>Thu, 25 Oct 2012 13:27:55 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/resources/can-i-get-at-wordpress-code-from-inside-a-selenium-test-7973/</guid>
+      <description>There are many ways to skin a cat and trying to use Selenium with WordPress CLI is new to me. Essentially, WordPress is ‘just’ a dynamic website using a SQL database with some themes and plugin files behind it.
+Selenium is designed as a frontend browser test tool so keep that in mind for a minute and I assume you mean Selenium IDE. The result would be very brittle test cases if you built something up with Selenium IDE + WordPress CLI.</description>
+    </item>
+    
+    <item>
+      <title>HOW TO: Install Chromedriver for Mac OS X / Selenium / Python</title>
+      <link>https://damien1.github.io/resources/how-to-install-chromedriver-mac-os-x-selenium-python-7406/</link>
+      <pubDate>Thu, 28 Jun 2012 14:29:43 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/resources/how-to-install-chromedriver-mac-os-x-selenium-python-7406/</guid>
+      <description>Selenium is great for automated testing of web-apps and I’ve been using the Firefox extension Selenium IDE for a few months now.
+For completeness of automated testing for web apps you need to do this in a number of different browsers which Selenium IDE doesn’t do. So you’ll need to download and install Selenium on your Mac.
+Download Chromedriver to your Mac Head over to the Chromedriver Project page and download the latest package.</description>
+    </item>
+    
+    <item>
+      <title>HOW TO: Get started with Selenium 2 for Mac OS X / Java</title>
+      <link>https://damien1.github.io/resources/how-to-get-started-selenium-2-mac-os-x-java-7403/</link>
+      <pubDate>Wed, 27 Jun 2012 13:02:01 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/resources/how-to-get-started-selenium-2-mac-os-x-java-7403/</guid>
+      <description>If you own a Mac and want to get started with Selenium for Automated Testing of your web apps, then you’re already most of the way there. The Mac operating system already offers a number of baked in solutions and command line tools like Python, Ruby and Java.
+Get started with Selenium IDE and Firefox Selenium IDE is a browser extension for Firefox. It’s useful to use this to create test cases so install this first.</description>
+    </item>
+    
+    <item>
+      <title>HOW TO: Install Selenium 2 for Mac OS X / Python</title>
+      <link>https://damien1.github.io/resources/how-to-install-selenium-2-mac-os-x-python-7391/</link>
+      <pubDate>Sat, 23 Jun 2012 21:54:10 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/resources/how-to-install-selenium-2-mac-os-x-python-7391/</guid>
+      <description>If you own a Mac and want to get started with Selenium for Automated Testing of your web apps, then you’re already most of the way there.
+The Mac operating system already offers a number of baked in solutions and command line tools like Python, Ruby and Java.
+How To Install Selenium on your Mac OSx Mac already has Python and a package manager called easy_install, so open Terminal and type</description>
+    </item>
+    
+    <item>
+      <title>Web Application testing &amp;#8211; install Siege on Linux (or Mac OSx)</title>
+      <link>https://damien1.github.io/resources/web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx-6011/</link>
+      <pubDate>Tue, 22 May 2012 13:38:58 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/resources/web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx-6011/</guid>
+      <description>Siegeis a great tool for performance and load testing your web application. I’ve been using it for the past 6 months to test WordPress websites along with other web apps that we’ve been building.
+Use it to straighten out any kinks with applications like WordPress, learn if you’re server and database is flakey or prove that your CDN is super.
+Siege testing vs Apache Benchmark If you’ve used Apache Benchmark in Mac OSx or Linux then you’ll already have an idea what Siege can do.</description>
+    </item>
+    
+    <item>
+      <title>Web Application &amp;#038; Automated Testing &amp;#8211; Firefox &amp;#038; Selenium IDE</title>
+      <link>https://damien1.github.io/resources/web-application-automated-testing-firefox-selenium-ide-6979/</link>
+      <pubDate>Fri, 18 May 2012 09:56:53 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/resources/web-application-automated-testing-firefox-selenium-ide-6979/</guid>
+      <description>I’ve just getting started automated testing with Selenium for a number of web appprojects that we’ve been developing lately. My background has been all about managing the project, test plans and manual test execution, so the learning curve is a bit steep.
+Automated testing fits in well with Agile and Scrum project management. Using Selenium IDE you can first create the test case, try it out manually and then when development is finished, you just run the automated test.</description>
+    </item>
+    
+    <item>
+      <title>Rackspace &amp;#8211; List of CIDR&amp;#8217;s for Testing with Blazemeter</title>
+      <link>https://damien1.github.io/development/rackspace-list-of-cidrs-for-testing-with-blazemeter-6213/</link>
+      <pubDate>Sat, 10 Mar 2012 18:32:21 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/development/rackspace-list-of-cidrs-for-testing-with-blazemeter-6213/</guid>
+      <description>I’ve just finished a WordPress multi-server development project which required a scalable deployment setup. We also needed to test the setup under load and ended up using Blazemeter (basically jmeter in the cloud).
+If you’re setup in Rackspace has a load balancer, you know you need to allow a number of IP’s by modifying the Access Control. Annoyingly there was no 1 list of the CIDR’s to allow. Blazemeter keeps a list of CIDR’sbut this couldn’t be cut n paste into Rackspace.</description>
+    </item>
+    
+    <item>
+      <title>JIRA for Project Management &amp;#8211; its not just for Issues</title>
+      <link>https://damien1.github.io/marketing-consultant-2/jira-for-project-management-its-not-just-for-issues-6138/</link>
+      <pubDate>Wed, 01 Feb 2012 15:51:33 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/marketing-consultant-2/jira-for-project-management-its-not-just-for-issues-6138/</guid>
+      <description>If you’re reading this then you must use JIRA or know of someone who has had a JIRA experience. It seems that JIRA is a bit like a Marmite brand – you love it or you hate it. JIRA can be too much effort for many projects – but thats only cause the project can’t find time to build the value in JIRA.
+I think that anything which helps take pain away from managing bugs, issues and tasks is brilliant.</description>
+    </item>
+    
+    <item>
+      <title>Mobile Internet testing tools to check your WP TouchPro changes</title>
+      <link>https://damien1.github.io/blog/2011-12-29-mobile-internet-testing-tools-to-check-your-wp-touchpro-changes/</link>
+      <pubDate>Thu, 29 Dec 2011 10:44:33 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2011-12-29-mobile-internet-testing-tools-to-check-your-wp-touchpro-changes/</guid>
+      <description>WordPress makes it easy to publish your site for mobile users. It’s best that you always test your changes on smart phones but did you know that you can check most changes on using your Apple Mac?
+ Mobile Internet Solutions WP TouchPro is one of the best solutions to make your site ready for the mobile internet and smart-phone users. The key reason it is so good lies in the fact that it combines both a plugin and has it’s own mobile specific theme.</description>
+    </item>
+    
+    <item>
+      <title>Redmine for Issues &amp;#038; Bug track &amp;#8211; things I learned</title>
+      <link>https://damien1.github.io/marketing-consultant-2/redmine-for-issues-bug-track-things-i-learned-3058/</link>
+      <pubDate>Sun, 15 May 2011 17:45:38 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/marketing-consultant-2/redmine-for-issues-bug-track-things-i-learned-3058/</guid>
+      <description>Redmine is described as a flexible project management web application SaaS. I’ve been using it for the past 5 months within a mobile marketing agency – where its used for testing, operations, work orders, issue management and its wiki is used for documentation.
+Redmine can not be compared to other bug track, issues or fault management systems like JIRA or CRM platforms with helpdesk tools. It’s flexible, but that comes with a price.</description>
+    </item>
+    
+    <item>
+      <title>Best Android App for technical info Network Info II</title>
+      <link>https://damien1.github.io/blog/android/best-android-app-for-technical-info-network-info-ii-2882/</link>
+      <pubDate>Mon, 18 Apr 2011 09:40:54 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/android/best-android-app-for-technical-info-network-info-ii-2882/</guid>
+      <description>Mobile apps can be fun to use – but during mobile app testing you might need to diagnosing problems and finding bugs can be complicated. At least with Network Info II on your Android you have a pocket-encyclopedia with all the important information you need.
+At the basic level – Network Info II reports details on your mobile network connection, IP address, Wi-Fi connection, Bluetooth and details about your device and your sim card.</description>
+    </item>
+    
+    <item>
+      <title>HOW-TO Get started with mobile app testing &amp;#8211; device checklist</title>
+      <link>https://damien1.github.io/mobile-marketing/how-to-get-started-with-mobile-app-testing-device-checklist-2829/</link>
+      <pubDate>Wed, 06 Apr 2011 08:37:51 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/mobile-marketing/how-to-get-started-with-mobile-app-testing-device-checklist-2829/</guid>
+      <description>Do you do mobile app testing? Then maybe you need a getting started checklist to help you with your device settings. One thing has not changed in the (nearly) 10 years since mobile internet got started – we still have to check and change device settings.
+ Check .. Does the mobile operator name show in the status bar?
+ if it says No Carrier it wont work  Check … you have a data connection â can you open any app or browse to a web page.</description>
+    </item>
+    
+  </channel>
+</rss>

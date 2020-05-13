@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wireframes on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/wireframes/</link>
+    <description>Recent content in wireframes on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 04 Oct 2011 12:57:16 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/wireframes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Axure for wireframes &amp;#038; user experience</title>
+      <link>https://damien1.github.io/resources/using-axure-for-wireframes-user-experience-4430/</link>
+      <pubDate>Tue, 04 Oct 2011 12:57:16 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/resources/using-axure-for-wireframes-user-experience-4430/</guid>
+      <description>Recently I discovered Axure as a tool for mapping user experience – and I have to say it’s pretty damn good. Given that its also able to generate clickable prototypes along with documentation like functional specifications this is more then pretty damn good. It’s a powerful tool – but if you’re building user journeys, wire framing and process flows can be easier to do in other tools.
+It’s hard to compare Axure to Balsamiq, Visio or Omnigraffle – particularly on price since Axure starts at around $580 per licence.</description>
+    </item>
+    
+    <item>
+      <title>A quick overview Balsamiq Mockups</title>
+      <link>https://damien1.github.io/resources/a-quick-overview-balsamiq-mockups-3478/</link>
+      <pubDate>Wed, 25 May 2011 11:20:52 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/resources/a-quick-overview-balsamiq-mockups-3478/</guid>
+      <description>Mobile user experience and interface design is tricky business at the best of time. You need tools and templates that can help quickly sketch or mockup what things will look like which is where Balsamiq comes in.
+Back in 2008 I started to use Balsamiq Mockups for sketches of mobile UX/UI for mobile operator content portals. This isn’t easy work at the best of times. Launched in June 2008, Mockups helps software designers and developers build great software by letting them easily sketch out their ideas, then quickly collaborate and iterate over them.</description>
+    </item>
+    
+  </channel>
+</rss>

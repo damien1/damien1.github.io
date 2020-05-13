@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backup on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/backup/</link>
+    <description>Recent content in Backup on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 12 Oct 2013 23:04:43 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/backup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DBC Backup 2 &amp;#8212; new version on the way updated for MySQL 5.6 and latest WordPress</title>
+      <link>https://damien1.github.io/blog/2013-10-12-dbc-backup-2-new-version-on-the-way-updated-for-mysql-5-6-and-latest-wordpress/</link>
+      <pubDate>Sat, 12 Oct 2013 23:04:43 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2013-10-12-dbc-backup-2-new-version-on-the-way-updated-for-mysql-5-6-and-latest-wordpress/</guid>
+      <description>DBC Backup 2 my WordPress plugin to safely back-up your database is getting an massive update. This will add support for the latest MySQL server version 5.6 and is currently in test.
+DBC Backup 2 v2.3 is being tested with the latest versions of MySQL server and WordPress. It has been tested to ensure users can import and recover from their backup files.
+ About DBC Backup 2
+DBC Backup 2 is the WordPress plugin that you want behind the scenes – it safely and easily backs up your WordPress database, posts, settings and comments.</description>
+    </item>
+    
+    <item>
+      <title>WordPress database backup plugin launched &amp;#8211; DBC Backup 2</title>
+      <link>https://damien1.github.io/blog/2012-07-11-dbc-backup-new-plugin-forked-from-the-old/</link>
+      <pubDate>Wed, 11 Jul 2012 14:17:07 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-07-11-dbc-backup-new-plugin-forked-from-the-old/</guid>
+      <description>Announcing DBC Backup 2, a WordPress plugin to backup your WordPress SQL database is now available from WordPress Plugins.
+DBC Backup 2 creates a SQL export and saves a compressed file to your web host server. Many web hosts provide large amounts of free space for storing your data so it makes sense to use this free space to safely store your database.
+Key Features  Save time – set a Batch Job to run daily, weekly, monthly User Control – User defined path to store backups Compact – Compression of SQL exports (Gzip or Tar) saves space Safe – the export folder is ‘protected’ from prying eyes or direct downloads Save money – Uses web host to store export backups  Revival of DBC Backup The plugin is a revival of a much older plugin that I have used for a couple of years now.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blazemeter on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/blazemeter/</link>
+    <description>Recent content in blazemeter on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 10 Mar 2012 18:32:21 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/blazemeter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rackspace &amp;#8211; List of CIDR&amp;#8217;s for Testing with Blazemeter</title>
+      <link>https://damien1.github.io/development/rackspace-list-of-cidrs-for-testing-with-blazemeter-6213/</link>
+      <pubDate>Sat, 10 Mar 2012 18:32:21 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/development/rackspace-list-of-cidrs-for-testing-with-blazemeter-6213/</guid>
+      <description>I’ve just finished a WordPress multi-server development project which required a scalable deployment setup. We also needed to test the setup under load and ended up using Blazemeter (basically jmeter in the cloud).
+If you’re setup in Rackspace has a load balancer, you know you need to allow a number of IP’s by modifying the Access Control. Annoyingly there was no 1 list of the CIDR’s to allow. Blazemeter keeps a list of CIDR’sbut this couldn’t be cut n paste into Rackspace.</description>
+    </item>
+    
+  </channel>
+</rss>

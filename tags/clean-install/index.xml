@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>clean install on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/clean-install/</link>
+    <description>Recent content in clean install on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 02 Oct 2010 15:00:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/clean-install/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Insert Disc &amp;amp; Press Enter to Format</title>
+      <link>https://damien1.github.io/general/insert-disc-press-enter-to-format-1674/</link>
+      <pubDate>Sat, 02 Oct 2010 15:00:46 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/general/insert-disc-press-enter-to-format-1674/</guid>
+      <description>Some old habits die hardand so last night I reformatted my 18 month old macbook pro. I had felt that it was starting to run a bit slow than ‘normal’ and I recently had a problem with a kernel panic (caused when testing a up to 21mb USB modem). So I have a ‘clean’ new computer and that has also given me a chance to think about what to reinstall.</description>
+    </item>
+    
+    <item>
+      <title>Tip of the Day: Windows Vista SP2 won&amp;#039;t install on a partitioned drive</title>
+      <link>https://damien1.github.io/general/tip-of-the-day-windows-vista-sp2-wont-install-on-a-partitioned-drive-320/</link>
+      <pubDate>Tue, 29 Sep 2009 15:18:03 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/general/tip-of-the-day-windows-vista-sp2-wont-install-on-a-partitioned-drive-320/</guid>
+      <description>Tip of the day: Windows Vista clean install doesn’t work on a partitioned drive AND if you then partition the drive after installing Vista, the SP2 will not install as well.
+Effectively this means you should keep your primary drive as 1 partition … or wait til after you’ve installed Vista and all the service packs.
+There is a short microsoft kb on this ….
+Will this affect installing Windows 7 for the same reason … I think so.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feed on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/feed/</link>
+    <description>Recent content in Feed on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 08 May 2012 12:37:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What&amp;#8217;s the RSS Feed for a Custom Post Type?</title>
+      <link>https://damien1.github.io/blog/2012-05-08-whats-the-rss-feed-for-a-custom-post-type/</link>
+      <pubDate>Tue, 08 May 2012 12:37:49 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-05-08-whats-the-rss-feed-for-a-custom-post-type/</guid>
+      <description>WordPress introduced custom post types allowing creative and technical types to do more then just write pages and posts. Your websites main RSS feed doesn’t include custom post types — but custom posts do have their own unique RSS feeds which you can use.
+What’s the RSS feed for custom posts? The custom post rss feed looks like this
+So a link to my Presentations would look like this
+Linkage HT WordPress.</description>
+    </item>
+    
+  </channel>
+</rss>

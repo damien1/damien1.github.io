@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Broadband on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/broadband/</link>
+    <description>Recent content in Broadband on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 11 Jan 2008 10:51:47 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/broadband/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BBC iPlayer steams ahead with internet usage</title>
+      <link>https://damien1.github.io/general/bbc-iplayer-steams-ahead-with-internet-usage-70/</link>
+      <pubDate>Fri, 11 Jan 2008 10:51:47 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/general/bbc-iplayer-steams-ahead-with-internet-usage-70/</guid>
+      <description>Comment: Internet traffic to the iPlayer site is growing rapidly supported by outside advertising posterboards as well as reminders during TV advertising. However a lot of internet traffic seems to be sucked up by their kservices P2P network which aims to share the downloaded files with other iPlayer users.
+ UK Internet traffic to the BBC’s iPlayer website increased 14-fold between the week ending 8 December 2007 and the week ending 5 January.</description>
+    </item>
+    
+  </channel>
+</rss>

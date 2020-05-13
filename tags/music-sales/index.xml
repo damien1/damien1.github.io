@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music sales on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/music-sales/</link>
+    <description>Recent content in music sales on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 08 Jan 2008 12:14:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/music-sales/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UK album retail sales dip 11% for 2007</title>
+      <link>https://damien1.github.io/general/uk-album-retail-sales-dip-11-for-2007-68/</link>
+      <pubDate>Tue, 08 Jan 2008 12:14:34 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/general/uk-album-retail-sales-dip-11-for-2007-68/</guid>
+      <description>Album unbundling, copyright theft and difficult retail conditions contributed to a drop in album sales of 10.8% in 2007 say the British Phonographic Industry.The continued growth of download sales helped the singles market grow by 29.3% during 2007, which became the third biggest year on record for the format.Change = -10.8%Source: BPI website</description>
+    </item>
+    
+  </channel>
+</rss>

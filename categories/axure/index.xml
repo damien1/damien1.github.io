@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Axure on Damien Saunders</title>
+    <link>https://damien1.github.io/categories/axure/</link>
+    <description>Recent content in Axure on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 28 May 2012 16:07:55 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/categories/axure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Axure &amp;#038; Twitter Bootstrap &amp;#8211; Added split button drop-up (now on BitBucket)</title>
+      <link>https://damien1.github.io/customer-experience-2/axure/axure-twitter-bootstrap-added-split-button-drop-up-now-on-bitbucket-7175/</link>
+      <pubDate>Mon, 28 May 2012 16:07:55 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/customer-experience-2/axure/axure-twitter-bootstrap-added-split-button-drop-up-now-on-bitbucket-7175/</guid>
+      <description>Small but important update for my Axure Twitter Bootstrap Widget Library. It’s now got the recently added Split-Button drop-up and I’ve hosted it on BitBucket.
+
+Linkage Download latest release from Bitbucket</description>
+    </item>
+    
+    <item>
+      <title>Axure &amp;#8211; workflow for business process &amp;#038; web applications</title>
+      <link>https://damien1.github.io/customer-experience-2/axure/axure-workflow-for-business-process-web-applications-7055/</link>
+      <pubDate>Mon, 21 May 2012 13:05:05 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/customer-experience-2/axure/axure-workflow-for-business-process-web-applications-7055/</guid>
+      <description>It’s pretty easy to jump in the deep end with Axure and start building wireframes and hi-fi clickable prototypes. But the joy of Axure is starting low-fi (use Post-It Notes) to map a user journey and then create this process flow in Axure. Following a workflow like this means you get the customer journey mapped and you easily link your Axure wireframes to business processes.
+I’ve been using Axure for more than a year and it’s now my tool of choice for mapping customer journeys and user interaction design.</description>
+    </item>
+    
+    <item>
+      <title>Axure &amp;#8211; more on responsive designs</title>
+      <link>https://damien1.github.io/resources/axure-more-on-responsive-designs-6657/</link>
+      <pubDate>Tue, 10 Apr 2012 09:43:57 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/resources/axure-more-on-responsive-designs-6657/</guid>
+      <description>Axure is a really great tool for generating an interactive prototype and doing something more amazing with wireframes.
+I’m one step closer to something resembling the current state of responsive and I’ve updated my example of responsive design …. http://share.axure.com/VLO0IZ/If you read anything about responsive or mobile design then check out Luke Wroblewski as he proposes 4 device screen widths to design for.
+Using a centred layout with Axure you can cover ‘all’ devices larger then a 1024 / 960 grid (if that’s what you use) — so that’s 2 devices.</description>
+    </item>
+    
+    <item>
+      <title>Axure &amp;#8211; Responsive layout &amp;#038; browser width</title>
+      <link>https://damien1.github.io/resources/axure-responsive-layout-browser-width-6548/</link>
+      <pubDate>Mon, 02 Apr 2012 13:33:25 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/resources/axure-responsive-layout-browser-width-6548/</guid>
+      <description>I’ve been playing around with scroll spy and re-creating this effect in Axure. Now, I’ve started to tackle responsive layout and browser width.
+Axure is a great tool for making wireframes come to life … seriously. When you’re building a web or mobile application you’re better off with a complete clickable prototype then leaving your client guessing.
+Responsive layout in Axure 
+This is a bit more complex – but start with a Dynamic Panel and (using the newer Axure v6.</description>
+    </item>
+    
+    <item>
+      <title>Axure Sticky Nav &amp;#038; Scroll Spy part 2</title>
+      <link>https://damien1.github.io/resources/axure-sticky-nav-scroll-spy-part-2-6286/</link>
+      <pubDate>Mon, 26 Mar 2012 11:00:22 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/resources/axure-sticky-nav-scroll-spy-part-2-6286/</guid>
+      <description>I wanted another go at the scroll spy and sticky nav bar effect in Axure … which I previously wrote about. Reason being I like scroll spy and wanted to show a more complex and sensitive version.
+Axure Scroll Spy, Sticky Nav &amp;amp; Pin to Browser This latest Axure scroll spy exampleshow
+ Header which sticks at the top Navbar which becomes sticky when you scroll Buttons that change selected state while you scroll  Image Map Regions I’ve make a lot of use of Image Map Regions to provide ‘feedback’ as you scroll.</description>
+    </item>
+    
+    <item>
+      <title>Axure &amp;#8211; Create Scroll Spy and Sticky Nav Bars like Twitter Bootstrap</title>
+      <link>https://damien1.github.io/resources/axure-create-scroll-spy-and-sticky-nav-bars-like-twitter-bootstrap-6256/</link>
+      <pubDate>Thu, 15 Mar 2012 10:09:25 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/resources/axure-create-scroll-spy-and-sticky-nav-bars-like-twitter-bootstrap-6256/</guid>
+      <description>Have you seen Twitter Bootstrapand liked scrollspy javascript? Perhaps you want to use it in Axure to create floating navbars and sticky toolbars?
+Are you impressed by Twitter Bootstrap? Some are, some aren’t – but I don’t know what the fuss is about – if you’ve got an amazing framework that is responsive and ready to go for your next startup – what’s not to love about it? It saves some design time and some development time.</description>
+    </item>
+    
+    <item>
+      <title>Axure Twitter Bootstrap Widget Library v0.1</title>
+      <link>https://damien1.github.io/resources/axure-twitter-bootstrap-widget-library-v0-1-6219/</link>
+      <pubDate>Sat, 10 Mar 2012 22:35:53 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/resources/axure-twitter-bootstrap-widget-library-v0-1-6219/</guid>
+      <description>Twitter Bootstrap provides a great CSS framework and design philosophy making it easy to get going with your new web-based enterprise. So it only seemed natural Axure needs a widget library for Twitter Bootstrap.
+
+Axurehas been my tool of choice for UX / UI wireframing and prototyping since July 2011. It was forced on me. Having been a fan of Omnigraffle and Balsamiq, I was resistant to change. Then I discovered the power of templates, generators and prototypes.</description>
+    </item>
+    
+    <item>
+      <title>Using Axure for wireframes &amp;#038; user experience</title>
+      <link>https://damien1.github.io/resources/using-axure-for-wireframes-user-experience-4430/</link>
+      <pubDate>Tue, 04 Oct 2011 12:57:16 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/resources/using-axure-for-wireframes-user-experience-4430/</guid>
+      <description>Recently I discovered Axure as a tool for mapping user experience – and I have to say it’s pretty damn good. Given that its also able to generate clickable prototypes along with documentation like functional specifications this is more then pretty damn good. It’s a powerful tool – but if you’re building user journeys, wire framing and process flows can be easier to do in other tools.
+It’s hard to compare Axure to Balsamiq, Visio or Omnigraffle – particularly on price since Axure starts at around $580 per licence.</description>
+    </item>
+    
+  </channel>
+</rss>

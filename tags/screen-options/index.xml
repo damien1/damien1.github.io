@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Screen Options on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/screen-options/</link>
+    <description>Recent content in Screen Options on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 13 Jan 2012 16:13:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/screen-options/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Show more Posts</title>
+      <link>https://damien1.github.io/blog/2012-01-13-how-to-show-more-posts/</link>
+      <pubDate>Fri, 13 Jan 2012 16:13:06 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-01-13-how-to-show-more-posts/</guid>
+      <description>It’s very easy to show more posts when browsing WordPress.
+Make sure you first View All Posts, then
+Select Screen Options from the top right of the Toolbar; and finally
+Change the value (eg 200 in the example picture)</description>
+    </item>
+    
+  </channel>
+</rss>

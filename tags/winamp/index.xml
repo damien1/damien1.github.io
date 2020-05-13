@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Winamp on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/winamp/</link>
+    <description>Recent content in Winamp on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 03 Aug 2008 20:18:39 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/winamp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Whats your media player?</title>
+      <link>https://damien1.github.io/general/whats-your-media-player-88/</link>
+      <pubDate>Sun, 03 Aug 2008 20:18:39 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/general/whats-your-media-player-88/</guid>
+      <description>I’m starting a reader survey on Media Players – as there are a few assumptions I wanted to prove or understand.
+  If you have an iPod, iPhone or iTouch you use iTunes
+  You use Winamp casue you don’t want to use iTunes or WMP
+  you use windows media player as its the only thing you know or its the only one on your PC / Laptop</description>
+    </item>
+    
+  </channel>
+</rss>

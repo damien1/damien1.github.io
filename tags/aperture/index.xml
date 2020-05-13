@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aperture on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/aperture/</link>
+    <description>Recent content in Aperture on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 26 Mar 2011 16:57:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/aperture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apple Aperture updates to 3.1.2</title>
+      <link>https://damien1.github.io/general/apple-aperture-updates-to-3-1-2-2803/</link>
+      <pubDate>Sat, 26 Mar 2011 16:57:18 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/general/apple-aperture-updates-to-3-1-2-2803/</guid>
+      <description>Apple has updated its Aperture software to 3.1.2 – it seems to focus on the new users who quite likely brought the Appstore copy.
+The release note is not very useful – but maybe the adjustments will be interesting to see what happens.
+ </description>
+    </item>
+    
+    <item>
+      <title>Aperture 3 digital photo software improved integration with Flickr</title>
+      <link>https://damien1.github.io/blog/aperture-3-digital-photo-software-improved-integration-with-flickr-2584/</link>
+      <pubDate>Mon, 24 Jan 2011 09:04:47 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/aperture-3-digital-photo-software-improved-integration-with-flickr-2584/</guid>
+      <description>I’ve been using Apple Aperture 3 for my digital photography and image processing for a couple of years. It’s great for importing those images for clients and quickly doing all the editing, tagging, grouping and touch-ups.
+What I didn’t like about it as a workflow tool – is that it lacks proper integration with Flickr. In the 3.0 version from last year you could publish as a Set of photos to Flickr, but couldn’t just add an image to your photostream.</description>
+    </item>
+    
+  </channel>
+</rss>

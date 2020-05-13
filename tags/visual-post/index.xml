@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Post on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/visual-post/</link>
+    <description>Recent content in Visual Post on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 15 Oct 2012 11:34:42 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/visual-post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Freetile &amp;#8211; Visual Post Layouts just about ready</title>
+      <link>https://damien1.github.io/blog/2012-10-15-freetile-visual-post-layouts-just-about-ready/</link>
+      <pubDate>Mon, 15 Oct 2012 11:34:42 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-10-15-freetile-visual-post-layouts-just-about-ready/</guid>
+      <description>I wanted to give you a bit of a flavourof what’s coming with my new Visual Post Layouts plugin for WordPress. First things first … it’s ‘pretty good’ (if you’re English) or AWESOME!!!! (if you’re American, Australian, or from anywhere else).
+The next thing you can see is the bright colours – there are 7 styles to choose from – Orange, Red, Yellow, Blue, Green, Violet &amp;amp; White.</description>
+    </item>
+    
+    <item>
+      <title>Visual Post Layouts &amp;#8211; with colour options</title>
+      <link>https://damien1.github.io/blog/2012-09-25-visual-post-layouts-with-colour-options/</link>
+      <pubDate>Tue, 25 Sep 2012 22:00:40 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-09-25-visual-post-layouts-with-colour-options/</guid>
+      <description>Visual Post Layouts will be my next WordPress plugin. It’s nearly ready and I’ve been working hard to allow some great control over the plugin.
+What’s Coming up? In the first release of the Visual Post Layouts, you’ll have a great set of features as part of the shortcode.
+You can create a visual post layout in a post, a page, in fact … almost anywhere 🙂
+You also have the option to choose a different colour scheme – if you don’t like Sticky Note Yellow … there will be Violet, Orange and Green.</description>
+    </item>
+    
+  </channel>
+</rss>

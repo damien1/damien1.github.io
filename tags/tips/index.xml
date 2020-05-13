@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tips on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/tips/</link>
+    <description>Recent content in tips on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 19 Aug 2012 15:49:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/tips/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to get started with WordPress Stack Exchange. Or How I got to 1000&#43; rep in 4 weeks</title>
+      <link>https://damien1.github.io/blog/2012-08-19-how-to-get-started-with-wordpress-stack-exchange-or-how-i-got-to-1000-rep-in-4-weeks/</link>
+      <pubDate>Sun, 19 Aug 2012 15:49:51 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-08-19-how-to-get-started-with-wordpress-stack-exchange-or-how-i-got-to-1000-rep-in-4-weeks/</guid>
+      <description>There are lots of ways to earn reputation points on WordPress Answers on Stack Exchange. If you develop or are seriously interested in WordPress then go join WP Stack Exchange immediately.
+
+Why bother with WordPress Answers? Well let’s just say that it’s a nice way to ‘pay it forward’ – that’s to say if you give helpful answers you’ll get helpful answers.
+How to grow your reputation on WordPress Answers Stack Exchange is much like other social network – you earn reputation points and badges for doing stuff.</description>
+    </item>
+    
+    <item>
+      <title>Tip of the Day: Windows Vista SP2 won&amp;#039;t install on a partitioned drive</title>
+      <link>https://damien1.github.io/general/tip-of-the-day-windows-vista-sp2-wont-install-on-a-partitioned-drive-320/</link>
+      <pubDate>Tue, 29 Sep 2009 15:18:03 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/general/tip-of-the-day-windows-vista-sp2-wont-install-on-a-partitioned-drive-320/</guid>
+      <description>Tip of the day: Windows Vista clean install doesn’t work on a partitioned drive AND if you then partition the drive after installing Vista, the SP2 will not install as well.
+Effectively this means you should keep your primary drive as 1 partition … or wait til after you’ve installed Vista and all the service packs.
+There is a short microsoft kb on this ….
+Will this affect installing Windows 7 for the same reason … I think so.</description>
+    </item>
+    
+  </channel>
+</rss>

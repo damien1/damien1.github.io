@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tools on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/tools/</link>
+    <description>Recent content in tools on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 07 Apr 2013 21:08:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Continuous Integration for WordPress plugins &amp;#8211; Jenkins &amp;#8211; Selenium &amp;#8211; Apache Ant</title>
+      <link>https://damien1.github.io/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</link>
+      <pubDate>Sun, 07 Apr 2013 21:08:35 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</guid>
+      <description>I’m no regular WordPress Plugin Developer – I spend most of my day managing projects or other stuff. So when I do develop, I want a trusted, reliable, repeatable workflow setup that is always testing, always building and always telling me whats going on. That’s why I believe in Continuous Integration … and why I’ve turned to Jenkins as my CI Tool and use Apache Ant and Selenium for testing.</description>
+    </item>
+    
+    <item>
+      <title>Best tools to start with Social Media Marketing &amp;#8211; 2011 re-cap (where are they now)</title>
+      <link>https://damien1.github.io/social-media-marketing-2/best-tools-to-start-with-social-media-marketing-2011-re-cap-where-are-they-now-7192/</link>
+      <pubDate>Tue, 19 Jun 2012 14:29:49 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/social-media-marketing-2/best-tools-to-start-with-social-media-marketing-2011-re-cap-where-are-they-now-7192/</guid>
+      <description>[typography font=”Special Elite” size=”25″ size_format=”px”]If you’re just getting started with Social Media marketing then you need at least 1 web based tool to help you.[/typography]
+__In 2011, I wrote a great article on the best tools to start with Social Media Marketing. A year later, things have changed, so I wanted to look back at my 2011 suggestions to see where they are now.
+Keep track of your social media status and influence, albeit using Klout’s own scoring.</description>
+    </item>
+    
+    <item>
+      <title>Twitter &amp;#8211; a few suggested alternatives to CoTweet or Hootsuite</title>
+      <link>https://damien1.github.io/social-media/twitter/twitter-a-few-suggested-alternatives-to-cotweet-or-hootsuite-6680/</link>
+      <pubDate>Fri, 13 Apr 2012 12:53:32 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/social-media/twitter/twitter-a-few-suggested-alternatives-to-cotweet-or-hootsuite-6680/</guid>
+      <description>Are you responsible for Twitter and Social Media in your business? Perhaps you’ve been feeling a bit lost after CoTweet closed its free version (shame on them) … here are a few alternatives you can look at
+HootSuite
+– yes I said alternative to CoTweet – personally, I like to use my own bit.ly Pro URL so this was not an option.
+– Hootsuitehas a very reasonably priced premium version and it has clients for pretty much any device</description>
+    </item>
+    
+    <item>
+      <title>JIRA for Project Management &amp;#8211; its not just for Issues</title>
+      <link>https://damien1.github.io/marketing-consultant-2/jira-for-project-management-its-not-just-for-issues-6138/</link>
+      <pubDate>Wed, 01 Feb 2012 15:51:33 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/marketing-consultant-2/jira-for-project-management-its-not-just-for-issues-6138/</guid>
+      <description>If you’re reading this then you must use JIRA or know of someone who has had a JIRA experience. It seems that JIRA is a bit like a Marmite brand – you love it or you hate it. JIRA can be too much effort for many projects – but thats only cause the project can’t find time to build the value in JIRA.
+I think that anything which helps take pain away from managing bugs, issues and tasks is brilliant.</description>
+    </item>
+    
+    <item>
+      <title>Mobile Internet testing tools to check your WP TouchPro changes</title>
+      <link>https://damien1.github.io/blog/2011-12-29-mobile-internet-testing-tools-to-check-your-wp-touchpro-changes/</link>
+      <pubDate>Thu, 29 Dec 2011 10:44:33 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2011-12-29-mobile-internet-testing-tools-to-check-your-wp-touchpro-changes/</guid>
+      <description>WordPress makes it easy to publish your site for mobile users. It’s best that you always test your changes on smart phones but did you know that you can check most changes on using your Apple Mac?
+ Mobile Internet Solutions WP TouchPro is one of the best solutions to make your site ready for the mobile internet and smart-phone users. The key reason it is so good lies in the fact that it combines both a plugin and has it’s own mobile specific theme.</description>
+    </item>
+    
+    <item>
+      <title>Thinkup - Social Media Monitoring (made easier) tools</title>
+      <link>https://damien1.github.io/blog/2011-12-19-thinkup-social-media-monitoring-made-easier-tools/</link>
+      <pubDate>Mon, 19 Dec 2011 16:40:32 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2011-12-19-thinkup-social-media-monitoring-made-easier-tools/</guid>
+      <description>Thinkup - If you want to run your own social media monitoring tool then try this. I&amp;rsquo;ve just installed it, which takes a little bit of time and you need to know some a little bit of how to create your own mySQL databases. If you can&amp;rsquo;t afford to pay for tools - then ThinkUp creates the archive and monitoring you have to have.
+Some great features include:
+ downloads all your tweets, status updates, etc provides options to retweet, etc creates a visual report on followers, trends, etc deep integration with API&amp;rsquo;s for Twitter, Facebook &amp;amp; Google+ it&amp;rsquo;s free   Are you trying out tools for social media monitoring and analytics?</description>
+    </item>
+    
+    <item>
+      <title>Emailvision &amp;#8211; whose the Dummy? or didn&amp;#8217;t someone test your email campaign?</title>
+      <link>https://damien1.github.io/social-crm/emailvision-whose-the-dummy-or-didnt-someone-test-your-email-campaign-3907/</link>
+      <pubDate>Mon, 13 Jun 2011 17:50:46 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/social-crm/emailvision-whose-the-dummy-or-didnt-someone-test-your-email-campaign-3907/</guid>
+      <description>Social CRM for dummies is something I’ve wanted to read for sometime … it could be a good e-book … if the email marketing campaign worked. This shows the number one problem with integrated social media marketing – broken links.
+Emailvision are big news, they put the power into sites like http://alltop.com/ aka Guy Kawasaki … I’d like to learn more about them.
+Check your campaign experience works end to end Facebook fails with broken links and images.</description>
+    </item>
+    
+    <item>
+      <title>damiens.ws &amp;#8211; A new look to Twitter via Bit.ly Pro</title>
+      <link>https://damien1.github.io/blog/damiens-ws-a-new-look-to-twitter-via-bit-ly-pro-2909/</link>
+      <pubDate>Sun, 24 Apr 2011 13:02:56 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/damiens-ws-a-new-look-to-twitter-via-bit-ly-pro-2909/</guid>
+      <description>I’ve made a change to my Bit.ly Pro setup and switched to the domain damiens.ws for my URL shortener.
+This will benefit me and you – the new domain damiens.ws is registered for 10 years. You’ll continue to get the same great news and views from yours truly if you follow me on Twitter @damiensaunders
+You’ll see more changes like this to come – I suggest a single name brand might be one ‘strategy’ that I’m going to follow.</description>
+    </item>
+    
+    <item>
+      <title>Switching to Scrivener for WordPress blogging</title>
+      <link>https://damien1.github.io/wordpress/switching-to-scrivener-for-wordpress-blogging-2901/</link>
+      <pubDate>Sun, 24 Apr 2011 12:28:13 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/wordpress/switching-to-scrivener-for-wordpress-blogging-2901/</guid>
+      <description>I’ve just made the switch – or as we speak, I’m starting to learn about this ‘new’ tool for writers called Scrivener. Described as the app for writers, journalists and anyone that needs to write short or long stories, Scrivener collects together scraps of articles, research material and helps to draft your writing.
+To me, the biggest problem with regular blogging is the interface. If you blog on the go then you already know that the WordPress admin suite is not very accessible when you’re in a plane, train or automobile.</description>
+    </item>
+    
+    <item>
+      <title>Best Android App for technical info Network Info II</title>
+      <link>https://damien1.github.io/blog/android/best-android-app-for-technical-info-network-info-ii-2882/</link>
+      <pubDate>Mon, 18 Apr 2011 09:40:54 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/android/best-android-app-for-technical-info-network-info-ii-2882/</guid>
+      <description>Mobile apps can be fun to use – but during mobile app testing you might need to diagnosing problems and finding bugs can be complicated. At least with Network Info II on your Android you have a pocket-encyclopedia with all the important information you need.
+At the basic level – Network Info II reports details on your mobile network connection, IP address, Wi-Fi connection, Bluetooth and details about your device and your sim card.</description>
+    </item>
+    
+    <item>
+      <title>Aperture 3 digital photo software improved integration with Flickr</title>
+      <link>https://damien1.github.io/blog/aperture-3-digital-photo-software-improved-integration-with-flickr-2584/</link>
+      <pubDate>Mon, 24 Jan 2011 09:04:47 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/aperture-3-digital-photo-software-improved-integration-with-flickr-2584/</guid>
+      <description>I’ve been using Apple Aperture 3 for my digital photography and image processing for a couple of years. It’s great for importing those images for clients and quickly doing all the editing, tagging, grouping and touch-ups.
+What I didn’t like about it as a workflow tool – is that it lacks proper integration with Flickr. In the 3.0 version from last year you could publish as a Set of photos to Flickr, but couldn’t just add an image to your photostream.</description>
+    </item>
+    
+    <item>
+      <title>UPDATED: Twitter Tools &amp;#8211; CoTweet best for your business</title>
+      <link>https://damien1.github.io/social-media/twitter-tools-cotweet-best-for-your-business-1549/</link>
+      <pubDate>Tue, 21 Sep 2010 11:00:32 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/social-media/twitter-tools-cotweet-best-for-your-business-1549/</guid>
+      <description>CoTweet provides the easiest way for your business to start managing your company or brand on Twitter. If you already are using HootSuite or Tweetdeck you should stop for a minute and check you are doing the right thing for your business. CoTweetis designed for the multi-user / multi-site (!!) environment with assignment, archiving and other management tools – this means you’ll never lose a tweet again (or have to share the computer with your boss).</description>
+    </item>
+    
+    <item>
+      <title>Best Collection of Tools for Twitter you Need</title>
+      <link>https://damien1.github.io/social-media/best-collection-tool-for-twitter-you-need-1076/</link>
+      <pubDate>Fri, 25 Jun 2010 23:16:55 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/social-media/best-collection-tool-for-twitter-you-need-1076/</guid>
+      <description>Here’s a collection of the best tools for Twitter for any Social Media Specialist or Community Manager.
+Twitter is a powerful tool for getting your message out there. Just like starting a new business, you need to have a guide that shows you how to make the most out of Twitter.**
+**
+Managing your Tweets Tweetdeck – http://www.tweetdeck.com/
+set up lots of columns and lists to watch all your Tweeting</description>
+    </item>
+    
+    <item>
+      <title>Best Apps for your Mac &amp;#8211; after a clean install</title>
+      <link>https://damien1.github.io/general/best-apps-for-your-mac-after-a-clean-install-372/</link>
+      <pubDate>Sun, 29 Nov 2009 15:41:38 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/general/best-apps-for-your-mac-after-a-clean-install-372/</guid>
+      <description>So I have had to rebuild my Mac running OS X 10.6 Snow Leopard 3 times in the past 2 days after having problems with a t-mobile usb modem which corrupts the hard drive.Here’s the short list of my favourite, can’t live without em, just got to install them apps:
+Best Apps for your Mac  ClamXav – still the best and most recommended free virus protection for your mac Adium – pronounced like stadium, this is the multi chat application for the mac Skype – for free calls to the office and home Dropbox – for sharing files between the office and clients Mac Office 2008 – word, powerpoint and to some extent excel, because all my templates are Office based and the guys in the office use PC’s.</description>
+    </item>
+    
+  </channel>
+</rss>

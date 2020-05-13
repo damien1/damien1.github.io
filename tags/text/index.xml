@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/text/</link>
+    <description>Recent content in Text on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 25 May 2012 17:42:23 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>App Design: Design Museum clean layout &amp;#038; how to deal with scrolling</title>
+      <link>https://damien1.github.io/apps-2/app-design-design-museum-clean-layout-how-to-deal-with-scrolling-7148/</link>
+      <pubDate>Fri, 25 May 2012 17:42:23 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/apps-2/app-design-design-museum-clean-layout-how-to-deal-with-scrolling-7148/</guid>
+      <description>I’m a member of the Design Museum here in Londonand so it was nice to see they have a free app with collection of the best pieces. It does remind me of the Phaidon Design Classics book-as-an-app (which still has not been changed since the first iPad).
+I like this application and I was researching text overflow and scrolling. Since iPad no longer shows scrollbars then it’s up to the user to figure what is scrolling or not.</description>
+    </item>
+    
+  </channel>
+</rss>

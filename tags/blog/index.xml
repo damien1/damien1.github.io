@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/blog/</link>
+    <description>Recent content in blog on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 26 Sep 2013 09:59:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World Redux</title>
+      <link>https://damien1.github.io/blog/hello-world-redux-8723/</link>
+      <pubDate>Thu, 26 Sep 2013 09:59:45 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/hello-world-redux-8723/</guid>
+      <description>For the past month (2 or 3 months??) I’ve been more than quiet – I’ve really not been around. So this is just me saying ‘Hello World’ again.
+Actually it’s been a crazy time – I’ve spent 6 weeks working in Maastricht in the Netherlands (or Holland if you don’t know better) which was an eye opener of an IT programme. And then … I moved house.
+Finally, I changed to working on the deployment of another CRM system for MVNO’s.</description>
+    </item>
+    
+    <item>
+      <title>Saturday Humour &amp;#8211; Size of blogging [infographic]</title>
+      <link>https://damien1.github.io/social-media/saturday-humour-size-of-blogging-infographic-2284/</link>
+      <pubDate>Sat, 18 Dec 2010 21:17:42 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/social-media/saturday-humour-size-of-blogging-infographic-2284/</guid>
+      <description>Saturday’s usual weekly comic has been moved aside this week for something more important.
+
+So its a week to Xmas … and all through the house not a creature was stirring – except for creatives and marketing types publishing their great present gifts for the world to enjoy.
+What’s your opinion? do you think this Tree of Blogs sums things up quite nicely? and looking ahead – will the roots generate enough food and support for the future?</description>
+    </item>
+    
+  </channel>
+</rss>

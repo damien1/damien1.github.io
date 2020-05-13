@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en-gb"><head>
+  <!-- Basic Page Needs -->
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  
+  <meta name="description" content="Damien Saunders - marketing &amp; management consultant">
+  <meta name="author" content="Damien Saunders">
+  <meta name="generator" content="Hugo 0.70.0" />
+  
+  <!-- Mobile Specific Metas -->
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>How to fix your WordPress when read / write doesn&amp;#8217;t work</title>
+  <link rel="icon" href="https://damien1.github.io/images/favicon.ico">
+
+  <!-- Twitter Bootstrs CSS -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/bootstrap/bootstrap.min.css">
+  <!-- Ionicons Fonts Css -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/ionicons/ionicons.min.css">
+  <!-- animate css -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/animate-css/animate.css">
+  <!-- Hero area slider css-->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/slider/slider.css">
+  <!-- slick slider -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/slick/slick.css">
+  <!-- Fancybox -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/facncybox/jquery.fancybox.css">
+  <!-- hover -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/hover/hover-min.css">
+  <!-- template main css file -->
+  
+  <link rel="stylesheet" href="https://damien1.github.io/css/style.min.css" integrity="" media="screen">
+</head><body><section class="top-bar animated-header">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<nav class="navbar navbar-expand-lg navbar-light bg-light">
+					<a class="navbar-brand" href="https://damien1.github.io">
+						<img src="https://damien1.github.io/damiensaunders.png" alt="Damien Saunders">
+					</a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+						aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+
+					<div class="collapse navbar-collapse" id="navigation">
+						<ul class="navbar-nav ml-auto">
+							<li class="nav-item">
+								<a class="nav-link" href="https://damien1.github.io">Home</a>
+							</li>
+							
+							<li class="nav-item">
+								<a class="nav-link" href="https://damien1.github.io/blog">Blog</a>
+							</li>
+							
+					</div>
+				</nav>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="global-page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h2>How to fix your WordPress when read / write doesn&amp;#8217;t work</h2>
+                    <div class="portfolio-meta">
+                        <span>Friday, Apr 27, 2012</span>|
+                        <span> Tags:
+                            CHMOD, Files, Permissions, Security
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="single-post">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                
+                <div class="post-content">
+                    <p>Do you have problems with <em>read / write permissions</em> with <strong>WordPress</strong>? Are you stuck and can’t upload or change files? If you’ve tried to change the <strong>CHMOD</strong> values and failed, it might be time to go to the <strong>command-line</strong>.</p>
+<h2 id="working-alone-8211-single-wordpress-site">Working Alone – Single WordPress site</h2>
+<p>Run these commands from terminal (command line interface) or ask your web host provider to do this. This will set all files to read/write for the owner and read only for everything else.</p>
+<p>[php]<br>
+sudo find . -type d -exec chmod 755 {} ;</p>
+<p>sudo find . -type f -exec chmod 644 {} ;<br>
+[/php]</p>
+<p>Run this from inside your WordPress wp-content folder as the . means it will run in on every folder or sub-folder from that . (point).</p>
+<h2 id="working-as-part-of-a-team-8211-shared-readwritepermissions">Working as part of a team – Shared Read/WritePermissions</h2>
+<p>So that your fellow developers can always help you out it makes sense to have files and folders as group-writable.</p>
+<p>Run these commands from terminal (command line interface) or ask your web host provider to do this.</p>
+<p>[php]<br>
+sudo find . -type d -exec chmod 775 {} ;</p>
+<p>sudo find . -type f -exec chmod 664 {} ;<br>
+[/php]</p>
+<p>Now all you have to do is make sure your team and Apache are all members of the same Server Group.</p>
+<p>If you’re trying to update other peoples files you’ll want to run them as Sudo</p>
+<h3 id="links">Links</h3>
+<p><!-- raw HTML omitted -->WordPress.org – Changing File Permissions<!-- raw HTML omitted --></p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<!-- Footer Section Start -->
+<footer id="footer">
+    <div class="container">
+        <div class="row content-justify-between">
+            <div class="col-md-8 col-12 text-center text-lg-left text-md-left">
+                <p class="copyright">Copyright &copy;  2004 - 
+                    <span>
+                        <script>document.write(new Date().getFullYear())</script>
+                    </span>  Damien Saunders.
+                    <br> Theme design and developed by
+                    <a href="http://www.Themefisher.com" target="_blank">Themefisher</a>.
+                    
+                </p>
+            </div>
+            <div class="col-md-4 col-12">
+                <!-- Social Media -->
+                <ul class="social text-center text-md-right text-lg-right">
+                    
+                    <li><a href="https://linkedin.com/in/damiensaunders"><i class="ion-social-linkedin"></i></a></li>
+                    
+                    <li><a href="https://twitter.com/damiensaunders"><i class="ion-social-twitter"></i></a></li>
+                    
+                    <li><a href="mailto:hello@damiensaunders.com"><i class="ion-email"></i></a></li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- footer section end -->
+
+<!-- jquery -->
+<script src="https://damien1.github.io/plugins/jQurey/jquery.min.js"></script>
+<!-- Form Validation -->
+<script src="https://damien1.github.io/plugins/form-validation/jquery.form.js"></script>
+<script src="https://damien1.github.io/plugins/form-validation/jquery.validate.min.js"></script>
+<!-- slick slider -->
+<script src="https://damien1.github.io/plugins/slick/slick.min.js"></script>
+<!-- bootstrap js -->
+<script src="https://damien1.github.io/plugins/bootstrap/bootstrap.min.js"></script>
+<!-- wow js -->
+<script src="https://damien1.github.io/plugins/wow-js/wow.min.js"></script>
+<!-- slider js -->
+<script src="https://damien1.github.io/plugins/slider/slider.js"></script>
+<!-- Fancybox -->
+<script src="https://damien1.github.io/plugins/facncybox/jquery.fancybox.js"></script>
+<!-- template main js -->
+
+<script src="https://damien1.github.io/js/script.min.js"></script>
+<!-- google analitycs -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-12356173-11', 'auto');
+    ga('send', 'pageview');
+</script>
+</body>
+</html>

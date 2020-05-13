@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mySQL on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/mysql/</link>
+    <description>Recent content in mySQL on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 21 Apr 2013 16:03:10 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mac OSx replacing MAMP  &amp;#8211; install and configure MySQL, PHP, Apache</title>
+      <link>https://damien1.github.io/general/mac-osx-replacing-mamp-install-and-configure-mysql-php-apache-8654/</link>
+      <pubDate>Sun, 21 Apr 2013 16:03:10 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/general/mac-osx-replacing-mamp-install-and-configure-mysql-php-apache-8654/</guid>
+      <description>MAMP (Mac, Apache, MySQL, PHP) is the first go to solution for anyone developing anything web based on your Mac. Even more so as Apple removed the easy controls to enable ‘web sharing‘ as it was called in 10.8 Mountain Lion. I had wanted to use WP-CLI – which is a set command line tools for WordPress, only that they don’t install / like MAMP. Which means, now is the time to replace MAMP with my own stack.</description>
+    </item>
+    
+    <item>
+      <title>Sequel Pro &amp;#8211; Fastest &amp;#038; best MySQL client for Mac</title>
+      <link>https://damien1.github.io/development/sequel-pro-fastest-best-mysql-client-for-mac-7198/</link>
+      <pubDate>Thu, 07 Jun 2012 12:35:36 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/development/sequel-pro-fastest-best-mysql-client-for-mac-7198/</guid>
+      <description>Sequel Prois the fastest and best MySQL client for Mac right now. After a mini disaster yesterday involving Sequel Pro and filename extensions, I thought I’d checkout the competition.
+So I did a quick check and downloaded a few other apps that would manage MySQL on a Mac with OS x –
+ MySQL Workbench RazorSQL (not free so didn’t try) Navicat  Both MySQL Workbench and Navicat are java based apps.</description>
+    </item>
+    
+  </channel>
+</rss>

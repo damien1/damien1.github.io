@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TV on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/tv/</link>
+    <description>Recent content in TV on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 02 Nov 2010 09:30:19 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/tv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TV Advertising &amp;#8211; T-Mobile &amp;amp; Heathrow T5</title>
+      <link>https://damien1.github.io/mobile-marketing/tv-advertising-t-mobile-heathrow-t5-1794/</link>
+      <pubDate>Tue, 02 Nov 2010 09:30:19 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/mobile-marketing/tv-advertising-t-mobile-heathrow-t5-1794/</guid>
+      <description>I’m the type who is always overwhelmed by TV advertising– as I don’t watch ‘live’ TV or commercial TV with ads I often find myself watching adverts on the internet for the sake of it! I even occasionally, download these adverts to save them and watch them again and again and again and …Can I just say I’m against flashmobs, my new found British sensibility (*read – I’ve just handed in my UK citizenship application) does not condone such public displays – it’s embarrassing and I was overexposed to the last T-mobile flashmob thanks to my gyms in-house digital signage.</description>
+    </item>
+    
+    <item>
+      <title>BBC iPlayer steams ahead with internet usage</title>
+      <link>https://damien1.github.io/general/bbc-iplayer-steams-ahead-with-internet-usage-70/</link>
+      <pubDate>Fri, 11 Jan 2008 10:51:47 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/general/bbc-iplayer-steams-ahead-with-internet-usage-70/</guid>
+      <description>Comment: Internet traffic to the iPlayer site is growing rapidly supported by outside advertising posterboards as well as reminders during TV advertising. However a lot of internet traffic seems to be sucked up by their kservices P2P network which aims to share the downloaded files with other iPlayer users.
+ UK Internet traffic to the BBC’s iPlayer website increased 14-fold between the week ending 8 December 2007 and the week ending 5 January.</description>
+    </item>
+    
+  </channel>
+</rss>

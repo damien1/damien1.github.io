@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en-gb"><head>
+  <!-- Basic Page Needs -->
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  
+  <meta name="description" content="Damien Saunders - marketing &amp; management consultant">
+  <meta name="author" content="Damien Saunders">
+  <meta name="generator" content="Hugo 0.70.0" />
+  
+  <!-- Mobile Specific Metas -->
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>How to integrate your own Isotope jQuery plugin with your WordPress</title>
+  <link rel="icon" href="https://damien1.github.io/images/favicon.ico">
+
+  <!-- Twitter Bootstrs CSS -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/bootstrap/bootstrap.min.css">
+  <!-- Ionicons Fonts Css -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/ionicons/ionicons.min.css">
+  <!-- animate css -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/animate-css/animate.css">
+  <!-- Hero area slider css-->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/slider/slider.css">
+  <!-- slick slider -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/slick/slick.css">
+  <!-- Fancybox -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/facncybox/jquery.fancybox.css">
+  <!-- hover -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/hover/hover-min.css">
+  <!-- template main css file -->
+  
+  <link rel="stylesheet" href="https://damien1.github.io/css/style.min.css" integrity="" media="screen">
+</head><body><section class="top-bar animated-header">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<nav class="navbar navbar-expand-lg navbar-light bg-light">
+					<a class="navbar-brand" href="https://damien1.github.io">
+						<img src="https://damien1.github.io/damiensaunders.png" alt="Damien Saunders">
+					</a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+						aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+
+					<div class="collapse navbar-collapse" id="navigation">
+						<ul class="navbar-nav ml-auto">
+							<li class="nav-item">
+								<a class="nav-link" href="https://damien1.github.io">Home</a>
+							</li>
+							
+							<li class="nav-item">
+								<a class="nav-link" href="https://damien1.github.io/blog">Blog</a>
+							</li>
+							
+					</div>
+				</nav>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="global-page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h2>How to integrate your own Isotope jQuery plugin with your WordPress</h2>
+                    <div class="portfolio-meta">
+                        <span>Sunday, Apr 28, 2013</span>|
+                        <span> Tags:
+                            Isotope, jQuery, WordPress
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="single-post">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                
+                <div class="post-content">
+                    <p>I was recently asked if it was easy to <strong>integrate Isotope jQuery plugin into a WordPress</strong> website. It’s not uncomplicated to add <em>isotope.js</em> to your website – it’s just not as easy as linking a script to your header.</p>
+<h2 id="2-ways-to-add-isotope-jquery-plugin-to-wordpress">2 Ways to add Isotope jQuery Plugin to WordPress</h2>
+<p>As always, there are (at least) 2 ways to achieve this</p>
+<ol>
+<li>Create a page template for the purpose – with all the code you want</li>
+<li>Add the code to your themes function.php file and then create a page template</li>
+</ol>
+<h2 id="how-to-integrate-isotope-jquery-with-wordpress">How to integrate Isotope jQuery with WordPress</h2>
+<p>There’s probably hundreds of tuts on the topic of integrating Isotope with WordPress and this is ‘kind of’ mine. In mid 2012 I launched my first Isotope jQuery plugin for WordPress … well it wasn’t a plugin. It was a page template you had to copy into your theme folder.</p>
+<h2 id="isotope-jquery-for-wordpress-page-template">Isotope jQuery for WordPress page template</h2>
+<p>The page template and the instructions for it are still on my website … A lot of developers frown on the page template approach as novice coders will hardcode the js and CSS into the page template. Worse, the page template is stuck with your theme … so if you delete your theme, your isotope page will stop working as soon as you delete that theme folder.</p>
+<h2 id="isotope-jquery-for-wordpress-plugin">Isotope jQuery for WordPress plugin</h2>
+<p>Towards the end of 2012, I launched my first <a href="http://wordpress.damien.co/isotope">WordPress plugin for Isotope</a> — which was promptly pulled from WordPress plugin repo because the Isotope jQuery is not open source. So, if you are doing this at home, then be honest and go pay David / Metafizzy for his hard work and get a licence.</p>
+<p>… and so the best approach is the function.php fileIf you open your theme folder then edit the file functions.php … It’s probably a blank file or includes code from whomever wrote your theme</p>
+<p>You could then start to move code from my dbc_isotope.php file into the functions.php.</p>
+<h3 id="functions-you-need-to-have-are-8230">Functions you need to have are …</h3>
+<ol>
+<li>function to register and enqueue the isotope.js</li>
+<li>function to register and enqueue the twitter bootstrap CSS (if you want) …</li>
+<li>You’d then create your own script / function to hook the CSS attributes to the isotope.js</li>
+<li>You’d then have to add a conditional function to determine what page templates will get the isotope treatment      … Look up WordPress conditionals like is_home or is_archive</li>
+<li>Now you could view your website to check that isotope.js is being called and view source to check that the js script is being printed in the footer not header .. Isotope.js like a lot of jQuery can’t be called in your header.php page template.</li>
+</ol>
+<p>Finally then, you’d modify your existing theme templates or create a new page template to make it all work the way you want.</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<!-- Footer Section Start -->
+<footer id="footer">
+    <div class="container">
+        <div class="row content-justify-between">
+            <div class="col-md-8 col-12 text-center text-lg-left text-md-left">
+                <p class="copyright">Copyright &copy;  2004 - 
+                    <span>
+                        <script>document.write(new Date().getFullYear())</script>
+                    </span>  Damien Saunders.
+                    <br> Theme design and developed by
+                    <a href="http://www.Themefisher.com" target="_blank">Themefisher</a>.
+                    
+                </p>
+            </div>
+            <div class="col-md-4 col-12">
+                <!-- Social Media -->
+                <ul class="social text-center text-md-right text-lg-right">
+                    
+                    <li><a href="https://linkedin.com/in/damiensaunders"><i class="ion-social-linkedin"></i></a></li>
+                    
+                    <li><a href="https://twitter.com/damiensaunders"><i class="ion-social-twitter"></i></a></li>
+                    
+                    <li><a href="mailto:hello@damiensaunders.com"><i class="ion-email"></i></a></li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- footer section end -->
+
+<!-- jquery -->
+<script src="https://damien1.github.io/plugins/jQurey/jquery.min.js"></script>
+<!-- Form Validation -->
+<script src="https://damien1.github.io/plugins/form-validation/jquery.form.js"></script>
+<script src="https://damien1.github.io/plugins/form-validation/jquery.validate.min.js"></script>
+<!-- slick slider -->
+<script src="https://damien1.github.io/plugins/slick/slick.min.js"></script>
+<!-- bootstrap js -->
+<script src="https://damien1.github.io/plugins/bootstrap/bootstrap.min.js"></script>
+<!-- wow js -->
+<script src="https://damien1.github.io/plugins/wow-js/wow.min.js"></script>
+<!-- slider js -->
+<script src="https://damien1.github.io/plugins/slider/slider.js"></script>
+<!-- Fancybox -->
+<script src="https://damien1.github.io/plugins/facncybox/jquery.fancybox.js"></script>
+<!-- template main js -->
+
+<script src="https://damien1.github.io/js/script.min.js"></script>
+<!-- google analitycs -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-12356173-11', 'auto');
+    ga('send', 'pageview');
+</script>
+</body>
+</html>

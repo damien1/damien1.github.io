@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RSS on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/rss/</link>
+    <description>Recent content in RSS on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 23 Mar 2013 16:44:08 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/rss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Death of Google Reader &amp;#8211; It&amp;#8217;s offline caching that makes RSS so good for me</title>
+      <link>https://damien1.github.io/general/death-of-google-reader-its-offline-caching-that-makes-rss-so-good-for-me-8448/</link>
+      <pubDate>Sat, 23 Mar 2013 16:44:08 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/general/death-of-google-reader-its-offline-caching-that-makes-rss-so-good-for-me-8448/</guid>
+      <description>It’s what’s on the inside that counts! For me, what makes RSS a success has been mobile apps with offline caching. I don’t sit at home with my browser pointed to reader.google.com … I use mobile apps. Specifically, as I spend a lot of time on London Tube and trains where there is no wifi or mobile coverage, I need an RSS Feed Reader with a Cache!
+It’s been great over the years to have Google Reader there for me as a bit of a research index, record keeper and generally more reliable than Delicious or pretty much any social bookmarking service.</description>
+    </item>
+    
+    <item>
+      <title>What&amp;#8217;s the RSS Feed for a Custom Post Type?</title>
+      <link>https://damien1.github.io/blog/2012-05-08-whats-the-rss-feed-for-a-custom-post-type/</link>
+      <pubDate>Tue, 08 May 2012 12:37:49 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-05-08-whats-the-rss-feed-for-a-custom-post-type/</guid>
+      <description>WordPress introduced custom post types allowing creative and technical types to do more then just write pages and posts. Your websites main RSS feed doesn’t include custom post types — but custom posts do have their own unique RSS feeds which you can use.
+What’s the RSS feed for custom posts? The custom post rss feed looks like this
+So a link to my Presentations would look like this
+Linkage HT WordPress.</description>
+    </item>
+    
+  </channel>
+</rss>

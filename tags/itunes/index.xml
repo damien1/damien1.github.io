@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>itunes on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/itunes/</link>
+    <description>Recent content in itunes on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 03 Aug 2008 20:18:39 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/itunes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Whats your media player?</title>
+      <link>https://damien1.github.io/general/whats-your-media-player-88/</link>
+      <pubDate>Sun, 03 Aug 2008 20:18:39 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/general/whats-your-media-player-88/</guid>
+      <description>I’m starting a reader survey on Media Players – as there are a few assumptions I wanted to prove or understand.
+  If you have an iPod, iPhone or iTouch you use iTunes
+  You use Winamp casue you don’t want to use iTunes or WMP
+  you use windows media player as its the only thing you know or its the only one on your PC / Laptop</description>
+    </item>
+    
+    <item>
+      <title>Apple to standardise iTunes prices in Europe</title>
+      <link>https://damien1.github.io/general/apple-to-standardise-itunes-prices-in-europe-69/</link>
+      <pubDate>Wed, 09 Jan 2008 15:08:59 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/general/apple-to-standardise-itunes-prices-in-europe-69/</guid>
+      <description> comment: The reason that Apple charges different retail prices in each market is due to the differences in wholesale prices charged in each market by the major labels. Apple could use this as leverage against the labels to lower their prices in all major EU markets
+ </description>
+    </item>
+    
+  </channel>
+</rss>

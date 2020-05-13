@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en-gb"><head>
+  <!-- Basic Page Needs -->
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  
+  <meta name="description" content="Damien Saunders - marketing &amp; management consultant">
+  <meta name="author" content="Damien Saunders">
+  <meta name="generator" content="Hugo 0.70.0" />
+  
+  <!-- Mobile Specific Metas -->
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Web Application testing &amp;#8211; install Siege on Linux (or Mac OSx)</title>
+  <link rel="icon" href="https://damien1.github.io/images/favicon.ico">
+
+  <!-- Twitter Bootstrs CSS -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/bootstrap/bootstrap.min.css">
+  <!-- Ionicons Fonts Css -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/ionicons/ionicons.min.css">
+  <!-- animate css -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/animate-css/animate.css">
+  <!-- Hero area slider css-->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/slider/slider.css">
+  <!-- slick slider -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/slick/slick.css">
+  <!-- Fancybox -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/facncybox/jquery.fancybox.css">
+  <!-- hover -->
+  <link rel="stylesheet" href="https://damien1.github.io/plugins/hover/hover-min.css">
+  <!-- template main css file -->
+  
+  <link rel="stylesheet" href="https://damien1.github.io/css/style.min.css" integrity="" media="screen">
+</head><body><section class="top-bar animated-header">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<nav class="navbar navbar-expand-lg navbar-light bg-light">
+					<a class="navbar-brand" href="https://damien1.github.io">
+						<img src="https://damien1.github.io/damiensaunders.png" alt="Damien Saunders">
+					</a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+						aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+
+					<div class="collapse navbar-collapse" id="navigation">
+						<ul class="navbar-nav ml-auto">
+							<li class="nav-item">
+								<a class="nav-link" href="https://damien1.github.io">Home</a>
+							</li>
+							
+							<li class="nav-item">
+								<a class="nav-link" href="https://damien1.github.io/blog">Blog</a>
+							</li>
+							
+					</div>
+				</nav>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="global-page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h2>Web Application testing &amp;#8211; install Siege on Linux (or Mac OSx)</h2>
+                    <div class="portfolio-meta">
+                        <span>Tuesday, May 22, 2012</span>|
+                        <span> Tags:
+                            Load, performance, Server, Siege, testing
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="single-post">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                
+                <div class="post-img">
+                    <img class="img-fluid" alt="" src="https://damien1.github.io/wp-content/uploads/2012/05/pommie-sm.gif">
+                </div>
+                
+                <div class="post-content">
+                    <p><!-- raw HTML omitted -->Siege<!-- raw HTML omitted --> is a great tool for <strong>performance</strong> and <strong>load testing your web application</strong>. I’ve been using it for the past 6 months to test WordPress websites along with other web apps that we’ve been building.</p>
+<p><!-- raw HTML omitted --></p>
+<p>Use it to straighten out any kinks with applications like WordPress, learn if you’re server and database is flakey or prove that your CDN is super.</p>
+<h2 id="siege-testing-vs-apache-benchmark">Siege testing vs Apache Benchmark</h2>
+<p>If you’ve used Apache Benchmark in Mac OSx or Linux then you’ll already have an idea what Siege can do. Siege is better then AB as you can create a user journey for it to follow or give it a list of pages on your website to randomly hit. The configuration file gives you a lot lot lot more then AB.</p>
+<h2 id="siege-testing-is-not-load-testing">Siege testing is not load testing</h2>
+<p>Nothing beats a good Siege – but in reality if you really want to put your site under stress then you’ll need to switch to your own server setup with jMeter or checkout <!-- raw HTML omitted -->Blazemeter<!-- raw HTML omitted -->.</p>
+<p>Finally .. you might as well give up on performance testing with Siege or Apache benchmark if you Siege server and Web App are on the same internal network / IP address range / co-located in the same data-centre.</p>
+<h2 id="running-siege">Running Siege</h2>
+<p>Once you’ve started using Siege you won’t look back. It’s quite verbose and it’s great to watch it running through its test.</p>
+<p><code>DAMIEN-RED:~ damien$ siege -c 10 http://damien.co&lt;br /&gt; ** SIEGE 2.70&lt;br /&gt; ** Preparing 10 concurrent users for battle.&lt;br /&gt; The server is now under siege...&lt;br /&gt; HTTP/1.1,302, 0.60, 28,/,1,2012-01-25 21:59:53&lt;br /&gt; HTTP/1.1,302, 0.60, 28,/,1,2012-01-25 21:59:53&lt;br /&gt; HTTP/1.1,302, 0.60, 28,/,1,2012-01-25 21:59:53&lt;br /&gt; HTTP/1.1,302, 0.63, 28,/,1,2012-01-25 21:59:53&lt;br /&gt; HTTP/1.1,302, 0.66, 28,/,1,2012-01-25 21:59:53&lt;br /&gt; HTTP/1.1,302, 0.69, 28,/,1,2012-01-25 21:59:53&lt;br /&gt; HTTP/1.1,200, 0.05, 7146,/steven-mackintosh-the-changing-man/,1,2012-01-25 21:59:54&lt;br /&gt; HTTP/1.1,200, 0.20, 7146,/steven-mackintosh-the-changing-man/,1,2012-01-25 21:59:54</code></p>
+<p>and at the end … Siege gives you a nice sumary</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h2 id="how-to-install-siege">How to Install Siege</h2>
+<h3 id="centos">Centos</h3>
+<p>If you’re on the latest Centos with yum install you need to type</p>
+<!-- raw HTML omitted -->
+<h3 id="ubuntu">Ubuntu</h3>
+<p>If you’re on the latest Centos with yum install you need to type</p>
+<!-- raw HTML omitted -->
+<h2 id="get-started-with-siege">Get started with Siege</h2>
+<p>From your CLI / Terminal you’ll want to generate a config file</p>
+<!-- raw HTML omitted -->
+<p>this generates a hidden config settings file. Then you’ll use your favourite editor to change Siege the way you like it.</p>
+<!-- raw HTML omitted -->
+<p>The I suggest you put something under Siege</p>
+<!-- raw HTML omitted -->
+<p>This will generate a performance test up to 10 consecutive users. Remember some websites struggle to get more than 2 consecutive users so go easy.</p>
+<h2 id="hints-making-things-tough">Hints: Making things tough</h2>
+<ol>
+<li>Follow the User Manual and create a urls.txt file with a list of pages on your website.</li>
+<li>Make sure you have Webmin or Munin running so you can visualise the pain you’re inflicting on your poor web app.</li>
+<li>Run the siege for 60 minutes with something like 20 users.</li>
+<li>Run the siege for 200, 500, 1000 consecutive users. Watch your server load average go up and your free memory disappear.</li>
+</ol>
+<h3 id="linkage">Linkage</h3>
+<ul>
+<li><!-- raw HTML omitted -->Download the latest tar file<!-- raw HTML omitted --></li>
+<li><!-- raw HTML omitted -->User Manual<!-- raw HTML omitted --></li>
+<li>Read up on <!-- raw HTML omitted -->concurrency stats<!-- raw HTML omitted --></li>
+</ul>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<!-- Footer Section Start -->
+<footer id="footer">
+    <div class="container">
+        <div class="row content-justify-between">
+            <div class="col-md-8 col-12 text-center text-lg-left text-md-left">
+                <p class="copyright">Copyright &copy;  2004 - 
+                    <span>
+                        <script>document.write(new Date().getFullYear())</script>
+                    </span>  Damien Saunders.
+                    <br> Theme design and developed by
+                    <a href="http://www.Themefisher.com" target="_blank">Themefisher</a>.
+                    
+                </p>
+            </div>
+            <div class="col-md-4 col-12">
+                <!-- Social Media -->
+                <ul class="social text-center text-md-right text-lg-right">
+                    
+                    <li><a href="https://linkedin.com/in/damiensaunders"><i class="ion-social-linkedin"></i></a></li>
+                    
+                    <li><a href="https://twitter.com/damiensaunders"><i class="ion-social-twitter"></i></a></li>
+                    
+                    <li><a href="mailto:hello@damiensaunders.com"><i class="ion-email"></i></a></li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- footer section end -->
+
+<!-- jquery -->
+<script src="https://damien1.github.io/plugins/jQurey/jquery.min.js"></script>
+<!-- Form Validation -->
+<script src="https://damien1.github.io/plugins/form-validation/jquery.form.js"></script>
+<script src="https://damien1.github.io/plugins/form-validation/jquery.validate.min.js"></script>
+<!-- slick slider -->
+<script src="https://damien1.github.io/plugins/slick/slick.min.js"></script>
+<!-- bootstrap js -->
+<script src="https://damien1.github.io/plugins/bootstrap/bootstrap.min.js"></script>
+<!-- wow js -->
+<script src="https://damien1.github.io/plugins/wow-js/wow.min.js"></script>
+<!-- slider js -->
+<script src="https://damien1.github.io/plugins/slider/slider.js"></script>
+<!-- Fancybox -->
+<script src="https://damien1.github.io/plugins/facncybox/jquery.fancybox.js"></script>
+<!-- template main js -->
+
+<script src="https://damien1.github.io/js/script.min.js"></script>
+<!-- google analitycs -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-12356173-11', 'auto');
+    ga('send', 'pageview');
+</script>
+</body>
+</html>

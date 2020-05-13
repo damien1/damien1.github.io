@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAQ&amp;#039;s on Damien Saunders</title>
+    <link>https://damien1.github.io/categories/faq#039s/</link>
+    <description>Recent content in FAQ&amp;#039;s on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 13 May 2013 21:18:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/categories/faq#039s/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FAQ&amp;#8217;s &amp;#8211; How to start stop Apache on a Mac</title>
+      <link>https://damien1.github.io/faqs/faqs-how-to-start-stop-apache-on-a-mac-8666/</link>
+      <pubDate>Mon, 13 May 2013 21:18:40 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/faqs/faqs-how-to-start-stop-apache-on-a-mac-8666/</guid>
+      <description>So this is a very basic FAQ and notes on Apache for Mac
+Terminal Commands Make Apache start when you login to your Mac  sudo launchctl load -w /System/Library/LaunchDaemons/org.apache.httpd.plist
+sudo launchctl unload -w /System/Library/LaunchDaemons/org.apache.httpd.plist</description>
+    </item>
+    
+    <item>
+      <title>HOW TO: Stop (most) Automated Comment Spam</title>
+      <link>https://damien1.github.io/blog/2012-10-08-how-to-stop-most-automated-comment-spam/</link>
+      <pubDate>Mon, 08 Oct 2012 14:56:41 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-10-08-how-to-stop-most-automated-comment-spam/</guid>
+      <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme’s functions.php. This is one of my favourite WordPress functions and I use it on all my setups.
+This code snippet works by blocking comments from being added offsite or indirectly and not from the comment box on your webpage. Most spammers try to automate their ‘workload’ and try to exploit WordPress functions that allow you to manage comments or add posts via the WordPress API’s.</description>
+    </item>
+    
+    <item>
+      <title>HOW TO: A WordPress update created a fatal error and now I can&amp;#8217;t login</title>
+      <link>https://damien1.github.io/blog/2012-07-30-how-to-a-wordpress-update-created-a-fatal-and-now-i-cant-login/</link>
+      <pubDate>Mon, 30 Jul 2012 15:00:18 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-07-30-how-to-a-wordpress-update-created-a-fatal-and-now-i-cant-login/</guid>
+      <description>You just updated your plugins or theme in WordPress and now you can’t visit wp-admin or visit your website. Everything is broken, what you’re looking at is the White Screen of Death.
+It’s easy to recover from the 2 most common errors that kill your WordPress website. Fix the issue in 3 simple steps.
+When something goes wrong WordPress the most common cause is a plugin conflict or a problem with your theme.</description>
+    </item>
+    
+    <item>
+      <title>How to fix your WordPress when read / write doesn&amp;#8217;t work</title>
+      <link>https://damien1.github.io/blog/2012-04-27-how-to-fix-your-wordpress-when-read-write-doesnt-work/</link>
+      <pubDate>Fri, 27 Apr 2012 15:33:20 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-04-27-how-to-fix-your-wordpress-when-read-write-doesnt-work/</guid>
+      <description>Do you have problems with read / write permissions with WordPress? Are you stuck and can’t upload or change files? If you’ve tried to change the CHMOD values and failed, it might be time to go to the command-line.
+Working Alone – Single WordPress site Run these commands from terminal (command line interface) or ask your web host provider to do this. This will set all files to read/write for the owner and read only for everything else.</description>
+    </item>
+    
+    <item>
+      <title>How to Show more Posts</title>
+      <link>https://damien1.github.io/blog/2012-01-13-how-to-show-more-posts/</link>
+      <pubDate>Fri, 13 Jan 2012 16:13:06 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-01-13-how-to-show-more-posts/</guid>
+      <description>It’s very easy to show more posts when browsing WordPress.
+Make sure you first View All Posts, then
+Select Screen Options from the top right of the Toolbar; and finally
+Change the value (eg 200 in the example picture)</description>
+    </item>
+    
+    <item>
+      <title>How to De-clutter Create Edit Posts</title>
+      <link>https://damien1.github.io/blog/2012-01-13-how-to-de-clutter-create-edit-posts/</link>
+      <pubDate>Fri, 13 Jan 2012 16:11:28 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-01-13-how-to-de-clutter-create-edit-posts/</guid>
+      <description>The title field and the big Post Editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box.
+Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen.</description>
+    </item>
+    
+    <item>
+      <title>How to safely Cut Paste from Word</title>
+      <link>https://damien1.github.io/blog/2012-01-13-how-to-safely-cut-paste-from-word/</link>
+      <pubDate>Fri, 13 Jan 2012 16:09:39 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-01-13-how-to-safely-cut-paste-from-word/</guid>
+      <description>In HTML mode – cut &amp;amp; paste only pastes plain text
+Or use the W icon and paste there first.
+You can also switch back to HTML to check if there is formatting you don’t want</description>
+    </item>
+    
+    <item>
+      <title>HOW-TO: Are fonts locked?  Can you prevent the wrong ones appearing?</title>
+      <link>https://damien1.github.io/blog/2012-01-13-are-fonts-locked-how-to-prevent-the-wrong-ones-appearing/</link>
+      <pubDate>Fri, 13 Jan 2012 16:06:50 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-01-13-are-fonts-locked-how-to-prevent-the-wrong-ones-appearing/</guid>
+      <description>No – font’s are not locked in WordPress, but it’s easy to switch to the HTML Editor – where cut paste will only paste plain text.
+
+Alternatively, If you’re in the Visual Editor then … Click the W icon and paste there first.
+tip: You can also switch to the HTML Editor to check if there is formatting you don’t want</description>
+    </item>
+    
+    <item>
+      <title>Site down – White Screen of Death</title>
+      <link>https://damien1.github.io/blog/2012-01-13-site-down-white-screen-of-death/</link>
+      <pubDate>Fri, 13 Jan 2012 16:05:01 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-01-13-site-down-white-screen-of-death/</guid>
+      <description>If you just added a plug-in or made a change to a theme and now you can’t access either the wp-admin pages or the front end
+Open the FTP programme and navigate to wp-content/plugin and delete the plugin you just uploaded.</description>
+    </item>
+    
+    <item>
+      <title>Live content not showing</title>
+      <link>https://damien1.github.io/blog/2012-01-13-live-content-not-showing-for-the-new-issue/</link>
+      <pubDate>Fri, 13 Jan 2012 16:04:21 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-01-13-live-content-not-showing-for-the-new-issue/</guid>
+      <description>Are you using W3 Total Cache or a CDN and seeing a broken picture icon on the live site
+Right click on the icon and choose to show image in new tab
+Go to the Performance section
+Choose CDN
+Click on Purge
+Copy paste the broken image link without the Rackspace cdn part
+Refresh the page with the broken image</description>
+    </item>
+    
+    <item>
+      <title>HOW TO: Stop WordPress Comment Spam &amp;#8211; instantly</title>
+      <link>https://damien1.github.io/blog/2011-07-05-how-to-stop-wordpress-comment-spam-instantly/</link>
+      <pubDate>Tue, 05 Jul 2011 11:06:21 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2011-07-05-how-to-stop-wordpress-comment-spam-instantly/</guid>
+      <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme’s functions.php. This is one of my favourite WordPress functions and I use it on all my setups.
+This code snippet works by blocking comments from being added offsite or indirectly and not from the comment box on your webpage.
+Just to prove this works … take a look at your spam comments now and mentally calculate your daily average of new spam comments.</description>
+    </item>
+    
+  </channel>
+</rss>

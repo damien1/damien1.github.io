@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>database on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/database/</link>
+    <description>Recent content in database on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 11 Jul 2012 14:17:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WordPress database backup plugin launched &amp;#8211; DBC Backup 2</title>
+      <link>https://damien1.github.io/blog/2012-07-11-dbc-backup-new-plugin-forked-from-the-old/</link>
+      <pubDate>Wed, 11 Jul 2012 14:17:07 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-07-11-dbc-backup-new-plugin-forked-from-the-old/</guid>
+      <description>Announcing DBC Backup 2, a WordPress plugin to backup your WordPress SQL database is now available from WordPress Plugins.
+DBC Backup 2 creates a SQL export and saves a compressed file to your web host server. Many web hosts provide large amounts of free space for storing your data so it makes sense to use this free space to safely store your database.
+Key Features  Save time – set a Batch Job to run daily, weekly, monthly User Control – User defined path to store backups Compact – Compression of SQL exports (Gzip or Tar) saves space Safe – the export folder is ‘protected’ from prying eyes or direct downloads Save money – Uses web host to store export backups  Revival of DBC Backup The plugin is a revival of a much older plugin that I have used for a couple of years now.</description>
+    </item>
+    
+    <item>
+      <title>Sequel Pro &amp;#8211; Fastest &amp;#038; best MySQL client for Mac</title>
+      <link>https://damien1.github.io/development/sequel-pro-fastest-best-mysql-client-for-mac-7198/</link>
+      <pubDate>Thu, 07 Jun 2012 12:35:36 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/development/sequel-pro-fastest-best-mysql-client-for-mac-7198/</guid>
+      <description>Sequel Prois the fastest and best MySQL client for Mac right now. After a mini disaster yesterday involving Sequel Pro and filename extensions, I thought I’d checkout the competition.
+So I did a quick check and downloaded a few other apps that would manage MySQL on a Mac with OS x –
+ MySQL Workbench RazorSQL (not free so didn’t try) Navicat  Both MySQL Workbench and Navicat are java based apps.</description>
+    </item>
+    
+  </channel>
+</rss>

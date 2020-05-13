@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Funnies on Damien Saunders</title>
+    <link>https://damien1.github.io/categories/funnies/</link>
+    <description>Recent content in Funnies on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 28 Sep 2005 17:17:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/categories/funnies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tourism in Australia</title>
+      <link>https://damien1.github.io/blog/2005-09-28-tourism-in-australia/</link>
+      <pubDate>Wed, 28 Sep 2005 17:17:00 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2005-09-28-tourism-in-australia/</guid>
+      <description>The questions below about Australia, are from potential visitors. They were posted on an Australian Tourism Websiteand the answers are the actual responses by the website officials, who obviously have a sense of humour.
+Q: Does it ever get windy in Australia? I have never seen it rain on TV, how do the plants grow? (UK).
+A: We import all plants fully grown and then just sit around watching
+them die.</description>
+    </item>
+    
+  </channel>
+</rss>

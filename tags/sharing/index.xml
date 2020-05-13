@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sharing on Damien Saunders</title>
+    <link>https://damien1.github.io/tags/sharing/</link>
+    <description>Recent content in sharing on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 15 Jun 2012 16:37:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/tags/sharing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>19 of the best WordPress Plugins to use with your Multisite Network (or What Plugins I&amp;#8217;m Using)</title>
+      <link>https://damien1.github.io/blog/2012-06-15-19-best-wordpress-plugins-use-multisite-network-or-what-plugins-im-using/</link>
+      <pubDate>Fri, 15 Jun 2012 16:37:59 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-06-15-19-best-wordpress-plugins-use-multisite-network-or-what-plugins-im-using/</guid>
+      <description>I’ve been running WordPress as a multisite network and I often get asked about what are the best plugins for WordPress. Everyone has their opinion. I’ve listed the plugins which are network activated and grouped them in some meaningful manner for web marketers and development people.
+WordPress is one of the worlds’ most popular website and blogging tools and it’s latest version makes it easier to manage the look of your website.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theatre on Damien Saunders</title>
+    <link>https://damien1.github.io/categories/theatre/</link>
+    <description>Recent content in Theatre on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 12 Dec 2012 10:11:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://damien1.github.io/categories/theatre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Twelfth Night &amp;#8211; Mark Rylance &amp;#038; Stephen Fry @ the Apollo</title>
+      <link>https://damien1.github.io/blog/2012-12-12-twelfth-night-mark-rylance-stephen-fry-the-apollo/</link>
+      <pubDate>Wed, 12 Dec 2012 10:11:46 +0000</pubDate>
+      
+      <guid>https://damien1.github.io/blog/2012-12-12-twelfth-night-mark-rylance-stephen-fry-the-apollo/</guid>
+      <description>Onstage / Backstage seating for a small part of the audience</description>
+    </item>
+    
+  </channel>
+</rss>
