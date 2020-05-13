@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Company Website on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/company-website/</link>
+    <link>https://damien.co/tags/company-website/</link>
     <description>Recent content in Company Website on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 15 Jun 2010 09:00:44 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/company-website/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/company-website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Startup Guide to building a website with WordPress</title>
-      <link>https://damien1.github.io/blog/2010-06-15-startup-guide-to-building-a-website-with-wordpress-2/</link>
+      <link>https://damien.co/blog/2010-06-15-startup-guide-to-building-a-website-with-wordpress-2/</link>
       <pubDate>Tue, 15 Jun 2010 09:00:44 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2010-06-15-startup-guide-to-building-a-website-with-wordpress-2/</guid>
+      <guid>https://damien.co/blog/2010-06-15-startup-guide-to-building-a-website-with-wordpress-2/</guid>
       <description>So your new business needs a website – and someone told you to build it using WordPress. Cool .. this collection of resources on WordPress for your new venture will help you:
 How to migrate your website to WordPress– from experience and using a real life case study
 9 essential plugins for WordPress– here’s my recommendations on WordPress plugins to get you started.
@@ -25,10 +25,10 @@ How to make a landing page template in WordPress– landing pages or static page
     
     <item>
       <title>Migrating your company website to WordPress Self Hosted</title>
-      <link>https://damien1.github.io/blog/2010-03-08-migrating-your-company-website-to-wordpress-self-hosted-2/</link>
+      <link>https://damien.co/blog/2010-03-08-migrating-your-company-website-to-wordpress-self-hosted-2/</link>
       <pubDate>Mon, 08 Mar 2010 22:54:54 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2010-03-08-migrating-your-company-website-to-wordpress-self-hosted-2/</guid>
+      <guid>https://damien.co/blog/2010-03-08-migrating-your-company-website-to-wordpress-self-hosted-2/</guid>
       <description>WordPressis one of the most popular solutions for blogging. What people don’t know is that WordPress self hosted is the best solution for building a standalone SOHO / SME company website. We recently finished the migration of the mmCHANNEL company websitefrom an in-house developed website (using PHP, etc) to single install, self hosted WordPress installaton.There has been some times when I felt that maybe WordPress wasn’t right, but overall it’s going great and the results are visible!</description>
     </item>
     

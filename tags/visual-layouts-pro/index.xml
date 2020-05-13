@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visual Layouts Pro on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/visual-layouts-pro/</link>
+    <link>https://damien.co/tags/visual-layouts-pro/</link>
     <description>Recent content in Visual Layouts Pro on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 22 Apr 2013 12:11:05 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/visual-layouts-pro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/visual-layouts-pro/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Teaser &amp;#8211; Visual Layouts Pro (freetile)</title>
-      <link>https://damien1.github.io/blog/2013-04-22-teaser-visual-layouts-pro-freetile/</link>
+      <link>https://damien.co/blog/2013-04-22-teaser-visual-layouts-pro-freetile/</link>
       <pubDate>Mon, 22 Apr 2013 12:11:05 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-22-teaser-visual-layouts-pro-freetile/</guid>
+      <guid>https://damien.co/blog/2013-04-22-teaser-visual-layouts-pro-freetile/</guid>
       <description>Development has finished on my next plugin … Visual Layouts Pro (Freetile) plugin.
 This takes the Freetile jQuery plugin and mashes it up with Filtrify and Twitter Bootstrap to give you an awesome plugin for a responsive, visual layout …
 

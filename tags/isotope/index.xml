@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Isotope on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/isotope/</link>
+    <link>https://damien.co/tags/isotope/</link>
     <description>Recent content in Isotope on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 04 Mar 2014 22:11:44 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/isotope/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/isotope/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Isotope Visual Layouts Pro - caching improvements</title>
-      <link>https://damien1.github.io/blog/2014-03-04-isotope-visual-layouts-pro-caching-improvements/</link>
+      <link>https://damien.co/blog/2014-03-04-isotope-visual-layouts-pro-caching-improvements/</link>
       <pubDate>Tue, 04 Mar 2014 22:11:44 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2014-03-04-isotope-visual-layouts-pro-caching-improvements/</guid>
+      <guid>https://damien.co/blog/2014-03-04-isotope-visual-layouts-pro-caching-improvements/</guid>
       <description>I&amp;rsquo;ve made a small change to Isotope Visual Layouts Proand this directly improves caching and website performance.
 Isotope Visual Layouts Pro will shortly get a version bump and include a Transient to store the WordPress database query for 1 hour. The transient cache is also cleared when a new post is published.</description>
     </item>
     
     <item>
       <title>Isotope Visual Layouts lite getting updated</title>
-      <link>https://damien1.github.io/blog/2014-01-01-isotope-visual-layouts-lite-getting-updated/</link>
+      <link>https://damien.co/blog/2014-01-01-isotope-visual-layouts-lite-getting-updated/</link>
       <pubDate>Wed, 01 Jan 2014 11:30:48 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2014-01-01-isotope-visual-layouts-lite-getting-updated/</guid>
+      <guid>https://damien.co/blog/2014-01-01-isotope-visual-layouts-lite-getting-updated/</guid>
       <description>As part of a new year cleanup, my WordPress plugin Isotope Visual Layouts lite is getting some much needed attention.
 
  The new version of my free plugin for WordPress is currently being tested.
@@ -36,10 +36,10 @@ Tested on WordPress 3.8</description>
     
     <item>
       <title>Isotope Visual Layouts with Infinite Scroll</title>
-      <link>https://damien1.github.io/blog/2013-08-09-isotope-visual-layouts-with-infinite-scroll/</link>
+      <link>https://damien.co/blog/2013-08-09-isotope-visual-layouts-with-infinite-scroll/</link>
       <pubDate>Fri, 09 Aug 2013 23:28:47 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-08-09-isotope-visual-layouts-with-infinite-scroll/</guid>
+      <guid>https://damien.co/blog/2013-08-09-isotope-visual-layouts-with-infinite-scroll/</guid>
       <description>Isotope Visual Layouts Pro is getting an update … and it’s one that a few of you have been asking for.
 Isotope Visual Layouts Pro 1.9 is currently in testing and it will include a shortcode for Infinite Scroll.
 I’m also making it safe to use on any page or post so you can really have different layouts (like one with infinite scroll and one with filtrify)
@@ -48,10 +48,10 @@ This will be the ‘last’ update for Isotope Visual Layouts Pro … I’m work
     
     <item>
       <title>How to integrate your own Isotope jQuery plugin with your WordPress</title>
-      <link>https://damien1.github.io/blog/2013-04-28-how-to-integrate-your-own-isotope-jquery-plugin-with-your-wordpress/</link>
+      <link>https://damien.co/blog/2013-04-28-how-to-integrate-your-own-isotope-jquery-plugin-with-your-wordpress/</link>
       <pubDate>Sun, 28 Apr 2013 12:00:13 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-28-how-to-integrate-your-own-isotope-jquery-plugin-with-your-wordpress/</guid>
+      <guid>https://damien.co/blog/2013-04-28-how-to-integrate-your-own-isotope-jquery-plugin-with-your-wordpress/</guid>
       <description>I was recently asked if it was easy to integrate Isotope jQuery plugin into a WordPress website. It’s not uncomplicated to add isotope.js to your website – it’s just not as easy as linking a script to your header.
 2 Ways to add Isotope jQuery Plugin to WordPress As always, there are (at least) 2 ways to achieve this
  Create a page template for the purpose – with all the code you want Add the code to your themes function.</description>
@@ -59,30 +59,30 @@ This will be the ‘last’ update for Isotope Visual Layouts Pro … I’m work
     
     <item>
       <title>Visual Layouts Filtrify &amp;#038; Isotope Visual Layouts &amp;#8211; will they work with your WordPress Theme?</title>
-      <link>https://damien1.github.io/blog/2013-04-07-visual-layouts-filtrify-isotope-visual-layouts-with-your-wordpress-theme/</link>
+      <link>https://damien.co/blog/2013-04-07-visual-layouts-filtrify-isotope-visual-layouts-with-your-wordpress-theme/</link>
       <pubDate>Sun, 07 Apr 2013 20:48:56 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-07-visual-layouts-filtrify-isotope-visual-layouts-with-your-wordpress-theme/</guid>
+      <guid>https://damien.co/blog/2013-04-07-visual-layouts-filtrify-isotope-visual-layouts-with-your-wordpress-theme/</guid>
       <description>I recently received this email and thought I’d write up a few notes on my plugins. Right or Wrong … If you like the style of your theme, WordPress plugins are there to extend the function of your site. This means you don’t have to replace your existing theme just to get a new feature.
  Want to get a cool theme instead? If you do like the style / grid layout that I’m showing and want to replace your theme … then checkout the WooThemes range of themes.</description>
     </item>
     
     <item>
       <title>Isotope Visual Layouts Pro plugin for WordPress switches to Twitter Bootstrap</title>
-      <link>https://damien1.github.io/blog/2013-03-19-isotope-visual-layouts-pro-plugin-for-wordpress-switches-to-twitter-bootstrap/</link>
+      <link>https://damien.co/blog/2013-03-19-isotope-visual-layouts-pro-plugin-for-wordpress-switches-to-twitter-bootstrap/</link>
       <pubDate>Tue, 19 Mar 2013 11:31:15 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-03-19-isotope-visual-layouts-pro-plugin-for-wordpress-switches-to-twitter-bootstrap/</guid>
+      <guid>https://damien.co/blog/2013-03-19-isotope-visual-layouts-pro-plugin-for-wordpress-switches-to-twitter-bootstrap/</guid>
       <description>Isotope Visual Layouts Pro WordPress plugin is easier to use now that it’s using the Twitter Bootstrap framework with great CSS options and features.
 Damien’s WordPress plugins have great features that mean you can improve your website and not change your theme. This is ideal for a designer or developer who wants to change the look n feel via custom CSS. Overtime, I’ve come to realise that most people download or buy the plugin on the basis off the look.</description>
     </item>
     
     <item>
       <title>1 minute video &amp;#8211; Isotope Visual Layouts WordPress plugin</title>
-      <link>https://damien1.github.io/blog/2013-03-18-1-minute-video-isotope-visual-layouts-wordpress-plugin/</link>
+      <link>https://damien.co/blog/2013-03-18-1-minute-video-isotope-visual-layouts-wordpress-plugin/</link>
       <pubDate>Mon, 18 Mar 2013 11:57:12 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-03-18-1-minute-video-isotope-visual-layouts-wordpress-plugin/</guid>
+      <guid>https://damien.co/blog/2013-03-18-1-minute-video-isotope-visual-layouts-wordpress-plugin/</guid>
       <description>Just been on a bit of a testing mission this weekend … I’ve put together this 1 minute screen recording of my WordPress plugin Isotope Visual Layouts.
 The video is taken from my Selenium based testing and goes from plugin install, checking plugin options, adding a page, viewing the results and finally deleting the plugin.
  </description>
@@ -90,10 +90,10 @@ The video is taken from my Selenium based testing and goes from plugin install, 
     
     <item>
       <title>Isotope Visual Layouts &amp;#8211; jQuery toggleClass</title>
-      <link>https://damien1.github.io/blog/2013-03-07-isotope-visual-layouts-jquery-toggleclass/</link>
+      <link>https://damien.co/blog/2013-03-07-isotope-visual-layouts-jquery-toggleclass/</link>
       <pubDate>Thu, 07 Mar 2013 15:07:53 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-03-07-isotope-visual-layouts-jquery-toggleclass/</guid>
+      <guid>https://damien.co/blog/2013-03-07-isotope-visual-layouts-jquery-toggleclass/</guid>
       <description>Isotope Visual Layouts Pro pluginintroduces a click to enlarge feature for box items that are part of the grid layout. This uses a cool jQuery element that changes the CSS class and refreshes the layout of the page.
 Checkout the demoand click on each box / image.
 It took me a bit to learn how to do this – only cause I’m not a frontend developer. But if you’d like to add toggleClass to your Isotope WordPress project, then you might like this.</description>
@@ -101,19 +101,19 @@ It took me a bit to learn how to do this – only cause I’m not a frontend dev
     
     <item>
       <title>Isotope Visual Layouts for WordPress &amp;amp; Twitter Bootstrap</title>
-      <link>https://damien1.github.io/blog/2013-03-05-isotope-visual-layouts-for-wordpress-twitter-bootstrap/</link>
+      <link>https://damien.co/blog/2013-03-05-isotope-visual-layouts-for-wordpress-twitter-bootstrap/</link>
       <pubDate>Tue, 05 Mar 2013 09:32:45 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-03-05-isotope-visual-layouts-for-wordpress-twitter-bootstrap/</guid>
+      <guid>https://damien.co/blog/2013-03-05-isotope-visual-layouts-for-wordpress-twitter-bootstrap/</guid>
       <description>**teaser**</description>
     </item>
     
     <item>
       <title>Isotope Visual Layouts &amp;#8211; Pro Plugin is here</title>
-      <link>https://damien1.github.io/blog/2013-03-04-isotope-visual-layouts-pro-plugin-is-here/</link>
+      <link>https://damien.co/blog/2013-03-04-isotope-visual-layouts-pro-plugin-is-here/</link>
       <pubDate>Mon, 04 Mar 2013 15:00:33 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-03-04-isotope-visual-layouts-pro-plugin-is-here/</guid>
+      <guid>https://damien.co/blog/2013-03-04-isotope-visual-layouts-pro-plugin-is-here/</guid>
       <description>Isotope Visual Layouts Pro plugin is here — with many new features. Now you can change your website without changing your theme.
  [wooslider slider_type=”attachments” thumbnails=”true” id=”isotope_pro”]
  Key Features of Isotope Visual Layouts for WordPress  Isotope for stunning visual layouts Featured Image custom sizing choose Thumb, Medium or Large to control your visual layout Click to Resize / zoom effect (jQuery + CSS affect) Infinite Scroll (disabled by default – not needed if you don’t want to use to pagination) Shortcode works on any post or page Shortcode works with posts, pages &amp;amp; custom post types Further ‘add-ons’ available to use with this plugin, like Visual Layouts Filtrify for filtering tags or categories Paging / Pagination option Include the Excerpt option Create as many Visual Layouts as you want Click to Resize / zoom on a grid item, adds / removes a .</description>
@@ -121,30 +121,30 @@ It took me a bit to learn how to do this – only cause I’m not a frontend dev
     
     <item>
       <title>Isotope Visual Layouts lite &amp;#8211; gets an update &amp;amp; a new name</title>
-      <link>https://damien1.github.io/blog/2013-02-22-isotope-visual-layouts-lite-gets-an-update-a-new-name/</link>
+      <link>https://damien.co/blog/2013-02-22-isotope-visual-layouts-lite-gets-an-update-a-new-name/</link>
       <pubDate>Fri, 22 Feb 2013 11:00:42 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-02-22-isotope-visual-layouts-lite-gets-an-update-a-new-name/</guid>
+      <guid>https://damien.co/blog/2013-02-22-isotope-visual-layouts-lite-gets-an-update-a-new-name/</guid>
       <description>WordPress is a great tool for Websites, Blogs, Ecommerce and pretty much anything else … Which is why Isotope Visual Layouts is such a great plugin. Now you can easily change your website without changing your theme.
 How to Update / Upgrade Isotope Visual Layouts lite – slightly newer name – has just had an update to v2 and if you already have it installed, you can get an update / upgrade from your Admin Plugin page (see image below).</description>
     </item>
     
     <item>
       <title>Visual Layouts &amp;#8211; Isotope Filtrify and custom WordPress taxonomies</title>
-      <link>https://damien1.github.io/blog/2013-02-08-visual-layouts-isotope-filtrify-and-custom-wordpress-taxonomies/</link>
+      <link>https://damien.co/blog/2013-02-08-visual-layouts-isotope-filtrify-and-custom-wordpress-taxonomies/</link>
       <pubDate>Fri, 08 Feb 2013 11:06:13 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-02-08-visual-layouts-isotope-filtrify-and-custom-wordpress-taxonomies/</guid>
+      <guid>https://damien.co/blog/2013-02-08-visual-layouts-isotope-filtrify-and-custom-wordpress-taxonomies/</guid>
       <description>Creating tag and category based filtering is easy using my new plugin Visual Layouts Filtrify.. and now I want to show you that custom post types and custom taxonomies in WordPress are also handled with this new plugin.
 Using two of my plugins, you can create a visual grid of your posts, photos, portfolio, products and even use it to create your own WooCommerce e-commerce product page without having to get a new theme.</description>
     </item>
     
     <item>
       <title>Just Announced: Isotope Visual Layouts plugin gets Filtrify for tags &amp;amp; filtering</title>
-      <link>https://damien1.github.io/blog/2013-02-04-just-announced-isotope-visual-layouts-plugin-gets-filtrify-for-tags-filtering/</link>
+      <link>https://damien.co/blog/2013-02-04-just-announced-isotope-visual-layouts-plugin-gets-filtrify-for-tags-filtering/</link>
       <pubDate>Mon, 04 Feb 2013 11:55:45 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-02-04-just-announced-isotope-visual-layouts-plugin-gets-filtrify-for-tags-filtering/</guid>
+      <guid>https://damien.co/blog/2013-02-04-just-announced-isotope-visual-layouts-plugin-gets-filtrify-for-tags-filtering/</guid>
       <description>Visual Layouts Filtrify is my newest plugin for WordPress and my first plugin to extend Isotope Visual Post Layouts.
 What does Visual Layouts Filtrify do?   Add drop-down menus and filtering to your website
   Works with tags and categories (no configuration)
@@ -154,10 +154,10 @@ What does Visual Layouts Filtrify do?   Add drop-down menus and filtering to you
     
     <item>
       <title>Isotope v1.0 Released</title>
-      <link>https://damien1.github.io/blog/2012-12-31-isotope-v1-0-released/</link>
+      <link>https://damien.co/blog/2012-12-31-isotope-v1-0-released/</link>
       <pubDate>Mon, 31 Dec 2012 14:00:47 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-12-31-isotope-v1-0-released/</guid>
+      <guid>https://damien.co/blog/2012-12-31-isotope-v1-0-released/</guid>
       <description>Yup — you read right. Isotope Visual Post Layouts, my WordPress plugin is here.
 Earlier this week, I started sending out the updated plugin to my email subscribers (so congrats to everyone that got the email update).
 You can get your own copy of v1.0 here -&amp;raquo; &amp;lt;wordpress.damien.co/isotope&amp;gt;
@@ -166,10 +166,10 @@ or by filling in this form — I’ll then email you a link to download the plug
     
     <item>
       <title>Isotope Visual Layouts plugin for WordPress v1 is finally being tested</title>
-      <link>https://damien1.github.io/blog/2012-11-26-isotope-visual-layouts-plugin-for-wordpress-v1-is-finally-being-tested/</link>
+      <link>https://damien.co/blog/2012-11-26-isotope-visual-layouts-plugin-for-wordpress-v1-is-finally-being-tested/</link>
       <pubDate>Mon, 26 Nov 2012 13:55:53 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-11-26-isotope-visual-layouts-plugin-for-wordpress-v1-is-finally-being-tested/</guid>
+      <guid>https://damien.co/blog/2012-11-26-isotope-visual-layouts-plugin-for-wordpress-v1-is-finally-being-tested/</guid>
       <description>The next version of my Isotope Visual Layouts Plugin for WordPress is finally in testing. That’s to say, today I have finished all the development work I want to do for version 1.0.
 There have been more than 500 downloads of the current version (which is great!) and so I’m excited to be sharing the news about the next release.
  What’s in Version 1.0? The 2 key features in this next version are:</description>
@@ -177,20 +177,20 @@ There have been more than 500 downloads of the current version (which is great!)
     
     <item>
       <title>Isotope Visual Layouts v1.0 is coming</title>
-      <link>https://damien1.github.io/blog/2012-10-17-isotope-visual-layouts-v1-0-is-coming/</link>
+      <link>https://damien.co/blog/2012-10-17-isotope-visual-layouts-v1-0-is-coming/</link>
       <pubDate>Wed, 17 Oct 2012 14:03:33 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-10-17-isotope-visual-layouts-v1-0-is-coming/</guid>
+      <guid>https://damien.co/blog/2012-10-17-isotope-visual-layouts-v1-0-is-coming/</guid>
       <description>Isotope Visual Layouts my plugin for WordPress will soon be updated to version 1. This is a big milestone for me and from my perspective, the plugin will be ‘out of beta’.
 I think, I have been talking about this for some time … but it’s been a bit harder for me to finish as I started a new job and need to commute out of London every day. I have also been working on another plugin and wanted to re-use what I have learnt / built from that project.</description>
     </item>
     
     <item>
       <title>Isotope Visual Layouts for WordPress plugin &amp;#8211; v1.0 is coming</title>
-      <link>https://damien1.github.io/blog/2012-09-29-isotope-visual-layouts-for-wordpress-plugin-v1-0-is-coming/</link>
+      <link>https://damien.co/blog/2012-09-29-isotope-visual-layouts-for-wordpress-plugin-v1-0-is-coming/</link>
       <pubDate>Sat, 29 Sep 2012 12:17:27 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-09-29-isotope-visual-layouts-for-wordpress-plugin-v1-0-is-coming/</guid>
+      <guid>https://damien.co/blog/2012-09-29-isotope-visual-layouts-for-wordpress-plugin-v1-0-is-coming/</guid>
       <description>First — thanks for your ‘patience’ Isotope Visual Layouts for WordPress will soon be turning 1.0 🙂
 What’s coming up in v1.0 There are 3 big features in v1.0
  Custom update / upgrade notification (as the plugin is no longer hosted by WordPress) A variety of colour options for the Sticky Note Visual Layouts Changed the WP-Query so that it is smoother ( and faster ).  Want 50% off the Pro Licence?</description>
@@ -198,50 +198,50 @@ What’s coming up in v1.0 There are 3 big features in v1.0
     
     <item>
       <title>Isotope Visual Post Layout plugin for WordPress download here</title>
-      <link>https://damien1.github.io/blog/2012-09-17-isotope-visual-post-layout-plugin-for-wordpress-download-here/</link>
+      <link>https://damien.co/blog/2012-09-17-isotope-visual-post-layout-plugin-for-wordpress-download-here/</link>
       <pubDate>Mon, 17 Sep 2012 19:56:18 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-09-17-isotope-visual-post-layout-plugin-for-wordpress-download-here/</guid>
+      <guid>https://damien.co/blog/2012-09-17-isotope-visual-post-layout-plugin-for-wordpress-download-here/</guid>
       <description>Unfortunately the team at WordPress have decided they can’t host my plugin anymore. This is because the isotope javascript file is not compatible with their GPL requirements.
 So for now … here is the link to the file you’ll be looking for. Just sign-up for my WordPres e-mail update (no more 1 per week) which will keep you informed about my plugin developments.</description>
     </item>
     
     <item>
       <title>Freetile Visual Post Layouts a plugin WordPress</title>
-      <link>https://damien1.github.io/blog/2012-09-11-freetile-visual-post-layouts-a-plugin-wordpress/</link>
+      <link>https://damien.co/blog/2012-09-11-freetile-visual-post-layouts-a-plugin-wordpress/</link>
       <pubDate>Tue, 11 Sep 2012 22:39:11 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-09-11-freetile-visual-post-layouts-a-plugin-wordpress/</guid>
+      <guid>https://damien.co/blog/2012-09-11-freetile-visual-post-layouts-a-plugin-wordpress/</guid>
       <description>Today I’ve been reading up on Freetilea jQuery project by Yannisfor visual layouts similar to what I’ve done with Isotope Visual Post Layouts.
  Freetile is a plugin for jQuery that enables the organization of webpage content in an efficient, dynamic and responsive layout. It can be applied to a container element and it will attempt to arrange it’s children in a layout that makes optimal use of screen space, by “packing” them in a tight arrangement.</description>
     </item>
     
     <item>
       <title>Isotope &#43; filtrify &#43; WordPress = No Sweat</title>
-      <link>https://damien1.github.io/blog/2012-09-08-isotope-filtrify-wordpress-no-sweat/</link>
+      <link>https://damien.co/blog/2012-09-08-isotope-filtrify-wordpress-no-sweat/</link>
       <pubDate>Sat, 08 Sep 2012 16:35:17 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-09-08-isotope-filtrify-wordpress-no-sweat/</guid>
+      <guid>https://damien.co/blog/2012-09-08-isotope-filtrify-wordpress-no-sweat/</guid>
       <description>I’ve been busy this weekend catching up on some development work for my favourite WordPress plugin Visual Post Layouts which uses Isotope.
 Today I’ve integrated filtrifywhich makes it easy to choose your posts by Category.</description>
     </item>
     
     <item>
       <title>Isotope Visual Post Layouts for WordPress version 0.31 is out</title>
-      <link>https://damien1.github.io/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</link>
+      <link>https://damien.co/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</link>
       <pubDate>Thu, 06 Sep 2012 21:49:27 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</guid>
+      <guid>https://damien.co/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</guid>
       <description>Isotope Visual Post Layouts is my plugin for WordPress that makes it easy to add some stunning visual effects to your blog. I’ve just updated the plugin and if you have this installed, then WordPress should tell you automatically to update sometime in the next 24 hours.
 Isotope Visual Post Layouts version 0.31 is out I’ve just updated the plugin to v0.31, it’s tested and supported on WordPress 3.4.2 and I also fixed a bug and added a feature.</description>
     </item>
     
     <item>
       <title>NEWS: Isotope Visual Post Layouts for WordPress available to download</title>
-      <link>https://damien1.github.io/blog/2012-08-28-news-isotope-visual-post-layouts-for-wordpress-available-to-download/</link>
+      <link>https://damien.co/blog/2012-08-28-news-isotope-visual-post-layouts-for-wordpress-available-to-download/</link>
       <pubDate>Tue, 28 Aug 2012 14:26:59 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-08-28-news-isotope-visual-post-layouts-for-wordpress-available-to-download/</guid>
+      <guid>https://damien.co/blog/2012-08-28-news-isotope-visual-post-layouts-for-wordpress-available-to-download/</guid>
       <description>Isotope Visual Post Layouts (http://wordpress.damien.co/isotope) makes it easy for anyone to add stunning visual effectsand animationto their WordPress website.
 With the release of this free plugin for WordPress, anyone can add visual effects without the need to change their website theme. Isotope Visual Post Layouts works with most themes and requires no coding.
 Bring your website to life – with stunning animation and visual effects thanks to Isotope by Metafizzy. No coding and no theme to modify.</description>
@@ -249,10 +249,10 @@ Bring your website to life – with stunning animation and visual effects thanks
     
     <item>
       <title>Isotope for WordPress plugin &amp;#8211; do amazing things to your blog</title>
-      <link>https://damien1.github.io/blog/2012-08-13-isotope-for-wordpress-plugin-do-amazing-things-to-your-blog/</link>
+      <link>https://damien.co/blog/2012-08-13-isotope-for-wordpress-plugin-do-amazing-things-to-your-blog/</link>
       <pubDate>Mon, 13 Aug 2012 13:00:58 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-08-13-isotope-for-wordpress-plugin-do-amazing-things-to-your-blog/</guid>
+      <guid>https://damien.co/blog/2012-08-13-isotope-for-wordpress-plugin-do-amazing-things-to-your-blog/</guid>
       <description>Have a look at what’s coming with Isotope for WordPress, my latest plugin. Isotope does amazing things to you website or blog and my plugin makes it easy to add a responsive layoutand visual animation on any post or page.
 This is a free plugin and includes the Isotope Masonryanimation and one CSS style.
 A new Admin page 
@@ -261,10 +261,10 @@ Isotope for WordPress is so easy to use. You don’t need to do anything.</descr
     
     <item>
       <title>WordPress Isotope &amp;#038; Filtering by Categories</title>
-      <link>https://damien1.github.io/blog/2012-06-14-wordpress-isotope-filtering-by-categories/</link>
+      <link>https://damien.co/blog/2012-06-14-wordpress-isotope-filtering-by-categories/</link>
       <pubDate>Thu, 14 Jun 2012 17:27:25 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-06-14-wordpress-isotope-filtering-by-categories/</guid>
+      <guid>https://damien.co/blog/2012-06-14-wordpress-isotope-filtering-by-categories/</guid>
       <description>Isotope is an ‘exquisite jQuery plugin for magical layouts’ which basically means it works wonders on responsive layouts. I’ve created a WordPress plugin for Isotope and just updated this to add Filtering by Categories.
 
 
@@ -274,10 +274,10 @@ You’ll need to create your own custom WordPress template with its own WPQuery 
     
     <item>
       <title>Using Isotope &amp;#038; masonry with WordPress</title>
-      <link>https://damien1.github.io/blog/2012-04-07-using-isotope-masonry-with-wordpress/</link>
+      <link>https://damien.co/blog/2012-04-07-using-isotope-masonry-with-wordpress/</link>
       <pubDate>Sat, 07 Apr 2012 12:56:11 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-04-07-using-isotope-masonry-with-wordpress/</guid>
+      <guid>https://damien.co/blog/2012-04-07-using-isotope-masonry-with-wordpress/</guid>
       <description>So I have been using Isotope for sometime on my website … I was recently asked why I had stopped using Isotope at which point I discovered that it had stopped working when I changed my theme.
 Using jQuery instead of $ for javascript The basic script for isotope is …
 [php]
@@ -289,20 +289,20 @@ However, WordPress reserves the use of $ so you need to change your script to
     
     <item>
       <title>Isotope &amp;#038; WordPress = awesome fluid layouts</title>
-      <link>https://damien1.github.io/blog/2011-12-12-isotope-wordpress-awesome-fluid-layouts/</link>
+      <link>https://damien.co/blog/2011-12-12-isotope-wordpress-awesome-fluid-layouts/</link>
       <pubDate>Mon, 12 Dec 2011 09:23:00 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2011-12-12-isotope-wordpress-awesome-fluid-layouts/</guid>
+      <guid>https://damien.co/blog/2011-12-12-isotope-wordpress-awesome-fluid-layouts/</guid>
       <description>I’ve added Isotope the awesome jQuery framework to my main website … I just wanted to share a couple of screenshots of how good things are looking.
  What do you think? What should I do next with Isotope?</description>
     </item>
     
     <item>
       <title>Getting started with Isotope &amp;#038; WordPress</title>
-      <link>https://damien1.github.io/blog/2011-12-10-getting-started-with-isotope-wordpress/</link>
+      <link>https://damien.co/blog/2011-12-10-getting-started-with-isotope-wordpress/</link>
       <pubDate>Sat, 10 Dec 2011 15:26:34 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2011-12-10-getting-started-with-isotope-wordpress/</guid>
+      <guid>https://damien.co/blog/2011-12-10-getting-started-with-isotope-wordpress/</guid>
       <description>If you’re interested in customising WordPress then consider building a fluid grid design with a layout that automatically responds as the page is resized.
 I’m using Isotope with the latest version of WordPress 3.3 release candidate.
 Isotope – An exquisite jQuery Plugin for magical layouts With a few days to spare do check out Isotope from David Desandro. This example uses the periodic table

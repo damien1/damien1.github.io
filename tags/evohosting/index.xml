@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evohosting on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/evohosting/</link>
+    <link>https://damien.co/tags/evohosting/</link>
     <description>Recent content in Evohosting on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 26 Dec 2011 15:38:28 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/evohosting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/evohosting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Increase WordPress Memory &amp;#8211; Help for EvoHosting.co.uk Users</title>
-      <link>https://damien1.github.io/wordpress/increase-wordpress-memory-help-for-evohosting-co-uk-users-5454/</link>
+      <link>https://damien.co/wordpress/increase-wordpress-memory-help-for-evohosting-co-uk-users-5454/</link>
       <pubDate>Mon, 26 Dec 2011 15:38:28 +0000</pubDate>
       
-      <guid>https://damien1.github.io/wordpress/increase-wordpress-memory-help-for-evohosting-co-uk-users-5454/</guid>
+      <guid>https://damien.co/wordpress/increase-wordpress-memory-help-for-evohosting-co-uk-users-5454/</guid>
       <description>I’ve been using EvoHostingfor a good couple of years now and have always been impressed by their service and flexibility. I’ve felt my site has suffered in recent months – I just feel the performance has suffered and have few options to speed-up my website.
 So sometimes you want more freedom to control your server (like Rackspace), but using a shared server gives you few choices to do this. Here is the solution for WordPress sites hosted by EvoHosting UK which you can implement now.</description>
     </item>

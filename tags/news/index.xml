@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/news/</link>
+    <link>https://damien.co/tags/news/</link>
     <description>Recent content in News on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 04 Feb 2014 22:47:27 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Isotope Visual Layouts lite new version out now</title>
-      <link>https://damien1.github.io/blog/2014-02-04-isotope-visual-layouts-lite/</link>
+      <link>https://damien.co/blog/2014-02-04-isotope-visual-layouts-lite/</link>
       <pubDate>Tue, 04 Feb 2014 22:47:27 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2014-02-04-isotope-visual-layouts-lite/</guid>
+      <guid>https://damien.co/blog/2014-02-04-isotope-visual-layouts-lite/</guid>
       <description>Isotope Visual Layouts lite, my free WordPress plugin which adds animated grid layouts to your website has been updated.
 
 What’s New in Version 3.0  Introduces Metro UI CSS to replace my own custom code Updates Isotope jQuery to latest version   Where can I get it? Isotope Visual Layouts lite is a free plugin – you just need to register and download.</description>
@@ -24,10 +24,10 @@ What’s New in Version 3.0  Introduces Metro UI CSS to replace my own custom co
     
     <item>
       <title>Isotope Visual Layouts lite getting updated</title>
-      <link>https://damien1.github.io/blog/2014-01-01-isotope-visual-layouts-lite-getting-updated/</link>
+      <link>https://damien.co/blog/2014-01-01-isotope-visual-layouts-lite-getting-updated/</link>
       <pubDate>Wed, 01 Jan 2014 11:30:48 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2014-01-01-isotope-visual-layouts-lite-getting-updated/</guid>
+      <guid>https://damien.co/blog/2014-01-01-isotope-visual-layouts-lite-getting-updated/</guid>
       <description>As part of a new year cleanup, my WordPress plugin Isotope Visual Layouts lite is getting some much needed attention.
 
  The new version of my free plugin for WordPress is currently being tested.
@@ -36,50 +36,11 @@ Tested on WordPress 3.8</description>
     </item>
     
     <item>
-      <title>DBC Backup 2  new version is ready for you</title>
-      <link>https://damien1.github.io/blog/2013-12-14-dbc-backup-2-new-version-ready/</link>
-      <pubDate>Sat, 14 Dec 2013 22:46:35 +0000</pubDate>
-      
-      <guid>https://damien1.github.io/blog/2013-12-14-dbc-backup-2-new-version-ready/</guid>
-      <description>DBC Backup 2 is a WordPress plugin that creates backups of your database. DBC Backup 2 has just been update to v2.3.24.
-DBC Backup 2 has been completely redesigned and looks great as part of WordPress 3.8.
-What&amp;rsquo;s new in DBC Backup 2 The latest version of DBC Backup 2 includes a number of significant changes
- Support for PHP 5.x - resolves issue which required a manual work around / blocked importing backup files Support for MySQL 5.</description>
-    </item>
-    
-    <item>
-      <title>DBC Backup 2 &amp;#8211; v2.3 what&amp;#8217;s coming</title>
-      <link>https://damien1.github.io/blog/2013-10-17-dbc-backup-2-v2-3-whats-coming/</link>
-      <pubDate>Thu, 17 Oct 2013 23:48:04 +0000</pubDate>
-      
-      <guid>https://damien1.github.io/blog/2013-10-17-dbc-backup-2-v2-3-whats-coming/</guid>
-      <description>The next version of DBC Backup 2 is just around the corner – I’ve held it back to better test the backup files and tinker with the admin panel.
-
-So What’s in DBC Backup 2 v2.3? Key features of this version are
-  Support for SQL server 5.5 and up
-  Removes annoying debug log errors
-  Transitions from mysql to mysqli
-  Admin panel now has a default save location and creates a Backup folder inside WP-Content directory.</description>
-    </item>
-    
-    <item>
-      <title>DBC Backup 2 &amp;#8212; new version on the way updated for MySQL 5.6 and latest WordPress</title>
-      <link>https://damien1.github.io/blog/2013-10-12-dbc-backup-2-new-version-on-the-way-updated-for-mysql-5-6-and-latest-wordpress/</link>
-      <pubDate>Sat, 12 Oct 2013 23:04:43 +0000</pubDate>
-      
-      <guid>https://damien1.github.io/blog/2013-10-12-dbc-backup-2-new-version-on-the-way-updated-for-mysql-5-6-and-latest-wordpress/</guid>
-      <description>DBC Backup 2 my WordPress plugin to safely back-up your database is getting an massive update. This will add support for the latest MySQL server version 5.6 and is currently in test.
-DBC Backup 2 v2.3 is being tested with the latest versions of MySQL server and WordPress. It has been tested to ensure users can import and recover from their backup files.
- About DBC Backup 2
-DBC Backup 2 is the WordPress plugin that you want behind the scenes – it safely and easily backs up your WordPress database, posts, settings and comments.</description>
-    </item>
-    
-    <item>
       <title>Isotope Visual Layouts with Infinite Scroll</title>
-      <link>https://damien1.github.io/blog/2013-08-09-isotope-visual-layouts-with-infinite-scroll/</link>
+      <link>https://damien.co/blog/2013-08-09-isotope-visual-layouts-with-infinite-scroll/</link>
       <pubDate>Fri, 09 Aug 2013 23:28:47 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-08-09-isotope-visual-layouts-with-infinite-scroll/</guid>
+      <guid>https://damien.co/blog/2013-08-09-isotope-visual-layouts-with-infinite-scroll/</guid>
       <description>Isotope Visual Layouts Pro is getting an update … and it’s one that a few of you have been asking for.
 Isotope Visual Layouts Pro 1.9 is currently in testing and it will include a shortcode for Infinite Scroll.
 I’m also making it safe to use on any page or post so you can really have different layouts (like one with infinite scroll and one with filtrify)
@@ -88,10 +49,10 @@ This will be the ‘last’ update for Isotope Visual Layouts Pro … I’m work
     
     <item>
       <title>WordPress 3.5.2 is here &amp;#8211; time to update your site</title>
-      <link>https://damien1.github.io/blog/2013-06-23-wordpress-3-5-2-is-here-time-to-update-your-site/</link>
+      <link>https://damien.co/blog/2013-06-23-wordpress-3-5-2-is-here-time-to-update-your-site/</link>
       <pubDate>Sun, 23 Jun 2013 16:20:17 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-06-23-wordpress-3-5-2-is-here-time-to-update-your-site/</guid>
+      <guid>https://damien.co/blog/2013-06-23-wordpress-3-5-2-is-here-time-to-update-your-site/</guid>
       <description>WordPress 3.5.2 is here … and it’s not to be confused with the 3.6 beta releases. Being a point release, you shouldn’t expect significant changes. WordPress 3.5.2 is a security release, which means it’s critical that you update your site.
 What’s in WordPress 3.5.2? The release note for this specifically looks to address a bunch of security related issues:
  Blocking server-side request forgery attacks, which could potentially enable an attacker to gain access to a site.</description>
@@ -99,10 +60,10 @@ What’s in WordPress 3.5.2? The release note for this specifically looks to add
     
     <item>
       <title>Introducing empty &amp;#8211; Apache Ant Build for WordPress</title>
-      <link>https://damien1.github.io/blog/2013-04-30-introducing-empty-apache-ant-build-for-wordpress/</link>
+      <link>https://damien.co/blog/2013-04-30-introducing-empty-apache-ant-build-for-wordpress/</link>
       <pubDate>Tue, 30 Apr 2013 11:00:49 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-30-introducing-empty-apache-ant-build-for-wordpress/</guid>
+      <guid>https://damien.co/blog/2013-04-30-introducing-empty-apache-ant-build-for-wordpress/</guid>
       <description>Welcome and say hello to empty. empty is a bunch of ANT Build Tasks for WordPress plugin developers that help automate the build thanks to Apache Ant.
 Why ANT not PHING? Go ask Google that … there are plenty of conversations elsewhere on ANT vs PHING. It’s really a personal choice.
 Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular tool, free and widely used. It’s commonly used for Java but can fit in with other code and projects.</description>
@@ -110,10 +71,10 @@ Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular 
     
     <item>
       <title>Teaser &amp;#8211; Visual Layouts Pro (freetile)</title>
-      <link>https://damien1.github.io/blog/2013-04-22-teaser-visual-layouts-pro-freetile/</link>
+      <link>https://damien.co/blog/2013-04-22-teaser-visual-layouts-pro-freetile/</link>
       <pubDate>Mon, 22 Apr 2013 12:11:05 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-22-teaser-visual-layouts-pro-freetile/</guid>
+      <guid>https://damien.co/blog/2013-04-22-teaser-visual-layouts-pro-freetile/</guid>
       <description>Development has finished on my next plugin … Visual Layouts Pro (Freetile) plugin.
 This takes the Freetile jQuery plugin and mashes it up with Filtrify and Twitter Bootstrap to give you an awesome plugin for a responsive, visual layout …
 
@@ -122,39 +83,39 @@ This takes the Freetile jQuery plugin and mashes it up with Filtrify and Twitter
     
     <item>
       <title>Pro Plugin &amp;#8211; New User Guides &amp;amp; Support tools</title>
-      <link>https://damien1.github.io/blog/2013-04-05-pro-plugin-new-user-guides-support-tools/</link>
+      <link>https://damien.co/blog/2013-04-05-pro-plugin-new-user-guides-support-tools/</link>
       <pubDate>Fri, 05 Apr 2013 09:52:37 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-05-pro-plugin-new-user-guides-support-tools/</guid>
+      <guid>https://damien.co/blog/2013-04-05-pro-plugin-new-user-guides-support-tools/</guid>
       <description>Until a few days ago, I’d been relying on e-mail to manage your support requests. During the past 3 months I’ve looked at different options to provide support and also publish user guides and support material – beyond what’s in the readme files.
 Announcing Help &amp;amp; User Guides for Pro Plugins Anyone who has brought a Pro plugin from me, will now get access to Help &amp;amp; User Docsjust visit http://docs.</description>
     </item>
     
     <item>
       <title>Isotope Visual Layouts Pro plugin for WordPress switches to Twitter Bootstrap</title>
-      <link>https://damien1.github.io/blog/2013-03-19-isotope-visual-layouts-pro-plugin-for-wordpress-switches-to-twitter-bootstrap/</link>
+      <link>https://damien.co/blog/2013-03-19-isotope-visual-layouts-pro-plugin-for-wordpress-switches-to-twitter-bootstrap/</link>
       <pubDate>Tue, 19 Mar 2013 11:31:15 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-03-19-isotope-visual-layouts-pro-plugin-for-wordpress-switches-to-twitter-bootstrap/</guid>
+      <guid>https://damien.co/blog/2013-03-19-isotope-visual-layouts-pro-plugin-for-wordpress-switches-to-twitter-bootstrap/</guid>
       <description>Isotope Visual Layouts Pro WordPress plugin is easier to use now that it’s using the Twitter Bootstrap framework with great CSS options and features.
 Damien’s WordPress plugins have great features that mean you can improve your website and not change your theme. This is ideal for a designer or developer who wants to change the look n feel via custom CSS. Overtime, I’ve come to realise that most people download or buy the plugin on the basis off the look.</description>
     </item>
     
     <item>
       <title>Isotope Visual Layouts for WordPress &amp;amp; Twitter Bootstrap</title>
-      <link>https://damien1.github.io/blog/2013-03-05-isotope-visual-layouts-for-wordpress-twitter-bootstrap/</link>
+      <link>https://damien.co/blog/2013-03-05-isotope-visual-layouts-for-wordpress-twitter-bootstrap/</link>
       <pubDate>Tue, 05 Mar 2013 09:32:45 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-03-05-isotope-visual-layouts-for-wordpress-twitter-bootstrap/</guid>
+      <guid>https://damien.co/blog/2013-03-05-isotope-visual-layouts-for-wordpress-twitter-bootstrap/</guid>
       <description>**teaser**</description>
     </item>
     
     <item>
       <title>Isotope Visual Layouts &amp;#8211; Pro Plugin is here</title>
-      <link>https://damien1.github.io/blog/2013-03-04-isotope-visual-layouts-pro-plugin-is-here/</link>
+      <link>https://damien.co/blog/2013-03-04-isotope-visual-layouts-pro-plugin-is-here/</link>
       <pubDate>Mon, 04 Mar 2013 15:00:33 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-03-04-isotope-visual-layouts-pro-plugin-is-here/</guid>
+      <guid>https://damien.co/blog/2013-03-04-isotope-visual-layouts-pro-plugin-is-here/</guid>
       <description>Isotope Visual Layouts Pro plugin is here — with many new features. Now you can change your website without changing your theme.
  [wooslider slider_type=”attachments” thumbnails=”true” id=”isotope_pro”]
  Key Features of Isotope Visual Layouts for WordPress  Isotope for stunning visual layouts Featured Image custom sizing choose Thumb, Medium or Large to control your visual layout Click to Resize / zoom effect (jQuery + CSS affect) Infinite Scroll (disabled by default – not needed if you don’t want to use to pagination) Shortcode works on any post or page Shortcode works with posts, pages &amp;amp; custom post types Further ‘add-ons’ available to use with this plugin, like Visual Layouts Filtrify for filtering tags or categories Paging / Pagination option Include the Excerpt option Create as many Visual Layouts as you want Click to Resize / zoom on a grid item, adds / removes a .</description>
@@ -162,10 +123,10 @@ Damien’s WordPress plugins have great features that mean you can improve your 
     
     <item>
       <title>Visual Layouts for WordPress turns Pro and gets Twitter Bootstrap</title>
-      <link>https://damien1.github.io/blog/2013-03-03-visual-layouts-for-wordpress-turns-pro-and-gets-twitter-bootstrap/</link>
+      <link>https://damien.co/blog/2013-03-03-visual-layouts-for-wordpress-turns-pro-and-gets-twitter-bootstrap/</link>
       <pubDate>Sun, 03 Mar 2013 15:45:46 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-03-03-visual-layouts-for-wordpress-turns-pro-and-gets-twitter-bootstrap/</guid>
+      <guid>https://damien.co/blog/2013-03-03-visual-layouts-for-wordpress-turns-pro-and-gets-twitter-bootstrap/</guid>
       <description>Visual Layouts is the alternative, responsive, animated, grid layout WordPress plugin. It’s similar to adding isotope and masonry jQuery. Visual Layouts for WordPress is another way that you can change your website without changing your theme.
 Now Visual Layouts is turning Pro and the first feature I’ll show off is integration with Twitter Bootstrap CSS.
 I think that Twitter Bootstrapis an awesome solution for anyone wanting to use good web design concepts – of course, the internet might be pretty ‘bland’ if we all used this framework.</description>
@@ -173,20 +134,20 @@ I think that Twitter Bootstrapis an awesome solution for anyone wanting to use g
     
     <item>
       <title>Isotope Visual Layouts lite &amp;#8211; gets an update &amp;amp; a new name</title>
-      <link>https://damien1.github.io/blog/2013-02-22-isotope-visual-layouts-lite-gets-an-update-a-new-name/</link>
+      <link>https://damien.co/blog/2013-02-22-isotope-visual-layouts-lite-gets-an-update-a-new-name/</link>
       <pubDate>Fri, 22 Feb 2013 11:00:42 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-02-22-isotope-visual-layouts-lite-gets-an-update-a-new-name/</guid>
+      <guid>https://damien.co/blog/2013-02-22-isotope-visual-layouts-lite-gets-an-update-a-new-name/</guid>
       <description>WordPress is a great tool for Websites, Blogs, Ecommerce and pretty much anything else … Which is why Isotope Visual Layouts is such a great plugin. Now you can easily change your website without changing your theme.
 How to Update / Upgrade Isotope Visual Layouts lite – slightly newer name – has just had an update to v2 and if you already have it installed, you can get an update / upgrade from your Admin Plugin page (see image below).</description>
     </item>
     
     <item>
       <title>Just Announced: Isotope Visual Layouts plugin gets Filtrify for tags &amp;amp; filtering</title>
-      <link>https://damien1.github.io/blog/2013-02-04-just-announced-isotope-visual-layouts-plugin-gets-filtrify-for-tags-filtering/</link>
+      <link>https://damien.co/blog/2013-02-04-just-announced-isotope-visual-layouts-plugin-gets-filtrify-for-tags-filtering/</link>
       <pubDate>Mon, 04 Feb 2013 11:55:45 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-02-04-just-announced-isotope-visual-layouts-plugin-gets-filtrify-for-tags-filtering/</guid>
+      <guid>https://damien.co/blog/2013-02-04-just-announced-isotope-visual-layouts-plugin-gets-filtrify-for-tags-filtering/</guid>
       <description>Visual Layouts Filtrify is my newest plugin for WordPress and my first plugin to extend Isotope Visual Post Layouts.
 What does Visual Layouts Filtrify do?   Add drop-down menus and filtering to your website
   Works with tags and categories (no configuration)
@@ -196,10 +157,10 @@ What does Visual Layouts Filtrify do?   Add drop-down menus and filtering to you
     
     <item>
       <title>Isotope v1.0 Released</title>
-      <link>https://damien1.github.io/blog/2012-12-31-isotope-v1-0-released/</link>
+      <link>https://damien.co/blog/2012-12-31-isotope-v1-0-released/</link>
       <pubDate>Mon, 31 Dec 2012 14:00:47 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-12-31-isotope-v1-0-released/</guid>
+      <guid>https://damien.co/blog/2012-12-31-isotope-v1-0-released/</guid>
       <description>Yup — you read right. Isotope Visual Post Layouts, my WordPress plugin is here.
 Earlier this week, I started sending out the updated plugin to my email subscribers (so congrats to everyone that got the email update).
 You can get your own copy of v1.0 here -&amp;raquo; &amp;lt;wordpress.damien.co/isotope&amp;gt;
@@ -208,20 +169,20 @@ or by filling in this form — I’ll then email you a link to download the plug
     
     <item>
       <title>WordPress 3.5 &amp;#8211; Welcome! My plugins are tested and working.</title>
-      <link>https://damien1.github.io/blog/2012-12-12-wordpress-3-5-welcome-my-plugins-are-tested-and-working/</link>
+      <link>https://damien.co/blog/2012-12-12-wordpress-3-5-welcome-my-plugins-are-tested-and-working/</link>
       <pubDate>Wed, 12 Dec 2012 19:33:24 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-12-12-wordpress-3-5-welcome-my-plugins-are-tested-and-working/</guid>
+      <guid>https://damien.co/blog/2012-12-12-wordpress-3-5-welcome-my-plugins-are-tested-and-working/</guid>
       <description>In case you hadn’t noticed — WordPress 3.5is here. This release has one great new feature – the replacement for the media library and the drag n drop uploader has changed.
 My Plugins Tested are ready to go  DBC Backup 2 Isotope Visual Post Layouts Visual Post Layouts  I’ve been testing and checking my pluginsover the past few months and they are all fine and ready to use 🙂</description>
     </item>
     
     <item>
       <title>DBC Backup 2 updated to 2.1.1 it&amp;#8217;s a little bit harder Update Now</title>
-      <link>https://damien1.github.io/blog/2012-10-25-dbc-backup-2-updated-to-2-1-1-its-a-little-bit-harder-update-now/</link>
+      <link>https://damien.co/blog/2012-10-25-dbc-backup-2-updated-to-2-1-1-its-a-little-bit-harder-update-now/</link>
       <pubDate>Thu, 25 Oct 2012 23:09:44 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-10-25-dbc-backup-2-updated-to-2-1-1-its-a-little-bit-harder-update-now/</guid>
+      <guid>https://damien.co/blog/2012-10-25-dbc-backup-2-updated-to-2-1-1-its-a-little-bit-harder-update-now/</guid>
       <description>A new version of DBC Backup 2 has been released. I’m doing this to make life just a little bit harder. You should update to v2.1.1 as soon as possible please.
 What’s in this release? This release looks to address a common security issue with WordPress and browsing folders like /wp-content etc.
 I also recommend all users of my plugin and WordPress to check that their .htaccess file includes this 1 line (well 2 lines):</description>
@@ -229,30 +190,30 @@ I also recommend all users of my plugin and WordPress to check that their .htacc
     
     <item>
       <title>Isotope Visual Layouts v1.0 is coming</title>
-      <link>https://damien1.github.io/blog/2012-10-17-isotope-visual-layouts-v1-0-is-coming/</link>
+      <link>https://damien.co/blog/2012-10-17-isotope-visual-layouts-v1-0-is-coming/</link>
       <pubDate>Wed, 17 Oct 2012 14:03:33 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-10-17-isotope-visual-layouts-v1-0-is-coming/</guid>
+      <guid>https://damien.co/blog/2012-10-17-isotope-visual-layouts-v1-0-is-coming/</guid>
       <description>Isotope Visual Layouts my plugin for WordPress will soon be updated to version 1. This is a big milestone for me and from my perspective, the plugin will be ‘out of beta’.
 I think, I have been talking about this for some time … but it’s been a bit harder for me to finish as I started a new job and need to commute out of London every day. I have also been working on another plugin and wanted to re-use what I have learnt / built from that project.</description>
     </item>
     
     <item>
       <title>Freetile &amp;#8211; Visual Post Layouts just about ready</title>
-      <link>https://damien1.github.io/blog/2012-10-15-freetile-visual-post-layouts-just-about-ready/</link>
+      <link>https://damien.co/blog/2012-10-15-freetile-visual-post-layouts-just-about-ready/</link>
       <pubDate>Mon, 15 Oct 2012 11:34:42 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-10-15-freetile-visual-post-layouts-just-about-ready/</guid>
+      <guid>https://damien.co/blog/2012-10-15-freetile-visual-post-layouts-just-about-ready/</guid>
       <description>I wanted to give you a bit of a flavourof what’s coming with my new Visual Post Layouts plugin for WordPress. First things first … it’s ‘pretty good’ (if you’re English) or AWESOME!!!! (if you’re American, Australian, or from anywhere else).
 The next thing you can see is the bright colours – there are 7 styles to choose from – Orange, Red, Yellow, Blue, Green, Violet &amp;amp; White.</description>
     </item>
     
     <item>
       <title>Isotope Visual Layouts for WordPress plugin &amp;#8211; v1.0 is coming</title>
-      <link>https://damien1.github.io/blog/2012-09-29-isotope-visual-layouts-for-wordpress-plugin-v1-0-is-coming/</link>
+      <link>https://damien.co/blog/2012-09-29-isotope-visual-layouts-for-wordpress-plugin-v1-0-is-coming/</link>
       <pubDate>Sat, 29 Sep 2012 12:17:27 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-09-29-isotope-visual-layouts-for-wordpress-plugin-v1-0-is-coming/</guid>
+      <guid>https://damien.co/blog/2012-09-29-isotope-visual-layouts-for-wordpress-plugin-v1-0-is-coming/</guid>
       <description>First — thanks for your ‘patience’ Isotope Visual Layouts for WordPress will soon be turning 1.0 🙂
 What’s coming up in v1.0 There are 3 big features in v1.0
  Custom update / upgrade notification (as the plugin is no longer hosted by WordPress) A variety of colour options for the Sticky Note Visual Layouts Changed the WP-Query so that it is smoother ( and faster ).  Want 50% off the Pro Licence?</description>
@@ -260,10 +221,10 @@ What’s coming up in v1.0 There are 3 big features in v1.0
     
     <item>
       <title>Visual Post Layouts &amp;#8211; with colour options</title>
-      <link>https://damien1.github.io/blog/2012-09-25-visual-post-layouts-with-colour-options/</link>
+      <link>https://damien.co/blog/2012-09-25-visual-post-layouts-with-colour-options/</link>
       <pubDate>Tue, 25 Sep 2012 22:00:40 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-09-25-visual-post-layouts-with-colour-options/</guid>
+      <guid>https://damien.co/blog/2012-09-25-visual-post-layouts-with-colour-options/</guid>
       <description>Visual Post Layouts will be my next WordPress plugin. It’s nearly ready and I’ve been working hard to allow some great control over the plugin.
 What’s Coming up? In the first release of the Visual Post Layouts, you’ll have a great set of features as part of the shortcode.
 You can create a visual post layout in a post, a page, in fact … almost anywhere 🙂
@@ -272,10 +233,10 @@ You also have the option to choose a different colour scheme – if you don’t 
     
     <item>
       <title>Thank you &amp;#8230; 2000&#43; downloads of DBC Backup 2 for WordPress</title>
-      <link>https://damien1.github.io/blog/2012-09-17-thank-you-2000-downloads-of-dbc-backup-2-for-wordpress/</link>
+      <link>https://damien.co/blog/2012-09-17-thank-you-2000-downloads-of-dbc-backup-2-for-wordpress/</link>
       <pubDate>Mon, 17 Sep 2012 09:36:21 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-09-17-thank-you-2000-downloads-of-dbc-backup-2-for-wordpress/</guid>
+      <guid>https://damien.co/blog/2012-09-17-thank-you-2000-downloads-of-dbc-backup-2-for-wordpress/</guid>
       <description>I want to say ‘Thank You’ to all of you who have downloaded and installed DBC Backup 2. Over the weekend, plugin downloads rose above 2000.
 DBC Backup 2 makes it easy to safely backup your WordPress SQL database to a folder on your web server. It’s a unique solution which also includes regular, scheduled backups so that you can have a daily, weekly or monthly backup.
 If you like DBC Backup 2 – please can you rate it 5 Stars on WordPress.</description>
@@ -283,20 +244,20 @@ If you like DBC Backup 2 – please can you rate it 5 Stars on WordPress.</descr
     
     <item>
       <title>Isotope Visual Post Layouts for WordPress version 0.31 is out</title>
-      <link>https://damien1.github.io/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</link>
+      <link>https://damien.co/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</link>
       <pubDate>Thu, 06 Sep 2012 21:49:27 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</guid>
+      <guid>https://damien.co/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</guid>
       <description>Isotope Visual Post Layouts is my plugin for WordPress that makes it easy to add some stunning visual effects to your blog. I’ve just updated the plugin and if you have this installed, then WordPress should tell you automatically to update sometime in the next 24 hours.
 Isotope Visual Post Layouts version 0.31 is out I’ve just updated the plugin to v0.31, it’s tested and supported on WordPress 3.4.2 and I also fixed a bug and added a feature.</description>
     </item>
     
     <item>
       <title>NEWS: Isotope Visual Post Layouts for WordPress available to download</title>
-      <link>https://damien1.github.io/blog/2012-08-28-news-isotope-visual-post-layouts-for-wordpress-available-to-download/</link>
+      <link>https://damien.co/blog/2012-08-28-news-isotope-visual-post-layouts-for-wordpress-available-to-download/</link>
       <pubDate>Tue, 28 Aug 2012 14:26:59 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-08-28-news-isotope-visual-post-layouts-for-wordpress-available-to-download/</guid>
+      <guid>https://damien.co/blog/2012-08-28-news-isotope-visual-post-layouts-for-wordpress-available-to-download/</guid>
       <description>Isotope Visual Post Layouts (http://wordpress.damien.co/isotope) makes it easy for anyone to add stunning visual effectsand animationto their WordPress website.
 With the release of this free plugin for WordPress, anyone can add visual effects without the need to change their website theme. Isotope Visual Post Layouts works with most themes and requires no coding.
 Bring your website to life – with stunning animation and visual effects thanks to Isotope by Metafizzy. No coding and no theme to modify.</description>
@@ -304,10 +265,10 @@ Bring your website to life – with stunning animation and visual effects thanks
     
     <item>
       <title>DBC Backup 2 &amp;#8211; gives the confidence that your WordPress database is backed-up and securely stored on your server [press release]</title>
-      <link>https://damien1.github.io/blog/2012-07-30-dbc-backup-2-gives-the-confidence-that-your-wordpress-database-is-backed-up-and-securely-stored-on-your-server-press-release/</link>
+      <link>https://damien.co/blog/2012-07-30-dbc-backup-2-gives-the-confidence-that-your-wordpress-database-is-backed-up-and-securely-stored-on-your-server-press-release/</link>
       <pubDate>Mon, 30 Jul 2012 14:01:20 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-07-30-dbc-backup-2-gives-the-confidence-that-your-wordpress-database-is-backed-up-and-securely-stored-on-your-server-press-release/</guid>
+      <guid>https://damien.co/blog/2012-07-30-dbc-backup-2-gives-the-confidence-that-your-wordpress-database-is-backed-up-and-securely-stored-on-your-server-press-release/</guid>
       <description>DBC Backup 2 gives the confidence that your WordPress database is backed-up and securely stored on your server.
 Database backup and security should be a critical issue for Marketing Agencies, small businesses and any WordPress website user. This plugin makes the whole experience easy with 3 critical features:
 3 Critical Features   Storage – the backup file is compressed and saved on your web server and not sent via email or to another 3rdparty.</description>
@@ -315,10 +276,10 @@ Database backup and security should be a critical issue for Marketing Agencies, 
     
     <item>
       <title>DBC Backup 2 &amp;#8211; WordPress database backup &amp;#8211; Here comes version 2.1</title>
-      <link>https://damien1.github.io/blog/2012-07-27-dbc-backup-2-wordpress-database-backup-here-comes-version-2-1/</link>
+      <link>https://damien.co/blog/2012-07-27-dbc-backup-2-wordpress-database-backup-here-comes-version-2-1/</link>
       <pubDate>Fri, 27 Jul 2012 16:30:12 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-07-27-dbc-backup-2-wordpress-database-backup-here-comes-version-2-1/</guid>
+      <guid>https://damien.co/blog/2012-07-27-dbc-backup-2-wordpress-database-backup-here-comes-version-2-1/</guid>
       <description>DBC Backup 2for WordPress database backup has just been updated. The new version improves the user experience for managing the plugin as well as fixing minor bugs.
 What is in the new release? 
 The new release includes:
@@ -327,30 +288,30 @@ The new release includes:
     
     <item>
       <title>DBC Backup 2 &amp;#8211; sneak peak of the new version</title>
-      <link>https://damien1.github.io/blog/2012-07-21-dbc-backup-2-sneak-peak-of-the-new-version/</link>
+      <link>https://damien.co/blog/2012-07-21-dbc-backup-2-sneak-peak-of-the-new-version/</link>
       <pubDate>Sat, 21 Jul 2012 15:36:20 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-07-21-dbc-backup-2-sneak-peak-of-the-new-version/</guid>
+      <guid>https://damien.co/blog/2012-07-21-dbc-backup-2-sneak-peak-of-the-new-version/</guid>
       <description>I wanted to give you a sneak peak at DBC Backup 2 and changes which are coming in the next version. DBC Backup 2 is a simple and easy way to safely backup your WordPress SQL database and store it on your webserver.
 DBC Backup 2 – purpose and niche I only recently ‘adopted’ this plugin for my own … and as much as I’d like to add features I don’t really want to change anything about it.</description>
     </item>
     
     <item>
       <title>Google&#43;: still not as interesting as Pinterest   &lt;&lt;- why does everyone want it fail?</title>
-      <link>https://damien1.github.io/social-media/google-still-not-as-interesting-as-pinterest-7073/</link>
+      <link>https://damien.co/social-media/google-still-not-as-interesting-as-pinterest-7073/</link>
       <pubDate>Sat, 19 May 2012 22:35:14 +0000</pubDate>
       
-      <guid>https://damien1.github.io/social-media/google-still-not-as-interesting-as-pinterest-7073/</guid>
+      <guid>https://damien.co/social-media/google-still-not-as-interesting-as-pinterest-7073/</guid>
       <description>Comment – Seems to me that ‘everyone’ wants to find a fault with Google+ and many maybe ‘wishing’ it to fail. It’s hard to get traction with social networks as we are likely to be regular users of a few social networks. It’s harder still to get people to change their primary social network of choice when your online social network all still use The Facebook.
 Source: Google+: still not as interesting as Pinterest, new study finds: ”</description>
     </item>
     
     <item>
       <title>I&amp;#8217;m moving &amp;#8211; migrating to a new domain (some glitches)</title>
-      <link>https://damien1.github.io/blog/im-moving-migrating-to-a-new-domain-some-glitches-6809/</link>
+      <link>https://damien.co/blog/im-moving-migrating-to-a-new-domain-some-glitches-6809/</link>
       <pubDate>Sun, 22 Apr 2012 13:16:15 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/im-moving-migrating-to-a-new-domain-some-glitches-6809/</guid>
+      <guid>https://damien.co/blog/im-moving-migrating-to-a-new-domain-some-glitches-6809/</guid>
       <description>Well it had to happen … I’ve found a better domain damien.co and I’ve completed the biggest hurdle to migrate from damiensaunders.com to damien.co
 There are a flew glitches which I’m trying to sort out today.
 The most obvious one is that sub-domains are not redirecting
@@ -359,10 +320,10 @@ so to get to wordpress.damiensaunders.com you need to go to wordpress.damien.co<
     
     <item>
       <title>Remember to add my Google&#43; Page</title>
-      <link>https://damien1.github.io/promo/remember-to-add-my-google-page-2-5397/</link>
+      <link>https://damien.co/promo/remember-to-add-my-google-page-2-5397/</link>
       <pubDate>Fri, 24 Feb 2012 20:40:44 +0000</pubDate>
       
-      <guid>https://damien1.github.io/promo/remember-to-add-my-google-page-2-5397/</guid>
+      <guid>https://damien.co/promo/remember-to-add-my-google-page-2-5397/</guid>
       <description>Now Google+ has launched pages for business … so if you’re using Google+ then please add Damien’s Google+ page.
 
 I’ll be sharing the latest presentations and other news and marketing stuff only on my Google+ page.</description>
@@ -370,10 +331,10 @@ I’ll be sharing the latest presentations and other news and marketing stuff on
     
     <item>
       <title>Thank You &amp;#8211; 47% growth YOY &amp;#8211; 31,000 visitors and 14,000 presentation views</title>
-      <link>https://damien1.github.io/general/thank-you-47-growth-yoy-31000-visitors-and-14000-presentation-views-5859/</link>
+      <link>https://damien.co/general/thank-you-47-growth-yoy-31000-visitors-and-14000-presentation-views-5859/</link>
       <pubDate>Sat, 07 Jan 2012 22:16:56 +0000</pubDate>
       
-      <guid>https://damien1.github.io/general/thank-you-47-growth-yoy-31000-visitors-and-14000-presentation-views-5859/</guid>
+      <guid>https://damien.co/general/thank-you-47-growth-yoy-31000-visitors-and-14000-presentation-views-5859/</guid>
       <description>What a year 2011 was … over 31,000 people visited my site which is a growth of about 47% year on year.
 So thank you to all of you who came, read and left … and to the few of you who do come back again and again.
 Google Analytics Web Trends I’ve been using Google Analytics since I moved to stand-alone WordPress in 2009. I support agencies and brands to develop complex reporting and engagement insights using Google Analytics.</description>
@@ -381,10 +342,10 @@ Google Analytics Web Trends I’ve been using Google Analytics since I moved to 
     
     <item>
       <title>WordPress 3.3 RC3 &amp;#8211; This has to be it</title>
-      <link>https://damien1.github.io/blog/2011-12-12-wordpress-3-3-rc3-this-has-to-be-it/</link>
+      <link>https://damien.co/blog/2011-12-12-wordpress-3-3-rc3-this-has-to-be-it/</link>
       <pubDate>Mon, 12 Dec 2011 09:03:57 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2011-12-12-wordpress-3-3-rc3-this-has-to-be-it/</guid>
+      <guid>https://damien.co/blog/2011-12-12-wordpress-3-3-rc3-this-has-to-be-it/</guid>
       <description>The third and final release candidate of WordPress 3.3 is here. AND … now we know that hopefully next week the real WordPress 3.3 will be here.
 The release note hints that everything is ready. This version RC3 WordPress 3.3 has a few last minute bug fixes and tidy up.
 If you haven’t started testing WordPress 3.3, then now is the time to check plugins, themes and familiarise yourself.
@@ -393,10 +354,10 @@ If you haven’t started testing WordPress 3.3, then now is the time to check pl
     
     <item>
       <title>WordPress 3.3 release candidate 1 is here</title>
-      <link>https://damien1.github.io/blog/2011-12-01-wordpress-3-3-release-candidate-1-is-here/</link>
+      <link>https://damien.co/blog/2011-12-01-wordpress-3-3-release-candidate-1-is-here/</link>
       <pubDate>Thu, 01 Dec 2011 19:11:46 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2011-12-01-wordpress-3-3-release-candidate-1-is-here/</guid>
+      <guid>https://damien.co/blog/2011-12-01-wordpress-3-3-release-candidate-1-is-here/</guid>
       <description>The first release candidate for the next version of WordPress 3.3 is here. If you haven’t started testing, now is the time.
  WordPress 3.3 what you can expect WordPress 3.3 has already had 4 beta releases – so this RC is getting close to the finished product.
 WordPress 3.3 has some cool features – including re-work on the WordPress Toolbar for logged in users, changes to backend admin pages and minor improvements for multisite admins.</description>
@@ -404,10 +365,10 @@ WordPress 3.3 has some cool features – including re-work on the WordPress Tool
     
     <item>
       <title>Please add my Google&#43; page [PROMO]</title>
-      <link>https://damien1.github.io/promo/please-add-my-google-page-promo-4809/</link>
+      <link>https://damien.co/promo/please-add-my-google-page-promo-4809/</link>
       <pubDate>Thu, 17 Nov 2011 10:55:41 +0000</pubDate>
       
-      <guid>https://damien1.github.io/promo/please-add-my-google-page-promo-4809/</guid>
+      <guid>https://damien.co/promo/please-add-my-google-page-promo-4809/</guid>
       <description>Now Google+ has launched pages for business … so if you’re using Google+ then please add the new page for White T-Shirt Digital
 
 I’ll be sharing the latest presentations and other news and marketing stuff only on my Google+ page.</description>
@@ -415,10 +376,10 @@ I’ll be sharing the latest presentations and other news and marketing stuff on
     
     <item>
       <title>WordPress 3.3 beta 3 is here</title>
-      <link>https://damien1.github.io/blog/2011-11-10-wordpress-3-3-beta-3-is-here/</link>
+      <link>https://damien.co/blog/2011-11-10-wordpress-3-3-beta-3-is-here/</link>
       <pubDate>Thu, 10 Nov 2011 12:33:49 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2011-11-10-wordpress-3-3-beta-3-is-here/</guid>
+      <guid>https://damien.co/blog/2011-11-10-wordpress-3-3-beta-3-is-here/</guid>
       <description>WordPress 3.3 is on its way … the latest beta 3.3 is now available, which means you can download it and try it for yourself. This beta doesn’t add anything new, as the official post says ‘it’s all about making things prettier’ along with lots of bug fixes.
 Typically you can expect to get a release candidate after this and then the official thing will be here.
 Should I update to this beta?</description>
@@ -426,38 +387,38 @@ Should I update to this beta?</description>
     
     <item>
       <title>WordPress 3.3 enters public beta</title>
-      <link>https://damien1.github.io/blog/2011-10-30-wordpress-3-3-enters-public-beta/</link>
+      <link>https://damien.co/blog/2011-10-30-wordpress-3-3-enters-public-beta/</link>
       <pubDate>Sun, 30 Oct 2011 17:18:34 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2011-10-30-wordpress-3-3-enters-public-beta/</guid>
+      <guid>https://damien.co/blog/2011-10-30-wordpress-3-3-enters-public-beta/</guid>
       <description>WordPress 3.3 is on its way … it’s entered public beta, which means you can download it and try it for yourself. Don’t try this at home if you’re new to WordPress.
 WordPress 3.3 does a lot for admin and logged in users WordPress 3.3 has some cool features – including much more work on the WordPress Toolbar for logged in users, changes to backend admin pages and minor improvements for multisite admins.</description>
     </item>
     
     <item>
       <title>WordPress 3.2 Release Candidate 3</title>
-      <link>https://damien1.github.io/wordpress/wordpress-3-2-release-candidate-3-2-4438/</link>
+      <link>https://damien.co/wordpress/wordpress-3-2-release-candidate-3-2-4438/</link>
       <pubDate>Sat, 02 Jul 2011 15:21:50 +0000</pubDate>
       
-      <guid>https://damien1.github.io/wordpress/wordpress-3-2-release-candidate-3-2-4438/</guid>
+      <guid>https://damien.co/wordpress/wordpress-3-2-release-candidate-3-2-4438/</guid>
       <description>Improved look n feel / user experience to the Admin pages (after many years) Integrated the admin homepage header (with the WordPress Logo) with the left hand menu Admin bar has changed for single install and network admins Admin left hand menu has changed with big text to collapse / hide Network / Admin menu has been integrated in User menu / dropdown on the top right  Before you update any live site – backup  If you’re still stuck … get in contact and I’ll be happy to help you through</description>
     </item>
     
     <item>
       <title>WordPress 3.2 Release Candidate 3</title>
-      <link>https://damien1.github.io/blog/2011-07-02-wordpress-3-2-release-candidate-3/</link>
+      <link>https://damien.co/blog/2011-07-02-wordpress-3-2-release-candidate-3/</link>
       <pubDate>Sat, 02 Jul 2011 14:21:50 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2011-07-02-wordpress-3-2-release-candidate-3/</guid>
+      <guid>https://damien.co/blog/2011-07-02-wordpress-3-2-release-candidate-3/</guid>
       <description>Improved look n feel / user experience to the Admin pages (after many years) Integrated the admin homepage header (with the WordPress Logo) with the left hand menu Admin bar has changed for single install and network admins Admin left hand menu has changed with big text to collapse / hide Network / Admin menu has been integrated in User menu / dropdown on the top right  Before you update any live site – backup If you’re still stuck … get in contact and I’ll be happy to help you through</description>
     </item>
     
     <item>
       <title>Back from holidays &amp;#8211; what projects do you need help with?</title>
-      <link>https://damien1.github.io/blog/back-from-holidays-what-projects-do-you-need-help-with-4068/</link>
+      <link>https://damien.co/blog/back-from-holidays-what-projects-do-you-need-help-with-4068/</link>
       <pubDate>Mon, 27 Jun 2011 11:33:08 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/back-from-holidays-what-projects-do-you-need-help-with-4068/</guid>
+      <guid>https://damien.co/blog/back-from-holidays-what-projects-do-you-need-help-with-4068/</guid>
       <description>So after a several weeks holiday … as of now, I’m a free agent looking for new work and a new project to get stuck into.
  Are you looking for a consultant or marketing manager to help out? If you’re in need of a new product manager, marketing consultant or someone to start pulling together a marketing strategy then get in contact.
  </description>
@@ -465,10 +426,10 @@ WordPress 3.3 does a lot for admin and logged in users WordPress 3.3 has some co
     
     <item>
       <title>On holiday &amp;#8211; back next week</title>
-      <link>https://damien1.github.io/blog/on-holiday-back-next-week-3988/</link>
+      <link>https://damien.co/blog/on-holiday-back-next-week-3988/</link>
       <pubDate>Fri, 24 Jun 2011 11:34:35 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/on-holiday-back-next-week-3988/</guid>
+      <guid>https://damien.co/blog/on-holiday-back-next-week-3988/</guid>
       <description>Hi everyone … I hope your June is going well? I’ve been away on holiday for the past week taking some time to visit colleagues and friends in Madrid.
  While I’ve been away, I’ve been researching and taking notes for a range of new features on social media, marketing strategy and mobile consulting.
  Watch-out from Monday!
@@ -478,10 +439,10 @@ WordPress 3.3 does a lot for admin and logged in users WordPress 3.3 has some co
     
     <item>
       <title>Remember to add my Google&#43; Page</title>
-      <link>https://damien1.github.io/general/remember-to-add-my-google-page-5395/</link>
+      <link>https://damien.co/general/remember-to-add-my-google-page-5395/</link>
       <pubDate>Thu, 24 Feb 2011 20:39:02 +0000</pubDate>
       
-      <guid>https://damien1.github.io/general/remember-to-add-my-google-page-5395/</guid>
+      <guid>https://damien.co/general/remember-to-add-my-google-page-5395/</guid>
       <description>Now Google+ has launched pages for business … so if you’re using Google+ then please add Damien’s Google+ page.
 
 I’ll be sharing the latest presentations and other news and marketing stuff only on my Google+ page.</description>
@@ -489,19 +450,19 @@ I’ll be sharing the latest presentations and other news and marketing stuff on
     
     <item>
       <title>Social Media News this morning November 24, 2010</title>
-      <link>https://damien1.github.io/news-releases/social-media-news-this-morning-november-24-2010-2068/</link>
+      <link>https://damien.co/news-releases/social-media-news-this-morning-november-24-2010-2068/</link>
       <pubDate>Wed, 24 Nov 2010 08:01:42 +0000</pubDate>
       
-      <guid>https://damien1.github.io/news-releases/social-media-news-this-morning-november-24-2010-2068/</guid>
+      <guid>https://damien.co/news-releases/social-media-news-this-morning-november-24-2010-2068/</guid>
       <description></description>
     </item>
     
     <item>
       <title>20,000 visitors so far this year</title>
-      <link>https://damien1.github.io/general/20000-visitors-so-far-this-year-1995/</link>
+      <link>https://damien.co/general/20000-visitors-so-far-this-year-1995/</link>
       <pubDate>Mon, 22 Nov 2010 09:29:27 +0000</pubDate>
       
-      <guid>https://damien1.github.io/general/20000-visitors-so-far-this-year-1995/</guid>
+      <guid>https://damien.co/general/20000-visitors-so-far-this-year-1995/</guid>
       <description>So its mid-November and I’m just looking at the Google Analytics report to see how I’m getting on. Data visualisation is a big thing but raw numbers are also pretty good.20,000 visitors so far this year generated 50,000 page views.
 That’s pretty good for a one man marketing guy and his machine.
 Alexa’s Web Information also seems interesting – and if you don’t know what Alexa says about your site .</description>
@@ -509,28 +470,28 @@ Alexa’s Web Information also seems interesting – and if you don’t know wha
     
     <item>
       <title>Social Media News this morning November 22, 2010</title>
-      <link>https://damien1.github.io/news-releases/social-media-news-this-morning-november-22-2010-1998/</link>
+      <link>https://damien.co/news-releases/social-media-news-this-morning-november-22-2010-1998/</link>
       <pubDate>Mon, 22 Nov 2010 08:01:27 +0000</pubDate>
       
-      <guid>https://damien1.github.io/news-releases/social-media-news-this-morning-november-22-2010-1998/</guid>
+      <guid>https://damien.co/news-releases/social-media-news-this-morning-november-22-2010-1998/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Announcing Cambridge Startup Weekend December 10 &amp;#8211; 12</title>
-      <link>https://damien1.github.io/startup/announcing-cambridge-startup-weekend-december-10-12-1798/</link>
+      <link>https://damien.co/startup/announcing-cambridge-startup-weekend-december-10-12-1798/</link>
       <pubDate>Sun, 31 Oct 2010 19:22:52 +0000</pubDate>
       
-      <guid>https://damien1.github.io/startup/announcing-cambridge-startup-weekend-december-10-12-1798/</guid>
+      <guid>https://damien.co/startup/announcing-cambridge-startup-weekend-december-10-12-1798/</guid>
       <description>Cambridge Startup Weekend (http://cambridge.startupweekend.org) will take place December 10 – 11 – 12 2010 in just over 6 weeks at the Hauser Forum in Cambridge.Startup Weekend is the place to come for anyone with a new idea that they want to see brought to life. Over the weekend teams work together to take the ideas and create real new ventures. Anyone with an idea or interest in being an entrepreneur is welcome.</description>
     </item>
     
     <item>
       <title>UK Agency Mobile Interactive Group (MIG) ranked Number One in the 2010 Deloitte Technology Fast 50</title>
-      <link>https://damien1.github.io/news-releases/uk-agency-mobile-interactive-group-mig-ranked-number-one-in-the-2010-deloitte-technology-fast-50-1750/</link>
+      <link>https://damien.co/news-releases/uk-agency-mobile-interactive-group-mig-ranked-number-one-in-the-2010-deloitte-technology-fast-50-1750/</link>
       <pubDate>Mon, 25 Oct 2010 16:32:11 +0000</pubDate>
       
-      <guid>https://damien1.github.io/news-releases/uk-agency-mobile-interactive-group-mig-ranked-number-one-in-the-2010-deloitte-technology-fast-50-1750/</guid>
+      <guid>https://damien.co/news-releases/uk-agency-mobile-interactive-group-mig-ranked-number-one-in-the-2010-deloitte-technology-fast-50-1750/</guid>
       <description>UK Mobile Agency, Mobile Interactive Group (MIG) today announced that it ranked Number One in the 2010 Deloitte Technology Fast 50, a ranking of the 50 fastest growing technology companies in the UK. Rankings are based on percentage revenue growth over five years.
 Mobile Interactive Group grew 26885 percent during this period. Mobile Interactive Groups CEO &amp;amp; Founder, Barry Houlihan, credits continued investment in proprietary technology, platforms and people, and working with great clients with the company’s 26885 percent revenue growth over the past five years.</description>
     </item>

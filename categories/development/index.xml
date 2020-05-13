@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on Damien Saunders</title>
-    <link>https://damien1.github.io/categories/development/</link>
+    <link>https://damien.co/categories/development/</link>
     <description>Recent content in Development on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 12 May 2013 13:42:39 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Git: How to add a submodule in the root of your project - Try Git SubTree instead</title>
-      <link>https://damien1.github.io/development/git-how-to-add-a-submodule-in-the-root-of-your-project-try-git-subtree-instead-8665/</link>
+      <link>https://damien.co/development/git-how-to-add-a-submodule-in-the-root-of-your-project-try-git-subtree-instead-8665/</link>
       <pubDate>Sun, 12 May 2013 13:42:39 +0000</pubDate>
       
-      <guid>https://damien1.github.io/development/git-how-to-add-a-submodule-in-the-root-of-your-project-try-git-subtree-instead-8665/</guid>
+      <guid>https://damien.co/development/git-how-to-add-a-submodule-in-the-root-of-your-project-try-git-subtree-instead-8665/</guid>
       <description>This is just a short post and the title says it all … I’ve wanted add submodules to a Git repository but you get an error if you try. So how do you add a submodule to your root folder in your Git project? Easy — Git Subtree Merge is what you need.
 Add your 2nd Git Project as a Remote Actually, you start by adding a git remote with the source being the git project you want to pull in.</description>
     </item>
     
     <item>
       <title>How to integrate your own Isotope jQuery plugin with your WordPress</title>
-      <link>https://damien1.github.io/blog/2013-04-28-how-to-integrate-your-own-isotope-jquery-plugin-with-your-wordpress/</link>
+      <link>https://damien.co/blog/2013-04-28-how-to-integrate-your-own-isotope-jquery-plugin-with-your-wordpress/</link>
       <pubDate>Sun, 28 Apr 2013 12:00:13 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-28-how-to-integrate-your-own-isotope-jquery-plugin-with-your-wordpress/</guid>
+      <guid>https://damien.co/blog/2013-04-28-how-to-integrate-your-own-isotope-jquery-plugin-with-your-wordpress/</guid>
       <description>I was recently asked if it was easy to integrate Isotope jQuery plugin into a WordPress website. It’s not uncomplicated to add isotope.js to your website – it’s just not as easy as linking a script to your header.
 2 Ways to add Isotope jQuery Plugin to WordPress As always, there are (at least) 2 ways to achieve this
  Create a page template for the purpose – with all the code you want Add the code to your themes function.</description>
@@ -34,10 +34,10 @@ Add your 2nd Git Project as a Remote Actually, you start by adding a git remote 
     
     <item>
       <title>WordPress Security &amp;#8211; protect your wp-admin with this quick .htaccess trick</title>
-      <link>https://damien1.github.io/blog/2013-04-18-wordpress-security-protect-your-wp-admin-with-this-quick-htaccess-trick/</link>
+      <link>https://damien.co/blog/2013-04-18-wordpress-security-protect-your-wp-admin-with-this-quick-htaccess-trick/</link>
       <pubDate>Thu, 18 Apr 2013 21:55:23 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-18-wordpress-security-protect-your-wp-admin-with-this-quick-htaccess-trick/</guid>
+      <guid>https://damien.co/blog/2013-04-18-wordpress-security-protect-your-wp-admin-with-this-quick-htaccess-trick/</guid>
       <description>WordPress is under going an attack by a swarm of Zombies– and they are after any site with an Admin user account. Securing WordPress is easy and you can do two things to protect your website and yourself.
   Change and then delete your Admin account (if you haven’t already)
   Only allow access to WordPress /wp-admin by your IP address
@@ -46,59 +46,59 @@ Add your 2nd Git Project as a Remote Actually, you start by adding a git remote 
     
     <item>
       <title>Differences between a plugin and a theme</title>
-      <link>https://damien1.github.io/blog/2013-04-15-differences-between-a-plugin-and-a-theme/</link>
+      <link>https://damien.co/blog/2013-04-15-differences-between-a-plugin-and-a-theme/</link>
       <pubDate>Mon, 15 Apr 2013 13:58:34 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-15-differences-between-a-plugin-and-a-theme/</guid>
+      <guid>https://damien.co/blog/2013-04-15-differences-between-a-plugin-and-a-theme/</guid>
       <description>In WordPress, as with many things, there are two ways to add features and customise your website, either with themes (php template files) or plugins. There are multiple threads about what’s the difference between a theme and a plugin. A plugin ‘should not’ change your website design / look and feel … But a theme can do everything a plugin does (including installing other plugins). Difference between a plugin and a theme To make things sound simple … Primarily, a plugin gives you the user, fine control via the shortcode as to when my plugin function is activated, and of course you can just turn off the plugin at any time.</description>
     </item>
     
     <item>
       <title>Custom Images in WordPress &amp;#8211; Getting your own thumbnail</title>
-      <link>https://damien1.github.io/blog/2013-04-15-custom-images-in-wordpress-getting-your-own-thumbnail/</link>
+      <link>https://damien.co/blog/2013-04-15-custom-images-in-wordpress-getting-your-own-thumbnail/</link>
       <pubDate>Mon, 15 Apr 2013 09:14:10 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-15-custom-images-in-wordpress-getting-your-own-thumbnail/</guid>
+      <guid>https://damien.co/blog/2013-04-15-custom-images-in-wordpress-getting-your-own-thumbnail/</guid>
       <description>In WordPress, images are automatically re-saved in different sizes like creating a thumbnail. But what happens if you want to use your own image? or want a different size?
 Note: each image will also get a custom class added called dsimage … this means you can style it.</description>
     </item>
     
     <item>
       <title>Managing a WordPress plugin with SVN and Git</title>
-      <link>https://damien1.github.io/blog/2013-01-22-managing-a-wordpress-plugin-with-svn-and-git/</link>
+      <link>https://damien.co/blog/2013-01-22-managing-a-wordpress-plugin-with-svn-and-git/</link>
       <pubDate>Tue, 22 Jan 2013 20:43:49 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-01-22-managing-a-wordpress-plugin-with-svn-and-git/</guid>
+      <guid>https://damien.co/blog/2013-01-22-managing-a-wordpress-plugin-with-svn-and-git/</guid>
       <description>I’m not trying to torture myself — which is why for the past 18 months managing my plugins in the WordPress SVN repository has been separated from my development work which is all saved in Git (Bitbucket to be totally honest).
 The time has come to find out just what ‘git svn‘ is all about and see if I can make it work! I’ve yet to become a master or ninja of Git .</description>
     </item>
     
     <item>
       <title>HOW TO: Install Jenkins-CI on a Mac OS X with Git &amp;#038; Bitbucket</title>
-      <link>https://damien1.github.io/development/how-to-install-jenkins-ci-on-a-mac-os-x-with-git-bitbucket-8072/</link>
+      <link>https://damien.co/development/how-to-install-jenkins-ci-on-a-mac-os-x-with-git-bitbucket-8072/</link>
       <pubDate>Tue, 18 Dec 2012 13:56:15 +0000</pubDate>
       
-      <guid>https://damien1.github.io/development/how-to-install-jenkins-ci-on-a-mac-os-x-with-git-bitbucket-8072/</guid>
+      <guid>https://damien.co/development/how-to-install-jenkins-ci-on-a-mac-os-x-with-git-bitbucket-8072/</guid>
       <description>A few notes on getting Jenkins-CI installed on your Mac and setup with Git and Bitbucket for source code management. I’ve been using Git for some time but I had problems / major issues with Jenkins and could never seem to get this working.
 Issues with setting up Jenkins and Git on a Mac Here are the issues I was having … the biggest issue was the Error (unable to clone) which showed up when I created a job and added the path to the Bitbucket repo — even after I had added the SSH Key to Bitbucket.</description>
     </item>
     
     <item>
       <title>Top Development Tools on my MacBook Pro</title>
-      <link>https://damien1.github.io/development/top-development-tools-on-my-macbook-pro-7234/</link>
+      <link>https://damien.co/development/top-development-tools-on-my-macbook-pro-7234/</link>
       <pubDate>Mon, 11 Jun 2012 09:10:47 +0000</pubDate>
       
-      <guid>https://damien1.github.io/development/top-development-tools-on-my-macbook-pro-7234/</guid>
+      <guid>https://damien.co/development/top-development-tools-on-my-macbook-pro-7234/</guid>
       <description>If you wanted to know what I apps and software I use every day then here you go … For starters this is all Mac OSx stuff.
  AxureRP 6.5 – wireframes and interactive prototypes. UX/UI Heaven Terminal – go command line (for SSH and most server stuff like testing with siege) Coda 2 – An all in one IDE – FTP, MySQL database, CSS, Editor and more … Transmit – only if I can’t be bothered to use Coda Firefox (and then only for these 2 extensions) SQLite Manager – SQLite may be the new mySQL … we’ll see Selenium IDE – for browser based testing (but only in Firefox) Sequel Pro – mySQL database manager SourceTree (as it works with Bitbucket)  Other apps to know about  MarsEdit – Best blog tool around for WordPress – but definitely room to improve Scrivener – for writing all that blog stuff Omnigraffle – when you can’t use Axure (and don’t have Visio) Pixelmator – who needs Photoshop Aperture – who needs Lightroom Netnewswire – I do all my RSS reading on the mobile now  Cloud based stuff I use every day  Google.</description>
     </item>
     
     <item>
       <title>Sequel Pro &amp;#8211; Fastest &amp;#038; best MySQL client for Mac</title>
-      <link>https://damien1.github.io/development/sequel-pro-fastest-best-mysql-client-for-mac-7198/</link>
+      <link>https://damien.co/development/sequel-pro-fastest-best-mysql-client-for-mac-7198/</link>
       <pubDate>Thu, 07 Jun 2012 12:35:36 +0000</pubDate>
       
-      <guid>https://damien1.github.io/development/sequel-pro-fastest-best-mysql-client-for-mac-7198/</guid>
+      <guid>https://damien.co/development/sequel-pro-fastest-best-mysql-client-for-mac-7198/</guid>
       <description>Sequel Prois the fastest and best MySQL client for Mac right now. After a mini disaster yesterday involving Sequel Pro and filename extensions, I thought I’d checkout the competition.
 So I did a quick check and downloaded a few other apps that would manage MySQL on a Mac with OS x –
  MySQL Workbench RazorSQL (not free so didn’t try) Navicat  Both MySQL Workbench and Navicat are java based apps.</description>
@@ -106,20 +106,20 @@ So I did a quick check and downloaded a few other apps that would manage MySQL o
     
     <item>
       <title>Rackspace &amp;#8211; List of CIDR&amp;#8217;s for Testing with Blazemeter</title>
-      <link>https://damien1.github.io/development/rackspace-list-of-cidrs-for-testing-with-blazemeter-6213/</link>
+      <link>https://damien.co/development/rackspace-list-of-cidrs-for-testing-with-blazemeter-6213/</link>
       <pubDate>Sat, 10 Mar 2012 18:32:21 +0000</pubDate>
       
-      <guid>https://damien1.github.io/development/rackspace-list-of-cidrs-for-testing-with-blazemeter-6213/</guid>
+      <guid>https://damien.co/development/rackspace-list-of-cidrs-for-testing-with-blazemeter-6213/</guid>
       <description>I’ve just finished a WordPress multi-server development project which required a scalable deployment setup. We also needed to test the setup under load and ended up using Blazemeter (basically jmeter in the cloud).
 If you’re setup in Rackspace has a load balancer, you know you need to allow a number of IP’s by modifying the Access Control. Annoyingly there was no 1 list of the CIDR’s to allow. Blazemeter keeps a list of CIDR’sbut this couldn’t be cut n paste into Rackspace.</description>
     </item>
     
     <item>
       <title>HOW TO recover from the most common WordPress website killers</title>
-      <link>https://damien1.github.io/blog/2011-07-10-how-to-recover-from-the-most-common-wordpress-website-killers/</link>
+      <link>https://damien.co/blog/2011-07-10-how-to-recover-from-the-most-common-wordpress-website-killers/</link>
       <pubDate>Sun, 10 Jul 2011 15:31:32 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2011-07-10-how-to-recover-from-the-most-common-wordpress-website-killers/</guid>
+      <guid>https://damien.co/blog/2011-07-10-how-to-recover-from-the-most-common-wordpress-website-killers/</guid>
       <description>It’s easy to recover from the 2 most common errors that kill your WordPress website. Fix the issue in 3 simple steps.
 When something goes wrong WordPress the most common cause is a plugin conflict or a problem with your theme. There’s nothing worse then feeling you’ve been locked out from your own website and can’t get to the wp-admin section to login.
 Today, WordPress is one of the world’s best solutions for blogging and website.</description>
@@ -127,10 +127,10 @@ Today, WordPress is one of the world’s best solutions for blogging and website
     
     <item>
       <title>HOW TO: Better way to Enable WordPress maintenance mode</title>
-      <link>https://damien1.github.io/blog/2011-07-09-how-to-enable-wordpress-maintenance-mode-2/</link>
+      <link>https://damien.co/blog/2011-07-09-how-to-enable-wordpress-maintenance-mode-2/</link>
       <pubDate>Sat, 09 Jul 2011 17:00:58 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2011-07-09-how-to-enable-wordpress-maintenance-mode-2/</guid>
+      <guid>https://damien.co/blog/2011-07-09-how-to-enable-wordpress-maintenance-mode-2/</guid>
       <description>WordPress is a great tool. It has its own way of managing updates to your website – and will switch to maintenance mode automatically. For the best user experience you should enable maintenance mode yourself.
 How to Enable Maintenance Mode without a Plugin – method 1 Activating maintenance mode without a plugin is easy. First, open your FTP program and then navigate to the root folder of you WordPress install.</description>
     </item>

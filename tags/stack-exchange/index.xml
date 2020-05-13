@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stack Exchange on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/stack-exchange/</link>
+    <link>https://damien.co/tags/stack-exchange/</link>
     <description>Recent content in Stack Exchange on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 07 Oct 2012 14:56:15 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/stack-exchange/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/stack-exchange/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>I&amp;#8217;m on WordPress Stack Exchange &amp;#8230; are you?</title>
-      <link>https://damien1.github.io/blog/2012-10-07-im-on-wordpress-stack-exchange-are-you/</link>
+      <link>https://damien.co/blog/2012-10-07-im-on-wordpress-stack-exchange-are-you/</link>
       <pubDate>Sun, 07 Oct 2012 14:56:15 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-10-07-im-on-wordpress-stack-exchange-are-you/</guid>
+      <guid>https://damien.co/blog/2012-10-07-im-on-wordpress-stack-exchange-are-you/</guid>
       <description>You can join in the conversation with me and many others on WordPress Stack Exchange</description>
     </item>
     
     <item>
       <title>How to get started with WordPress Stack Exchange. Or How I got to 1000&#43; rep in 4 weeks</title>
-      <link>https://damien1.github.io/blog/2012-08-19-how-to-get-started-with-wordpress-stack-exchange-or-how-i-got-to-1000-rep-in-4-weeks/</link>
+      <link>https://damien.co/blog/2012-08-19-how-to-get-started-with-wordpress-stack-exchange-or-how-i-got-to-1000-rep-in-4-weeks/</link>
       <pubDate>Sun, 19 Aug 2012 15:49:51 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-08-19-how-to-get-started-with-wordpress-stack-exchange-or-how-i-got-to-1000-rep-in-4-weeks/</guid>
+      <guid>https://damien.co/blog/2012-08-19-how-to-get-started-with-wordpress-stack-exchange-or-how-i-got-to-1000-rep-in-4-weeks/</guid>
       <description>There are lots of ways to earn reputation points on WordPress Answers on Stack Exchange. If you develop or are seriously interested in WordPress then go join WP Stack Exchange immediately.
 
 Why bother with WordPress Answers? Well let’s just say that it’s a nice way to ‘pay it forward’ – that’s to say if you give helpful answers you’ll get helpful answers.

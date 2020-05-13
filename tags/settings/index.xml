@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Settings on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/settings/</link>
+    <link>https://damien.co/tags/settings/</link>
     <description>Recent content in Settings on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 18 Jan 2014 23:36:48 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/settings/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/settings/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Using a Netgear N600 DGND3700v1 to extend a home network</title>
-      <link>https://damien1.github.io/general/using-netgear-n600-dgnd3700v1-extend-home-network-8747/</link>
+      <link>https://damien.co/general/using-netgear-n600-dgnd3700v1-extend-home-network-8747/</link>
       <pubDate>Sat, 18 Jan 2014 23:36:48 +0000</pubDate>
       
-      <guid>https://damien1.github.io/general/using-netgear-n600-dgnd3700v1-extend-home-network-8747/</guid>
+      <guid>https://damien.co/general/using-netgear-n600-dgnd3700v1-extend-home-network-8747/</guid>
       <description>I’ve brought a brand new Asus RT-AC66U modem/router and decided that to use my old Netgear N600 ADSL modem/router DGND3700v1 to extend my home network and expand my wireless network.
 I’ve put the Netgear in a room where there was poor wifi signal strength and used a powerline (ethernet over power) adapter to connect back to the new main connection.
 To get the Netgear to behave like a wireless Access Point and extend my existing network should have been easy.</description>
@@ -24,10 +24,10 @@ To get the Netgear to behave like a wireless Access Point and extend my existing
     
     <item>
       <title>App Design: Make sure yours saves settings (MobileRSS)</title>
-      <link>https://damien1.github.io/apps-2/app-design-make-sure-your-saves-settings-mobilerss-7230/</link>
+      <link>https://damien.co/apps-2/app-design-make-sure-your-saves-settings-mobilerss-7230/</link>
       <pubDate>Mon, 11 Jun 2012 13:39:31 +0000</pubDate>
       
-      <guid>https://damien1.github.io/apps-2/app-design-make-sure-your-saves-settings-mobilerss-7230/</guid>
+      <guid>https://damien.co/apps-2/app-design-make-sure-your-saves-settings-mobilerss-7230/</guid>
       <description>Have you ever used an app, thought you saved the settings and then you check and nothing changes … It happens all the time with MobileRSS. This has been bugging me for awhile now. Usually I think I’m not the only one who spots these things …
 The funny thing is, a preference change needs to be done in 3 parts
  the visual UI/UE cue to let you know something changed (like a tick or a save button changes text) the backend data / prefs change is stored the app ‘reloads’ with the new settings  So what goes wrong with saving state changes?</description>

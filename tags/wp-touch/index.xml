@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WP Touch on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/wp-touch/</link>
+    <link>https://damien.co/tags/wp-touch/</link>
     <description>Recent content in WP Touch on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 17 Jun 2012 16:00:27 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/wp-touch/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/wp-touch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>HOW TO: View your WordPress Website on iPhone or Android Mobiles</title>
-      <link>https://damien1.github.io/blog/2012-06-17-how-to-view-your-wordpress-website-on-iphone-or-android-2/</link>
+      <link>https://damien.co/blog/2012-06-17-how-to-view-your-wordpress-website-on-iphone-or-android-2/</link>
       <pubDate>Sun, 17 Jun 2012 16:00:27 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-06-17-how-to-view-your-wordpress-website-on-iphone-or-android-2/</guid>
+      <guid>https://damien.co/blog/2012-06-17-how-to-view-your-wordpress-website-on-iphone-or-android-2/</guid>
       <description>WordPress is a very comprehensive all-round tool for websites – and its not just for blogs. If you’re starting out with WordPress and need your site to look smooth on a mobile phone like the iPhone or iPad or any Android mobile then you’ll need a plugin for this.
 The best plugin for WordPress that handles any mobile device is easily WPtouch iPhone Theme. Once the plugin is installed and activated its working for you straight away.</description>
     </item>
     
     <item>
       <title>Mobile Internet testing tools to check your WP TouchPro changes</title>
-      <link>https://damien1.github.io/blog/2011-12-29-mobile-internet-testing-tools-to-check-your-wp-touchpro-changes/</link>
+      <link>https://damien.co/blog/2011-12-29-mobile-internet-testing-tools-to-check-your-wp-touchpro-changes/</link>
       <pubDate>Thu, 29 Dec 2011 10:44:33 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2011-12-29-mobile-internet-testing-tools-to-check-your-wp-touchpro-changes/</guid>
+      <guid>https://damien.co/blog/2011-12-29-mobile-internet-testing-tools-to-check-your-wp-touchpro-changes/</guid>
       <description>WordPress makes it easy to publish your site for mobile users. It’s best that you always test your changes on smart phones but did you know that you can check most changes on using your Apple Mac?
  Mobile Internet Solutions WP TouchPro is one of the best solutions to make your site ready for the mobile internet and smart-phone users. The key reason it is so good lies in the fact that it combines both a plugin and has it’s own mobile specific theme.</description>
     </item>

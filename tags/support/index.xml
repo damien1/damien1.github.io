@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Support on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/support/</link>
+    <link>https://damien.co/tags/support/</link>
     <description>Recent content in Support on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 07 Apr 2013 20:48:56 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/support/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/support/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Visual Layouts Filtrify &amp;#038; Isotope Visual Layouts &amp;#8211; will they work with your WordPress Theme?</title>
-      <link>https://damien1.github.io/blog/2013-04-07-visual-layouts-filtrify-isotope-visual-layouts-with-your-wordpress-theme/</link>
+      <link>https://damien.co/blog/2013-04-07-visual-layouts-filtrify-isotope-visual-layouts-with-your-wordpress-theme/</link>
       <pubDate>Sun, 07 Apr 2013 20:48:56 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-07-visual-layouts-filtrify-isotope-visual-layouts-with-your-wordpress-theme/</guid>
+      <guid>https://damien.co/blog/2013-04-07-visual-layouts-filtrify-isotope-visual-layouts-with-your-wordpress-theme/</guid>
       <description>I recently received this email and thought I’d write up a few notes on my plugins. Right or Wrong … If you like the style of your theme, WordPress plugins are there to extend the function of your site. This means you don’t have to replace your existing theme just to get a new feature.
  Want to get a cool theme instead? If you do like the style / grid layout that I’m showing and want to replace your theme … then checkout the WooThemes range of themes.</description>
     </item>
     
     <item>
       <title>Pro Plugin &amp;#8211; New User Guides &amp;amp; Support tools</title>
-      <link>https://damien1.github.io/blog/2013-04-05-pro-plugin-new-user-guides-support-tools/</link>
+      <link>https://damien.co/blog/2013-04-05-pro-plugin-new-user-guides-support-tools/</link>
       <pubDate>Fri, 05 Apr 2013 09:52:37 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-05-pro-plugin-new-user-guides-support-tools/</guid>
+      <guid>https://damien.co/blog/2013-04-05-pro-plugin-new-user-guides-support-tools/</guid>
       <description>Until a few days ago, I’d been relying on e-mail to manage your support requests. During the past 3 months I’ve looked at different options to provide support and also publish user guides and support material – beyond what’s in the readme files.
 Announcing Help &amp;amp; User Guides for Pro Plugins Anyone who has brought a Pro plugin from me, will now get access to Help &amp;amp; User Docsjust visit http://docs.</description>
     </item>

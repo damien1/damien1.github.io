@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>keyboard shortcuts on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/keyboard-shortcuts/</link>
+    <link>https://damien.co/tags/keyboard-shortcuts/</link>
     <description>Recent content in keyboard shortcuts on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 20 Aug 2009 12:12:26 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/keyboard-shortcuts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/keyboard-shortcuts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tip from a Windows Convert: Office for Mac &amp;#8211; Excel Keyboard Shortcut</title>
-      <link>https://damien1.github.io/general/tip-from-a-windows-convert-office-for-mac-excel-keyboard-shortcut-269/</link>
+      <link>https://damien.co/general/tip-from-a-windows-convert-office-for-mac-excel-keyboard-shortcut-269/</link>
       <pubDate>Thu, 20 Aug 2009 12:12:26 +0000</pubDate>
       
-      <guid>https://damien1.github.io/general/tip-from-a-windows-convert-office-for-mac-excel-keyboard-shortcut-269/</guid>
+      <guid>https://damien.co/general/tip-from-a-windows-convert-office-for-mac-excel-keyboard-shortcut-269/</guid>
       <description>I’ve been using keyboard shortcuts for Microsoft Office on Windows for years. So here I am now using Mac Office on a Macbook Pro and still trying to figure out how to get around the keyboard.Tip of the Day – Windows Excel Alt+Enter and in Mac Office Excel keyboard shortcut is Fn+Ctrl+Alt
 This adds a carriage return within the current cell and its great for doing long text entry in 1 cell.</description>
     </item>

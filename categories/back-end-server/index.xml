@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Back End Server on Damien Saunders</title>
-    <link>https://damien1.github.io/categories/back-end-server/</link>
+    <link>https://damien.co/categories/back-end-server/</link>
     <description>Recent content in Back End Server on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 10 Jun 2012 16:12:48 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/categories/back-end-server/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/categories/back-end-server/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>WordPress Security 5G Blacklist .htaccess</title>
-      <link>https://damien1.github.io/blog/2012-06-10-wordpress-security-5g-blacklist-htaccess/</link>
+      <link>https://damien.co/blog/2012-06-10-wordpress-security-5g-blacklist-htaccess/</link>
       <pubDate>Sun, 10 Jun 2012 16:12:48 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-06-10-wordpress-security-5g-blacklist-htaccess/</guid>
+      <guid>https://damien.co/blog/2012-06-10-wordpress-security-5g-blacklist-htaccess/</guid>
       <description>If you’re into WordPress Security (which you should be) … then you’ve probably already played around with your .htaccess file to block comment spam. For a number of years now, Perishable Press has been working on a blacklist to help kills spam and other un-welcomes! Now in its 5th Generation the Blacklist is very powerful.
 Perishable Press is a great source of information on .htaccess and URL rewrite rules … but I wanted to just highlight a couple of things (perhaps for my own memory).</description>
     </item>
     
     <item>
       <title>HOW TO fix the Fatal Error: Allowed Memory Size in WordPress</title>
-      <link>https://damien1.github.io/blog/2011-12-27-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-2/</link>
+      <link>https://damien.co/blog/2011-12-27-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-2/</link>
       <pubDate>Tue, 27 Dec 2011 12:30:23 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2011-12-27-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-2/</guid>
+      <guid>https://damien.co/blog/2011-12-27-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-2/</guid>
       <description>WordPress offers lots of plugins to choose from and if you add to many you will soon come across this Fatal Error message. You can easily fix the problem (and then go back to adding more plugins).
 This out of memory error doesn’t mean you have to go buy more RAM — just have to amend a line of text in a wordpress settings file.
  Fix the Fatal Error: Allowed Memory Size When you installed WordPress you either uploaded it using FTP yourself or went to an admin cpanel and installed it.</description>

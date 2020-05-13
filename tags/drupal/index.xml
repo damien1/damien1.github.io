@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drupal on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/drupal/</link>
+    <link>https://damien.co/tags/drupal/</link>
     <description>Recent content in Drupal on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 15 Nov 2011 09:21:28 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/drupal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/drupal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Remember your Mobile Browser detection for iPad &amp;#038; Smartphones</title>
-      <link>https://damien1.github.io/mobile-marketing/remember-your-mobile-browser-detection-for-ipad-smartphones-2589/</link>
+      <link>https://damien.co/mobile-marketing/remember-your-mobile-browser-detection-for-ipad-smartphones-2589/</link>
       <pubDate>Tue, 15 Nov 2011 09:21:28 +0000</pubDate>
       
-      <guid>https://damien1.github.io/mobile-marketing/remember-your-mobile-browser-detection-for-ipad-smartphones-2589/</guid>
+      <guid>https://damien.co/mobile-marketing/remember-your-mobile-browser-detection-for-ipad-smartphones-2589/</guid>
       <description>So you’ve built a great website for your clients and they’re happy to see its getting lots of good traffic. Now your client wants to know how to make their website mobile.
 Depending on the CMS you used to build the website – WordPressor Drupal for example, be sure to setup a mobile browser plugin that renders your website smartphone and mobile friendly.
  For anyone building a website from scratch – mobile browser detection is done in the same was as detecting say IE6.</description>

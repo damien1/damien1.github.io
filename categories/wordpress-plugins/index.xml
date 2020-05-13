@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WordPress Plugins on Damien Saunders</title>
-    <link>https://damien1.github.io/categories/wordpress-plugins/</link>
+    <link>https://damien.co/categories/wordpress-plugins/</link>
     <description>Recent content in WordPress Plugins on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 04 Mar 2014 22:11:44 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/categories/wordpress-plugins/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/categories/wordpress-plugins/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Isotope Visual Layouts Pro - caching improvements</title>
-      <link>https://damien1.github.io/blog/2014-03-04-isotope-visual-layouts-pro-caching-improvements/</link>
+      <link>https://damien.co/blog/2014-03-04-isotope-visual-layouts-pro-caching-improvements/</link>
       <pubDate>Tue, 04 Mar 2014 22:11:44 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2014-03-04-isotope-visual-layouts-pro-caching-improvements/</guid>
+      <guid>https://damien.co/blog/2014-03-04-isotope-visual-layouts-pro-caching-improvements/</guid>
       <description>I&amp;rsquo;ve made a small change to Isotope Visual Layouts Proand this directly improves caching and website performance.
 Isotope Visual Layouts Pro will shortly get a version bump and include a Transient to store the WordPress database query for 1 hour. The transient cache is also cleared when a new post is published.</description>
     </item>
     
     <item>
       <title>Isotope Visual Layouts lite new version out now</title>
-      <link>https://damien1.github.io/blog/2014-02-04-isotope-visual-layouts-lite/</link>
+      <link>https://damien.co/blog/2014-02-04-isotope-visual-layouts-lite/</link>
       <pubDate>Tue, 04 Feb 2014 22:47:27 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2014-02-04-isotope-visual-layouts-lite/</guid>
+      <guid>https://damien.co/blog/2014-02-04-isotope-visual-layouts-lite/</guid>
       <description>Isotope Visual Layouts lite, my free WordPress plugin which adds animated grid layouts to your website has been updated.
 
 What’s New in Version 3.0  Introduces Metro UI CSS to replace my own custom code Updates Isotope jQuery to latest version   Where can I get it? Isotope Visual Layouts lite is a free plugin – you just need to register and download.</description>
@@ -34,10 +34,10 @@ What’s New in Version 3.0  Introduces Metro UI CSS to replace my own custom co
     
     <item>
       <title>DBC Backup 2 - minor update</title>
-      <link>https://damien1.github.io/blog/2014-01-05-dbc-backup-2-minor-update/</link>
+      <link>https://damien.co/blog/2014-01-05-dbc-backup-2-minor-update/</link>
       <pubDate>Sun, 05 Jan 2014 16:08:07 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2014-01-05-dbc-backup-2-minor-update/</guid>
+      <guid>https://damien.co/blog/2014-01-05-dbc-backup-2-minor-update/</guid>
       <description>DBC Backup 2 my WordPress plugin to safely backup your website has had a minor update.
 DBC Backup 2 build 2.3.25 has just been published to the WordPress Plugin repository and you can update now.
 Features / What&amp;rsquo;s New in DBC Backup 2 build 2.3.25 Fixes - a problem where the settings link didn&amp;rsquo;t work from the WordPress Installed Plugins page
@@ -46,10 +46,10 @@ New - help pulldown has been added to the plugin setting page.</description>
     
     <item>
       <title>Isotope Visual Layouts lite getting updated</title>
-      <link>https://damien1.github.io/blog/2014-01-01-isotope-visual-layouts-lite-getting-updated/</link>
+      <link>https://damien.co/blog/2014-01-01-isotope-visual-layouts-lite-getting-updated/</link>
       <pubDate>Wed, 01 Jan 2014 11:30:48 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2014-01-01-isotope-visual-layouts-lite-getting-updated/</guid>
+      <guid>https://damien.co/blog/2014-01-01-isotope-visual-layouts-lite-getting-updated/</guid>
       <description>As part of a new year cleanup, my WordPress plugin Isotope Visual Layouts lite is getting some much needed attention.
 
  The new version of my free plugin for WordPress is currently being tested.
@@ -59,10 +59,10 @@ Tested on WordPress 3.8</description>
     
     <item>
       <title>DBC Backup 2  new version is ready for you</title>
-      <link>https://damien1.github.io/blog/2013-12-14-dbc-backup-2-new-version-ready/</link>
+      <link>https://damien.co/blog/2013-12-14-dbc-backup-2-new-version-ready/</link>
       <pubDate>Sat, 14 Dec 2013 22:46:35 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-12-14-dbc-backup-2-new-version-ready/</guid>
+      <guid>https://damien.co/blog/2013-12-14-dbc-backup-2-new-version-ready/</guid>
       <description>DBC Backup 2 is a WordPress plugin that creates backups of your database. DBC Backup 2 has just been update to v2.3.24.
 DBC Backup 2 has been completely redesigned and looks great as part of WordPress 3.8.
 What&amp;rsquo;s new in DBC Backup 2 The latest version of DBC Backup 2 includes a number of significant changes
@@ -70,14 +70,13 @@ What&amp;rsquo;s new in DBC Backup 2 The latest version of DBC Backup 2 includes
     </item>
     
     <item>
-      <title>DBC Backup 2 &amp;#8211; v2.3 what&amp;#8217;s coming</title>
-      <link>https://damien1.github.io/blog/2013-10-17-dbc-backup-2-v2-3-whats-coming/</link>
+      <title>DBC Backup 2 - v2.3 what&#39;s coming</title>
+      <link>https://damien.co/blog/2013-10-17-dbc-backup-2-v2-3-whats-coming/</link>
       <pubDate>Thu, 17 Oct 2013 23:48:04 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-10-17-dbc-backup-2-v2-3-whats-coming/</guid>
-      <description>The next version of DBC Backup 2 is just around the corner – I’ve held it back to better test the backup files and tinker with the admin panel.
-
-So What’s in DBC Backup 2 v2.3? Key features of this version are
+      <guid>https://damien.co/blog/2013-10-17-dbc-backup-2-v2-3-whats-coming/</guid>
+      <description>The next version of DBC Backup 2 is just around the corner - I&amp;rsquo;ve held it back to better test the backup files and tinker with the admin panel.
+So What&amp;rsquo;s in DBC Backup 2 v2.3? Key features of this version are
   Support for SQL server 5.5 and up
   Removes annoying debug log errors
   Transitions from mysql to mysqli
@@ -85,33 +84,33 @@ So What’s in DBC Backup 2 v2.3? Key features of this version are
     </item>
     
     <item>
-      <title>DBC Backup 2 &amp;#8212; new version on the way updated for MySQL 5.6 and latest WordPress</title>
-      <link>https://damien1.github.io/blog/2013-10-12-dbc-backup-2-new-version-on-the-way-updated-for-mysql-5-6-and-latest-wordpress/</link>
+      <title>DBC Backup 2 - new version on the way updated for MySQL 5.6 and latest WordPress</title>
+      <link>https://damien.co/blog/2013-10-12-dbc-backup-2-new-version-on-the-way-updated-for-mysql-5-6-and-latest-wordpress/</link>
       <pubDate>Sat, 12 Oct 2013 23:04:43 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-10-12-dbc-backup-2-new-version-on-the-way-updated-for-mysql-5-6-and-latest-wordpress/</guid>
+      <guid>https://damien.co/blog/2013-10-12-dbc-backup-2-new-version-on-the-way-updated-for-mysql-5-6-and-latest-wordpress/</guid>
       <description>DBC Backup 2 my WordPress plugin to safely back-up your database is getting an massive update. This will add support for the latest MySQL server version 5.6 and is currently in test.
 DBC Backup 2 v2.3 is being tested with the latest versions of MySQL server and WordPress. It has been tested to ensure users can import and recover from their backup files.
  About DBC Backup 2
-DBC Backup 2 is the WordPress plugin that you want behind the scenes – it safely and easily backs up your WordPress database, posts, settings and comments.</description>
+DBC Backup 2 is the WordPress plugin that you want behind the scenes - it safely and easily backs up your WordPress database, posts, settings and comments.</description>
     </item>
     
     <item>
       <title>Messing with your Head &amp;#8211; when to use WordPress template parts vs JavaScript</title>
-      <link>https://damien1.github.io/blog/2013-09-26-messing-with-your-head-when-to-use-wordpress-template-parts-vs-javascript/</link>
+      <link>https://damien.co/blog/2013-09-26-messing-with-your-head-when-to-use-wordpress-template-parts-vs-javascript/</link>
       <pubDate>Thu, 26 Sep 2013 12:05:33 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-09-26-messing-with-your-head-when-to-use-wordpress-template-parts-vs-javascript/</guid>
+      <guid>https://damien.co/blog/2013-09-26-messing-with-your-head-when-to-use-wordpress-template-parts-vs-javascript/</guid>
       <description>Here I am … I’m messing with your head. I wanted to see how easy it is to get my Isotope Visual Layouts plugin for WordPress to change your your homepage. Actually it was too easy and the result is destruction and chaos.
 No-No – I’m Never Going to Mess with your Head First thing to note – Never do anything with a plugin that ‘you’ the User doesn’t expect. That’s bad bad karma.</description>
     </item>
     
     <item>
       <title>Isotope Visual Layouts with Infinite Scroll</title>
-      <link>https://damien1.github.io/blog/2013-08-09-isotope-visual-layouts-with-infinite-scroll/</link>
+      <link>https://damien.co/blog/2013-08-09-isotope-visual-layouts-with-infinite-scroll/</link>
       <pubDate>Fri, 09 Aug 2013 23:28:47 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-08-09-isotope-visual-layouts-with-infinite-scroll/</guid>
+      <guid>https://damien.co/blog/2013-08-09-isotope-visual-layouts-with-infinite-scroll/</guid>
       <description>Isotope Visual Layouts Pro is getting an update … and it’s one that a few of you have been asking for.
 Isotope Visual Layouts Pro 1.9 is currently in testing and it will include a shortcode for Infinite Scroll.
 I’m also making it safe to use on any page or post so you can really have different layouts (like one with infinite scroll and one with filtrify)
@@ -120,24 +119,22 @@ This will be the ‘last’ update for Isotope Visual Layouts Pro … I’m work
     
     <item>
       <title>DBC Backup 2 updated for WordPress 3.6</title>
-      <link>https://damien1.github.io/blog/2013-06-01-dbc-backup-2-updated-for-wordpress-3-6/</link>
+      <link>https://damien.co/blog/2013-06-01-dbc-backup-2-updated-for-wordpress-3-6/</link>
       <pubDate>Sat, 01 Jun 2013 13:32:14 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-06-01-dbc-backup-2-updated-for-wordpress-3-6/</guid>
-      <description>A new version of DBC Backup 2my WordPress plugin to automatically backup your website has been released. This version has been tested to support WordPress 3.6 and is available to download now.
- What’s new in DBC Backup 2 v2.2 
-Minor changes to the Settings Page for the plugin, that should make it easier to use.
-FIXED – a few bugs
-TESTED – on WordPress 3.6
- Where to get it … Get from my DBC Backup 2 plugin page  or</description>
+      <guid>https://damien.co/blog/2013-06-01-dbc-backup-2-updated-for-wordpress-3-6/</guid>
+      <description>A new version of DBC Backup 2 my WordPress plugin to automatically backup your website has been released. This version has been tested to support WordPress 3.6 and is available to download now.
+What&amp;rsquo;s new in DBC Backup 2 v2.2 Minor changes to the Settings Page for the plugin, that should make it easier to use.
+FIXED - a few bugs
+TESTED - on WordPress 3.6</description>
     </item>
     
     <item>
       <title>Introducing empty &amp;#8211; Apache Ant Build for WordPress</title>
-      <link>https://damien1.github.io/blog/2013-04-30-introducing-empty-apache-ant-build-for-wordpress/</link>
+      <link>https://damien.co/blog/2013-04-30-introducing-empty-apache-ant-build-for-wordpress/</link>
       <pubDate>Tue, 30 Apr 2013 11:00:49 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-30-introducing-empty-apache-ant-build-for-wordpress/</guid>
+      <guid>https://damien.co/blog/2013-04-30-introducing-empty-apache-ant-build-for-wordpress/</guid>
       <description>Welcome and say hello to empty. empty is a bunch of ANT Build Tasks for WordPress plugin developers that help automate the build thanks to Apache Ant.
 Why ANT not PHING? Go ask Google that … there are plenty of conversations elsewhere on ANT vs PHING. It’s really a personal choice.
 Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular tool, free and widely used. It’s commonly used for Java but can fit in with other code and projects.</description>
@@ -145,10 +142,10 @@ Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular 
     
     <item>
       <title>Teaser &amp;#8211; Visual Layouts Pro (freetile)</title>
-      <link>https://damien1.github.io/blog/2013-04-22-teaser-visual-layouts-pro-freetile/</link>
+      <link>https://damien.co/blog/2013-04-22-teaser-visual-layouts-pro-freetile/</link>
       <pubDate>Mon, 22 Apr 2013 12:11:05 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-22-teaser-visual-layouts-pro-freetile/</guid>
+      <guid>https://damien.co/blog/2013-04-22-teaser-visual-layouts-pro-freetile/</guid>
       <description>Development has finished on my next plugin … Visual Layouts Pro (Freetile) plugin.
 This takes the Freetile jQuery plugin and mashes it up with Filtrify and Twitter Bootstrap to give you an awesome plugin for a responsive, visual layout …
 
@@ -157,20 +154,20 @@ This takes the Freetile jQuery plugin and mashes it up with Filtrify and Twitter
     
     <item>
       <title>How to disable Jetpack WordPress plugins</title>
-      <link>https://damien1.github.io/blog/2013-04-13-how-to-disable-jetpack-plugins/</link>
+      <link>https://damien.co/blog/2013-04-13-how-to-disable-jetpack-plugins/</link>
       <pubDate>Sat, 13 Apr 2013 14:28:50 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-13-how-to-disable-jetpack-plugins/</guid>
+      <guid>https://damien.co/blog/2013-04-13-how-to-disable-jetpack-plugins/</guid>
       <description>Enabling and Disabling Jetpack for WordPress individual plugins presented a bit of a challenge recently. Not having used Jetpack before, I thought it time to try out this collection of plugins developed and maintained by Automattic over the past 4 weeks.
 I’ve discovered that Jetpack is a feature rich collection of plugins but I seriously doubled-up on plugins doing the same job. I didn’t need Google Analytics as well as WordPress Stats.</description>
     </item>
     
     <item>
       <title>Visual Layouts Pro</title>
-      <link>https://damien1.github.io/blog/2013-04-09-visual-layouts-pro/</link>
+      <link>https://damien.co/blog/2013-04-09-visual-layouts-pro/</link>
       <pubDate>Tue, 09 Apr 2013 11:27:00 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-09-visual-layouts-pro/</guid>
+      <guid>https://damien.co/blog/2013-04-09-visual-layouts-pro/</guid>
       <description>I’ve just finished work on the first release of my WordPress plugin Visual Layouts Pro — this features the awesome Freetile jQuery plugin for a responsive visual grid layout.
 Visual Layouts Pro, like my other plugins, offers the best features for creating a grid layout framework for your WordPress site – without needing to change your theme!
   Key Features Visual Layouts WordPress plugin  Uses Twitter Bootstrap CSS and grid framework Shortcode for including the excerpt Pagination Works on any post, page or custom post type Options to include featured images – image and text, or text only.</description>
@@ -178,29 +175,29 @@ Visual Layouts Pro, like my other plugins, offers the best features for creating
     
     <item>
       <title>Continuous Integration for WordPress plugins &amp;#8211; Jenkins &amp;#8211; Selenium &amp;#8211; Apache Ant</title>
-      <link>https://damien1.github.io/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</link>
+      <link>https://damien.co/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</link>
       <pubDate>Sun, 07 Apr 2013 21:08:35 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</guid>
+      <guid>https://damien.co/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</guid>
       <description>I’m no regular WordPress Plugin Developer – I spend most of my day managing projects or other stuff. So when I do develop, I want a trusted, reliable, repeatable workflow setup that is always testing, always building and always telling me whats going on. That’s why I believe in Continuous Integration … and why I’ve turned to Jenkins as my CI Tool and use Apache Ant and Selenium for testing.</description>
     </item>
     
     <item>
       <title>Isotope Visual Layouts Pro plugin for WordPress switches to Twitter Bootstrap</title>
-      <link>https://damien1.github.io/blog/2013-03-19-isotope-visual-layouts-pro-plugin-for-wordpress-switches-to-twitter-bootstrap/</link>
+      <link>https://damien.co/blog/2013-03-19-isotope-visual-layouts-pro-plugin-for-wordpress-switches-to-twitter-bootstrap/</link>
       <pubDate>Tue, 19 Mar 2013 11:31:15 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-03-19-isotope-visual-layouts-pro-plugin-for-wordpress-switches-to-twitter-bootstrap/</guid>
+      <guid>https://damien.co/blog/2013-03-19-isotope-visual-layouts-pro-plugin-for-wordpress-switches-to-twitter-bootstrap/</guid>
       <description>Isotope Visual Layouts Pro WordPress plugin is easier to use now that it’s using the Twitter Bootstrap framework with great CSS options and features.
 Damien’s WordPress plugins have great features that mean you can improve your website and not change your theme. This is ideal for a designer or developer who wants to change the look n feel via custom CSS. Overtime, I’ve come to realise that most people download or buy the plugin on the basis off the look.</description>
     </item>
     
     <item>
       <title>Isotope Visual Layouts &amp;#8211; jQuery toggleClass</title>
-      <link>https://damien1.github.io/blog/2013-03-07-isotope-visual-layouts-jquery-toggleclass/</link>
+      <link>https://damien.co/blog/2013-03-07-isotope-visual-layouts-jquery-toggleclass/</link>
       <pubDate>Thu, 07 Mar 2013 15:07:53 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-03-07-isotope-visual-layouts-jquery-toggleclass/</guid>
+      <guid>https://damien.co/blog/2013-03-07-isotope-visual-layouts-jquery-toggleclass/</guid>
       <description>Isotope Visual Layouts Pro pluginintroduces a click to enlarge feature for box items that are part of the grid layout. This uses a cool jQuery element that changes the CSS class and refreshes the layout of the page.
 Checkout the demoand click on each box / image.
 It took me a bit to learn how to do this – only cause I’m not a frontend developer. But if you’d like to add toggleClass to your Isotope WordPress project, then you might like this.</description>
@@ -208,19 +205,19 @@ It took me a bit to learn how to do this – only cause I’m not a frontend dev
     
     <item>
       <title>Isotope Visual Layouts for WordPress &amp;amp; Twitter Bootstrap</title>
-      <link>https://damien1.github.io/blog/2013-03-05-isotope-visual-layouts-for-wordpress-twitter-bootstrap/</link>
+      <link>https://damien.co/blog/2013-03-05-isotope-visual-layouts-for-wordpress-twitter-bootstrap/</link>
       <pubDate>Tue, 05 Mar 2013 09:32:45 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-03-05-isotope-visual-layouts-for-wordpress-twitter-bootstrap/</guid>
+      <guid>https://damien.co/blog/2013-03-05-isotope-visual-layouts-for-wordpress-twitter-bootstrap/</guid>
       <description>**teaser**</description>
     </item>
     
     <item>
       <title>Isotope Visual Layouts &amp;#8211; Pro Plugin is here</title>
-      <link>https://damien1.github.io/blog/2013-03-04-isotope-visual-layouts-pro-plugin-is-here/</link>
+      <link>https://damien.co/blog/2013-03-04-isotope-visual-layouts-pro-plugin-is-here/</link>
       <pubDate>Mon, 04 Mar 2013 15:00:33 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-03-04-isotope-visual-layouts-pro-plugin-is-here/</guid>
+      <guid>https://damien.co/blog/2013-03-04-isotope-visual-layouts-pro-plugin-is-here/</guid>
       <description>Isotope Visual Layouts Pro plugin is here — with many new features. Now you can change your website without changing your theme.
  [wooslider slider_type=”attachments” thumbnails=”true” id=”isotope_pro”]
  Key Features of Isotope Visual Layouts for WordPress  Isotope for stunning visual layouts Featured Image custom sizing choose Thumb, Medium or Large to control your visual layout Click to Resize / zoom effect (jQuery + CSS affect) Infinite Scroll (disabled by default – not needed if you don’t want to use to pagination) Shortcode works on any post or page Shortcode works with posts, pages &amp;amp; custom post types Further ‘add-ons’ available to use with this plugin, like Visual Layouts Filtrify for filtering tags or categories Paging / Pagination option Include the Excerpt option Create as many Visual Layouts as you want Click to Resize / zoom on a grid item, adds / removes a .</description>
@@ -228,10 +225,10 @@ It took me a bit to learn how to do this – only cause I’m not a frontend dev
     
     <item>
       <title>Visual Layouts for WordPress turns Pro and gets Twitter Bootstrap</title>
-      <link>https://damien1.github.io/blog/2013-03-03-visual-layouts-for-wordpress-turns-pro-and-gets-twitter-bootstrap/</link>
+      <link>https://damien.co/blog/2013-03-03-visual-layouts-for-wordpress-turns-pro-and-gets-twitter-bootstrap/</link>
       <pubDate>Sun, 03 Mar 2013 15:45:46 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-03-03-visual-layouts-for-wordpress-turns-pro-and-gets-twitter-bootstrap/</guid>
+      <guid>https://damien.co/blog/2013-03-03-visual-layouts-for-wordpress-turns-pro-and-gets-twitter-bootstrap/</guid>
       <description>Visual Layouts is the alternative, responsive, animated, grid layout WordPress plugin. It’s similar to adding isotope and masonry jQuery. Visual Layouts for WordPress is another way that you can change your website without changing your theme.
 Now Visual Layouts is turning Pro and the first feature I’ll show off is integration with Twitter Bootstrap CSS.
 I think that Twitter Bootstrapis an awesome solution for anyone wanting to use good web design concepts – of course, the internet might be pretty ‘bland’ if we all used this framework.</description>
@@ -239,20 +236,20 @@ I think that Twitter Bootstrapis an awesome solution for anyone wanting to use g
     
     <item>
       <title>Visual Layouts &amp;#8211; Isotope Filtrify and custom WordPress taxonomies</title>
-      <link>https://damien1.github.io/blog/2013-02-08-visual-layouts-isotope-filtrify-and-custom-wordpress-taxonomies/</link>
+      <link>https://damien.co/blog/2013-02-08-visual-layouts-isotope-filtrify-and-custom-wordpress-taxonomies/</link>
       <pubDate>Fri, 08 Feb 2013 11:06:13 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-02-08-visual-layouts-isotope-filtrify-and-custom-wordpress-taxonomies/</guid>
+      <guid>https://damien.co/blog/2013-02-08-visual-layouts-isotope-filtrify-and-custom-wordpress-taxonomies/</guid>
       <description>Creating tag and category based filtering is easy using my new plugin Visual Layouts Filtrify.. and now I want to show you that custom post types and custom taxonomies in WordPress are also handled with this new plugin.
 Using two of my plugins, you can create a visual grid of your posts, photos, portfolio, products and even use it to create your own WooCommerce e-commerce product page without having to get a new theme.</description>
     </item>
     
     <item>
       <title>Just Announced: Isotope Visual Layouts plugin gets Filtrify for tags &amp;amp; filtering</title>
-      <link>https://damien1.github.io/blog/2013-02-04-just-announced-isotope-visual-layouts-plugin-gets-filtrify-for-tags-filtering/</link>
+      <link>https://damien.co/blog/2013-02-04-just-announced-isotope-visual-layouts-plugin-gets-filtrify-for-tags-filtering/</link>
       <pubDate>Mon, 04 Feb 2013 11:55:45 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-02-04-just-announced-isotope-visual-layouts-plugin-gets-filtrify-for-tags-filtering/</guid>
+      <guid>https://damien.co/blog/2013-02-04-just-announced-isotope-visual-layouts-plugin-gets-filtrify-for-tags-filtering/</guid>
       <description>Visual Layouts Filtrify is my newest plugin for WordPress and my first plugin to extend Isotope Visual Post Layouts.
 What does Visual Layouts Filtrify do?   Add drop-down menus and filtering to your website
   Works with tags and categories (no configuration)
@@ -262,10 +259,10 @@ What does Visual Layouts Filtrify do?   Add drop-down menus and filtering to you
     
     <item>
       <title>Isotope v1.0 Released</title>
-      <link>https://damien1.github.io/blog/2012-12-31-isotope-v1-0-released/</link>
+      <link>https://damien.co/blog/2012-12-31-isotope-v1-0-released/</link>
       <pubDate>Mon, 31 Dec 2012 14:00:47 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-12-31-isotope-v1-0-released/</guid>
+      <guid>https://damien.co/blog/2012-12-31-isotope-v1-0-released/</guid>
       <description>Yup — you read right. Isotope Visual Post Layouts, my WordPress plugin is here.
 Earlier this week, I started sending out the updated plugin to my email subscribers (so congrats to everyone that got the email update).
 You can get your own copy of v1.0 here -&amp;raquo; &amp;lt;wordpress.damien.co/isotope&amp;gt;
@@ -274,10 +271,10 @@ or by filling in this form — I’ll then email you a link to download the plug
     
     <item>
       <title>Open Letter to Users of DBC Backup (the old plugin)</title>
-      <link>https://damien1.github.io/blog/2012-12-03-open-letter-to-users-of-dbc-backup-the-old-plugin/</link>
+      <link>https://damien.co/blog/2012-12-03-open-letter-to-users-of-dbc-backup-the-old-plugin/</link>
       <pubDate>Mon, 03 Dec 2012 22:09:14 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-12-03-open-letter-to-users-of-dbc-backup-the-old-plugin/</guid>
+      <guid>https://damien.co/blog/2012-12-03-open-letter-to-users-of-dbc-backup-the-old-plugin/</guid>
       <description>So I noticed recently that Google has an index of everyone who has installed my plugin but hasn’t locked down their website. Which led me to wonder ‘If I could find these insecure sites via Google, should I warn them?’.
 And so I did …
  I’m a WordPress developer in the UK and I look after a plugin called DBC-Backup-2.
@@ -286,20 +283,20 @@ I’ve always loved DBC-Backup ( a plugin you are are using on your website ), s
     
     <item>
       <title>Pods Framework for WordPress</title>
-      <link>https://damien1.github.io/blog/2012-11-27-pods-framework-for-wordpress/</link>
+      <link>https://damien.co/blog/2012-11-27-pods-framework-for-wordpress/</link>
       <pubDate>Tue, 27 Nov 2012 13:31:45 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-11-27-pods-framework-for-wordpress/</guid>
+      <guid>https://damien.co/blog/2012-11-27-pods-framework-for-wordpress/</guid>
       <description>WordPress is one of the most flexible web apps to customise for your needs. Creating custom post types in WordPress is also quite easy and Pods Framework looks like a plugin that will make it easier still.
 I’m going to give it a try!</description>
     </item>
     
     <item>
       <title>Isotope Visual Layouts plugin for WordPress v1 is finally being tested</title>
-      <link>https://damien1.github.io/blog/2012-11-26-isotope-visual-layouts-plugin-for-wordpress-v1-is-finally-being-tested/</link>
+      <link>https://damien.co/blog/2012-11-26-isotope-visual-layouts-plugin-for-wordpress-v1-is-finally-being-tested/</link>
       <pubDate>Mon, 26 Nov 2012 13:55:53 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-11-26-isotope-visual-layouts-plugin-for-wordpress-v1-is-finally-being-tested/</guid>
+      <guid>https://damien.co/blog/2012-11-26-isotope-visual-layouts-plugin-for-wordpress-v1-is-finally-being-tested/</guid>
       <description>The next version of my Isotope Visual Layouts Plugin for WordPress is finally in testing. That’s to say, today I have finished all the development work I want to do for version 1.0.
 There have been more than 500 downloads of the current version (which is great!) and so I’m excited to be sharing the news about the next release.
  What’s in Version 1.0? The 2 key features in this next version are:</description>
@@ -307,10 +304,10 @@ There have been more than 500 downloads of the current version (which is great!)
     
     <item>
       <title>DBC Backup 2 updated to 2.1.1 it&amp;#8217;s a little bit harder Update Now</title>
-      <link>https://damien1.github.io/blog/2012-10-25-dbc-backup-2-updated-to-2-1-1-its-a-little-bit-harder-update-now/</link>
+      <link>https://damien.co/blog/2012-10-25-dbc-backup-2-updated-to-2-1-1-its-a-little-bit-harder-update-now/</link>
       <pubDate>Thu, 25 Oct 2012 23:09:44 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-10-25-dbc-backup-2-updated-to-2-1-1-its-a-little-bit-harder-update-now/</guid>
+      <guid>https://damien.co/blog/2012-10-25-dbc-backup-2-updated-to-2-1-1-its-a-little-bit-harder-update-now/</guid>
       <description>A new version of DBC Backup 2 has been released. I’m doing this to make life just a little bit harder. You should update to v2.1.1 as soon as possible please.
 What’s in this release? This release looks to address a common security issue with WordPress and browsing folders like /wp-content etc.
 I also recommend all users of my plugin and WordPress to check that their .htaccess file includes this 1 line (well 2 lines):</description>
@@ -318,10 +315,10 @@ I also recommend all users of my plugin and WordPress to check that their .htacc
     
     <item>
       <title>WP to Buffer (Twitter Sharing) &amp;#8211; WordPress Plugins</title>
-      <link>https://damien1.github.io/blog/2012-10-24-wp-to-buffer-twitter-sharing-wordpress-plugins/</link>
+      <link>https://damien.co/blog/2012-10-24-wp-to-buffer-twitter-sharing-wordpress-plugins/</link>
       <pubDate>Wed, 24 Oct 2012 13:17:09 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-10-24-wp-to-buffer-twitter-sharing-wordpress-plugins/</guid>
+      <guid>https://damien.co/blog/2012-10-24-wp-to-buffer-twitter-sharing-wordpress-plugins/</guid>
       <description>“WP to Buffer is a plugin for WordPress that sends updates to your Buffer (bufferapp.com) account for scheduled publishing to social networks when you publish and/or update WordPress Pages, Posts and/or Custom Post Types.”
 — Now I like Buffer a lot … I use it mostly via Twitter to ‘Buffer’ my tweets at different times of the day.
 If you don’t already have a plugin to send your scheduled posts to Twitter then here’s a plugin to try that will send them to your Buffer queue.</description>
@@ -329,30 +326,30 @@ If you don’t already have a plugin to send your scheduled posts to Twitter the
     
     <item>
       <title>Isotope Visual Layouts v1.0 is coming</title>
-      <link>https://damien1.github.io/blog/2012-10-17-isotope-visual-layouts-v1-0-is-coming/</link>
+      <link>https://damien.co/blog/2012-10-17-isotope-visual-layouts-v1-0-is-coming/</link>
       <pubDate>Wed, 17 Oct 2012 14:03:33 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-10-17-isotope-visual-layouts-v1-0-is-coming/</guid>
+      <guid>https://damien.co/blog/2012-10-17-isotope-visual-layouts-v1-0-is-coming/</guid>
       <description>Isotope Visual Layouts my plugin for WordPress will soon be updated to version 1. This is a big milestone for me and from my perspective, the plugin will be ‘out of beta’.
 I think, I have been talking about this for some time … but it’s been a bit harder for me to finish as I started a new job and need to commute out of London every day. I have also been working on another plugin and wanted to re-use what I have learnt / built from that project.</description>
     </item>
     
     <item>
       <title>Freetile &amp;#8211; Visual Post Layouts just about ready</title>
-      <link>https://damien1.github.io/blog/2012-10-15-freetile-visual-post-layouts-just-about-ready/</link>
+      <link>https://damien.co/blog/2012-10-15-freetile-visual-post-layouts-just-about-ready/</link>
       <pubDate>Mon, 15 Oct 2012 11:34:42 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-10-15-freetile-visual-post-layouts-just-about-ready/</guid>
+      <guid>https://damien.co/blog/2012-10-15-freetile-visual-post-layouts-just-about-ready/</guid>
       <description>I wanted to give you a bit of a flavourof what’s coming with my new Visual Post Layouts plugin for WordPress. First things first … it’s ‘pretty good’ (if you’re English) or AWESOME!!!! (if you’re American, Australian, or from anywhere else).
 The next thing you can see is the bright colours – there are 7 styles to choose from – Orange, Red, Yellow, Blue, Green, Violet &amp;amp; White.</description>
     </item>
     
     <item>
       <title>Isotope Visual Post Layouts for WordPress v0.33 &amp;#8212; introduces update notifications</title>
-      <link>https://damien1.github.io/blog/2012-09-29-isotope-visual-post-layouts-for-wordpress-v0-33-introduces-update-notifications/</link>
+      <link>https://damien.co/blog/2012-09-29-isotope-visual-post-layouts-for-wordpress-v0-33-introduces-update-notifications/</link>
       <pubDate>Sat, 29 Sep 2012 15:10:51 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-09-29-isotope-visual-post-layouts-for-wordpress-v0-33-introduces-update-notifications/</guid>
+      <guid>https://damien.co/blog/2012-09-29-isotope-visual-post-layouts-for-wordpress-v0-33-introduces-update-notifications/</guid>
       <description>Isotope Visual Post Layouts for WordPress has just been updated. As the plugin is no-longer in the WordPress repo (it’s not GPL compliant) … you’ll need to download this plugin and install it manually.
  Whats new in v0.33? In advance of further development, I decided it was best to introduce update notifications so that ‘you’ can be alerted to any new updates.
 What this means is your WordPress dashboard will in future let you know of future releases.</description>
@@ -360,10 +357,10 @@ What this means is your WordPress dashboard will in future let you know of futur
     
     <item>
       <title>Isotope Visual Layouts for WordPress plugin &amp;#8211; v1.0 is coming</title>
-      <link>https://damien1.github.io/blog/2012-09-29-isotope-visual-layouts-for-wordpress-plugin-v1-0-is-coming/</link>
+      <link>https://damien.co/blog/2012-09-29-isotope-visual-layouts-for-wordpress-plugin-v1-0-is-coming/</link>
       <pubDate>Sat, 29 Sep 2012 12:17:27 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-09-29-isotope-visual-layouts-for-wordpress-plugin-v1-0-is-coming/</guid>
+      <guid>https://damien.co/blog/2012-09-29-isotope-visual-layouts-for-wordpress-plugin-v1-0-is-coming/</guid>
       <description>First — thanks for your ‘patience’ Isotope Visual Layouts for WordPress will soon be turning 1.0 🙂
 What’s coming up in v1.0 There are 3 big features in v1.0
  Custom update / upgrade notification (as the plugin is no longer hosted by WordPress) A variety of colour options for the Sticky Note Visual Layouts Changed the WP-Query so that it is smoother ( and faster ).  Want 50% off the Pro Licence?</description>
@@ -371,10 +368,10 @@ What’s coming up in v1.0 There are 3 big features in v1.0
     
     <item>
       <title>Visual Post Layouts &amp;#8211; with colour options</title>
-      <link>https://damien1.github.io/blog/2012-09-25-visual-post-layouts-with-colour-options/</link>
+      <link>https://damien.co/blog/2012-09-25-visual-post-layouts-with-colour-options/</link>
       <pubDate>Tue, 25 Sep 2012 22:00:40 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-09-25-visual-post-layouts-with-colour-options/</guid>
+      <guid>https://damien.co/blog/2012-09-25-visual-post-layouts-with-colour-options/</guid>
       <description>Visual Post Layouts will be my next WordPress plugin. It’s nearly ready and I’ve been working hard to allow some great control over the plugin.
 What’s Coming up? In the first release of the Visual Post Layouts, you’ll have a great set of features as part of the shortcode.
 You can create a visual post layout in a post, a page, in fact … almost anywhere 🙂
@@ -383,50 +380,50 @@ You also have the option to choose a different colour scheme – if you don’t 
     
     <item>
       <title>Isotope Visual Post Layout plugin for WordPress download here</title>
-      <link>https://damien1.github.io/blog/2012-09-17-isotope-visual-post-layout-plugin-for-wordpress-download-here/</link>
+      <link>https://damien.co/blog/2012-09-17-isotope-visual-post-layout-plugin-for-wordpress-download-here/</link>
       <pubDate>Mon, 17 Sep 2012 19:56:18 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-09-17-isotope-visual-post-layout-plugin-for-wordpress-download-here/</guid>
+      <guid>https://damien.co/blog/2012-09-17-isotope-visual-post-layout-plugin-for-wordpress-download-here/</guid>
       <description>Unfortunately the team at WordPress have decided they can’t host my plugin anymore. This is because the isotope javascript file is not compatible with their GPL requirements.
 So for now … here is the link to the file you’ll be looking for. Just sign-up for my WordPres e-mail update (no more 1 per week) which will keep you informed about my plugin developments.</description>
     </item>
     
     <item>
       <title>Freetile Visual Post Layouts a plugin WordPress</title>
-      <link>https://damien1.github.io/blog/2012-09-11-freetile-visual-post-layouts-a-plugin-wordpress/</link>
+      <link>https://damien.co/blog/2012-09-11-freetile-visual-post-layouts-a-plugin-wordpress/</link>
       <pubDate>Tue, 11 Sep 2012 22:39:11 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-09-11-freetile-visual-post-layouts-a-plugin-wordpress/</guid>
+      <guid>https://damien.co/blog/2012-09-11-freetile-visual-post-layouts-a-plugin-wordpress/</guid>
       <description>Today I’ve been reading up on Freetilea jQuery project by Yannisfor visual layouts similar to what I’ve done with Isotope Visual Post Layouts.
  Freetile is a plugin for jQuery that enables the organization of webpage content in an efficient, dynamic and responsive layout. It can be applied to a container element and it will attempt to arrange it’s children in a layout that makes optimal use of screen space, by “packing” them in a tight arrangement.</description>
     </item>
     
     <item>
       <title>Isotope &#43; filtrify &#43; WordPress = No Sweat</title>
-      <link>https://damien1.github.io/blog/2012-09-08-isotope-filtrify-wordpress-no-sweat/</link>
+      <link>https://damien.co/blog/2012-09-08-isotope-filtrify-wordpress-no-sweat/</link>
       <pubDate>Sat, 08 Sep 2012 16:35:17 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-09-08-isotope-filtrify-wordpress-no-sweat/</guid>
+      <guid>https://damien.co/blog/2012-09-08-isotope-filtrify-wordpress-no-sweat/</guid>
       <description>I’ve been busy this weekend catching up on some development work for my favourite WordPress plugin Visual Post Layouts which uses Isotope.
 Today I’ve integrated filtrifywhich makes it easy to choose your posts by Category.</description>
     </item>
     
     <item>
       <title>Isotope Visual Post Layouts for WordPress version 0.31 is out</title>
-      <link>https://damien1.github.io/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</link>
+      <link>https://damien.co/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</link>
       <pubDate>Thu, 06 Sep 2012 21:49:27 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</guid>
+      <guid>https://damien.co/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</guid>
       <description>Isotope Visual Post Layouts is my plugin for WordPress that makes it easy to add some stunning visual effects to your blog. I’ve just updated the plugin and if you have this installed, then WordPress should tell you automatically to update sometime in the next 24 hours.
 Isotope Visual Post Layouts version 0.31 is out I’ve just updated the plugin to v0.31, it’s tested and supported on WordPress 3.4.2 and I also fixed a bug and added a feature.</description>
     </item>
     
     <item>
       <title>NEWS: Isotope Visual Post Layouts for WordPress available to download</title>
-      <link>https://damien1.github.io/blog/2012-08-28-news-isotope-visual-post-layouts-for-wordpress-available-to-download/</link>
+      <link>https://damien.co/blog/2012-08-28-news-isotope-visual-post-layouts-for-wordpress-available-to-download/</link>
       <pubDate>Tue, 28 Aug 2012 14:26:59 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-08-28-news-isotope-visual-post-layouts-for-wordpress-available-to-download/</guid>
+      <guid>https://damien.co/blog/2012-08-28-news-isotope-visual-post-layouts-for-wordpress-available-to-download/</guid>
       <description>Isotope Visual Post Layouts (http://wordpress.damien.co/isotope) makes it easy for anyone to add stunning visual effectsand animationto their WordPress website.
 With the release of this free plugin for WordPress, anyone can add visual effects without the need to change their website theme. Isotope Visual Post Layouts works with most themes and requires no coding.
 Bring your website to life – with stunning animation and visual effects thanks to Isotope by Metafizzy. No coding and no theme to modify.</description>
@@ -434,10 +431,10 @@ Bring your website to life – with stunning animation and visual effects thanks
     
     <item>
       <title>Isotope for WordPress plugin &amp;#8211; do amazing things to your blog</title>
-      <link>https://damien1.github.io/blog/2012-08-13-isotope-for-wordpress-plugin-do-amazing-things-to-your-blog/</link>
+      <link>https://damien.co/blog/2012-08-13-isotope-for-wordpress-plugin-do-amazing-things-to-your-blog/</link>
       <pubDate>Mon, 13 Aug 2012 13:00:58 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-08-13-isotope-for-wordpress-plugin-do-amazing-things-to-your-blog/</guid>
+      <guid>https://damien.co/blog/2012-08-13-isotope-for-wordpress-plugin-do-amazing-things-to-your-blog/</guid>
       <description>Have a look at what’s coming with Isotope for WordPress, my latest plugin. Isotope does amazing things to you website or blog and my plugin makes it easy to add a responsive layoutand visual animation on any post or page.
 This is a free plugin and includes the Isotope Masonryanimation and one CSS style.
 A new Admin page 
@@ -446,10 +443,10 @@ Isotope for WordPress is so easy to use. You don’t need to do anything.</descr
     
     <item>
       <title>DBC Backup 2 &amp;#8211; gives the confidence that your WordPress database is backed-up and securely stored on your server [press release]</title>
-      <link>https://damien1.github.io/blog/2012-07-30-dbc-backup-2-gives-the-confidence-that-your-wordpress-database-is-backed-up-and-securely-stored-on-your-server-press-release/</link>
+      <link>https://damien.co/blog/2012-07-30-dbc-backup-2-gives-the-confidence-that-your-wordpress-database-is-backed-up-and-securely-stored-on-your-server-press-release/</link>
       <pubDate>Mon, 30 Jul 2012 14:01:20 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-07-30-dbc-backup-2-gives-the-confidence-that-your-wordpress-database-is-backed-up-and-securely-stored-on-your-server-press-release/</guid>
+      <guid>https://damien.co/blog/2012-07-30-dbc-backup-2-gives-the-confidence-that-your-wordpress-database-is-backed-up-and-securely-stored-on-your-server-press-release/</guid>
       <description>DBC Backup 2 gives the confidence that your WordPress database is backed-up and securely stored on your server.
 Database backup and security should be a critical issue for Marketing Agencies, small businesses and any WordPress website user. This plugin makes the whole experience easy with 3 critical features:
 3 Critical Features   Storage – the backup file is compressed and saved on your web server and not sent via email or to another 3rdparty.</description>
@@ -457,10 +454,10 @@ Database backup and security should be a critical issue for Marketing Agencies, 
     
     <item>
       <title>DBC Backup 2 &amp;#8211; WordPress database backup &amp;#8211; Here comes version 2.1</title>
-      <link>https://damien1.github.io/blog/2012-07-27-dbc-backup-2-wordpress-database-backup-here-comes-version-2-1/</link>
+      <link>https://damien.co/blog/2012-07-27-dbc-backup-2-wordpress-database-backup-here-comes-version-2-1/</link>
       <pubDate>Fri, 27 Jul 2012 16:30:12 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-07-27-dbc-backup-2-wordpress-database-backup-here-comes-version-2-1/</guid>
+      <guid>https://damien.co/blog/2012-07-27-dbc-backup-2-wordpress-database-backup-here-comes-version-2-1/</guid>
       <description>DBC Backup 2for WordPress database backup has just been updated. The new version improves the user experience for managing the plugin as well as fixing minor bugs.
 What is in the new release? 
 The new release includes:
@@ -469,60 +466,60 @@ The new release includes:
     
     <item>
       <title>DBC Backup 2 &amp;#8211; sneak peak of the new version</title>
-      <link>https://damien1.github.io/blog/2012-07-21-dbc-backup-2-sneak-peak-of-the-new-version/</link>
+      <link>https://damien.co/blog/2012-07-21-dbc-backup-2-sneak-peak-of-the-new-version/</link>
       <pubDate>Sat, 21 Jul 2012 15:36:20 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-07-21-dbc-backup-2-sneak-peak-of-the-new-version/</guid>
+      <guid>https://damien.co/blog/2012-07-21-dbc-backup-2-sneak-peak-of-the-new-version/</guid>
       <description>I wanted to give you a sneak peak at DBC Backup 2 and changes which are coming in the next version. DBC Backup 2 is a simple and easy way to safely backup your WordPress SQL database and store it on your webserver.
 DBC Backup 2 – purpose and niche I only recently ‘adopted’ this plugin for my own … and as much as I’d like to add features I don’t really want to change anything about it.</description>
     </item>
     
     <item>
       <title>19 of the best WordPress Plugins to use with your Multisite Network (or What Plugins I&amp;#8217;m Using)</title>
-      <link>https://damien1.github.io/blog/2012-06-15-19-best-wordpress-plugins-use-multisite-network-or-what-plugins-im-using/</link>
+      <link>https://damien.co/blog/2012-06-15-19-best-wordpress-plugins-use-multisite-network-or-what-plugins-im-using/</link>
       <pubDate>Fri, 15 Jun 2012 16:37:59 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-06-15-19-best-wordpress-plugins-use-multisite-network-or-what-plugins-im-using/</guid>
+      <guid>https://damien.co/blog/2012-06-15-19-best-wordpress-plugins-use-multisite-network-or-what-plugins-im-using/</guid>
       <description>I’ve been running WordPress as a multisite network and I often get asked about what are the best plugins for WordPress. Everyone has their opinion. I’ve listed the plugins which are network activated and grouped them in some meaningful manner for web marketers and development people.
 WordPress is one of the worlds’ most popular website and blogging tools and it’s latest version makes it easier to manage the look of your website.</description>
     </item>
     
     <item>
       <title>Isotope &amp;#8211; WordPress plugin (just add your .js files)</title>
-      <link>https://damien1.github.io/blog/2012-06-10-isotope-wordpress-plugin-just-add-your-js-files/</link>
+      <link>https://damien.co/blog/2012-06-10-isotope-wordpress-plugin-just-add-your-js-files/</link>
       <pubDate>Sun, 10 Jun 2012 15:29:50 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-06-10-isotope-wordpress-plugin-just-add-your-js-files/</guid>
+      <guid>https://damien.co/blog/2012-06-10-isotope-wordpress-plugin-just-add-your-js-files/</guid>
       <description>Isotope allows you to do some amazing animation with and responsive layout for content on your website. I’ve been playing around with Isotopefor a few months now and created a WordPress plugin to help make it easier to get started with Isotope.
 Once installed, the plugin adds the right code to call the Isotope javascript file and a custom stylesheet. But because Isotope has a commercial licence (and I’m not a great WordPress developer) you need to go buy a licence and move the .</description>
     </item>
     
     <item>
       <title>WordPress: 9 Plugins for any new install</title>
-      <link>https://damien1.github.io/blog/2011-12-28-wordpress-top-9-plugins-for-any-new-install-2/</link>
+      <link>https://damien.co/blog/2011-12-28-wordpress-top-9-plugins-for-any-new-install-2/</link>
       <pubDate>Wed, 28 Dec 2011 21:07:41 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2011-12-28-wordpress-top-9-plugins-for-any-new-install-2/</guid>
+      <guid>https://damien.co/blog/2011-12-28-wordpress-top-9-plugins-for-any-new-install-2/</guid>
       <description>WordPress is one of the World’s most used web and blog tools – it has 1000’s of plugins that add functionality to your website. Here then is a short list of essential WordPress Plugins from WordPress.org to get you started. The list covers SEO, Spam, Analytics and helps you get started with Google SERP.
 Akismet Akismet is included in every installation of WordPress, so that makes it one of the alltime popular plugins.</description>
     </item>
     
     <item>
       <title>Best WordPress plugins for social media marketing</title>
-      <link>https://damien1.github.io/blog/2011-01-26-best-wordpress-plugins-for-social-media-marketing-2/</link>
+      <link>https://damien.co/blog/2011-01-26-best-wordpress-plugins-for-social-media-marketing-2/</link>
       <pubDate>Wed, 26 Jan 2011 09:20:06 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2011-01-26-best-wordpress-plugins-for-social-media-marketing-2/</guid>
+      <guid>https://damien.co/blog/2011-01-26-best-wordpress-plugins-for-social-media-marketing-2/</guid>
       <description>WordPress plugins there are millions(?) to choose from and they are so easy to install. I tend to be cutting edge and change my plugins often, but here are some of the best plugins to improve WordPress for social media and digital marketing.
 The point here is that writing original content can be easy – but your great works need to be found. Online or Digital Marketing is not just for selling a product or a brand – its about selling you.</description>
     </item>
     
     <item>
       <title>CleanAdmin just the best WordPress plugin by a mile</title>
-      <link>https://damien1.github.io/blog/2010-12-28-cleanadmin-just-the-best-wordpress-plugin-by-a-mile-2/</link>
+      <link>https://damien.co/blog/2010-12-28-cleanadmin-just-the-best-wordpress-plugin-by-a-mile-2/</link>
       <pubDate>Tue, 28 Dec 2010 10:16:17 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2010-12-28-cleanadmin-just-the-best-wordpress-plugin-by-a-mile-2/</guid>
+      <guid>https://damien.co/blog/2010-12-28-cleanadmin-just-the-best-wordpress-plugin-by-a-mile-2/</guid>
       <description>CleanAdmin delivers a much need style change to your WordPress admin section. WordPress is (just about) the world’s favourite blog and web publishing platform, yet changes to the overall design and usability have been ignored in favour of delivering new tools and functions for bloggers and blog readers.
 
 Freshen your WordPress look n feel with just one plugin Enter CleanAdmin the plugin to clean up the backend of WordPress. Ironically, this plugin is just like changing a theme.</description>

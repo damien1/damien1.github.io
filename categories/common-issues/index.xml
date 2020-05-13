@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Common Issues on Damien Saunders</title>
-    <link>https://damien1.github.io/categories/common-issues/</link>
+    <link>https://damien.co/categories/common-issues/</link>
     <description>Recent content in Common Issues on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 13 Jan 2012 16:05:01 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/categories/common-issues/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/categories/common-issues/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Site down – White Screen of Death</title>
-      <link>https://damien1.github.io/blog/2012-01-13-site-down-white-screen-of-death/</link>
+      <link>https://damien.co/blog/2012-01-13-site-down-white-screen-of-death/</link>
       <pubDate>Fri, 13 Jan 2012 16:05:01 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-01-13-site-down-white-screen-of-death/</guid>
+      <guid>https://damien.co/blog/2012-01-13-site-down-white-screen-of-death/</guid>
       <description>If you just added a plug-in or made a change to a theme and now you can’t access either the wp-admin pages or the front end
 Open the FTP programme and navigate to wp-content/plugin and delete the plugin you just uploaded.</description>
     </item>
     
     <item>
       <title>Live content not showing</title>
-      <link>https://damien1.github.io/blog/2012-01-13-live-content-not-showing-for-the-new-issue/</link>
+      <link>https://damien.co/blog/2012-01-13-live-content-not-showing-for-the-new-issue/</link>
       <pubDate>Fri, 13 Jan 2012 16:04:21 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-01-13-live-content-not-showing-for-the-new-issue/</guid>
+      <guid>https://damien.co/blog/2012-01-13-live-content-not-showing-for-the-new-issue/</guid>
       <description>Are you using W3 Total Cache or a CDN and seeing a broken picture icon on the live site
 Right click on the icon and choose to show image in new tab
 Go to the Performance section

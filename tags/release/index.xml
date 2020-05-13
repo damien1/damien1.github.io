@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Release on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/release/</link>
+    <link>https://damien.co/tags/release/</link>
     <description>Recent content in Release on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 09 Aug 2013 23:28:47 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/release/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/release/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Thank you &amp;#8230; 2000&#43; downloads of DBC Backup 2 for WordPress</title>
-      <link>https://damien1.github.io/blog/2012-09-17-thank-you-2000-downloads-of-dbc-backup-2-for-wordpress/</link>
+      <link>https://damien.co/blog/2012-09-17-thank-you-2000-downloads-of-dbc-backup-2-for-wordpress/</link>
       <pubDate>Mon, 17 Sep 2012 09:36:21 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-09-17-thank-you-2000-downloads-of-dbc-backup-2-for-wordpress/</guid>
+      <guid>https://damien.co/blog/2012-09-17-thank-you-2000-downloads-of-dbc-backup-2-for-wordpress/</guid>
       <description>I want to say ‘Thank You’ to all of you who have downloaded and installed DBC Backup 2. Over the weekend, plugin downloads rose above 2000.
 DBC Backup 2 makes it easy to safely backup your WordPress SQL database to a folder on your web server. It’s a unique solution which also includes regular, scheduled backups so that you can have a daily, weekly or monthly backup.
 If you like DBC Backup 2 – please can you rate it 5 Stars on WordPress.</description>
@@ -24,20 +24,20 @@ If you like DBC Backup 2 – please can you rate it 5 Stars on WordPress.</descr
     
     <item>
       <title>Isotope Visual Post Layouts for WordPress version 0.31 is out</title>
-      <link>https://damien1.github.io/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</link>
+      <link>https://damien.co/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</link>
       <pubDate>Thu, 06 Sep 2012 21:49:27 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</guid>
+      <guid>https://damien.co/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</guid>
       <description>Isotope Visual Post Layouts is my plugin for WordPress that makes it easy to add some stunning visual effects to your blog. I’ve just updated the plugin and if you have this installed, then WordPress should tell you automatically to update sometime in the next 24 hours.
 Isotope Visual Post Layouts version 0.31 is out I’ve just updated the plugin to v0.31, it’s tested and supported on WordPress 3.4.2 and I also fixed a bug and added a feature.</description>
     </item>
     
     <item>
       <title>DBC Backup 2 &amp;#8211; gives the confidence that your WordPress database is backed-up and securely stored on your server [press release]</title>
-      <link>https://damien1.github.io/blog/2012-07-30-dbc-backup-2-gives-the-confidence-that-your-wordpress-database-is-backed-up-and-securely-stored-on-your-server-press-release/</link>
+      <link>https://damien.co/blog/2012-07-30-dbc-backup-2-gives-the-confidence-that-your-wordpress-database-is-backed-up-and-securely-stored-on-your-server-press-release/</link>
       <pubDate>Mon, 30 Jul 2012 14:01:20 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-07-30-dbc-backup-2-gives-the-confidence-that-your-wordpress-database-is-backed-up-and-securely-stored-on-your-server-press-release/</guid>
+      <guid>https://damien.co/blog/2012-07-30-dbc-backup-2-gives-the-confidence-that-your-wordpress-database-is-backed-up-and-securely-stored-on-your-server-press-release/</guid>
       <description>DBC Backup 2 gives the confidence that your WordPress database is backed-up and securely stored on your server.
 Database backup and security should be a critical issue for Marketing Agencies, small businesses and any WordPress website user. This plugin makes the whole experience easy with 3 critical features:
 3 Critical Features   Storage – the backup file is compressed and saved on your web server and not sent via email or to another 3rdparty.</description>
@@ -45,10 +45,10 @@ Database backup and security should be a critical issue for Marketing Agencies, 
     
     <item>
       <title>WordPress 3.4 RC2</title>
-      <link>https://damien1.github.io/blog/2012-06-06-wordpress-3-4-rc2/</link>
+      <link>https://damien.co/blog/2012-06-06-wordpress-3-4-rc2/</link>
       <pubDate>Wed, 06 Jun 2012 21:03:08 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-06-06-wordpress-3-4-rc2/</guid>
+      <guid>https://damien.co/blog/2012-06-06-wordpress-3-4-rc2/</guid>
       <description>The second release candidate for the next version of WordPress 3.4 is here and the project team is hoping to go live next week.
 WordPress 3.4 what you can expect WordPress 3.4 has had a couple of beta releases and 1 RC – so this is getting close to the finished product.
 WordPress 3.4 has some cool features – including Theme customisation which kind of like a WordPress Getting Started Wizard.</description>
@@ -56,10 +56,10 @@ WordPress 3.4 has some cool features – including Theme customisation which kin
     
     <item>
       <title>UPDATE TIME &amp;#8211; WordPress 3.3.1 released</title>
-      <link>https://damien1.github.io/blog/2012-01-03-update-time-wordpress-3-3-1-released/</link>
+      <link>https://damien.co/blog/2012-01-03-update-time-wordpress-3-3-1-released/</link>
       <pubDate>Tue, 03 Jan 2012 22:41:19 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-01-03-update-time-wordpress-3-3-1-released/</guid>
+      <guid>https://damien.co/blog/2012-01-03-update-time-wordpress-3-3-1-released/</guid>
       <description>Welcome to 2012, it’s ‘barely’ the first day of work and the WordPress team have released WordPress 3.3.1. This is a security and bug fix release which means it’s time to update as this is a mandatory update for us all.
 What’s in this release?
 This release is just 2 weeks after the big update to 3.3 so don’t be expecting anything new. Release 3.3.1 addresses a security issue with ‘cross site scripting’ and 15 other maintenance fixes.</description>
@@ -67,10 +67,10 @@ This release is just 2 weeks after the big update to 3.3 so don’t be expecting
     
     <item>
       <title>WordPress 3.3 RC3 &amp;#8211; This has to be it</title>
-      <link>https://damien1.github.io/blog/2011-12-12-wordpress-3-3-rc3-this-has-to-be-it/</link>
+      <link>https://damien.co/blog/2011-12-12-wordpress-3-3-rc3-this-has-to-be-it/</link>
       <pubDate>Mon, 12 Dec 2011 09:03:57 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2011-12-12-wordpress-3-3-rc3-this-has-to-be-it/</guid>
+      <guid>https://damien.co/blog/2011-12-12-wordpress-3-3-rc3-this-has-to-be-it/</guid>
       <description>The third and final release candidate of WordPress 3.3 is here. AND … now we know that hopefully next week the real WordPress 3.3 will be here.
 The release note hints that everything is ready. This version RC3 WordPress 3.3 has a few last minute bug fixes and tidy up.
 If you haven’t started testing WordPress 3.3, then now is the time to check plugins, themes and familiarise yourself.
@@ -79,10 +79,10 @@ If you haven’t started testing WordPress 3.3, then now is the time to check pl
     
     <item>
       <title>WordPress 3.3 RC2 is here</title>
-      <link>https://damien1.github.io/blog/2011-12-08-wordpress-3-3-rc2-is-here/</link>
+      <link>https://damien.co/blog/2011-12-08-wordpress-3-3-rc2-is-here/</link>
       <pubDate>Thu, 08 Dec 2011 22:12:25 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2011-12-08-wordpress-3-3-rc2-is-here/</guid>
+      <guid>https://damien.co/blog/2011-12-08-wordpress-3-3-rc2-is-here/</guid>
       <description>The second release candidate for the next version of WordPress 3.3 is here.
 If you develop stuff and haven’t started testing your plugins or theme, now is the time.
  WordPress 3.3 what you can expect WordPress 3.3 has already had 4 beta releases – so this RC could be the last one. From experience, this is just bug checking, tidy up and fixing last minute security things.
@@ -91,30 +91,30 @@ You can expect the real thing before Christmas!</description>
     
     <item>
       <title>WordPress 3.3 enters public beta</title>
-      <link>https://damien1.github.io/blog/2011-10-30-wordpress-3-3-enters-public-beta/</link>
+      <link>https://damien.co/blog/2011-10-30-wordpress-3-3-enters-public-beta/</link>
       <pubDate>Sun, 30 Oct 2011 17:18:34 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2011-10-30-wordpress-3-3-enters-public-beta/</guid>
+      <guid>https://damien.co/blog/2011-10-30-wordpress-3-3-enters-public-beta/</guid>
       <description>WordPress 3.3 is on its way … it’s entered public beta, which means you can download it and try it for yourself. Don’t try this at home if you’re new to WordPress.
 WordPress 3.3 does a lot for admin and logged in users WordPress 3.3 has some cool features – including much more work on the WordPress Toolbar for logged in users, changes to backend admin pages and minor improvements for multisite admins.</description>
     </item>
     
     <item>
       <title>WordPress 3.2 Release Candidate is here</title>
-      <link>https://damien1.github.io/social-media/wordpress-3-2-release-candidate-is-here-3-4440/</link>
+      <link>https://damien.co/social-media/wordpress-3-2-release-candidate-is-here-3-4440/</link>
       <pubDate>Mon, 27 Jun 2011 20:10:10 +0000</pubDate>
       
-      <guid>https://damien1.github.io/social-media/wordpress-3-2-release-candidate-is-here-3-4440/</guid>
+      <guid>https://damien.co/social-media/wordpress-3-2-release-candidate-is-here-3-4440/</guid>
       <description>The second release candidate for the next version of WordPress 3.2 is here. If you haven’t started testing 3.2, now is the time. Previous experience would make this the final RC before the real deal.
  Should I update to this release candidate? As this is a release candidate you shouldn’t use this on a really important live site – but it does mean it’s pretty stable and useful. You should find that most popular plugins and themes have no issues as developers have been working since RC1.</description>
     </item>
     
     <item>
       <title>WordPress 3.2 Release Candidate is here</title>
-      <link>https://damien1.github.io/blog/2011-06-27-wordpress-3-2-release-candidate-is-here-2/</link>
+      <link>https://damien.co/blog/2011-06-27-wordpress-3-2-release-candidate-is-here-2/</link>
       <pubDate>Mon, 27 Jun 2011 19:10:10 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2011-06-27-wordpress-3-2-release-candidate-is-here-2/</guid>
+      <guid>https://damien.co/blog/2011-06-27-wordpress-3-2-release-candidate-is-here-2/</guid>
       <description>The second release candidate for the next version of WordPress 3.2 is here. If you haven’t started testing 3.2, now is the time. Previous experience would make this the final RC before the real deal.
  Should I update to this release candidate? As this is a release candidate you shouldn’t use this on a really important live site – but it does mean it’s pretty stable and useful. You should find that most popular plugins and themes have no issues as developers have been working since RC1.</description>
     </item>

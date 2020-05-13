@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>design on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/design/</link>
+    <link>https://damien.co/tags/design/</link>
     <description>Recent content in design on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 01 Oct 2012 13:20:02 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/design/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What&amp;#8217;s the Best Strategy for making a mobile version of an existing site?</title>
-      <link>https://damien1.github.io/blog/2012-10-01-whats-the-best-strategy-for-making-a-mobile-version-of-an-existing-site/</link>
+      <link>https://damien.co/blog/2012-10-01-whats-the-best-strategy-for-making-a-mobile-version-of-an-existing-site/</link>
       <pubDate>Mon, 01 Oct 2012 13:20:02 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-10-01-whats-the-best-strategy-for-making-a-mobile-version-of-an-existing-site/</guid>
+      <guid>https://damien.co/blog/2012-10-01-whats-the-best-strategy-for-making-a-mobile-version-of-an-existing-site/</guid>
       <description>In WordPress going mobile is easy … you could actually find that your website theme is already Responsive, so maybe ‘doing nothing’ is a valid answer.
 What are your choices to mobilise a WordPress Website? You have 4 choices
  Choose a Responsive Theme for your site (Responsive adapts for different screen sizes) most work from WooThemes is now responsive. Choose a plugin (such as WPTouchPro– which is both plugin and theme) Build a second site which you access at m.</description>
@@ -24,10 +24,10 @@ What are your choices to mobilise a WordPress Website? You have 4 choices
     
     <item>
       <title>App Design: Make sure yours saves settings (MobileRSS)</title>
-      <link>https://damien1.github.io/apps-2/app-design-make-sure-your-saves-settings-mobilerss-7230/</link>
+      <link>https://damien.co/apps-2/app-design-make-sure-your-saves-settings-mobilerss-7230/</link>
       <pubDate>Mon, 11 Jun 2012 13:39:31 +0000</pubDate>
       
-      <guid>https://damien1.github.io/apps-2/app-design-make-sure-your-saves-settings-mobilerss-7230/</guid>
+      <guid>https://damien.co/apps-2/app-design-make-sure-your-saves-settings-mobilerss-7230/</guid>
       <description>Have you ever used an app, thought you saved the settings and then you check and nothing changes … It happens all the time with MobileRSS. This has been bugging me for awhile now. Usually I think I’m not the only one who spots these things …
 The funny thing is, a preference change needs to be done in 3 parts
  the visual UI/UE cue to let you know something changed (like a tick or a save button changes text) the backend data / prefs change is stored the app ‘reloads’ with the new settings  So what goes wrong with saving state changes?</description>
@@ -35,10 +35,10 @@ The funny thing is, a preference change needs to be done in 3 parts
     
     <item>
       <title>App Design: Review of Evernote&amp;#8217;s First Time User Guide</title>
-      <link>https://damien1.github.io/apps-2/app-design-review-of-evernotes-first-time-user-guide-7098/</link>
+      <link>https://damien.co/apps-2/app-design-review-of-evernotes-first-time-user-guide-7098/</link>
       <pubDate>Mon, 21 May 2012 19:39:24 +0000</pubDate>
       
-      <guid>https://damien1.github.io/apps-2/app-design-review-of-evernotes-first-time-user-guide-7098/</guid>
+      <guid>https://damien.co/apps-2/app-design-review-of-evernotes-first-time-user-guide-7098/</guid>
       <description>It’s not often that we (as app user or developers) stop to consider how important the First Time User experience or the Getting Started Guide is.
 If you had never heard of Evernote (or many other apps) then you rely on this introduction to do a lot of things. To sum it up, the first time user experience has to do two things:
  sell the customer that the app will do what the user thinks it will do (they’ve already installed it but app store descriptions can be misleading), and; tell the customer how to use it  Ultimately, large multi-platform applications have many, many, more features then there is time for a Quick Start Guide or First Time User experience.</description>
@@ -46,10 +46,10 @@ If you had never heard of Evernote (or many other apps) then you rely on this in
     
     <item>
       <title>App Design: Storify &amp;#8211; too many windows</title>
-      <link>https://damien1.github.io/apps-2/app-design-storify-too-many-windows-7077/</link>
+      <link>https://damien.co/apps-2/app-design-storify-too-many-windows-7077/</link>
       <pubDate>Sun, 20 May 2012 11:08:15 +0000</pubDate>
       
-      <guid>https://damien1.github.io/apps-2/app-design-storify-too-many-windows-7077/</guid>
+      <guid>https://damien.co/apps-2/app-design-storify-too-many-windows-7077/</guid>
       <description>Have you tried Storify? Is it just a little too busy? a little too complicated to get started with?
 I’ve read some great stuff about how to use Storify to archive events (weddings for example). Using Storify you can collect all the tweets, Facebook messages, Flickr pictures into a ‘story’. Sounds good so far.
 But what if you’re creative and not a creative writer? What if you just don’t have enough going on in your life?</description>
@@ -57,10 +57,10 @@ But what if you’re creative and not a creative writer? What if you just don’
     
     <item>
       <title>Mobile App Design &amp;#8211; when simple is beautiful</title>
-      <link>https://damien1.github.io/apps-2/mobile-app-design-when-simple-is-beautiful-5857/</link>
+      <link>https://damien.co/apps-2/mobile-app-design-when-simple-is-beautiful-5857/</link>
       <pubDate>Mon, 09 Jan 2012 15:51:35 +0000</pubDate>
       
-      <guid>https://damien1.github.io/apps-2/mobile-app-design-when-simple-is-beautiful-5857/</guid>
+      <guid>https://damien.co/apps-2/mobile-app-design-when-simple-is-beautiful-5857/</guid>
       <description>I’ve decided that designers and creative types like to bundle mobile apps with features that can be near impossible to bring to life. I know I’m going to lose a few ‘friends’ here .. but bare with me a minute.
 When developing your first app for your brand or client – it’s more important to engage customers and get usage through having the right features and a flawless function.
 Mobile Apps need to be beautiful in form &amp;amp; flawless in function Would you rather an app that is a ‘Thing of Beauty’ or an App that delivers on its function?</description>
@@ -68,10 +68,10 @@ Mobile Apps need to be beautiful in form &amp;amp; flawless in function Would yo
     
     <item>
       <title>What do you think of the #newnewTwitter</title>
-      <link>https://damien1.github.io/social-media/twitter/what-do-you-think-of-the-newnewtwitter-5243/</link>
+      <link>https://damien.co/social-media/twitter/what-do-you-think-of-the-newnewtwitter-5243/</link>
       <pubDate>Wed, 14 Dec 2011 18:00:02 +0000</pubDate>
       
-      <guid>https://damien1.github.io/social-media/twitter/what-do-you-think-of-the-newnewtwitter-5243/</guid>
+      <guid>https://damien.co/social-media/twitter/what-do-you-think-of-the-newnewtwitter-5243/</guid>
       <description>So what do you think of the new look for Twitter? It’s feeling cleaner and the style change adds some freshness.
 
 But is this the first step in the wrong direction for brand pages? Will we all end-up with old-skool MySpace style pages?</description>
@@ -79,50 +79,50 @@ But is this the first step in the wrong direction for brand pages? Will we all e
     
     <item>
       <title>Get the best for free business and magazine theme for WordPress &amp;#8211; Thanks Woothemes</title>
-      <link>https://damien1.github.io/blog/2011-10-04-get-the-best-for-free-business-and-magazine-theme-for-wordpress-thanks-woothemes/</link>
+      <link>https://damien.co/blog/2011-10-04-get-the-best-for-free-business-and-magazine-theme-for-wordpress-thanks-woothemes/</link>
       <pubDate>Tue, 04 Oct 2011 11:36:02 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2011-10-04-get-the-best-for-free-business-and-magazine-theme-for-wordpress-thanks-woothemes/</guid>
+      <guid>https://damien.co/blog/2011-10-04-get-the-best-for-free-business-and-magazine-theme-for-wordpress-thanks-woothemes/</guid>
       <description>WooThemes have outdone themselves with their most recent free WordPress business theme. Swatchis a powerful business and magazine theme with its own slider / carousel and a custom homepage layout that has 3 widget areas and up to 4 footer widgets.
 Seriously – this is the ultimate free theme for any business or serious blogger. It has 2 custom post types, along with the Slides on for the homepage it also has a portfolio for you to show off your work or presentations.</description>
     </item>
     
     <item>
       <title>[Review] The Smashing Book 2 Is Available &amp;#8211; Smashing Magazine</title>
-      <link>https://damien1.github.io/blog/review-the-smashing-book-2-is-available-smashing-magazine-2659/</link>
+      <link>https://damien.co/blog/review-the-smashing-book-2-is-available-smashing-magazine-2659/</link>
       <pubDate>Sat, 12 Feb 2011 16:52:24 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/review-the-smashing-book-2-is-available-smashing-magazine-2659/</guid>
+      <guid>https://damien.co/blog/review-the-smashing-book-2-is-available-smashing-magazine-2659/</guid>
       <description>So I got my copy of the new ****The Smashing Book 2. Smashing Magazine is for anyone into design, web development and new media. It is one of many websites I follow on a weekly basis.
  The book came nicely (over) packaged and was immediately opened. It is a resource in itself and provides 10+ essays on topics from mobile app design to self-publishing – all new and not available on the website.</description>
     </item>
     
     <item>
       <title>Best iPad App for design and graphics gets better</title>
-      <link>https://damien1.github.io/general/best-ipad-app-for-design-and-graphics-gets-better-1857/</link>
+      <link>https://damien.co/general/best-ipad-app-for-design-and-graphics-gets-better-1857/</link>
       <pubDate>Sat, 06 Nov 2010 10:59:54 +0000</pubDate>
       
-      <guid>https://damien1.github.io/general/best-ipad-app-for-design-and-graphics-gets-better-1857/</guid>
+      <guid>https://damien.co/general/best-ipad-app-for-design-and-graphics-gets-better-1857/</guid>
       <description>Sketchbook Pro, in my opinion is the best iPad app for photo editing, graphic and web design. And its new update just makes it better. The new release makes it a great all round tool for note taking, wireframe and web design.
 A Power tool for notes, sketches and mockups I like to think I’m a pro digital photographer so I like my photo software to do amazing things – even if I cant.</description>
     </item>
     
     <item>
       <title>WordPress Theme &amp;#8211; Continuum via Woothemes</title>
-      <link>https://damien1.github.io/wordpress/wordpress-theme-continuum-via-woothemes-1762/</link>
+      <link>https://damien.co/wordpress/wordpress-theme-continuum-via-woothemes-1762/</link>
       <pubDate>Sat, 30 Oct 2010 08:30:29 +0000</pubDate>
       
-      <guid>https://damien1.github.io/wordpress/wordpress-theme-continuum-via-woothemes-1762/</guid>
+      <guid>https://damien.co/wordpress/wordpress-theme-continuum-via-woothemes-1762/</guid>
       <description>Some days I think a spring cleanis just as good for you as taking a holiday. Out with the old and give yourself some more space to create a mess.
 Take for example this website – its built using WordPress and being very critical about the quality of my work or ‘portfolio’, I always want to be tweaking and changing my website and lookg at ways to make things better. So thankfully, today Woothemes(who I use with all my projects) came out with a new magazine layout that I’ve installed already.</description>
     </item>
     
     <item>
       <title>App of the day: Balsamiq &amp;#8211; wireframing and user experience design</title>
-      <link>https://damien1.github.io/general/app-of-the-day-balsamiq-wireframing-and-user-experience-design-328/</link>
+      <link>https://damien.co/general/app-of-the-day-balsamiq-wireframing-and-user-experience-design-328/</link>
       <pubDate>Wed, 30 Sep 2009 13:48:49 +0000</pubDate>
       
-      <guid>https://damien1.github.io/general/app-of-the-day-balsamiq-wireframing-and-user-experience-design-328/</guid>
+      <guid>https://damien.co/general/app-of-the-day-balsamiq-wireframing-and-user-experience-design-328/</guid>
       <description>Balsamiq – I love it – the fonts and stuff can seem a bit cheesy … but I’ve take to this like a duck to water. Its much more useful than powerpoint, visio or other tools as its designed for wireframing.
 Being built on Adobe Air means anyone can use it.
 It’s very quick to create a UE design and while I couldn’t find a template or mockup for cell phone / mobile phone.</description>

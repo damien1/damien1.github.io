@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visual Layouts on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/visual-layouts/</link>
+    <link>https://damien.co/tags/visual-layouts/</link>
     <description>Recent content in Visual Layouts on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 22 Apr 2013 12:11:05 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/visual-layouts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/visual-layouts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Visual Layouts plugin for WordPress featuring Freetile</title>
-      <link>https://damien1.github.io/blog/2012-11-12-visual-layouts-plugin-for-wordpress-featuring-freetile/</link>
+      <link>https://damien.co/blog/2012-11-12-visual-layouts-plugin-for-wordpress-featuring-freetile/</link>
       <pubDate>Mon, 12 Nov 2012 11:39:04 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-11-12-visual-layouts-plugin-for-wordpress-featuring-freetile/</guid>
+      <guid>https://damien.co/blog/2012-11-12-visual-layouts-plugin-for-wordpress-featuring-freetile/</guid>
       <description>Visual Layoutsmy latest plugin for WordPress is here … and you can download it now.
 Visual Layouts is a WordPress Plugin using Freetile.js to add visual animation and effects to your website.  3 Key Features of Visual Layouts  It’s Easy to install and no coding is required. Choose from 7 colour styles and it works with any posts, custom posts or pages. Choose to include or exclude the feature image  How to Download &amp;amp; Install Visual Layouts?</description>
     </item>
     
     <item>
       <title>Isotope Visual Layouts v1.0 is coming</title>
-      <link>https://damien1.github.io/blog/2012-10-17-isotope-visual-layouts-v1-0-is-coming/</link>
+      <link>https://damien.co/blog/2012-10-17-isotope-visual-layouts-v1-0-is-coming/</link>
       <pubDate>Wed, 17 Oct 2012 14:03:33 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-10-17-isotope-visual-layouts-v1-0-is-coming/</guid>
+      <guid>https://damien.co/blog/2012-10-17-isotope-visual-layouts-v1-0-is-coming/</guid>
       <description>Isotope Visual Layouts my plugin for WordPress will soon be updated to version 1. This is a big milestone for me and from my perspective, the plugin will be ‘out of beta’.
 I think, I have been talking about this for some time … but it’s been a bit harder for me to finish as I started a new job and need to commute out of London every day. I have also been working on another plugin and wanted to re-use what I have learnt / built from that project.</description>
     </item>

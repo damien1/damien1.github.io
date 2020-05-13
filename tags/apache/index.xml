@@ -2,61 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apache on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/apache/</link>
+    <link>https://damien.co/tags/apache/</link>
     <description>Recent content in Apache on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 13 May 2013 21:18:40 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/apache/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/apache/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>FAQ&amp;#8217;s &amp;#8211; How to start stop Apache on a Mac</title>
-      <link>https://damien1.github.io/faqs/faqs-how-to-start-stop-apache-on-a-mac-8666/</link>
+      <title>FAQ - How to start stop Apache on a Mac</title>
+      <link>https://damien.co/blog/2013-05-13-faqs-how-to-start-stop-apache-on-a-mac/</link>
       <pubDate>Mon, 13 May 2013 21:18:40 +0000</pubDate>
       
-      <guid>https://damien1.github.io/faqs/faqs-how-to-start-stop-apache-on-a-mac-8666/</guid>
+      <guid>https://damien.co/blog/2013-05-13-faqs-how-to-start-stop-apache-on-a-mac/</guid>
       <description>So this is a very basic FAQ and notes on Apache for Mac
-Terminal Commands Make Apache start when you login to your Mac  sudo launchctl load -w /System/Library/LaunchDaemons/org.apache.httpd.plist
+Terminal Commands Starting: sudo apachectl start
+Stopping: sudo apachectl stop
+Restarting: sudo apachectl restart
+Make Apache start when you login to your Mac sudo launchctl load -w /System/Library/LaunchDaemons/org.apache.httpd.plist
 sudo launchctl unload -w /System/Library/LaunchDaemons/org.apache.httpd.plist</description>
     </item>
     
     <item>
       <title>Introducing empty &amp;#8211; Apache Ant Build for WordPress</title>
-      <link>https://damien1.github.io/blog/2013-04-30-introducing-empty-apache-ant-build-for-wordpress/</link>
+      <link>https://damien.co/blog/2013-04-30-introducing-empty-apache-ant-build-for-wordpress/</link>
       <pubDate>Tue, 30 Apr 2013 11:00:49 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-30-introducing-empty-apache-ant-build-for-wordpress/</guid>
+      <guid>https://damien.co/blog/2013-04-30-introducing-empty-apache-ant-build-for-wordpress/</guid>
       <description>Welcome and say hello to empty. empty is a bunch of ANT Build Tasks for WordPress plugin developers that help automate the build thanks to Apache Ant.
 Why ANT not PHING? Go ask Google that … there are plenty of conversations elsewhere on ANT vs PHING. It’s really a personal choice.
 Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular tool, free and widely used. It’s commonly used for Java but can fit in with other code and projects.</description>
     </item>
     
     <item>
-      <title>Mac OSx replacing MAMP  &amp;#8211; install and configure MySQL, PHP, Apache</title>
-      <link>https://damien1.github.io/general/mac-osx-replacing-mamp-install-and-configure-mysql-php-apache-8654/</link>
+      <title>Mac OSx replacing MAMP  - install and configure MySQL, PHP, Apache</title>
+      <link>https://damien.co/blog/2013-04-21-mac-osx-replacing-mamp-install-and-configure-mysql-php-apache/</link>
       <pubDate>Sun, 21 Apr 2013 16:03:10 +0000</pubDate>
       
-      <guid>https://damien1.github.io/general/mac-osx-replacing-mamp-install-and-configure-mysql-php-apache-8654/</guid>
-      <description>MAMP (Mac, Apache, MySQL, PHP) is the first go to solution for anyone developing anything web based on your Mac. Even more so as Apple removed the easy controls to enable ‘web sharing‘ as it was called in 10.8 Mountain Lion. I had wanted to use WP-CLI – which is a set command line tools for WordPress, only that they don’t install / like MAMP. Which means, now is the time to replace MAMP with my own stack.</description>
+      <guid>https://damien.co/blog/2013-04-21-mac-osx-replacing-mamp-install-and-configure-mysql-php-apache/</guid>
+      <description>MAMP (Mac, Apache, MySQL, PHP) is the first go to solution for anyone developing anything web based on your Mac. Even more so as Apple removed the easy controls to enable ‘web sharing‘ as it was called in 10.8 Mountain Lion. I had wanted to use WP-CLI - which is a set of command line tools for WordPress, only that they don&amp;rsquo;t install / like MAMP. Which means, now is the time to replace MAMP with my own stack.</description>
     </item>
     
     <item>
       <title>Continuous Integration for WordPress plugins &amp;#8211; Jenkins &amp;#8211; Selenium &amp;#8211; Apache Ant</title>
-      <link>https://damien1.github.io/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</link>
+      <link>https://damien.co/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</link>
       <pubDate>Sun, 07 Apr 2013 21:08:35 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</guid>
+      <guid>https://damien.co/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</guid>
       <description>I’m no regular WordPress Plugin Developer – I spend most of my day managing projects or other stuff. So when I do develop, I want a trusted, reliable, repeatable workflow setup that is always testing, always building and always telling me whats going on. That’s why I believe in Continuous Integration … and why I’ve turned to Jenkins as my CI Tool and use Apache Ant and Selenium for testing.</description>
     </item>
     
     <item>
       <title>HOW TO FIX: .htaccess &amp;#038; permalinks not working in WordPress</title>
-      <link>https://damien1.github.io/blog/2012-07-23-how-to-fix-htaccess-permalinks-not-working-in-wordpress/</link>
+      <link>https://damien.co/blog/2012-07-23-how-to-fix-htaccess-permalinks-not-working-in-wordpress/</link>
       <pubDate>Mon, 23 Jul 2012 15:30:41 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-07-23-how-to-fix-htaccess-permalinks-not-working-in-wordpress/</guid>
+      <guid>https://damien.co/blog/2012-07-23-how-to-fix-htaccess-permalinks-not-working-in-wordpress/</guid>
       <description>If you’re setting up WordPress on a new server you may find that your custom permalinks don’t work and worse changes you make to your .htaccess file are ignored or have no effect. It sounds like you need to modify your VHOST configuration file on your web server.
 Modify VHOST to AllowOverride By default AllowOverride is disabled, this means .htaccess files and files like php.ini are ignored.
 Even if you enable mod_rewrite using sudo a2enmod rewrite your .</description>

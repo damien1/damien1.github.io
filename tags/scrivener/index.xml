@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scrivener on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/scrivener/</link>
+    <link>https://damien.co/tags/scrivener/</link>
     <description>Recent content in Scrivener on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 24 Apr 2011 12:28:13 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/scrivener/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/scrivener/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Switching to Scrivener for WordPress blogging</title>
-      <link>https://damien1.github.io/wordpress/switching-to-scrivener-for-wordpress-blogging-2901/</link>
+      <link>https://damien.co/wordpress/switching-to-scrivener-for-wordpress-blogging-2901/</link>
       <pubDate>Sun, 24 Apr 2011 12:28:13 +0000</pubDate>
       
-      <guid>https://damien1.github.io/wordpress/switching-to-scrivener-for-wordpress-blogging-2901/</guid>
+      <guid>https://damien.co/wordpress/switching-to-scrivener-for-wordpress-blogging-2901/</guid>
       <description>I’ve just made the switch – or as we speak, I’m starting to learn about this ‘new’ tool for writers called Scrivener. Described as the app for writers, journalists and anyone that needs to write short or long stories, Scrivener collects together scraps of articles, research material and helps to draft your writing.
 To me, the biggest problem with regular blogging is the interface. If you blog on the go then you already know that the WordPress admin suite is not very accessible when you’re in a plane, train or automobile.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Isotope Visual Layouts lite on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/isotope-visual-layouts-lite/</link>
+    <link>https://damien.co/tags/isotope-visual-layouts-lite/</link>
     <description>Recent content in Isotope Visual Layouts lite on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 04 Feb 2014 22:47:27 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/isotope-visual-layouts-lite/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/isotope-visual-layouts-lite/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Isotope Visual Layouts lite new version out now</title>
-      <link>https://damien1.github.io/blog/2014-02-04-isotope-visual-layouts-lite/</link>
+      <link>https://damien.co/blog/2014-02-04-isotope-visual-layouts-lite/</link>
       <pubDate>Tue, 04 Feb 2014 22:47:27 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2014-02-04-isotope-visual-layouts-lite/</guid>
+      <guid>https://damien.co/blog/2014-02-04-isotope-visual-layouts-lite/</guid>
       <description>Isotope Visual Layouts lite, my free WordPress plugin which adds animated grid layouts to your website has been updated.
 
 What’s New in Version 3.0  Introduces Metro UI CSS to replace my own custom code Updates Isotope jQuery to latest version   Where can I get it? Isotope Visual Layouts lite is a free plugin – you just need to register and download.</description>

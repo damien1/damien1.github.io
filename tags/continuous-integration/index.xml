@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Continuous Integration on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/continuous-integration/</link>
+    <link>https://damien.co/tags/continuous-integration/</link>
     <description>Recent content in Continuous Integration on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 07 Apr 2013 21:08:35 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/continuous-integration/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/continuous-integration/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Continuous Integration for WordPress plugins &amp;#8211; Jenkins &amp;#8211; Selenium &amp;#8211; Apache Ant</title>
-      <link>https://damien1.github.io/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</link>
+      <link>https://damien.co/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</link>
       <pubDate>Sun, 07 Apr 2013 21:08:35 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</guid>
+      <guid>https://damien.co/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</guid>
       <description>I’m no regular WordPress Plugin Developer – I spend most of my day managing projects or other stuff. So when I do develop, I want a trusted, reliable, repeatable workflow setup that is always testing, always building and always telling me whats going on. That’s why I believe in Continuous Integration … and why I’ve turned to Jenkins as my CI Tool and use Apache Ant and Selenium for testing.</description>
     </item>
     

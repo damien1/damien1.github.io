@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Content strategy on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/content-strategy/</link>
+    <link>https://damien.co/tags/content-strategy/</link>
     <description>Recent content in Content strategy on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 06 Jun 2013 14:11:50 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/content-strategy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/content-strategy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>On being quiet – and being busy: impact on web analytics and content strategy</title>
-      <link>https://damien1.github.io/blog/on-being-quiet-and-being-busy-impact-on-web-analytics-and-content-strategy-8675/</link>
+      <link>https://damien.co/blog/on-being-quiet-and-being-busy-impact-on-web-analytics-and-content-strategy-8675/</link>
       <pubDate>Thu, 06 Jun 2013 14:11:50 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/on-being-quiet-and-being-busy-impact-on-web-analytics-and-content-strategy-8675/</guid>
+      <guid>https://damien.co/blog/on-being-quiet-and-being-busy-impact-on-web-analytics-and-content-strategy-8675/</guid>
       <description>You may not have noticed, but I have … I’ve been quiet, and not been adding any new posts or updates to any of my WordPress plugin. I’ve also been busy and there are never enough hours in the day. I want to set out some thoughts on how a content strategy might help or detract.
 Google Analytics One interesting Google Analytics trend that pops up when I look at my stats over a long period (try 3 years) is that these busy peaks (at work) also correlate with the downward slumps in visitor numbers.</description>
     </item>

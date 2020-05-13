@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Twittertools on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/twittertools/</link>
+    <link>https://damien.co/tags/twittertools/</link>
     <description>Recent content in Twittertools on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 10 Apr 2011 20:13:30 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/twittertools/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/twittertools/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting Twitter Tools to work with MarsEdit</title>
-      <link>https://damien1.github.io/social-media/twitter/getting-twitter-tools-to-work-with-marsedit-2870/</link>
+      <link>https://damien.co/social-media/twitter/getting-twitter-tools-to-work-with-marsedit-2870/</link>
       <pubDate>Sun, 10 Apr 2011 20:13:30 +0000</pubDate>
       
-      <guid>https://damien1.github.io/social-media/twitter/getting-twitter-tools-to-work-with-marsedit-2870/</guid>
+      <guid>https://damien.co/social-media/twitter/getting-twitter-tools-to-work-with-marsedit-2870/</guid>
       <description>Just wondering if this works — I’m trying to make MarsEdit work with a plugin that I love called TwitterTools
 If you know about this plugin and using external editors then let me know.</description>
     </item>

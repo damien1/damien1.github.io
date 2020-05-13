@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IP Access on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/ip-access/</link>
+    <link>https://damien.co/tags/ip-access/</link>
     <description>Recent content in IP Access on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 18 Apr 2013 21:55:23 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/ip-access/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/ip-access/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>WordPress Security &amp;#8211; protect your wp-admin with this quick .htaccess trick</title>
-      <link>https://damien1.github.io/blog/2013-04-18-wordpress-security-protect-your-wp-admin-with-this-quick-htaccess-trick/</link>
+      <link>https://damien.co/blog/2013-04-18-wordpress-security-protect-your-wp-admin-with-this-quick-htaccess-trick/</link>
       <pubDate>Thu, 18 Apr 2013 21:55:23 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-18-wordpress-security-protect-your-wp-admin-with-this-quick-htaccess-trick/</guid>
+      <guid>https://damien.co/blog/2013-04-18-wordpress-security-protect-your-wp-admin-with-this-quick-htaccess-trick/</guid>
       <description>WordPress is under going an attack by a swarm of Zombies– and they are after any site with an Admin user account. Securing WordPress is easy and you can do two things to protect your website and yourself.
   Change and then delete your Admin account (if you haven’t already)
   Only allow access to WordPress /wp-admin by your IP address

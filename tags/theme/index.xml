@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>theme on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/theme/</link>
+    <link>https://damien.co/tags/theme/</link>
     <description>Recent content in theme on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 15 Apr 2013 13:58:34 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/theme/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Differences between a plugin and a theme</title>
-      <link>https://damien1.github.io/blog/2013-04-15-differences-between-a-plugin-and-a-theme/</link>
+      <link>https://damien.co/blog/2013-04-15-differences-between-a-plugin-and-a-theme/</link>
       <pubDate>Mon, 15 Apr 2013 13:58:34 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2013-04-15-differences-between-a-plugin-and-a-theme/</guid>
+      <guid>https://damien.co/blog/2013-04-15-differences-between-a-plugin-and-a-theme/</guid>
       <description>In WordPress, as with many things, there are two ways to add features and customise your website, either with themes (php template files) or plugins. There are multiple threads about what’s the difference between a theme and a plugin. A plugin ‘should not’ change your website design / look and feel … But a theme can do everything a plugin does (including installing other plugins). Difference between a plugin and a theme To make things sound simple … Primarily, a plugin gives you the user, fine control via the shortcode as to when my plugin function is activated, and of course you can just turn off the plugin at any time.</description>
     </item>
     
     <item>
       <title>HOW TO: A WordPress update created a fatal error and now I can&amp;#8217;t login</title>
-      <link>https://damien1.github.io/blog/2012-07-30-how-to-a-wordpress-update-created-a-fatal-and-now-i-cant-login/</link>
+      <link>https://damien.co/blog/2012-07-30-how-to-a-wordpress-update-created-a-fatal-and-now-i-cant-login/</link>
       <pubDate>Mon, 30 Jul 2012 15:00:18 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2012-07-30-how-to-a-wordpress-update-created-a-fatal-and-now-i-cant-login/</guid>
+      <guid>https://damien.co/blog/2012-07-30-how-to-a-wordpress-update-created-a-fatal-and-now-i-cant-login/</guid>
       <description>You just updated your plugins or theme in WordPress and now you can’t visit wp-admin or visit your website. Everything is broken, what you’re looking at is the White Screen of Death.
 It’s easy to recover from the 2 most common errors that kill your WordPress website. Fix the issue in 3 simple steps.
 When something goes wrong WordPress the most common cause is a plugin conflict or a problem with your theme.</description>
@@ -33,10 +33,10 @@ When something goes wrong WordPress the most common cause is a plugin conflict o
     
     <item>
       <title>WordPress Theme &amp;#8211; Continuum via Woothemes</title>
-      <link>https://damien1.github.io/wordpress/wordpress-theme-continuum-via-woothemes-1762/</link>
+      <link>https://damien.co/wordpress/wordpress-theme-continuum-via-woothemes-1762/</link>
       <pubDate>Sat, 30 Oct 2010 08:30:29 +0000</pubDate>
       
-      <guid>https://damien1.github.io/wordpress/wordpress-theme-continuum-via-woothemes-1762/</guid>
+      <guid>https://damien.co/wordpress/wordpress-theme-continuum-via-woothemes-1762/</guid>
       <description>Some days I think a spring cleanis just as good for you as taking a holiday. Out with the old and give yourself some more space to create a mess.
 Take for example this website – its built using WordPress and being very critical about the quality of my work or ‘portfolio’, I always want to be tweaking and changing my website and lookg at ways to make things better. So thankfully, today Woothemes(who I use with all my projects) came out with a new magazine layout that I’ve installed already.</description>
     </item>

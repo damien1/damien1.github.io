@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>web apps on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/web-apps/</link>
+    <link>https://damien.co/tags/web-apps/</link>
     <description>Recent content in web apps on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 23 Jun 2012 21:54:10 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/web-apps/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/web-apps/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>HOW TO: Install Selenium 2 for Mac OS X / Python</title>
-      <link>https://damien1.github.io/resources/how-to-install-selenium-2-mac-os-x-python-7391/</link>
+      <link>https://damien.co/resources/how-to-install-selenium-2-mac-os-x-python-7391/</link>
       <pubDate>Sat, 23 Jun 2012 21:54:10 +0000</pubDate>
       
-      <guid>https://damien1.github.io/resources/how-to-install-selenium-2-mac-os-x-python-7391/</guid>
+      <guid>https://damien.co/resources/how-to-install-selenium-2-mac-os-x-python-7391/</guid>
       <description>If you own a Mac and want to get started with Selenium for Automated Testing of your web apps, then you’re already most of the way there.
 The Mac operating system already offers a number of baked in solutions and command line tools like Python, Ruby and Java.
 How To Install Selenium on your Mac OSx Mac already has Python and a package manager called easy_install, so open Terminal and type</description>
@@ -24,10 +24,10 @@ How To Install Selenium on your Mac OSx Mac already has Python and a package man
     
     <item>
       <title>How to make your website mobile</title>
-      <link>https://damien1.github.io/mobile-marketing/how-to-make-your-website-mobile-3772/</link>
+      <link>https://damien.co/mobile-marketing/how-to-make-your-website-mobile-3772/</link>
       <pubDate>Fri, 10 Jun 2011 11:05:00 +0000</pubDate>
       
-      <guid>https://damien1.github.io/mobile-marketing/how-to-make-your-website-mobile-3772/</guid>
+      <guid>https://damien.co/mobile-marketing/how-to-make-your-website-mobile-3772/</guid>
       <description>Smart phones are driving the usage of mobile internet and that’s not just the growth in mobile apps. Having a mobile version of your website or a mobile web app is becoming critical as your customers and potential new business use mobile search to hunt for any business.
 There are 3 easy steps to get your website ready for the mobile internet:
  Make your website mobile now Assess your mobile customer’s needs Improve your mobile customer experience to generate leads  Make your website mobile today It’s easy for any brand or business to enable a mobile version of your website.</description>

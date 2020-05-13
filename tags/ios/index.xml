@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iOS on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/ios/</link>
+    <link>https://damien.co/tags/ios/</link>
     <description>Recent content in iOS on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 26 Sep 2012 08:44:34 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>WTF! TomTom you make Apple Maps really do suck</title>
-      <link>https://damien1.github.io/blog/wtf-tomtom-you-make-apple-maps-really-do-suck-7849/</link>
+      <link>https://damien.co/blog/wtf-tomtom-you-make-apple-maps-really-do-suck-7849/</link>
       <pubDate>Wed, 26 Sep 2012 08:44:34 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/wtf-tomtom-you-make-apple-maps-really-do-suck-7849/</guid>
+      <guid>https://damien.co/blog/wtf-tomtom-you-make-apple-maps-really-do-suck-7849/</guid>
       <description>To me, I used Apple Maps on my iPad to check walking directions. So why is Apple Maps now powered by a Sat nav company like TomTom. Apparently I have to pay tollS to walk 6m to my home … Not just one toll … That&amp;rsquo;s tolls.
 And annoyingly all map data is now from some sat nav company so you can&amp;rsquo;t get walking directions.</description>
     </item>
     
     <item>
       <title>App Design: Storify &amp;#8211; too many windows</title>
-      <link>https://damien1.github.io/apps-2/app-design-storify-too-many-windows-7077/</link>
+      <link>https://damien.co/apps-2/app-design-storify-too-many-windows-7077/</link>
       <pubDate>Sun, 20 May 2012 11:08:15 +0000</pubDate>
       
-      <guid>https://damien1.github.io/apps-2/app-design-storify-too-many-windows-7077/</guid>
+      <guid>https://damien.co/apps-2/app-design-storify-too-many-windows-7077/</guid>
       <description>Have you tried Storify? Is it just a little too busy? a little too complicated to get started with?
 I’ve read some great stuff about how to use Storify to archive events (weddings for example). Using Storify you can collect all the tweets, Facebook messages, Flickr pictures into a ‘story’. Sounds good so far.
 But what if you’re creative and not a creative writer? What if you just don’t have enough going on in your life?</description>
@@ -34,10 +34,10 @@ But what if you’re creative and not a creative writer? What if you just don’
     
     <item>
       <title>App Design: Google&#43; updates app for iOS  &amp;#8211; result is impressive</title>
-      <link>https://damien1.github.io/apps-2/app-design-google-updates-app-for-ios-result-is-impressive-7044/</link>
+      <link>https://damien.co/apps-2/app-design-google-updates-app-for-ios-result-is-impressive-7044/</link>
       <pubDate>Thu, 17 May 2012 17:30:11 +0000</pubDate>
       
-      <guid>https://damien1.github.io/apps-2/app-design-google-updates-app-for-ios-result-is-impressive-7044/</guid>
+      <guid>https://damien.co/apps-2/app-design-google-updates-app-for-ios-result-is-impressive-7044/</guid>
       <description>Google+ has updated it’s app for iPhones – here is a screenshot from my iPad 3
 
 Even though the app is not universal – you can see Google+ has high-res / retina display assets and so it renders quite ‘crisp’ even at 2x zoom on the iPad.

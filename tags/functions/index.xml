@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Functions on Damien Saunders</title>
-    <link>https://damien1.github.io/tags/functions/</link>
+    <link>https://damien.co/tags/functions/</link>
     <description>Recent content in Functions on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 05 Jul 2011 12:06:21 +0000</lastBuildDate>
     
-	<atom:link href="https://damien1.github.io/tags/functions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damien.co/tags/functions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>HOW TO: Stop WordPress Comment Spam – instantly</title>
-      <link>https://damien1.github.io/wordpress/how-to-stop-wordpress-comment-spam-%e2%80%93-instantly-4435/</link>
+      <link>https://damien.co/wordpress/how-to-stop-wordpress-comment-spam-%e2%80%93-instantly-4435/</link>
       <pubDate>Tue, 05 Jul 2011 12:06:21 +0000</pubDate>
       
-      <guid>https://damien1.github.io/wordpress/how-to-stop-wordpress-comment-spam-%e2%80%93-instantly-4435/</guid>
+      <guid>https://damien.co/wordpress/how-to-stop-wordpress-comment-spam-%e2%80%93-instantly-4435/</guid>
       <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme’s functions.php. This is one of my favourite WordPress functions and I use it on all my setups.
 This code snippet works by blocking comments from being added offsite or indirectly and not from the comment box on your webpage.
 Just to prove this works … take a look at your spam comments now and mentally calculate your daily average of new spam comments.</description>
@@ -24,10 +24,10 @@ Just to prove this works … take a look at your spam comments now and mentally 
     
     <item>
       <title>HOW TO: Stop WordPress Comment Spam &amp;#8211; instantly</title>
-      <link>https://damien1.github.io/blog/2011-07-05-how-to-stop-wordpress-comment-spam-instantly/</link>
+      <link>https://damien.co/blog/2011-07-05-how-to-stop-wordpress-comment-spam-instantly/</link>
       <pubDate>Tue, 05 Jul 2011 11:06:21 +0000</pubDate>
       
-      <guid>https://damien1.github.io/blog/2011-07-05-how-to-stop-wordpress-comment-spam-instantly/</guid>
+      <guid>https://damien.co/blog/2011-07-05-how-to-stop-wordpress-comment-spam-instantly/</guid>
       <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme’s functions.php. This is one of my favourite WordPress functions and I use it on all my setups.
 This code snippet works by blocking comments from being added offsite or indirectly and not from the comment box on your webpage.
 Just to prove this works … take a look at your spam comments now and mentally calculate your daily average of new spam comments.</description>
