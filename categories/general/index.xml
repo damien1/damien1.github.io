@@ -59,19 +59,7 @@ As a start to addressing this - I&amp;rsquo;m consolidating my sites and _may_ t
       
       <guid>http://damien.co/blog/2014-02-04-isotope-visual-layouts-lite/</guid>
       <description>Isotope Visual Layouts lite, my free WordPress plugin which adds animated grid layouts to your website has been updated.
-
-What’s New in Version 3.0  Introduces Metro UI CSS to replace my own custom code Updates Isotope jQuery to latest version   Where can I get it? Isotope Visual Layouts lite is a free plugin – you just need to register and download.</description>
-    </item>
-    
-    <item>
-      <title>Using a Netgear N600 DGND3700v1 to extend a home network</title>
-      <link>http://damien.co/general/using-netgear-n600-dgnd3700v1-extend-home-network-8747/</link>
-      <pubDate>Sat, 18 Jan 2014 23:36:48 +0000</pubDate>
-      
-      <guid>http://damien.co/general/using-netgear-n600-dgnd3700v1-extend-home-network-8747/</guid>
-      <description>I’ve brought a brand new Asus RT-AC66U modem/router and decided that to use my old Netgear N600 ADSL modem/router DGND3700v1 to extend my home network and expand my wireless network.
-I’ve put the Netgear in a room where there was poor wifi signal strength and used a powerline (ethernet over power) adapter to connect back to the new main connection.
-To get the Netgear to behave like a wireless Access Point and extend my existing network should have been easy.</description>
+What’s New in Version 3.0  Introduces Metro UI CSS to replace my own custom code Updates Isotope jQuery to latest version  </description>
     </item>
     
     <item>
@@ -101,7 +89,7 @@ To get the Netgear to behave like a wireless Access Point and extend my existing
       <guid>http://damien.co/general/2012-website-statistics-awesome-8541/</guid>
       <description>2012 was the biggest year to date for web site visitors – and with good reason! So Thank You to everyone who came, read and left (and came back, again).
 55,266 unique visitors clocked up 5.1 million seconds of visit duration but more importantly pages / visit and average visit duration also grew.
- So what happened in 2012? Search Engine Optimisation (SEO) didn’t work out … but having a content strategy did.</description>
+So what happened in 2012? Search Engine Optimisation (SEO) didn’t work out … but having a content strategy did.</description>
     </item>
     
     <item>
@@ -113,17 +101,6 @@ To get the Netgear to behave like a wireless Access Point and extend my existing
       <description>In my Isotope Visual Layouts WordPress plugin, you’ll find that Inline code documentation has been added to pretty much all the functions so just start by opening the main plugin file dbf_isotope.php and do a search for
 function dbc_isotope_shortcode_handler($atts)Under that you just need to change posts=20 to posts=-1
 Note .. this also applies to Visual Layouts Pro</description>
-    </item>
-    
-    <item>
-      <title>WordPress &amp;#038; MarsEdit &amp;#8211; schedule the future date of publishing bug</title>
-      <link>http://damien.co/blog/2013-04-14-wordpress-marsedit-schedule-the-future-date-of-publishing-bug/</link>
-      <pubDate>Sun, 14 Apr 2013 15:00:22 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2013-04-14-wordpress-marsedit-schedule-the-future-date-of-publishing-bug/</guid>
-      <description>I’ve been using MarsEdit for years and really like its features … recently I reformatted my Mac and now find that all my WordPress posts are being published immediately. Even after I set the date for ‘tomorrow’ for example.
-By the way .. I’d love it if MarsEdit would add a text editor toolbar to make it easier to apply formatting styles like lists, headers or font styles.
- Small Bug – Set post date gets overwritten when you change post status I was getting annoyed and found that if I set the blog post date to ‘tomorrow’, then set the post status to published .</description>
     </item>
     
     <item>
@@ -164,22 +141,11 @@ Reformat your Apple Mac and reinstall OSx operating system Once you are happy th
       <pubDate>Sat, 16 Mar 2013 12:19:48 +0000</pubDate>
       
       <guid>http://damien.co/general/i-feel-like-a-kid-in-a-candy-shop-reformatted-my-mac-day-8433/</guid>
-      <description>
-I woke up this morning .. it’s pouring with rain … my Apple MacBook Pro decides it doesn’t want to connect to my wifi.
+      <description>I woke up this morning .. it’s pouring with rain … my Apple MacBook Pro decides it doesn’t want to connect to my wifi.
 So I had to do, what I had to do! and reformatted my Mac.
 Now … I’m getting up in running again.
 First things first ..
  Update my user preferences and move my home folder to the second partition (done) Download and Install Chrome (done) Download and Install Dropbox – point to my Dropbox folder on the other partition Download and install 1Password (done)  </description>
-    </item>
-    
-    <item>
-      <title>Why I use WordPress?</title>
-      <link>http://damien.co/blog/2013-03-06-why-i-use-wordpress/</link>
-      <pubDate>Wed, 06 Mar 2013 11:22:25 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2013-03-06-why-i-use-wordpress/</guid>
-      <description>Why use WordPress and Compare WordPress features sound like pretty SEO friendly keywords. Right? And if you’re new to WordPress, you’ll probably see many articles focus on three words – Free, Simple &amp;amp; Easy. These words tell you nothing about WordPress and so this is to help you decide to choose WordPress.
-I started using WordPress in 2003 and I still have my hosted account London.WordPress.com. I switched to standalone or self-hosted in 2009 and from 2010, I’ve been running WordPress network or WordPress multisite.</description>
     </item>
     
     <item>
@@ -189,37 +155,6 @@ I started using WordPress in 2003 and I still have my hosted account London.Word
       
       <guid>http://damien.co/general/how-to-start-stop-restart-or-reload-jenkins-mac-osx-8022/</guid>
       <description>I’ve just started to use Jenkins as part of a continuous integration setup that I’m building. Mostly I’m doing this to learn and then apply this to something bigger. At home, I’m using Jenkins as a CI server to manage testing of my PHP WordPress plugins. I know it could be overkill, but as a one man band, automating testing is something that saves me time and increases my confidence that the development feature is tested and ready to deploy!</description>
-    </item>
-    
-    <item>
-      <title>I&amp;#8217;m on WordPress Stack Exchange &amp;#8230; are you?</title>
-      <link>http://damien.co/blog/2012-10-07-im-on-wordpress-stack-exchange-are-you/</link>
-      <pubDate>Sun, 07 Oct 2012 14:56:15 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2012-10-07-im-on-wordpress-stack-exchange-are-you/</guid>
-      <description>You can join in the conversation with me and many others on WordPress Stack Exchange</description>
-    </item>
-    
-    <item>
-      <title>Thank you &amp;#8230; 2000&#43; downloads of DBC Backup 2 for WordPress</title>
-      <link>http://damien.co/blog/2012-09-17-thank-you-2000-downloads-of-dbc-backup-2-for-wordpress/</link>
-      <pubDate>Mon, 17 Sep 2012 09:36:21 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2012-09-17-thank-you-2000-downloads-of-dbc-backup-2-for-wordpress/</guid>
-      <description>I want to say ‘Thank You’ to all of you who have downloaded and installed DBC Backup 2. Over the weekend, plugin downloads rose above 2000.
-DBC Backup 2 makes it easy to safely backup your WordPress SQL database to a folder on your web server. It’s a unique solution which also includes regular, scheduled backups so that you can have a daily, weekly or monthly backup.
-If you like DBC Backup 2 – please can you rate it 5 Stars on WordPress.</description>
-    </item>
-    
-    <item>
-      <title>NEWS: Isotope Visual Post Layouts v0.32 just a bug fix</title>
-      <link>http://damien.co/blog/2012-09-16-news-isotope-visual-post-layouts-v0-32-just-a-bug-fix/</link>
-      <pubDate>Sun, 16 Sep 2012 20:50:40 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2012-09-16-news-isotope-visual-post-layouts-v0-32-just-a-bug-fix/</guid>
-      <description>Isotope Visual Post Layouts v0.32 was published to the plugins repository at WordPress.org on Sunday.
-What’s in this release? v0.32 is a minor bug fix and apologies from me. It’s been one single bug that has plagued me since the first version of the plugin. It’s now fixed.
-Filtrify – Add-on coming soon I’ve started work on my first add-in for Isotope Visual Post Layouts. This will be a feature you can purchase to include Filtrify drop-down menu (as featured on damien.</description>
     </item>
     
     <item>
@@ -278,12 +213,12 @@ HTML5 is not a new language – but it is visual Every project I’ve got so far
     
     <item>
       <title>Update on Maintenance Work</title>
-      <link>http://damien.co/general/update-on-maintenance-work-5862/</link>
+      <link>http://damien.co/blog/2012-01-08-update-on-maintenance-work/</link>
       <pubDate>Sun, 08 Jan 2012 12:26:39 +0000</pubDate>
       
-      <guid>http://damien.co/general/update-on-maintenance-work-5862/</guid>
+      <guid>http://damien.co/blog/2012-01-08-update-on-maintenance-work/</guid>
       <description>Thanks for your patience while I had some work done to migrate my site to a new server.
-The average page load time is now around 5 seconds as reported by Google Analytics – it had been floating between 12 – 20 seconds on various days last week.
+The average page load time is now around 5 seconds as reported by Google Analytics – it had been floating between 12 and 20 seconds on various days last week.
 So hopefully, we’ll have no more issues.
 Cheers
 Damien</description>
@@ -335,18 +270,6 @@ Damien</description>
     </item>
     
     <item>
-      <title>Merry Christmas to everyone .. make the most of it</title>
-      <link>http://damien.co/general/merry-christmas-to-everyone-make-most-of-it-5401/</link>
-      <pubDate>Sun, 25 Dec 2011 13:23:14 +0000</pubDate>
-      
-      <guid>http://damien.co/general/merry-christmas-to-everyone-make-most-of-it-5401/</guid>
-      <description>Merry Christmas … I found this quote recently and I think it’s quite funny and timely
-~Richard Lamm
-I hope you’re having a great day! wherever you are in the world – make the most of it.
-Thanks for your support this year and hope to see you again soon.</description>
-    </item>
-    
-    <item>
       <title>Sorry about the bugs right now</title>
       <link>http://damien.co/general/sorry-the-bugs-right-now-5368/</link>
       <pubDate>Wed, 21 Dec 2011 16:38:19 +0000</pubDate>
@@ -392,12 +315,11 @@ Damien
     
     <item>
       <title>It wasn&amp;#8217;t about design &amp;#8211; it was the first computer I used. Thanks Steve</title>
-      <link>http://damien.co/general/it-wasnt-about-design-it-was-the-first-computer-i-used-thanks-steve-4444/</link>
+      <link>http://damien.co/blog/2011-10-06-it-wasnt-about-design-it-was-the-first-computer-i-used-thanks-steve/</link>
       <pubDate>Thu, 06 Oct 2011 09:32:17 +0000</pubDate>
       
-      <guid>http://damien.co/general/it-wasnt-about-design-it-was-the-first-computer-i-used-thanks-steve-4444/</guid>
+      <guid>http://damien.co/blog/2011-10-06-it-wasnt-about-design-it-was-the-first-computer-i-used-thanks-steve/</guid>
       <description>What was your first computer? The first computer I had regular use of was kept locked up in my school’s library. It was an Apple IIe with a green monochrome monitor. At 9 years of age, I was hooked.
-
 Growing up far, far away where the most important news of the day was NZ losing its number 1 market for dairy and lamb as the UK joined the ‘EU’ – a piece of technology like the Apple IIe probably cost the world.</description>
     </item>
     
@@ -413,17 +335,6 @@ If you evaluate startups and are not getting a business model canvas then you sh
     </item>
     
     <item>
-      <title>Social Media Marketing with WordPress needs a good theme</title>
-      <link>http://damien.co/blog/2011-07-04-social-media-marketing-with-wordpress-needs-a-good-theme/</link>
-      <pubDate>Mon, 04 Jul 2011 15:02:18 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2011-07-04-social-media-marketing-with-wordpress-needs-a-good-theme/</guid>
-      <description>Get a good theme – it’s all about the instant appeal that any visitor has when they first land on your site. WordPress has many themes suited for social media marketing with a magazine layout, a featured panel and ready to go marketing plugins.
-Why WordPress? WordPress is one of the world’s most popular solutions for blogging
-If you’re reading and researching Why WordPress – you’ll probably see many articles focus on three words – Free, Simple &amp;amp; Easy.</description>
-    </item>
-    
-    <item>
       <title>Top Posts June 2011</title>
       <link>http://damien.co/general/top-posts-june-2011-2549/</link>
       <pubDate>Mon, 04 Jul 2011 10:00:00 +0000</pubDate>
@@ -431,28 +342,6 @@ If you’re reading and researching Why WordPress – you’ll probably see many
       <guid>http://damien.co/general/top-posts-june-2011-2549/</guid>
       <description>Ahh June … how we loved you … first it was drier then a dusty desert here in the UK, then wetter then wet and finally … So, In case you were living underground here are the most popular posts that you missed from last month:
 [wpp order_by=”views” range=”monthly” pages=”0″ stats_comments=0 stats_views=1]</description>
-    </item>
-    
-    <item>
-      <title>MarsEdit updates &amp;#8211; best desktop blogging app for WordPress &amp;amp; Mac</title>
-      <link>http://damien.co/blog/2011-07-03-marsedit-updates-best-desktop-blogging-app-for-wordpress-mac/</link>
-      <pubDate>Sun, 03 Jul 2011 14:58:04 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2011-07-03-marsedit-updates-best-desktop-blogging-app-for-wordpress-mac/</guid>
-      <description>MarsEditthe preferred desktop and offline blogging application for WordPress and Apple Macusers has updated.This is mostly a bug-fix release and the update will automatically install for most users.
-What’s in this release? The release notehighlights a few good things for WordPress users such as:
- Media Manager now remembers and restores last-selected folder across launches Fix a bug that prevented custom text and background color preferences from working in rich text mode Add protections to avoid crashing on some malformed server responses Fix a bug where only the first paragraph was styled with e.</description>
-    </item>
-    
-    <item>
-      <title>Comment is Free (again) thanks to Facebook</title>
-      <link>http://damien.co/general/comment-is-free-again-thanks-to-facebook-3758/</link>
-      <pubDate>Wed, 08 Jun 2011 10:52:09 +0000</pubDate>
-      
-      <guid>http://damien.co/general/comment-is-free-again-thanks-to-facebook-3758/</guid>
-      <description>Recently I moaned about the state of comments and spam – and I hinted that comments would be enabled across my website again.
-My interests in social media do extend to ‘the Facebook’ – but my expertise is definitely not with that network. Given a limited number of hours in each day, I have enough social media stuff to do.
-Facebook Comments Only a few months back, Facebook launched their own comments system allowing external websites an easy way to integrate with Facebooks own commenting system.</description>
     </item>
     
     <item>
@@ -633,16 +522,6 @@ I’ll be sharing the latest presentations and other news and marketing stuff on
     </item>
     
     <item>
-      <title>Saturday Humour &amp;#8211; Procrastination</title>
-      <link>http://damien.co/general/saturday-humour-procrastination-2737/</link>
-      <pubDate>Sat, 19 Feb 2011 10:55:45 +0000</pubDate>
-      
-      <guid>http://damien.co/general/saturday-humour-procrastination-2737/</guid>
-      <description>procrastination-flowchart.png (1490×1188): “”
-(Via lalawag.com)</description>
-    </item>
-    
-    <item>
       <title>Top Posts January 2011</title>
       <link>http://damien.co/general/top-posts-january-2011-2544/</link>
       <pubDate>Tue, 01 Feb 2011 10:00:00 +0000</pubDate>
@@ -723,10 +602,10 @@ And on my first day of being a Citizen of the United Kingdom — I was stumped b
     
     <item>
       <title>Saturday Humour</title>
-      <link>http://damien.co/general/saturday-humour-2155/</link>
+      <link>http://damien.co/blog/2010-12-04-saturday-humour/</link>
       <pubDate>Sat, 04 Dec 2010 09:42:17 +0000</pubDate>
       
-      <guid>http://damien.co/general/saturday-humour-2155/</guid>
+      <guid>http://damien.co/blog/2010-12-04-saturday-humour/</guid>
       <description>Here’s a funny one for all you budding entrepreneurs and lawyers.
 
 Thanks to XKCD who do the best stuff on an almost daily basis!</description>
@@ -738,7 +617,7 @@ Thanks to XKCD who do the best stuff on an almost daily basis!</description>
       <pubDate>Wed, 24 Nov 2010 09:00:35 +0000</pubDate>
       
       <guid>http://damien.co/general/apples-ipad-updates-to-multi-tasking-free-find-my-ipad-2064/</guid>
-      <description>In case you have been under a rock since (Tues evening in the UK or Wed morning in Aus) or maybe in some foreign land so far far away from the Internet – let me be the first to tell you … the long awaited iPad IOS 4.2 is now available and it introduces at least 100 features. so now go away, find your iPad, plug it in to your computer and launch iTunes … if you don’t have an iPad but want one … then now you can go buy one  if you don’t have an iPad and are not interested in all things mac … ‘pfft’ i say to you</description>
+      <description>In case you have been under a rock since (Tues evening in the UK or Wed morning in Aus) or maybe in some foreign land so far far away from the Internet – let me be the first to tell you … the long awaited iPad IOS 4.2 is now available and it introduces at least 100 features. so now go away, find your iPad, plug it in to your computer and launch iTunes … if you don’t have an iPad but want one … then now you can go buy one  if you don’t have an iPad and are not interested in all things mac … ‘pfft’ i say to you  Want to know what else is in the IOS 4.</description>
     </item>
     
     <item>
@@ -752,10 +631,10 @@ Thanks to XKCD who do the best stuff on an almost daily basis!</description>
     
     <item>
       <title>20,000 visitors so far this year</title>
-      <link>http://damien.co/general/20000-visitors-so-far-this-year-1995/</link>
+      <link>http://damien.co/blog/2010-11-22-20000-visitors-so-far-this-year/</link>
       <pubDate>Mon, 22 Nov 2010 09:29:27 +0000</pubDate>
       
-      <guid>http://damien.co/general/20000-visitors-so-far-this-year-1995/</guid>
+      <guid>http://damien.co/blog/2010-11-22-20000-visitors-so-far-this-year/</guid>
       <description>So its mid-November and I’m just looking at the Google Analytics report to see how I’m getting on. Data visualisation is a big thing but raw numbers are also pretty good.20,000 visitors so far this year generated 50,000 page views.
 That’s pretty good for a one man marketing guy and his machine.
 Alexa’s Web Information also seems interesting – and if you don’t know what Alexa says about your site .</description>
@@ -777,7 +656,6 @@ Alexa’s Web Information also seems interesting – and if you don’t know wha
       
       <guid>http://damien.co/general/saturday-funny-a-guide-to-the-internet-1875/</guid>
       <description>So how would you explain the internet to a 19th century Dickensian street urchin. Can you make it through the flowchart without being killed?
-
 Source: FastCompany</description>
     </item>
     
@@ -812,16 +690,6 @@ A Power tool for notes, sketches and mockups I like to think I’m a pro digital
     </item>
     
     <item>
-      <title>Social Media campaign #ukuncuts shows people are not happy @Vodafone</title>
-      <link>http://damien.co/general/social-media-campaign-ukuncuts-shows-people-are-not-happy-vodafone-1817/</link>
-      <pubDate>Wed, 03 Nov 2010 09:01:49 +0000</pubDate>
-      
-      <guid>http://damien.co/general/social-media-campaign-ukuncuts-shows-people-are-not-happy-vodafone-1817/</guid>
-      <description>I’m going to copy here an opinion piecefrom the Guardian’s Comment is free section. It’s about a social media campaign related to the Twitter hashtag #ukuncuts which is impacting VodafoneUK — Vodafone has been facing protests &amp;amp; flashmobs in the past few weeks, something about 6 billion pounds and a few people think the UK Gov’t could do with the money.
-Vodafone UK store in London Oxford Street forced to close</description>
-    </item>
-    
-    <item>
       <title>WordPress Theme &amp;#8211; Continuum via Woothemes</title>
       <link>http://damien.co/wordpress/wordpress-theme-continuum-via-woothemes-1762/</link>
       <pubDate>Sat, 30 Oct 2010 08:30:29 +0000</pubDate>
@@ -851,11 +719,11 @@ It now seems way way faster … Once one office app is open, the others open ble
     </item>
     
     <item>
-      <title>Challenge of the week &amp;#8211; Can I get by with iWork alone</title>
-      <link>http://damien.co/general/challenge-of-the-week-can-i-get-by-with-iwork-alone-1680/</link>
+      <title>Challenge of the week - Can I get by with iWork alone</title>
+      <link>http://damien.co/blog/2010-10-04-challenge-of-the-week-can-i-get-by-with-iwork-alone/</link>
       <pubDate>Mon, 04 Oct 2010 09:00:00 +0000</pubDate>
       
-      <guid>http://damien.co/general/challenge-of-the-week-can-i-get-by-with-iwork-alone-1680/</guid>
+      <guid>http://damien.co/blog/2010-10-04-challenge-of-the-week-can-i-get-by-with-iwork-alone/</guid>
       <description>Having cleaned up my Macbook Pro and reformatted the hard drive … I’m going to spend the week using iWorkfor all my document needs. I’m a smart guy … I know I love Office for Mac(powerpoint makes any presentation look hot) – but maybe I can be doing sexy presentations in Keynote instead.So I’ve not got Office on my Mac and will let you know – I anticipate that I’ll be frustrated by Pages and its desktop publishing layouts but I should get used to that quickly.</description>
     </item>
     
@@ -879,15 +747,6 @@ Take a look at my profile on LinkedIn if you want to get an idea about my skills
     </item>
     
     <item>
-      <title>WP Supercache &amp;#8211; were you seeing Garbage</title>
-      <link>http://damien.co/wordpress/wp-supercache-were-you-seeing-garbage-1482/</link>
-      <pubDate>Sat, 11 Sep 2010 11:00:03 +0000</pubDate>
-      
-      <guid>http://damien.co/wordpress/wp-supercache-were-you-seeing-garbage-1482/</guid>
-      <description>Sorry … I didn’t realise … my site has been having problems for a couple of weeks now. It turns out the WP Supercache a [ id=”693″ type=”post”]favourite WordPress[/] plugin was corrupting my site due to a conflict with my server compression.My Google Analytics bounce rate reports were quite high for the past couple of weeks and I didnt see anything was wrong until someone told me they were seeing garbadge on my website.</description>
-    </item>
-    
-    <item>
       <title>Lithuania Youth love Basketball</title>
       <link>http://damien.co/general/lithuania-youth-love-basketball-1411/</link>
       <pubDate>Wed, 18 Aug 2010 10:30:49 +0000</pubDate>
@@ -895,16 +754,6 @@ Take a look at my profile on LinkedIn if you want to get an idea about my skills
       <guid>http://damien.co/general/lithuania-youth-love-basketball-1411/</guid>
       <description>Lithuania is a basketball crazy nation – which may seem odd if you know little about this newer European Union state. Lithuania has had a long history with basketball even in the days of the Soviet Union (USSR).
 Lithuania will also be hosting the Mens European Championships in summer 2011. Something to look forward too. I guess as the days grow darker and colder, indoor team sports like Basketball are good for the fans and the players.</description>
-    </item>
-    
-    <item>
-      <title>Lithuanian Youth love to use the Internet</title>
-      <link>http://damien.co/general/lithuanian-youth-love-to-use-the-internet-1383/</link>
-      <pubDate>Tue, 10 Aug 2010 10:00:06 +0000</pubDate>
-      
-      <guid>http://damien.co/general/lithuanian-youth-love-to-use-the-internet-1383/</guid>
-      <description>In Lithuania the usage of the internet is reaching saturation point. A 2009 official report shows 95% of young people aged 16-24 with internet access**.**
-Lithuania has one of the highest per capita access to broadband ratios due to small land mass and population of just under 4 million. It’s also atypical of ‘westernised’ European markets and the Lithuanian youth are no different – wanting mobile phones, good clothes, good education and a future with a good job (most likely in London).</description>
     </item>
     
     <item>
@@ -922,20 +771,11 @@ But anyway – I digress, Ill be working for a couple of months in Lithuania (ye
     
     <item>
       <title>HOW TO: View your WordPress Website on iPhone or Android</title>
-      <link>http://damien.co/wordpress/how-to-view-your-wordpress-website-on-iphone-or-android-1343/</link>
+      <link>http://damien.co/blog/2010-07-26-how-to-view-your-wordpress-website-on-iphone-or-android/</link>
       <pubDate>Mon, 26 Jul 2010 16:00:27 +0000</pubDate>
       
-      <guid>http://damien.co/wordpress/how-to-view-your-wordpress-website-on-iphone-or-android-1343/</guid>
+      <guid>http://damien.co/blog/2010-07-26-how-to-view-your-wordpress-website-on-iphone-or-android/</guid>
       <description>WordPressis a very comprehensive all-round tool for websites – and its not just for blogs. If you’re starting out with WordPress and need your site to look smooth on a mobile phone like the iPhone or any big screen Androidmobile then you’ll need a plugin for this.The best plugin for WordPress that handles any mobile device is easily WPtouch iPhone Theme. Once the plugin is installed and activated its working for you straight away.</description>
-    </item>
-    
-    <item>
-      <title>HOW TO export posts from WordPress to Word Doc via PDF in Mac OSx</title>
-      <link>http://damien.co/wordpress/how-to-export-posts-from-wordpress-to-word-doc-via-pdf-in-mac-osx-1335/</link>
-      <pubDate>Sun, 25 Jul 2010 18:00:30 +0000</pubDate>
-      
-      <guid>http://damien.co/wordpress/how-to-export-posts-from-wordpress-to-word-doc-via-pdf-in-mac-osx-1335/</guid>
-      <description>WordPress is one of the best end to end solutions for building a website and it has a large selection of themes, plugins and tools to make it more than just another blog. I recommend WordPress at the start of any project – just because it typically requires less management involvement or decisions from the IT or Tech teams to get started with.Having spent a lot more time writing about Social Media lately, I wanted to collect these posts into an editable collection (maybe I should have started by writing all my posts in word you might say).</description>
     </item>
     
     <item>
@@ -961,34 +801,13 @@ The only way to install Windows 7 Upgrade using Virtualbox is to first install W
     </item>
     
     <item>
-      <title>London Startup Weekend Day 2 Summary</title>
-      <link>http://damien.co/general/london-startup-weekend-day-2-summary-1025/</link>
-      <pubDate>Sun, 06 Jun 2010 10:21:06 +0000</pubDate>
-      
-      <guid>http://damien.co/general/london-startup-weekend-day-2-summary-1025/</guid>
-      <description>Day 2: London Startup Weekend … Friday night’s ideas and pitch session, finished with 12 formative teams. When they arrived on Saturday this had started to change and a couple of teams merged.
-Saturday morning we go down to work quickly with our mentor Raam CEO from Touchnote spending team with every team. In the afternoon Andrew Lockley came around to mentor and we were joined by Alex vanSomeren from the Cambridge entrepreneur scene.</description>
-    </item>
-    
-    <item>
       <title>I&amp;#039;m looking for a new project or work</title>
-      <link>http://damien.co/general/im-looking-for-a-new-project-or-work-1020/</link>
+      <link>http://damien.co/blog/2010-06-03-im-looking-for-a-new-project-or-work/</link>
       <pubDate>Thu, 03 Jun 2010 11:46:16 +0000</pubDate>
       
-      <guid>http://damien.co/general/im-looking-for-a-new-project-or-work-1020/</guid>
+      <guid>http://damien.co/blog/2010-06-03-im-looking-for-a-new-project-or-work/</guid>
       <description>So after things quiet down this weekend, I mean after London Startup Weekend has finished and the dust has settled … as of Monday, I’m a free agent looking for new work and a new project to get stuck into.
 Given my all rounder background in social media and digital marketing … if you’re in need of someone who can move between planner, strategist, manager or something else then get in touch.</description>
-    </item>
-    
-    <item>
-      <title>London Startup Weekend starts in 2 days (insert panic now)</title>
-      <link>http://damien.co/general/london-startup-weekend-starts-in-2-days-insert-panic-now-1016/</link>
-      <pubDate>Wed, 02 Jun 2010 15:30:28 +0000</pubDate>
-      
-      <guid>http://damien.co/general/london-startup-weekend-starts-in-2-days-insert-panic-now-1016/</guid>
-      <description>London Startup Weekend, the 54 weekend event for anyone into startups or running their own business starts this Friday. Yes I’m going mental and about to have a breakdown. The weekend is going to awesome.
-I’m running around organising food for everyone, organising drinks for everyone and every 2 mins it seems someone wants a new press release or post on the website london.startupweekend.org
-My hats off to anyone who steps forward and says ‘Ill organise a 2.</description>
     </item>
     
     <item>
@@ -997,55 +816,46 @@ My hats off to anyone who steps forward and says ‘Ill organise a 2.</descripti
       <pubDate>Mon, 24 May 2010 09:00:51 +0000</pubDate>
       
       <guid>http://damien.co/general/book-review-virtualbox-3-1-beginners-guide-962/</guid>
-      <description>As far as book reviews go, from personal experience they are much harder to write then a review of a music album or live gig. So when reading VirtualBox 3.1 Beginners Guideby Alfonso V. Romero (Packt Publishing) I was surprised at how easy the book was to read and how an experienced VirtualBox user can dip in and find something new.
+      <description>As far as book reviews go, from personal experience they are much harder to write then a review of a music album or live gig. So when reading VirtualBox 3.1 Beginners Guideby Alfonso V. Romero (Packt Publishing) I was surprised at how easy the book was to read and how an experienced VirtualBox user can dip in and find something new.**
 VirtualBox is one of my favourite system virtualisation apps that I use on my Mac and my Windows machines.</description>
     </item>
     
     <item>
       <title>Virtualbox has a new how to book</title>
-      <link>http://damien.co/general/virtualbox-has-a-new-how-to-book-918/</link>
+      <link>http://damien.co/blog/2010-05-10-virtualbox-has-a-new-how-to-book/</link>
       <pubDate>Mon, 10 May 2010 16:00:51 +0000</pubDate>
       
-      <guid>http://damien.co/general/virtualbox-has-a-new-how-to-book-918/</guid>
-      <description>Virtualbox – is my favourite tool for creating and running all things windows or linux on my mac. Installing Virtualbox on a mac with windowsis a breeze and its easy to run then having to reboot into bootcamp.
+      <guid>http://damien.co/blog/2010-05-10-virtualbox-has-a-new-how-to-book/</guid>
+      <description>Virtualbox is my favourite tool for creating and running all things windows or linux on my mac. Installing Virtualbox on a mac with windowsis a breeze and its easy to run then having to reboot into bootcamp
 Now Packt Publishing have released VirtualBox 3.1: Beginner’s Guide this sample chapter is for Linux host machines. The book’s ambition is to ‘give you a thorough introduction to this award-winning virtualization product’. It will help you implement the right virtual environment for you.</description>
     </item>
     
     <item>
       <title>Skimlinks is working &amp;#8211; is it afiliate marketing or what?</title>
-      <link>http://damien.co/wordpress/skimlinks-is-working-is-it-afiliate-marketing-or-what-911/</link>
+      <link>http://damien.co/blog/2010-05-10-skimlinks-is-working-is-it-afiliate-marketing-or-what/</link>
       <pubDate>Mon, 10 May 2010 09:13:13 +0000</pubDate>
       
-      <guid>http://damien.co/wordpress/skimlinks-is-working-is-it-afiliate-marketing-or-what-911/</guid>
+      <guid>http://damien.co/blog/2010-05-10-skimlinks-is-working-is-it-afiliate-marketing-or-what/</guid>
       <description>I just added the Skimlinkswordpress plugin to my site. Skimlinks is my first step into affiliate marketing (is that what it is?). The wordpress plugin was very easy to install – but I think I should have read up more on affiliate marketing so it was over to the NMA magazine who recently ran an special on affiliate marketing to help me out.
 In essence, affiliate marketing involves any 3rd party creating content that is linked to a product page and the affiliate gets a commission for the sale.</description>
     </item>
     
     <item>
-      <title>London Startup Weekend June 4 &amp;#8211; 6 tickets on sale</title>
-      <link>http://damien.co/general/london-startup-weekend-june-4-6-tickets-on-sale-905/</link>
-      <pubDate>Thu, 06 May 2010 15:38:32 +0000</pubDate>
-      
-      <guid>http://damien.co/general/london-startup-weekend-june-4-6-tickets-on-sale-905/</guid>
-      <description>**Damien Saunders is organising the next London Startup Weekend (http://london.startupweekend.org) @startuplondon which will take place June 4 – 5 – 6 2010 in just under a month at the IBM offices on London’s Southbank. Getting around to organising a weekend like this is taking up a little bit of my time .. but I believe in the concept and the cause – and its going to be a great weekend!</description>
-    </item>
-    
-    <item>
       <title>Android Markets – Going International – advice for developers, VCs &amp;amp; startups</title>
-      <link>http://damien.co/general/android-markets-going-international-advice-for-developers-vcs-startups-874/</link>
+      <link>http://damien.co/blog/2010-04-20-android-markets-going-international-advice-for-developers-vcs-startups/</link>
       <pubDate>Tue, 20 Apr 2010 15:00:09 +0000</pubDate>
       
-      <guid>http://damien.co/general/android-markets-going-international-advice-for-developers-vcs-startups-874/</guid>
+      <guid>http://damien.co/blog/2010-04-20-android-markets-going-international-advice-for-developers-vcs-startups/</guid>
       <description>Developing for Android? You need to look to the bigger picture … actually this applies to anyone developing apps for mobile phones. If you want your app to be used by people that don’t speak English you need to translate it and provide some support.
 There are going to be many opportunities for startups and anyone with a business model to go ‘international’ or expand abroad should check these points are covered in the marketing and product development plans.</description>
     </item>
     
     <item>
       <title>Zoho CRM best free web based CRM included in Google Apps Marketplace</title>
-      <link>http://damien.co/social-crm/zoho-crm-best-free-web-based-crm-included-in-google-apps-marketplace-748/</link>
+      <link>http://damien.co/blog/2010-03-14-zoho-crm-best-free-web-based-crm-included-in-google-apps-marketplace/</link>
       <pubDate>Sun, 14 Mar 2010 23:04:36 +0000</pubDate>
       
-      <guid>http://damien.co/social-crm/zoho-crm-best-free-web-based-crm-included-in-google-apps-marketplace-748/</guid>
+      <guid>http://damien.co/blog/2010-03-14-zoho-crm-best-free-web-based-crm-included-in-google-apps-marketplace/</guid>
       <description>ZOHO CRM, which I reckon is the best free CRM for the web or SaaSis now available to add from the new Google Apps Marketplace.
 (note if you’re already using ZOHO CRM with Google Apps you are better to leave things as they are for now)
 What is CRM? Customer Relationship Management or CRM is really about 3 things:
@@ -1063,17 +873,6 @@ What is CRM? Customer Relationship Management (CRM) is an art and a science.</de
     </item>
     
     <item>
-      <title>HOW TO fix the Fatal Error: Allowed Memory Size in WordPress</title>
-      <link>http://damien.co/wordpress/how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-740/</link>
-      <pubDate>Thu, 11 Mar 2010 21:12:23 +0000</pubDate>
-      
-      <guid>http://damien.co/wordpress/how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-740/</guid>
-      <description>WordPress offers lots of plugins to choose from and if you add to many you will soon come across this Fatal Error message. You can easily fix the problem (and then go back to adding more plugins).
-This out of memory error doesn’t mean you have to go buy more RAM — just have to amend a line of text in a wordpress settings file.
-Fix the Fatal Error: Allowed Memory Size  When you installed WordPress you either uploaded it using FTP yourself or went to an admin cpanel and installed it.</description>
-    </item>
-    
-    <item>
       <title>HOW-TO install Ubuntu using Virtualbox on a Mac</title>
       <link>http://damien.co/general/how-to-install-ubuntu-using-virtualbox-on-a-mac-2-712/</link>
       <pubDate>Tue, 09 Mar 2010 23:27:29 +0000</pubDate>
@@ -1084,10 +883,10 @@ Fix the Fatal Error: Allowed Memory Size  When you installed WordPress you eithe
     
     <item>
       <title>WordPress: 9 Plugins for any new install</title>
-      <link>http://damien.co/wordpress/wordpress-top-9-plugins-for-any-new-install-693/</link>
+      <link>http://damien.co/blog/2010-03-08-wordpress-top-9-plugins-for-any-new-install/</link>
       <pubDate>Mon, 08 Mar 2010 21:07:41 +0000</pubDate>
       
-      <guid>http://damien.co/wordpress/wordpress-top-9-plugins-for-any-new-install-693/</guid>
+      <guid>http://damien.co/blog/2010-03-08-wordpress-top-9-plugins-for-any-new-install/</guid>
       <description>WordPress provides a great tool to build and run your own website – it has 1000’s of plugins that add functionality to your website. Here then is a short list of essential plugins to get you started.Akismet Akismet is included in every installation of WordPress and so it make it one of the most popular plugins. There are better spam protectors, this doesn’t stop spam comments. You need a wordpress.com user name so that the plugin can sync over the internet.</description>
     </item>
     
@@ -1104,56 +903,24 @@ Here’s a short wrap up of what went down last month … more importantly what 
     
     <item>
       <title>How to install Virtualbox on a Mac</title>
-      <link>http://damien.co/general/how-to-install-virtualbox-on-a-mac-533/</link>
+      <link>http://damien.co/blog/2010-02-28-how-to-install-virtualbox-on-a-mac/</link>
       <pubDate>Sun, 28 Feb 2010 14:48:23 +0000</pubDate>
       
-      <guid>http://damien.co/general/how-to-install-virtualbox-on-a-mac-533/</guid>
+      <guid>http://damien.co/blog/2010-02-28-how-to-install-virtualbox-on-a-mac/</guid>
       <description>This is 2 minute guide covering how to get Virtualbox and install it on your Mac. You would choose to use Virtualbox for 2 reasons
  Virtualbox is freeware in comparison to Fusion for Mac Virtualbox runs inside your Mac so you don’t have to reboot like Bootcamp  It’s been some time since I visited my favorite topic, which is using my Mac OSx Snow Leopard to run virtual operating systems like Tiny XP, Windows 7RC or Ubunutu.</description>
     </item>
     
     <item>
       <title>Most Read Posts &amp;#8211; January 2010</title>
-      <link>http://damien.co/general/most-read-posts-january-2010-426/</link>
+      <link>http://damien.co/blog/2010-02-01-most-read-posts-january-2010/</link>
       <pubDate>Mon, 01 Feb 2010 12:18:10 +0000</pubDate>
       
-      <guid>http://damien.co/general/most-read-posts-january-2010-426/</guid>
+      <guid>http://damien.co/blog/2010-02-01-most-read-posts-january-2010/</guid>
       <description>Top 3 posts for January 2010 that you loved to read the most were:
 – How to install Virtualbox on your Mac with WindowsXP &amp;amp; TinyXP
 – 10 Best Android Apps for your phone
 – 10 Things to do with your Android and a Barcode Scanner</description>
-    </item>
-    
-    <item>
-      <title>Gartner Says Consumers Will Download 4,500,000,000 Mobile Apps in 2010</title>
-      <link>http://damien.co/general/gartner-says-consumers-will-download-over-4-billion-mobile-apps-in-2010-420/</link>
-      <pubDate>Sun, 24 Jan 2010 14:33:03 +0000</pubDate>
-      
-      <guid>http://damien.co/general/gartner-says-consumers-will-download-over-4-billion-mobile-apps-in-2010-420/</guid>
-      <description>This week Gartner reported that consumers will spend a headline figure of £3.8 billion pounds ($6.2 billion USD) in mobile apps during this year. The forecast estimates total downloads to be 4,500,000,000. The numbers are eye wateringly large.
-Gartners forecast goes on to mention that 82 per cent of downloads would be free apps … leaving 18 per cent of downloads to come up with cash.
-4.5 billion downloads is quite staggering – even if Apple is set to announce its about to hit its 3 billionth download.</description>
-    </item>
-    
-    <item>
-      <title>Android Market 3 of the Best Games</title>
-      <link>http://damien.co/blog/android/android-market-best-games-412/</link>
-      <pubDate>Sat, 23 Jan 2010 00:43:01 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/android/android-market-best-games-412/</guid>
-      <description>Mobile Games for Android phones are now improving. The Android Market has a number of very good games that will help waste hours of your time. The 3 best and most popular Android mobile games are:
-Robo Defense (free and premium) best tower defense game on the Android. Why? because your enemies don’t have a set route to follow. Its kinda like a long rugby or gridiron playing field and you have to stop them from getting to the other end.</description>
-    </item>
-    
-    <item>
-      <title>How to not impact your SEO and website traffic when changing WordPress Permalinks</title>
-      <link>http://damien.co/wordpress/how-to-not-impact-your-seo-and-website-traffic-when-changing-wordpress-permalinks-406/</link>
-      <pubDate>Tue, 19 Jan 2010 17:54:21 +0000</pubDate>
-      
-      <guid>http://damien.co/wordpress/how-to-not-impact-your-seo-and-website-traffic-when-changing-wordpress-permalinks-406/</guid>
-      <description>Having made some changes to your wordpress permalinks, you can easily protect your web site traffic, SEO and search results from Google. This means you and your visitors get no 404 not found error.
-This wordpress plug-in looks at the incoming link URL structure and then redirects on the fly to the correct post with the new permalink structure.
-This didn’t make my list of Top 9 WordPress pluginsfor a new install – but if you are migrating a website this is critical.</description>
     </item>
     
     <item>
@@ -1207,16 +974,6 @@ What this means is that Tesco will be just another distributor like the Carphone
       <description>There’s no better sound than the reassuring ‘Beep at the Checkout Register’. So now you have your own Android mobile phone …here’s a few barcode scanning things you can do at home or in the shops.
 First you need the best Android Barcode Scanner – which now has integration with Google search on the mobile.
  Add a book to your Amazon Wishlist – just snap the barcode and save to list Catalogue your books at home using Anobiit from Anobii Catalogue your CD’s with Kooaba Look up reviews of that Wine you’ve just been drinking – Wine by the Bar is the perfect app for you Compare prices for that Electrical Gadget – Scan the Barcode and search online for it Create your own Barcode – After installing Barcode Scanner, open your Android Contacts .</description>
-    </item>
-    
-    <item>
-      <title>How to make mobile part of your marketing strategy</title>
-      <link>http://damien.co/general/how-to-make-mobile-part-of-your-marketing-strategy-357/</link>
-      <pubDate>Mon, 09 Nov 2009 09:01:18 +0000</pubDate>
-      
-      <guid>http://damien.co/general/how-to-make-mobile-part-of-your-marketing-strategy-357/</guid>
-      <description>Should you be worried that you don’t have an iPhone app? Do you know if you’re website works on a mobile? what about mobile SEO? It is very important for CEO’s and CMO’s to add mobile to their communications and marketing strategy.
-The fact that most companies have yet to build a mobile website shows you are not alone and many companies want to know what they should do first.</description>
     </item>
     
     <item>
@@ -1446,10 +1203,10 @@ Turn it on to see if there are free networks around you – once its found somew
     
     <item>
       <title>2 Must have Android Apps from Google</title>
-      <link>http://damien.co/general/2-must-have-android-apps-from-google-for-your-htc-magic-or-g1-226/</link>
+      <link>http://damien.co/blog/2009-07-10-2-must-have-android-apps-from-google-for-your-htc-magic-or-g1/</link>
       <pubDate>Fri, 10 Jul 2009 18:11:54 +0000</pubDate>
       
-      <guid>http://damien.co/general/2-must-have-android-apps-from-google-for-your-htc-magic-or-g1-226/</guid>
+      <guid>http://damien.co/blog/2009-07-10-2-must-have-android-apps-from-google-for-your-htc-magic-or-g1/</guid>
       <description>Looking for somewhere to go …. Maybe you need to waste some time or want to find something else to try on your Google Android G1 or HTC Magic.
 Google obviously has embedded a lot things into the phone – but here are 2 apps that were not installed on the Android phone when you open the box.
 Places DirectoryPrice FREE Downloads &amp;gt;250,000
@@ -1509,15 +1266,6 @@ So Grab your Windows 7 RC1 ISO file from the Windows website, grab a copy of Vir
     </item>
     
     <item>
-      <title>Decline of the music industry &amp;#8230; is there a decline?</title>
-      <link>http://damien.co/general/decline-of-the-music-industry-is-there-a-decline-177/</link>
-      <pubDate>Wed, 13 May 2009 13:57:45 +0000</pubDate>
-      
-      <guid>http://damien.co/general/decline-of-the-music-industry-is-there-a-decline-177/</guid>
-      <description>.</description>
-    </item>
-    
-    <item>
       <title>shhh &amp;#8211; HTC Magic just lacks the Volume for a music phone</title>
       <link>http://damien.co/general/shhh-htc-magic-just-lacks-the-volume-for-a-music-phone-172/</link>
       <pubDate>Wed, 13 May 2009 11:27:51 +0000</pubDate>
@@ -1545,17 +1293,6 @@ Ok I’ve been using an HTC Magic for a few days now and I’m loving it … I�
       <description>The UK for along time has been a country full of honours and award systems — the most CCTV cameras comes to mind and from today it seems that the UK Government believes that for your safety, they will need to record details and the contents of every SMS, email, voicemails and phone calls.
 How afraid are we all becoming?
 source: http://www.guardian.co.uk/commentisfree/libertycentral/2009/apr/27/surveillance-data-protection</description>
-    </item>
-    
-    <item>
-      <title>Nokia S60 Symbian Best Apps you should have</title>
-      <link>http://damien.co/general/nokia-s60-symbian-best-apps-you-should-have-162/</link>
-      <pubDate>Sat, 25 Apr 2009 13:40:46 +0000</pubDate>
-      
-      <guid>http://damien.co/general/nokia-s60-symbian-best-apps-you-should-have-162/</guid>
-      <description>I’ve been using Nokia’s for a while now – N95, N95 8Gb and the E71
-Here’s the top apps I put on any phone when I set it up
-Vodafone Last.fm Scrobbler – gee I ‘made’ this .. but I love it so. Scrobble what you listen to while out n about, underground or overseas, check your charts and what your friends are up to. This s60 app is fuly symbian signed and tested on a number of Vodafone networks – and its the only scrobbler for the Nokia 5800 so far.</description>
     </item>
     
     <item>
@@ -1596,7 +1333,7 @@ Lots of talk of quality, runs tight, last, endurance and other words in the ad �
       <pubDate>Fri, 05 Sep 2008 13:31:00 +0000</pubDate>
       
       <guid>http://damien.co/general/sony-ericsson-does-chunky-retro-walkman-w902-99/</guid>
-      <description>I’ve had a look at the Sony Ericsson new Walkman W902 with retro chunky buttons much like a those on a casette walkman.
+      <description>Ive had a look at the Sony Ericsson new Walkman W902 with retro chunky buttons much like a those on a casette walkman.
 The phone’s not retro though – Clear Crystal Audio for your listening pleasure and a 5.0 mega pixel camera is a great feature. I think its also got a really good speaker to annoy Grannies on the bus with.
 I hope it comes out with more than a 1Gb of memory!</description>
     </item>
@@ -2005,16 +1742,6 @@ More than 40 percent of online chat about UK mobile operators is related to cust
       <guid>http://damien.co/general/gmail-for-your-mobile-24/</guid>
       <description>Google has created a special version of its Gmail e-mail service that provides mobile phone users with quick access to their e-mail. Point your mobile to http://m.gmail.com.
 The service allows you to view attached files such as images or download documents if supported by your handset.</description>
-    </item>
-    
-    <item>
-      <title>What&amp;#8217;s the problem with depth of catalogue?</title>
-      <link>http://damien.co/general/whats-the-problem-with-depth-of-catalogue-23/</link>
-      <pubDate>Fri, 16 Dec 2005 10:00:00 +0000</pubDate>
-      
-      <guid>http://damien.co/general/whats-the-problem-with-depth-of-catalogue-23/</guid>
-      <description>It’s like trying to sell ice creams to eskimos – do you go for depth and variety of your content catalogue or stick to the sickly seasonal or monthly favourites … you can be damned either way.
-What I’m thinking is that most mobile content sales via WAP were dominated by the operator portals, but you invariably find that top downloads page will have the Star Wars March, Axel F and something from Guns n Roses (AC/DC).</description>
     </item>
     
     <item>

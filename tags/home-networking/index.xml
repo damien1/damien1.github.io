@@ -13,10 +13,10 @@
     
     <item>
       <title>Using a Netgear N600 DGND3700v1 to extend a home network</title>
-      <link>http://damien.co/general/using-netgear-n600-dgnd3700v1-extend-home-network-8747/</link>
+      <link>http://damien.co/blog/2014-01-18-using-netgear-n600-dgnd3700v1-extend-home-network/</link>
       <pubDate>Sat, 18 Jan 2014 23:36:48 +0000</pubDate>
       
-      <guid>http://damien.co/general/using-netgear-n600-dgnd3700v1-extend-home-network-8747/</guid>
+      <guid>http://damien.co/blog/2014-01-18-using-netgear-n600-dgnd3700v1-extend-home-network/</guid>
       <description>I’ve brought a brand new Asus RT-AC66U modem/router and decided that to use my old Netgear N600 ADSL modem/router DGND3700v1 to extend my home network and expand my wireless network.
 I’ve put the Netgear in a room where there was poor wifi signal strength and used a powerline (ethernet over power) adapter to connect back to the new main connection.
 To get the Netgear to behave like a wireless Access Point and extend my existing network should have been easy.</description>

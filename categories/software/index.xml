@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Damien Saunders</title>
+    <link>http://damien.co/categories/software/</link>
+    <description>Recent content in Software on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 24 Jan 2011 09:04:47 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aperture 3 digital photo software improved integration with Flickr</title>
+      <link>http://damien.co/blog/2011-01-24-aperture-3-digital-photo-software-improved-integration-with-flickr/</link>
+      <pubDate>Mon, 24 Jan 2011 09:04:47 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2011-01-24-aperture-3-digital-photo-software-improved-integration-with-flickr/</guid>
+      <description>I’ve been using Apple Aperture 3 for my digital photography and image processing for a couple of years. It’s great for importing those images for clients and quickly doing all the editing, tagging, grouping and touch-ups.
+What I didn’t like about it as a workflow tool – is that it lacks proper integration with Flickr. In the 3.0 version from last year you could publish as a Set of photos to Flickr, but couldn’t just add an image to your photostream.</description>
+    </item>
+    
+  </channel>
+</rss>

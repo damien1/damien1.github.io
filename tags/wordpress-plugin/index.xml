@@ -6,23 +6,10 @@
     <description>Recent content in WordPress plugin on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 01 Jan 2014 11:30:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2013 11:57:12 +0000</lastBuildDate>
     
 	<atom:link href="http://damien.co/tags/wordpress-plugin/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Isotope Visual Layouts lite getting updated</title>
-      <link>http://damien.co/blog/2014-01-01-isotope-visual-layouts-lite-getting-updated/</link>
-      <pubDate>Wed, 01 Jan 2014 11:30:48 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2014-01-01-isotope-visual-layouts-lite-getting-updated/</guid>
-      <description>As part of a new year cleanup, my WordPress plugin Isotope Visual Layouts lite is getting some much needed attention.
-
- The new version of my free plugin for WordPress is currently being tested.
- Key ChangesIntroduces a flat, clean look thanks to metro.css as the default CSS framework
-Tested on WordPress 3.8</description>
-    </item>
     
     <item>
       <title>1 minute video &amp;#8211; Isotope Visual Layouts WordPress plugin</title>
@@ -31,6 +18,7 @@ Tested on WordPress 3.8</description>
       
       <guid>http://damien.co/blog/2013-03-18-1-minute-video-isotope-visual-layouts-wordpress-plugin/</guid>
       <description>Just been on a bit of a testing mission this weekend … I’ve put together this 1 minute screen recording of my WordPress plugin Isotope Visual Layouts.
+Youtube
 The video is taken from my Selenium based testing and goes from plugin install, checking plugin options, adding a page, viewing the results and finally deleting the plugin.
  </description>
     </item>

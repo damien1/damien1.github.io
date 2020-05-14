@@ -4,14 +4,14 @@
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   
-  <meta name="description" content="Damien Saunders - marketing &amp; management consultant">
+  <meta name="description" content="Damien Saunders | management consultant">
   <meta name="author" content="Damien Saunders">
   <meta name="generator" content="Hugo 0.70.0" />
   
   <!-- Mobile Specific Metas -->
   <meta name="format-detection" content="telephone=no">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Getting Twitter URL&amp;#8217;s right with Bit.ly Shortlinks by Yoast</title>
+  <title>Getting Twitter URLs right with Bit.ly Shortlinks by Yoast</title>
   <link rel="icon" href="http://damien.co/images/favicon.ico">
 
   <!-- Twitter Bootstrs CSS -->
@@ -66,7 +66,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="block">
-                    <h2>Getting Twitter URL&amp;#8217;s right with Bit.ly Shortlinks by Yoast</h2>
+                    <h2>Getting Twitter URLs right with Bit.ly Shortlinks by Yoast</h2>
                     <div class="portfolio-meta">
                         <span>Wednesday, Oct 10, 2012</span>|
                         <span> Tags:
@@ -88,10 +88,8 @@
                     <p>Integrating <strong>Twitter with WordPress</strong> is pretty easy to do without a plugin. With a few lines of code you can have a nice tweet this or follow me button on every post or page of your WordPress website.</p>
 <p>However, the URL that is part of the Tweet is the permalink URL and for many sites you’ll want to Tweet a shortened URL. If like me, using Bit.ly and <strong>Yoast’s Bitly Shortlink plugin</strong>, you maybe wondering how to get your short Bit.ly URL to be part of your tweet.</p>
 <p>Joost kindly stores the bitty short URL in custom post meta field so all you have to do is retrieve it and show it on the page</p>
-<p>[php]<br>
-&lt;a href=&quot;https://twitter.com/share&rdquo; class=&quot;twitter-share-button&rdquo; data-url=&quot;<!-- raw HTML omitted -->&rdquo; data-counturl=<!-- raw HTML omitted --> data-count=&quot;horizontal&rdquo; data-via=&quot;damiensaunders&rdquo; rel=&quot;me&quot;&gt;Tweet<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><br>
-[/php]</p>
-<h3 id="linkage">Linkage</h3>
+<pre><code>&lt;a href=&quot;https://twitter.com/share&quot; class=&quot;twitter-share-button&quot; data-url=&quot;&lt;?php echo get\_post\_meta($id, &amp;#8216;\_yoast\_bitlylink&amp;#8217;, true); ?&gt;&quot; data-counturl=&lt;?php echo get_permalink(); ?&gt; data-count=&quot;horizontal&quot; data-via=&quot;damiensaunders&quot; rel=&quot;me&quot;&gt;Tweet&lt;/a&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;//platform.twitter.com/widgets.js&quot;&gt;&lt;/script&gt;
+</code></pre><h3 id="linkage">Linkage</h3>
 <p><!-- raw HTML omitted -->Yoast Bit.ly Shortlinks<!-- raw HTML omitted --></p>
 
                 </div>

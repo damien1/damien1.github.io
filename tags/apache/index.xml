@@ -26,7 +26,7 @@ sudo launchctl unload -w /System/Library/LaunchDaemons/org.apache.httpd.plist</d
     </item>
     
     <item>
-      <title>Introducing empty &amp;#8211; Apache Ant Build for WordPress</title>
+      <title>Introducing empty Apache Ant Build for WordPress</title>
       <link>http://damien.co/blog/2013-04-30-introducing-empty-apache-ant-build-for-wordpress/</link>
       <pubDate>Tue, 30 Apr 2013 11:00:49 +0000</pubDate>
       
@@ -46,12 +46,12 @@ Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular 
     </item>
     
     <item>
-      <title>Continuous Integration for WordPress plugins &amp;#8211; Jenkins &amp;#8211; Selenium &amp;#8211; Apache Ant</title>
+      <title>Continuous Integration for WordPress Jenkins Selenium Apache Ant</title>
       <link>http://damien.co/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</link>
       <pubDate>Sun, 07 Apr 2013 21:08:35 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</guid>
-      <description>I’m no regular WordPress Plugin Developer – I spend most of my day managing projects or other stuff. So when I do develop, I want a trusted, reliable, repeatable workflow setup that is always testing, always building and always telling me whats going on. That’s why I believe in Continuous Integration … and why I’ve turned to Jenkins as my CI Tool and use Apache Ant and Selenium for testing.</description>
+      <description>I’m no regular WordPress Plugin Developer – I spend most of my day managing projects or other stuff. So when I do develop, I want a trusted, reliable, repeatable workflow setup that is always testing, always building and always telling me whats going on. That’s why I believe in Continuous Integration … and why I’ve turned to Jenkins as my CI Tool and use Apache Ant and Selenium for testing. A bit of background on Continuous Integration and Tools Continuous Integration Continuous Integration is a fundamentally different approach to software development where the project team work to continuously test as you build software.</description>
     </item>
     
     <item>
@@ -61,8 +61,7 @@ Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular 
       
       <guid>http://damien.co/blog/2012-07-23-how-to-fix-htaccess-permalinks-not-working-in-wordpress/</guid>
       <description>If you’re setting up WordPress on a new server you may find that your custom permalinks don’t work and worse changes you make to your .htaccess file are ignored or have no effect. It sounds like you need to modify your VHOST configuration file on your web server.
-Modify VHOST to AllowOverride By default AllowOverride is disabled, this means .htaccess files and files like php.ini are ignored.
-Even if you enable mod_rewrite using sudo a2enmod rewrite your .</description>
+Modify VHOST to AllowOverride By default AllowOverride is disabled, this means .htaccess files and files like php.ini are ignored. Even if you enable mod_rewrite using sudo a2enmod rewrite your .</description>
     </item>
     
   </channel>

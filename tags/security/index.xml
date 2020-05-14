@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>WordPress Security &amp;#8211; protect your wp-admin with this quick .htaccess trick</title>
+      <title>WordPress Security protect your wp-admin with this quick .htaccess trick</title>
       <link>http://damien.co/blog/2013-04-18-wordpress-security-protect-your-wp-admin-with-this-quick-htaccess-trick/</link>
       <pubDate>Thu, 18 Apr 2013 21:55:23 +0000</pubDate>
       
@@ -36,6 +36,16 @@ I’ve always loved DBC-Backup ( a plugin you are are using on your website ), s
     </item>
     
     <item>
+      <title>HOW TO: Stop (most) Automated Comment Spam</title>
+      <link>http://damien.co/blog/2012-10-08-how-to-stop-most-automated-comment-spam/</link>
+      <pubDate>Mon, 08 Oct 2012 14:56:41 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2012-10-08-how-to-stop-most-automated-comment-spam/</guid>
+      <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme’s functions.php. This is one of my favourite WordPress functions and I use it on all my setups.
+This code snippet works by blocking comments from being added offsite or indirectly and not from the comment box on your webpage. Most spammers try to automate their ‘workload’ and try to exploit WordPress functions that allow you to manage comments or add posts via the WordPress API’s.</description>
+    </item>
+    
+    <item>
       <title>Why You Don’t Need Mac Anti-Virus Software &amp;#8211; Plus What You Do Need</title>
       <link>http://damien.co/blog/why-you-dont-need-mac-anti-virus-software-plus-what-you-do-need-7777/</link>
       <pubDate>Sun, 09 Sep 2012 15:19:27 +0000</pubDate>
@@ -44,17 +54,6 @@ I’ve always loved DBC-Backup ( a plugin you are are using on your website ), s
       <description>I’ve been using Apple Macbook Pro as my primary work horse since 2008. I’ve always had ClamXav installed as a ‘heuristic’ solution to monitor apps and downloads for virus and malware.
 I’m a fan of sandbox for apps, but as I do develop a whole heap of different things, just installing from the Mac App Store is not an option for me.
 Now I’m going to look for other software ….</description>
-    </item>
-    
-    <item>
-      <title>WordPress database backup plugin launched &amp;#8211; DBC Backup 2</title>
-      <link>http://damien.co/blog/2012-07-11-dbc-backup-new-plugin-forked-from-the-old/</link>
-      <pubDate>Wed, 11 Jul 2012 14:17:07 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2012-07-11-dbc-backup-new-plugin-forked-from-the-old/</guid>
-      <description>Announcing DBC Backup 2, a WordPress plugin to backup your WordPress SQL database is now available from WordPress Plugins.
-DBC Backup 2 creates a SQL export and saves a compressed file to your web host server. Many web hosts provide large amounts of free space for storing your data so it makes sense to use this free space to safely store your database.
-Key Features  Save time – set a Batch Job to run daily, weekly, monthly User Control – User defined path to store backups Compact – Compression of SQL exports (Gzip or Tar) saves space Safe – the export folder is ‘protected’ from prying eyes or direct downloads Save money – Uses web host to store export backups  Revival of DBC Backup The plugin is a revival of a much older plugin that I have used for a couple of years now.</description>
     </item>
     
     <item>

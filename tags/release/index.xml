@@ -6,42 +6,10 @@
     <description>Recent content in Release on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 09 Aug 2013 23:28:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2013 16:20:17 +0000</lastBuildDate>
     
 	<atom:link href="http://damien.co/tags/release/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Thank you &amp;#8230; 2000&#43; downloads of DBC Backup 2 for WordPress</title>
-      <link>http://damien.co/blog/2012-09-17-thank-you-2000-downloads-of-dbc-backup-2-for-wordpress/</link>
-      <pubDate>Mon, 17 Sep 2012 09:36:21 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2012-09-17-thank-you-2000-downloads-of-dbc-backup-2-for-wordpress/</guid>
-      <description>I want to say ‘Thank You’ to all of you who have downloaded and installed DBC Backup 2. Over the weekend, plugin downloads rose above 2000.
-DBC Backup 2 makes it easy to safely backup your WordPress SQL database to a folder on your web server. It’s a unique solution which also includes regular, scheduled backups so that you can have a daily, weekly or monthly backup.
-If you like DBC Backup 2 – please can you rate it 5 Stars on WordPress.</description>
-    </item>
-    
-    <item>
-      <title>Isotope Visual Post Layouts for WordPress version 0.31 is out</title>
-      <link>http://damien.co/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</link>
-      <pubDate>Thu, 06 Sep 2012 21:49:27 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</guid>
-      <description>Isotope Visual Post Layouts is my plugin for WordPress that makes it easy to add some stunning visual effects to your blog. I’ve just updated the plugin and if you have this installed, then WordPress should tell you automatically to update sometime in the next 24 hours.
-Isotope Visual Post Layouts version 0.31 is out I’ve just updated the plugin to v0.31, it’s tested and supported on WordPress 3.4.2 and I also fixed a bug and added a feature.</description>
-    </item>
-    
-    <item>
-      <title>DBC Backup 2 &amp;#8211; gives the confidence that your WordPress database is backed-up and securely stored on your server [press release]</title>
-      <link>http://damien.co/blog/2012-07-30-dbc-backup-2-gives-the-confidence-that-your-wordpress-database-is-backed-up-and-securely-stored-on-your-server-press-release/</link>
-      <pubDate>Mon, 30 Jul 2012 14:01:20 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2012-07-30-dbc-backup-2-gives-the-confidence-that-your-wordpress-database-is-backed-up-and-securely-stored-on-your-server-press-release/</guid>
-      <description>DBC Backup 2 gives the confidence that your WordPress database is backed-up and securely stored on your server.
-Database backup and security should be a critical issue for Marketing Agencies, small businesses and any WordPress website user. This plugin makes the whole experience easy with 3 critical features:
-3 Critical Features   Storage – the backup file is compressed and saved on your web server and not sent via email or to another 3rdparty.</description>
-    </item>
     
     <item>
       <title>WordPress 3.4 RC2</title>
@@ -87,6 +55,17 @@ If you haven’t started testing WordPress 3.3, then now is the time to check pl
 If you develop stuff and haven’t started testing your plugins or theme, now is the time.
  WordPress 3.3 what you can expect WordPress 3.3 has already had 4 beta releases – so this RC could be the last one. From experience, this is just bug checking, tidy up and fixing last minute security things.
 You can expect the real thing before Christmas!</description>
+    </item>
+    
+    <item>
+      <title>WordPress 3.3 beta 3 is here</title>
+      <link>http://damien.co/blog/2011-11-10-wordpress-3-3-beta-3-is-here/</link>
+      <pubDate>Thu, 10 Nov 2011 12:33:49 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2011-11-10-wordpress-3-3-beta-3-is-here/</guid>
+      <description>WordPress 3.3 is on its way … the latest beta 3.3 is now available, which means you can download it and try it for yourself. This beta doesn’t add anything new, as the official post says ‘it’s all about making things prettier’ along with lots of bug fixes.
+Typically you can expect to get a release candidate after this and then the official thing will be here.
+Should I update to this beta?</description>
     </item>
     
     <item>

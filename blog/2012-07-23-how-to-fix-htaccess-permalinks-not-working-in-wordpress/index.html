@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   
-  <meta name="description" content="Damien Saunders - marketing &amp; management consultant">
+  <meta name="description" content="Damien Saunders | management consultant">
   <meta name="author" content="Damien Saunders">
   <meta name="generator" content="Hugo 0.70.0" />
   
@@ -87,23 +87,22 @@
                 <div class="post-content">
                     <p>If you’re setting up <strong>WordPress</strong> on a new server you may find that your <strong>custom permalinks don’t work</strong> and worse changes you make to your <strong>.htaccess</strong> file are ignored or have no effect. It sounds like you need to <strong>modify your VHOST configuration file</strong> on your web server.</p>
 <h2 id="modify-vhost-to-allowoverride">Modify VHOST to AllowOverride</h2>
-<p>By default AllowOverride is disabled, this means .htaccess files and files like php.ini are ignored.<br>
+<p>By default AllowOverride is disabled, this means .htaccess files and files like php.ini are ignored.
 Even if you enable mod_rewrite using <code>sudo a2enmod rewrite</code> your .htaccess will still be ignored.</p>
 <p>You’ll want to login to your server (via Terminal / shell) and then each of these commands</p>
 <ul>
+<li>Nano is my favourite CLI ‘text editor’ so type: </li>
+</ul>
+<pre><code>sudo nano /etc/apache2/sites-available/default
+</code></pre><ul>
 <li>
-<p>Nano is my favourite CLI ‘text editor’ so type: [code]sudo nano /etc/apache2/sites-available/default[/code]</p>
-</li>
-<li>
-<p>look through the file for:<br>
-[code]<!-- raw HTML omitted -->
-AllowOverride None<br>
-Options MultiViews FollowSymlinks<br>
-Order allow,deny<br>
-Allow from all<br>
-Header Set Cache-Control no-cache</p>
-<p>[/code]<!-- raw HTML omitted --></p>
-<ul>
+<p>look through the file for:</p>
+<pre><code class="language-</p>" data-lang="</p>">AllowOverride None
+Options MultiViews FollowSymlinks
+Order allow,deny
+Allow from all
+Header Set Cache-Control no-cache
+</code></pre></li>
 <li>
 <p>Change AllowOverride to ALL</p>
 </li>
@@ -113,9 +112,8 @@ Header Set Cache-Control no-cache</p>
 <li>
 <p>Enter [code]sudo apache restart[/code]
 (this works for Ubuntu and Apache)<!-- raw HTML omitted --> <!-- raw HTML omitted --></p>
-<p>Let me know if you found that Allow Override was set to None and this fixed your problem please.</p>
-</li>
-</ul>
+<pre><code>Let me know if you found that Allow Override was set to None and this fixed your problem please.
+</code></pre>
 </li>
 </ul>
 

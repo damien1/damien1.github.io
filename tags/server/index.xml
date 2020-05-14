@@ -18,16 +18,15 @@
       
       <guid>http://damien.co/blog/2012-07-23-how-to-fix-htaccess-permalinks-not-working-in-wordpress/</guid>
       <description>If you’re setting up WordPress on a new server you may find that your custom permalinks don’t work and worse changes you make to your .htaccess file are ignored or have no effect. It sounds like you need to modify your VHOST configuration file on your web server.
-Modify VHOST to AllowOverride By default AllowOverride is disabled, this means .htaccess files and files like php.ini are ignored.
-Even if you enable mod_rewrite using sudo a2enmod rewrite your .</description>
+Modify VHOST to AllowOverride By default AllowOverride is disabled, this means .htaccess files and files like php.ini are ignored. Even if you enable mod_rewrite using sudo a2enmod rewrite your .</description>
     </item>
     
     <item>
       <title>Web Application testing &amp;#8211; install Siege on Linux (or Mac OSx)</title>
-      <link>http://damien.co/resources/web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx-6011/</link>
+      <link>http://damien.co/blog/2012-05-22-web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx/</link>
       <pubDate>Tue, 22 May 2012 13:38:58 +0000</pubDate>
       
-      <guid>http://damien.co/resources/web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx-6011/</guid>
+      <guid>http://damien.co/blog/2012-05-22-web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx/</guid>
       <description>Siegeis a great tool for performance and load testing your web application. I’ve been using it for the past 6 months to test WordPress websites along with other web apps that we’ve been building.
 Use it to straighten out any kinks with applications like WordPress, learn if you’re server and database is flakey or prove that your CDN is super.
 Siege testing vs Apache Benchmark If you’ve used Apache Benchmark in Mac OSx or Linux then you’ll already have an idea what Siege can do.</description>

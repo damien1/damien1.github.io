@@ -4,14 +4,14 @@
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   
-  <meta name="description" content="Damien Saunders - marketing &amp; management consultant">
+  <meta name="description" content="Damien Saunders | management consultant">
   <meta name="author" content="Damien Saunders">
   <meta name="generator" content="Hugo 0.70.0" />
   
   <!-- Mobile Specific Metas -->
   <meta name="format-detection" content="telephone=no">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Introducing empty &amp;#8211; Apache Ant Build for WordPress</title>
+  <title>Introducing empty Apache Ant Build for WordPress</title>
   <link rel="icon" href="http://damien.co/images/favicon.ico">
 
   <!-- Twitter Bootstrs CSS -->
@@ -66,7 +66,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="block">
-                    <h2>Introducing empty &amp;#8211; Apache Ant Build for WordPress</h2>
+                    <h2>Introducing empty Apache Ant Build for WordPress</h2>
                     <div class="portfolio-meta">
                         <span>Tuesday, Apr 30, 2013</span>|
                         <span> Tags:
@@ -103,48 +103,48 @@
 </ul>
 <h2 id="how-to-get-started-with-empty">How to Get started with empty?</h2>
 <p>Download / fork the project from <!-- raw HTML omitted -->Bitbucket https://bitbucket.org/damien1/empty/<!-- raw HTML omitted --></p>
-<p>Save all the files into your WordPress plugin project directory<br>
+<p>Save all the files into your WordPress plugin project directory
 Make sure you have Java and Apache Ant installed 🙂</p>
 <p>Start by editing build.properties and enter the name of your plugin.</p>
 <p>Then open Terminal or your CLI editor .. and type</p>
 <p>ant</p>
 <p>If it’s going well .. you’ll see this …</p>
-<p>[php]<br>
-Damiens-MacBook-Pro:empty damien$ ant<br>
-Buildfile: /wp-content/plugins/empty/build.xml</p>
-<p>BUILD SUCCESSFUL<br>
-Total time: 1 second<br>
-Damiens-MacBook-Pro:empty damien$</p>
-<p>[/php]</p>
-<h2 id="build-your-plugin-compress-zip">Build your plugin compress .zip</h2>
-<p><a href="http://wordpress.damien.co/files/2013/04/empty.png"><!-- raw HTML omitted --></a></p>
+<pre><code>Damiens-MacBook-Pro:empty damien$ ant
+Buildfile: /wp-content/plugins/empty/build.xml
+
+BUILD SUCCESSFUL
+Total time: 1 second
+Damiens-MacBook-Pro:empty damien$
+</code></pre><h2 id="build-your-plugin-compress-zip">Build your plugin compress .zip</h2>
 <p>This will ..</p>
-<p>– delete the temp build folders<br>
-– make the build directories<br>
-– copy all the required project files to a new folder<br>
+<p>– delete the temp build folders
+– make the build directories
+– copy all the required project files to a new folder
 – zip the finished project</p>
 <p>Type</p>
-<p>[php]ant make[/php]</p>
-<p>and you’ll see</p>
-<p>[php]<br>
-Damiens-MacBook-Pro:empty damien$ ant make<br>
-Buildfile: /Volumes/Proust/Sites/dev/wp-content/plugins/empty/build.xml</p>
-<p>build.clean:<br>
-[delete] Deleting directory /Volumes/Proust/Sites/dev/wp-content/plugins/empty/build<br>
-[delete] Deleting directory /Volumes/Proust/Sites/dev/wp-content/plugins/empty/dist</p>
-<p>makedir:<br>
-[mkdir] Created dir: /Volumes/Proust/Sites/dev/wp-content/plugins/empty/build<br>
-[mkdir] Created dir: /Volumes/Proust/Sites/dev/wp-content/plugins/empty/build/empty<br>
-[mkdir] Created dir: /Volumes/Proust/Sites/dev/wp-content/plugins/empty/dist</p>
-<p>make:<br>
-[copy] Copying 6 files to /Volumes/Proust/Sites/dev/wp-content/plugins/empty/build/empty<br>
-[copy] Copying 2 files to /Volumes/Proust/Sites/dev/wp-content/plugins/empty/build/empty/css<br>
-[copy] Copied 1 empty directory to 1 empty directory under /Volumes/Proust/Sites/dev/wp-content/plugins/empty/build/empty/js</p>
-<p>BUILD SUCCESSFUL<br>
-Total time: 0 seconds<br>
-Damiens-MacBook-Pro:empty damien$</p>
-<p>[/php]</p>
+<pre><code>ant make
+</code></pre><p>and you’ll see</p>
+<pre><code>Damiens-MacBook-Pro:empty damien$ ant make
+Buildfile: /Volumes/Proust/Sites/dev/wp-content/plugins/empty/build.xml
 
+build.clean:
+[delete] Deleting directory /Volumes/Proust/Sites/dev/wp-content/plugins/empty/build
+[delete] Deleting directory /Volumes/Proust/Sites/dev/wp-content/plugins/empty/dist
+
+makedir:
+[mkdir] Created dir: /Volumes/Proust/Sites/dev/wp-content/plugins/empty/build
+[mkdir] Created dir: /Volumes/Proust/Sites/dev/wp-content/plugins/empty/build/empty
+[mkdir] Created dir: /Volumes/Proust/Sites/dev/wp-content/plugins/empty/dist
+
+make:
+[copy] Copying 6 files to /Volumes/Proust/Sites/dev/wp-content/plugins/empty/build/empty
+[copy] Copying 2 files to /Volumes/Proust/Sites/dev/wp-content/plugins/empty/build/empty/css
+[copy] Copied 1 empty directory to 1 empty directory under /Volumes/Proust/Sites/dev/wp-content/plugins/empty/build/empty/js
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+Damiens-MacBook-Pro:empty damien$
+</code></pre>
                 </div>
             </div>
         </div>

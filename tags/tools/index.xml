@@ -6,19 +6,10 @@
     <description>Recent content in tools on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 07 Apr 2013 21:08:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jun 2012 14:29:49 +0000</lastBuildDate>
     
 	<atom:link href="http://damien.co/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Continuous Integration for WordPress plugins &amp;#8211; Jenkins &amp;#8211; Selenium &amp;#8211; Apache Ant</title>
-      <link>http://damien.co/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</link>
-      <pubDate>Sun, 07 Apr 2013 21:08:35 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</guid>
-      <description>I’m no regular WordPress Plugin Developer – I spend most of my day managing projects or other stuff. So when I do develop, I want a trusted, reliable, repeatable workflow setup that is always testing, always building and always telling me whats going on. That’s why I believe in Continuous Integration … and why I’ve turned to Jenkins as my CI Tool and use Apache Ant and Selenium for testing.</description>
-    </item>
     
     <item>
       <title>Best tools to start with Social Media Marketing &amp;#8211; 2011 re-cap (where are they now)</title>
@@ -32,15 +23,14 @@ Keep track of your social media status and influence, albeit using Klout’s o
     </item>
     
     <item>
-      <title>Twitter &amp;#8211; a few suggested alternatives to CoTweet or Hootsuite</title>
-      <link>http://damien.co/social-media/twitter/twitter-a-few-suggested-alternatives-to-cotweet-or-hootsuite-6680/</link>
+      <title>Twitter a few suggested alternatives to CoTweet or Hootsuite</title>
+      <link>http://damien.co/blog/2012-04-13-twitter-a-few-suggested-alternatives-to-cotweet-or-hootsuite/</link>
       <pubDate>Fri, 13 Apr 2012 12:53:32 +0000</pubDate>
       
-      <guid>http://damien.co/social-media/twitter/twitter-a-few-suggested-alternatives-to-cotweet-or-hootsuite-6680/</guid>
+      <guid>http://damien.co/blog/2012-04-13-twitter-a-few-suggested-alternatives-to-cotweet-or-hootsuite/</guid>
       <description>Are you responsible for Twitter and Social Media in your business? Perhaps you’ve been feeling a bit lost after CoTweet closed its free version (shame on them) … here are a few alternatives you can look at
 HootSuite
-– yes I said alternative to CoTweet – personally, I like to use my own bit.ly Pro URL so this was not an option.
-– Hootsuitehas a very reasonably priced premium version and it has clients for pretty much any device</description>
+– yes I said alternative to CoTweet – personally, I like to use my own bit.ly Pro URL so this was not an option. – Hootsuitehas a very reasonably priced premium version and it has clients for pretty much any device</description>
     </item>
     
     <item>
@@ -75,11 +65,22 @@ Some great features include:
     </item>
     
     <item>
-      <title>Emailvision &amp;#8211; whose the Dummy? or didn&amp;#8217;t someone test your email campaign?</title>
-      <link>http://damien.co/social-crm/emailvision-whose-the-dummy-or-didnt-someone-test-your-email-campaign-3907/</link>
+      <title>MarsEdit updates &amp;#8211; best desktop blogging app for WordPress &amp;amp; Mac</title>
+      <link>http://damien.co/blog/2011-07-03-marsedit-updates-best-desktop-blogging-app-for-wordpress-mac/</link>
+      <pubDate>Sun, 03 Jul 2011 14:58:04 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2011-07-03-marsedit-updates-best-desktop-blogging-app-for-wordpress-mac/</guid>
+      <description>MarsEditthe preferred desktop and offline blogging application for WordPress and Apple Macusers has updated.This is mostly a bug-fix release and the update will automatically install for most users.
+What’s in this release? The release notehighlights a few good things for WordPress users such as:
+ Media Manager now remembers and restores last-selected folder across launches Fix a bug that prevented custom text and background color preferences from working in rich text mode Add protections to avoid crashing on some malformed server responses Fix a bug where only the first paragraph was styled with e.</description>
+    </item>
+    
+    <item>
+      <title>Emailvision whose the Dummy? or didn&#39;t someone test your email campaign?</title>
+      <link>http://damien.co/blog/2011-06-13-emailvision-whose-the-dummy-or-didnt-someone-test-your-email-campaign/</link>
       <pubDate>Mon, 13 Jun 2011 17:50:46 +0000</pubDate>
       
-      <guid>http://damien.co/social-crm/emailvision-whose-the-dummy-or-didnt-someone-test-your-email-campaign-3907/</guid>
+      <guid>http://damien.co/blog/2011-06-13-emailvision-whose-the-dummy-or-didnt-someone-test-your-email-campaign/</guid>
       <description>Social CRM for dummies is something I’ve wanted to read for sometime … it could be a good e-book … if the email marketing campaign worked. This shows the number one problem with integrated social media marketing – broken links.
 Emailvision are big news, they put the power into sites like http://alltop.com/ aka Guy Kawasaki … I’d like to learn more about them.
 Check your campaign experience works end to end Facebook fails with broken links and images.</description>
@@ -108,20 +109,20 @@ To me, the biggest problem with regular blogging is the interface. If you blog o
     
     <item>
       <title>Best Android App for technical info Network Info II</title>
-      <link>http://damien.co/blog/android/best-android-app-for-technical-info-network-info-ii-2882/</link>
+      <link>http://damien.co/blog/2011-04-18-best-android-app-for-technical-info-network-info-ii/</link>
       <pubDate>Mon, 18 Apr 2011 09:40:54 +0000</pubDate>
       
-      <guid>http://damien.co/blog/android/best-android-app-for-technical-info-network-info-ii-2882/</guid>
+      <guid>http://damien.co/blog/2011-04-18-best-android-app-for-technical-info-network-info-ii/</guid>
       <description>Mobile apps can be fun to use – but during mobile app testing you might need to diagnosing problems and finding bugs can be complicated. At least with Network Info II on your Android you have a pocket-encyclopedia with all the important information you need.
 At the basic level – Network Info II reports details on your mobile network connection, IP address, Wi-Fi connection, Bluetooth and details about your device and your sim card.</description>
     </item>
     
     <item>
       <title>Aperture 3 digital photo software improved integration with Flickr</title>
-      <link>http://damien.co/blog/aperture-3-digital-photo-software-improved-integration-with-flickr-2584/</link>
+      <link>http://damien.co/blog/2011-01-24-aperture-3-digital-photo-software-improved-integration-with-flickr/</link>
       <pubDate>Mon, 24 Jan 2011 09:04:47 +0000</pubDate>
       
-      <guid>http://damien.co/blog/aperture-3-digital-photo-software-improved-integration-with-flickr-2584/</guid>
+      <guid>http://damien.co/blog/2011-01-24-aperture-3-digital-photo-software-improved-integration-with-flickr/</guid>
       <description>I’ve been using Apple Aperture 3 for my digital photography and image processing for a couple of years. It’s great for importing those images for clients and quickly doing all the editing, tagging, grouping and touch-ups.
 What I didn’t like about it as a workflow tool – is that it lacks proper integration with Flickr. In the 3.0 version from last year you could publish as a Set of photos to Flickr, but couldn’t just add an image to your photostream.</description>
     </item>
@@ -142,8 +143,7 @@ What I didn’t like about it as a workflow tool – is that it lacks proper int
       
       <guid>http://damien.co/social-media/best-collection-tool-for-twitter-you-need-1076/</guid>
       <description>Here’s a collection of the best tools for Twitter for any Social Media Specialist or Community Manager.
-Twitter is a powerful tool for getting your message out there. Just like starting a new business, you need to have a guide that shows you how to make the most out of Twitter.**
-**
+Twitter is a powerful tool for getting your message out there. Just like starting a new business, you need to have a guide that shows you how to make the most out of Twitter.** **
 Managing your Tweets Tweetdeck – http://www.tweetdeck.com/
 set up lots of columns and lists to watch all your Tweeting</description>
     </item>

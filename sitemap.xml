@@ -283,6 +283,11 @@
   </url>
   
   <url>
+    <loc>http://damien.co/categories/home-networking/</loc>
+    <lastmod>2014-01-18T23:36:48+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://damien.co/tags/internet/</loc>
     <lastmod>2014-01-18T23:36:48+00:00</lastmod>
   </url>
@@ -293,7 +298,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/general/using-netgear-n600-dgnd3700v1-extend-home-network-8747/</loc>
+    <loc>http://damien.co/blog/2014-01-18-using-netgear-n600-dgnd3700v1-extend-home-network/</loc>
     <lastmod>2014-01-18T23:36:48+00:00</lastmod>
   </url>
   
@@ -313,17 +318,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/tags/word/</loc>
+    <loc>http://damien.co/categories/plugin/</loc>
     <lastmod>2014-01-01T11:30:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/tags/wordpress/</loc>
-    <lastmod>2014-01-01T11:30:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/wordpress-plugin/</loc>
+    <loc>http://damien.co/categories/plugins/</loc>
     <lastmod>2014-01-01T11:30:48+00:00</lastmod>
   </url>
   
@@ -358,6 +358,11 @@
   </url>
   
   <url>
+    <loc>http://damien.co/categories/development/</loc>
+    <lastmod>2013-09-26T12:05:33+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://damien.co/tags/javascript/</loc>
     <lastmod>2013-09-26T12:05:33+00:00</lastmod>
   </url>
@@ -369,6 +374,16 @@
   
   <url>
     <loc>http://damien.co/tags/template/</loc>
+    <lastmod>2013-09-26T12:05:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/tags/word/</loc>
+    <lastmod>2013-09-26T12:05:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/tags/wordpress/</loc>
     <lastmod>2013-09-26T12:05:33+00:00</lastmod>
   </url>
   
@@ -388,18 +403,18 @@
   </url>
   
   <url>
+    <loc>http://damien.co/blog/2013-06-26-isotope-visual-layouts-pro-infinite-scroll/</loc>
+    <lastmod>2013-06-26T21:55:02+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://damien.co/tags/release/</loc>
-    <lastmod>2013-08-09T23:28:47+00:00</lastmod>
+    <lastmod>2013-06-23T16:20:17+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://damien.co/tags/releases/</loc>
-    <lastmod>2013-08-09T23:28:47+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/blog/2013-06-26-isotope-visual-layouts-pro-infinite-scroll/</loc>
-    <lastmod>2013-06-26T21:55:02+00:00</lastmod>
+    <lastmod>2013-06-23T16:20:17+00:00</lastmod>
   </url>
   
   <url>
@@ -453,11 +468,6 @@
   </url>
   
   <url>
-    <loc>http://damien.co/categories/development/</loc>
-    <lastmod>2013-05-12T13:42:39+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://damien.co/tags/git/</loc>
     <lastmod>2013-05-12T13:42:39+00:00</lastmod>
   </url>
@@ -503,12 +513,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/tags/how-to/</loc>
+    <loc>http://damien.co/tags/faq/</loc>
     <lastmod>2013-04-29T12:00:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/wordpress-multisite/get-started-with-wordpress-multisite-build-it-in-5-minutes-8659/</loc>
+    <loc>http://damien.co/blog/2013-04-29-get-started-with-wordpress-multisite-build-it-in-5-minutes/</loc>
     <lastmod>2013-04-29T12:00:56+00:00</lastmod>
   </url>
   
@@ -768,11 +778,6 @@
   </url>
   
   <url>
-    <loc>http://damien.co/tags/tools/</loc>
-    <lastmod>2013-04-07T21:08:35+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://damien.co/tags/filtrify/</loc>
     <lastmod>2013-04-07T20:48:56+00:00</lastmod>
   </url>
@@ -863,6 +868,11 @@
   </url>
   
   <url>
+    <loc>http://damien.co/tags/wordpress-plugin/</loc>
+    <lastmod>2013-03-18T11:57:12+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://damien.co/tags/app/</loc>
     <lastmod>2013-03-16T17:33:15+00:00</lastmod>
   </url>
@@ -894,16 +904,6 @@
   
   <url>
     <loc>http://damien.co/blog/2013-03-07-isotope-visual-layouts-jquery-toggleclass/</loc>
-    <lastmod>2013-03-07T15:07:53+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/relayout/</loc>
-    <lastmod>2013-03-07T15:07:53+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/toggleclass/</loc>
     <lastmod>2013-03-07T15:07:53+00:00</lastmod>
   </url>
   
@@ -1033,6 +1033,11 @@
   </url>
   
   <url>
+    <loc>http://damien.co/tags/how-to/</loc>
+    <lastmod>2012-12-18T13:56:15+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://damien.co/development/how-to-install-jenkins-ci-on-a-mac-os-x-with-git-bitbucket-8072/</loc>
     <lastmod>2012-12-18T13:56:15+00:00</lastmod>
   </url>
@@ -1043,28 +1048,18 @@
   </url>
   
   <url>
+    <loc>http://damien.co/categories/culture/</loc>
+    <lastmod>2012-12-12T10:11:46+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://damien.co/tags/shakespeare/</loc>
-    <lastmod>2012-12-12T10:11:46+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/categories/theatre/</loc>
-    <lastmod>2012-12-12T10:11:46+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/categories/things-i-attended/</loc>
     <lastmod>2012-12-12T10:11:46+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://damien.co/blog/2012-12-12-twelfth-night-mark-rylance-stephen-fry-the-apollo/</loc>
     <lastmod>2012-12-12T10:11:46+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/promo/you-can-follow-me-on-twitter-13-5467/</loc>
-    <lastmod>2012-12-10T15:11:36+00:00</lastmod>
   </url>
   
   <url>
@@ -1143,16 +1138,6 @@
   </url>
   
   <url>
-    <loc>http://damien.co/tags/layout/</loc>
-    <lastmod>2012-10-15T11:34:42+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/layouts/</loc>
-    <lastmod>2012-10-15T11:34:42+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://damien.co/tags/visual-post/</loc>
     <lastmod>2012-10-15T11:34:42+00:00</lastmod>
   </url>
@@ -1173,12 +1158,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/promo/you-can-follow-me-on-twitter-11-5477/</loc>
-    <lastmod>2012-10-10T15:11:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/strategy/project-retrospectives-the-perfect-measure-7937/</loc>
+    <loc>http://damien.co/blog/2012-10-09-project-retrospectives-the-perfect-measure/</loc>
     <lastmod>2012-10-09T13:11:34+00:00</lastmod>
   </url>
   
@@ -1193,32 +1173,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/tags/comments/</loc>
-    <lastmod>2012-10-08T14:56:41+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/exploits/</loc>
-    <lastmod>2012-10-08T14:56:41+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/categories/faq#039s/</loc>
-    <lastmod>2012-10-08T14:56:41+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://damien.co/blog/2012-10-08-how-to-stop-most-automated-comment-spam/</loc>
-    <lastmod>2012-10-08T14:56:41+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/referal-url/</loc>
-    <lastmod>2012-10-08T14:56:41+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/spam/</loc>
     <lastmod>2012-10-08T14:56:41+00:00</lastmod>
   </url>
   
@@ -1278,8 +1233,18 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/wtf-tomtom-you-make-apple-maps-really-do-suck-7849/</loc>
+    <loc>http://damien.co/blog/2012-09-26-wtf-tomtom-you-make-apple-maps-really-do-suck/</loc>
     <lastmod>2012-09-26T08:44:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/tags/layout/</loc>
+    <lastmod>2012-09-25T22:00:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/tags/layouts/</loc>
+    <lastmod>2012-09-25T22:00:40+00:00</lastmod>
   </url>
   
   <url>
@@ -1313,16 +1278,6 @@
   </url>
   
   <url>
-    <loc>http://damien.co/tags/masonry/</loc>
-    <lastmod>2012-09-11T22:39:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/visual-posts/</loc>
-    <lastmod>2012-09-11T22:39:11+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://damien.co/blog/everything-everwhere-rebrands-as-ee-brings-super-fast-4g-lte-service-to-the-uk-7789/</loc>
     <lastmod>2012-09-11T21:44:42+00:00</lastmod>
   </url>
@@ -1333,27 +1288,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/tags/performance/</loc>
-    <lastmod>2012-09-10T14:06:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/startup/</loc>
-    <lastmod>2012-09-10T14:06:15+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://damien.co/categories/startup/</loc>
     <lastmod>2012-09-10T14:06:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/startup/startup-metrics-for-pirates-seedcamp-2008-7781/</loc>
-    <lastmod>2012-09-10T14:06:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/startups/</loc>
+    <loc>http://damien.co/blog/2012-09-10-startup-metrics-for-pirates-seedcamp-2008/</loc>
     <lastmod>2012-09-10T14:06:15+00:00</lastmod>
   </url>
   
@@ -1398,7 +1338,17 @@
   </url>
   
   <url>
+    <loc>http://damien.co/tags/visual-posts/</loc>
+    <lastmod>2012-09-06T21:49:27+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://damien.co/tags/barclays/</loc>
+    <lastmod>2012-09-03T13:21:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/categories/mobile/</loc>
     <lastmod>2012-09-03T13:21:09+00:00</lastmod>
   </url>
   
@@ -1458,23 +1408,8 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/2012-08-19-how-to-get-started-with-wordpress-stack-exchange-or-how-i-got-to-1000-rep-in-4-weeks/</loc>
-    <lastmod>2012-08-19T15:49:51+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/tips/</loc>
-    <lastmod>2012-08-19T15:49:51+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://damien.co/blog/2012-08-13-isotope-for-wordpress-plugin-do-amazing-things-to-your-blog/</loc>
     <lastmod>2012-08-13T13:00:58+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/promo/you-can-follow-me-on-twitter-9-5475/</loc>
-    <lastmod>2012-08-10T15:11:37+00:00</lastmod>
   </url>
   
   <url>
@@ -1703,6 +1638,11 @@
   </url>
   
   <url>
+    <loc>http://damien.co/tags/tools/</loc>
+    <lastmod>2012-06-19T14:29:49+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://damien.co/tags/checklist/</loc>
     <lastmod>2012-06-18T17:12:09+00:00</lastmod>
   </url>
@@ -1813,7 +1753,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/promo/you-can-follow-me-on-twitter-5473/</loc>
+    <loc>http://damien.co/blog/2012-06-15-you-can-follow-me-on-twitter/</loc>
     <lastmod>2012-06-15T23:30:37+00:00</lastmod>
   </url>
   
@@ -1834,6 +1774,11 @@
   
   <url>
     <loc>http://damien.co/tags/sharing/</loc>
+    <lastmod>2012-06-15T16:37:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/tags/spam/</loc>
     <lastmod>2012-06-15T16:37:59+00:00</lastmod>
   </url>
   
@@ -1868,11 +1813,6 @@
   </url>
   
   <url>
-    <loc>http://damien.co/categories/back-end-server/</loc>
-    <lastmod>2012-06-10T16:12:48+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://damien.co/blog/2012-06-10-wordpress-security-5g-blacklist-htaccess/</loc>
     <lastmod>2012-06-10T16:12:48+00:00</lastmod>
   </url>
@@ -1888,7 +1828,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/development/sequel-pro-fastest-best-mysql-client-for-mac-7198/</loc>
+    <loc>http://damien.co/blog/2012-06-07-sequel-pro-fastest-best-mysql-client-for-mac/</loc>
     <lastmod>2012-06-07T12:35:36+00:00</lastmod>
   </url>
   
@@ -1913,7 +1853,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/insights-blog/digital-project-management-quality-quantity-time-humour-7170/</loc>
+    <loc>http://damien.co/blog/2012-05-28-digital-project-management-quality-quantity-time-humour/</loc>
     <lastmod>2012-05-28T10:57:39+00:00</lastmod>
   </url>
   
@@ -1948,12 +1888,17 @@
   </url>
   
   <url>
+    <loc>http://damien.co/tags/performance/</loc>
+    <lastmod>2012-05-22T13:38:58+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://damien.co/tags/siege/</loc>
     <lastmod>2012-05-22T13:38:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/resources/web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx-6011/</loc>
+    <loc>http://damien.co/blog/2012-05-22-web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx/</loc>
     <lastmod>2012-05-22T13:38:58+00:00</lastmod>
   </url>
   
@@ -2023,7 +1968,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/apps-2/app-design-google-updates-app-for-ios-result-is-impressive-7044/</loc>
+    <loc>http://damien.co/blog/2012-05-17-app-design-google-updates-app-for-ios-result-is-impressive/</loc>
     <lastmod>2012-05-17T17:30:11+00:00</lastmod>
   </url>
   
@@ -2088,6 +2033,11 @@
   </url>
   
   <url>
+    <loc>http://damien.co/categories/faq#039s/</loc>
+    <lastmod>2012-04-27T15:33:20+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://damien.co/tags/files/</loc>
     <lastmod>2012-04-27T15:33:20+00:00</lastmod>
   </url>
@@ -2138,7 +2088,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/twitter/twitter-a-few-suggested-alternatives-to-cotweet-or-hootsuite-6680/</loc>
+    <loc>http://damien.co/blog/2012-04-13-twitter-a-few-suggested-alternatives-to-cotweet-or-hootsuite/</loc>
     <lastmod>2012-04-13T12:53:32+00:00</lastmod>
   </url>
   
@@ -2158,7 +2108,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/strategy/piwik-web-analytics-best-free-alternative-6653/</loc>
+    <loc>http://damien.co/blog/2012-04-10-piwik-web-analytics-best-free-alternative/</loc>
     <lastmod>2012-04-10T12:34:04+00:00</lastmod>
   </url>
   
@@ -2175,6 +2125,11 @@
   <url>
     <loc>http://damien.co/blog/2012-04-08-wordpress-3-4-enters-public-beta-benefits-for-themes/</loc>
     <lastmod>2012-04-08T18:13:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/tags/masonry/</loc>
+    <lastmod>2012-04-07T12:56:11+00:00</lastmod>
   </url>
   
   <url>
@@ -2228,7 +2183,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/android/galaxy-nexus-impressive-boot-animation-6192/</loc>
+    <loc>http://damien.co/blog/2012-03-30-galaxy-nexus-impressive-boot-animation/</loc>
     <lastmod>2012-03-30T15:00:25+00:00</lastmod>
   </url>
   
@@ -2318,7 +2273,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/development/rackspace-list-of-cidrs-for-testing-with-blazemeter-6213/</loc>
+    <loc>http://damien.co/blog/2012-03-10-rackspace-list-of-cidrs-for-testing-with-blazemeter/</loc>
     <lastmod>2012-03-10T18:32:21+00:00</lastmod>
   </url>
   
@@ -2348,7 +2303,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/promo/you-can-follow-me-on-twitter-3-5469/</loc>
+    <loc>http://damien.co/blog/2012-02-10-you-can-follow-me-on-twitter-3/</loc>
     <lastmod>2012-02-10T15:11:37+00:00</lastmod>
   </url>
   
@@ -2413,7 +2368,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/promo/you-can-follow-me-on-twitter-2-5465/</loc>
+    <loc>http://damien.co/blog/2012-01-15-you-can-follow-me-on-twitter-2/</loc>
     <lastmod>2012-01-15T23:42:54+00:00</lastmod>
   </url>
   
@@ -2423,27 +2378,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/tags/screen/</loc>
-    <lastmod>2012-01-13T16:13:06+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://damien.co/tags/screen-options/</loc>
     <lastmod>2012-01-13T16:13:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/tags/create-post/</loc>
-    <lastmod>2012-01-13T16:11:28+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://damien.co/blog/2012-01-13-how-to-de-clutter-create-edit-posts/</loc>
-    <lastmod>2012-01-13T16:11:28+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/options/</loc>
     <lastmod>2012-01-13T16:11:28+00:00</lastmod>
   </url>
   
@@ -2464,6 +2404,11 @@
   
   <url>
     <loc>http://damien.co/blog/2012-01-13-are-fonts-locked-how-to-prevent-the-wrong-ones-appearing/</loc>
+    <lastmod>2012-01-13T16:06:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/tags/visual-editor/</loc>
     <lastmod>2012-01-13T16:06:50+00:00</lastmod>
   </url>
   
@@ -2528,7 +2473,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/general/update-on-maintenance-work-5862/</loc>
+    <loc>http://damien.co/blog/2012-01-08-update-on-maintenance-work/</loc>
     <lastmod>2012-01-08T12:26:39+00:00</lastmod>
   </url>
   
@@ -2603,7 +2548,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/promo/mailchimp-makes-e-mail-marketing-easy-5755/</loc>
+    <loc>http://damien.co/blog/2011-12-27-mailchimp-makes-e-mail-marketing-easy/</loc>
     <lastmod>2011-12-27T18:57:49+00:00</lastmod>
   </url>
   
@@ -2653,7 +2598,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/general/merry-christmas-to-everyone-make-most-of-it-5401/</loc>
+    <loc>http://damien.co/blog/2011-12-25-merry-christmas-to-everyone-make-most-of-it/</loc>
     <lastmod>2011-12-25T13:23:14+00:00</lastmod>
   </url>
   
@@ -2693,7 +2638,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/twitter/what-do-you-think-of-the-newnewtwitter-5243/</loc>
+    <loc>http://damien.co/blog/2011-12-14-what-do-you-think-of-the-newnewtwitter/</loc>
     <lastmod>2011-12-14T18:00:02+00:00</lastmod>
   </url>
   
@@ -2718,16 +2663,6 @@
   </url>
   
   <url>
-    <loc>http://damien.co/marketing-consultant-2/google-analytics-event-tracking-is-great-for-customer-engagement-5132/</loc>
-    <lastmod>2011-12-09T12:11:28+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/webdev/</loc>
-    <lastmod>2011-12-09T12:11:28+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://damien.co/blog/2011-12-08-wordpress-3-3-rc2-is-here/</loc>
     <lastmod>2011-12-08T22:12:25+00:00</lastmod>
   </url>
@@ -2738,7 +2673,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/android/i-just-got-my-google-galaxy-nexus-5087/</loc>
+    <loc>http://damien.co/blog/2011-12-03-i-just-got-my-google-galaxy-nexus/</loc>
     <lastmod>2011-12-03T00:03:03+00:00</lastmod>
   </url>
   
@@ -2788,7 +2723,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/marketing-consultant-2/google-analytics-event-tracking-4983/</loc>
+    <loc>http://damien.co/blog/2011-11-23-google-analytics-event-tracking/</loc>
     <lastmod>2011-11-23T13:53:59+00:00</lastmod>
   </url>
   
@@ -2824,6 +2759,11 @@
   
   <url>
     <loc>http://damien.co/tags/web-design/</loc>
+    <lastmod>2011-11-16T23:04:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/tags/webdev/</loc>
     <lastmod>2011-11-16T23:04:49+00:00</lastmod>
   </url>
   
@@ -2938,11 +2878,6 @@
   </url>
   
   <url>
-    <loc>http://damien.co/tags/integrated-marketing/</loc>
-    <lastmod>2011-10-31T11:00:36+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://damien.co/blog/2011-10-31-make-an-impact-using-integrated-marketing-use-these-best-wordpress-plugins/</loc>
     <lastmod>2011-10-31T11:00:36+00:00</lastmod>
   </url>
@@ -2963,12 +2898,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-crm/zoho-crm-what-is-a-lead-vs-contact-vs-opportunity-799/</loc>
+    <loc>http://damien.co/blog/2011-10-26-zoho-crm-what-is-a-lead-vs-contact-vs-opportunity/</loc>
     <lastmod>2011-10-26T10:14:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/social-crm/how-to-get-started-with-zoho-crm-and-load-your-contacts-from-google-csv-778/</loc>
+    <loc>http://damien.co/blog/2011-10-23-how-to-get-started-with-zoho-crm-and-load-your-contacts-from-google-csv/</loc>
     <lastmod>2011-10-23T16:43:09+00:00</lastmod>
   </url>
   
@@ -2983,7 +2918,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/general/it-wasnt-about-design-it-was-the-first-computer-i-used-thanks-steve-4444/</loc>
+    <loc>http://damien.co/blog/2011-10-06-it-wasnt-about-design-it-was-the-first-computer-i-used-thanks-steve/</loc>
     <lastmod>2011-10-06T09:32:17+00:00</lastmod>
   </url>
   
@@ -3028,7 +2963,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/promo/google-are-you-in-yet-4326/</loc>
+    <loc>http://damien.co/blog/2011-10-02-google-are-you-in-yet/</loc>
     <lastmod>2011-10-02T21:07:01+00:00</lastmod>
   </url>
   
@@ -3058,7 +2993,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/promo/members-get-it-free-definitive-guide-to-foursquare-for-2011-4315/</loc>
+    <loc>http://damien.co/blog/2011-07-25-members-get-it-free-definitive-guide-to-foursquare-for-2011/</loc>
     <lastmod>2011-07-25T22:18:06+00:00</lastmod>
   </url>
   
@@ -3078,7 +3013,17 @@
   </url>
   
   <url>
-    <loc>http://damien.co/wordpress/wordpress-just-updated-to-3-2-1-2-4431/</loc>
+    <loc>http://damien.co/tags/startup/</loc>
+    <lastmod>2011-07-25T09:14:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/tags/startups/</loc>
+    <lastmod>2011-07-25T09:14:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/blog/2011-07-17-wordpress-just-updated-to-3-2-1-2/</loc>
     <lastmod>2011-07-17T23:10:27+00:00</lastmod>
   </url>
   
@@ -3088,28 +3033,8 @@
   </url>
   
   <url>
-    <loc>http://damien.co/categories/customisation/</loc>
-    <lastmod>2011-07-10T16:31:32+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/wordpress/how-to-recover-from-the-most-common-wordpress-website-killers-2-4432/</loc>
-    <lastmod>2011-07-10T16:31:32+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://damien.co/blog/2011-07-10-how-to-recover-from-the-most-common-wordpress-website-killers/</loc>
     <lastmod>2011-07-10T15:31:32+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/admin/</loc>
-    <lastmod>2011-07-09T18:00:58+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/wordpress/how-to-better-way-to-enable-wordpress-maintenance-mode-4433/</loc>
-    <lastmod>2011-07-09T18:00:58+00:00</lastmod>
   </url>
   
   <url>
@@ -3118,13 +3043,18 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/dead-mac-day-what-a-struggle-4218/</loc>
+    <loc>http://damien.co/blog/2011-07-07-dead-mac-day-what-a-struggle/</loc>
     <lastmod>2011-07-07T08:53:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/wordpress/wordpress-3-2-is-here-%e2%80%93-time-to-update-4434/</loc>
+    <loc>http://damien.co/blog/2011-07-05-wordpress-3-2-is-here-e28093-time-to-update/</loc>
     <lastmod>2011-07-05T12:19:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/tags/comments/</loc>
+    <lastmod>2011-07-05T12:06:21+00:00</lastmod>
   </url>
   
   <url>
@@ -3133,7 +3063,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/wordpress/how-to-stop-wordpress-comment-spam-%e2%80%93-instantly-4435/</loc>
+    <loc>http://damien.co/blog/2011-07-05-how-to-stop-wordpress-comment-spam-e28093-instantly/</loc>
     <lastmod>2011-07-05T12:06:21+00:00</lastmod>
   </url>
   
@@ -3148,7 +3078,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/wordpress/social-media-marketing-with-wordpress-needs-a-good-theme-2-4436/</loc>
+    <loc>http://damien.co/blog/2011-07-04-social-media-marketing-with-wordpress-needs-a-good-theme-2/</loc>
     <lastmod>2011-07-04T16:02:18+00:00</lastmod>
   </url>
   
@@ -3168,7 +3098,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/wordpress/marsedit-updates-%e2%80%93-best-desktop-blogging-app-for-wordpress-mac-4437/</loc>
+    <loc>http://damien.co/blog/2011-07-03-marsedit-updates-e28093-best-desktop-blogging-app-for-wordpress-mac/</loc>
     <lastmod>2011-07-03T15:58:04+00:00</lastmod>
   </url>
   
@@ -3178,7 +3108,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/wordpress/wordpress-3-2-release-candidate-3-2-4438/</loc>
+    <loc>http://damien.co/blog/2011-07-02-wordpress-3-2-release-candidate-3-2/</loc>
     <lastmod>2011-07-02T15:21:50+00:00</lastmod>
   </url>
   
@@ -3188,7 +3118,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/wordpress/wordpress-updated-to-3-1-4-%e2%80%93-security-update-4439/</loc>
+    <loc>http://damien.co/blog/2011-07-01-wordpress-updated-to-3-1-4-e28093-security-update/</loc>
     <lastmod>2011-07-01T10:02:47+00:00</lastmod>
   </url>
   
@@ -3268,7 +3198,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/what-could-we-do-better-add-a-subtle-web-survey-3920/</loc>
+    <loc>http://damien.co/blog/2011-06-15-what-could-we-do-better-add-a-subtle-web-survey/</loc>
     <lastmod>2011-06-15T11:03:31+00:00</lastmod>
   </url>
   
@@ -3288,7 +3218,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-crm/emailvision-whose-the-dummy-or-didnt-someone-test-your-email-campaign-3907/</loc>
+    <loc>http://damien.co/blog/2011-06-13-emailvision-whose-the-dummy-or-didnt-someone-test-your-email-campaign/</loc>
     <lastmod>2011-06-13T17:50:46+00:00</lastmod>
   </url>
   
@@ -3318,12 +3248,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/android/htc-sensation-preorder-with-carphone-warehouse-3766/</loc>
+    <loc>http://damien.co/blog/2011-06-08-htc-sensation-preorder-with-carphone-warehouse/</loc>
     <lastmod>2011-06-08T14:19:55+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/general/comment-is-free-again-thanks-to-facebook-3758/</loc>
+    <loc>http://damien.co/blog/2011-06-08-comment-is-free-again-thanks-to-facebook/</loc>
     <lastmod>2011-06-08T10:52:09+00:00</lastmod>
   </url>
   
@@ -3563,12 +3493,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/tags/2011/</loc>
-    <lastmod>2011-05-17T11:57:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/blog/android/android-apps-400-growth-3051/</loc>
+    <loc>http://damien.co/blog/2011-05-17-android-apps-400-growth/</loc>
     <lastmod>2011-05-17T11:57:15+00:00</lastmod>
   </url>
   
@@ -3618,7 +3543,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/internet-of-things/whats-androidhome-mean-to-you-3048/</loc>
+    <loc>http://damien.co/blog/2011-05-16-whats-androidhome-mean-to-you/</loc>
     <lastmod>2011-05-16T11:34:24+00:00</lastmod>
   </url>
   
@@ -3633,7 +3558,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/android/android-best-apps-for-wifi-refreshed-for-2011-3027/</loc>
+    <loc>http://damien.co/blog/2011-05-09-android-best-apps-for-wifi-refreshed-for-2011/</loc>
     <lastmod>2011-05-09T12:00:10+00:00</lastmod>
   </url>
   
@@ -3643,7 +3568,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/android/cyanogenmod-how-to-download-big-apps-on-your-sd-card-3022/</loc>
+    <loc>http://damien.co/blog/2011-05-08-cyanogenmod-how-to-download-big-apps-on-your-sd-card/</loc>
     <lastmod>2011-05-08T12:31:58+00:00</lastmod>
   </url>
   
@@ -3658,7 +3583,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/android/cyanogenmod-7-0-3-have-you-updated-3012/</loc>
+    <loc>http://damien.co/blog/2011-05-07-cyanogenmod-7-0-3-have-you-updated/</loc>
     <lastmod>2011-05-07T16:38:08+00:00</lastmod>
   </url>
   
@@ -3728,7 +3653,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/android/cyanogenmod-7-02-have-you-updated-2915/</loc>
+    <loc>http://damien.co/blog/2011-04-28-cyanogenmod-7-02-have-you-updated/</loc>
     <lastmod>2011-04-28T21:11:26+00:00</lastmod>
   </url>
   
@@ -3763,12 +3688,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/wordpress/6-magazine-wordpress-themes-special-from-woothemes-get-it-before-easters-over-2897/</loc>
+    <loc>http://damien.co/blog/2011-04-23-6-magazine-wordpress-themes-special-from-woothemes-get-it-before-easters-over/</loc>
     <lastmod>2011-04-23T22:11:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/blog/android/best-android-app-for-technical-info-network-info-ii-2882/</loc>
+    <loc>http://damien.co/blog/2011-04-18-best-android-app-for-technical-info-network-info-ii/</loc>
     <lastmod>2011-04-18T09:40:54+00:00</lastmod>
   </url>
   
@@ -3983,7 +3908,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/i-upgraded-to-cyanogenmod-7-on-htc-desire-2780/</loc>
+    <loc>http://damien.co/blog/2011-02-22-i-upgraded-to-cyanogenmod-7-on-htc-desire/</loc>
     <lastmod>2011-02-22T09:16:27+00:00</lastmod>
   </url>
   
@@ -3995,16 +3920,6 @@
   <url>
     <loc>http://damien.co/blog/wordpress-catchable-fatal-error-2751/</loc>
     <lastmod>2011-02-19T18:38:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/infographic/</loc>
-    <lastmod>2011-02-19T10:55:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/general/saturday-humour-procrastination-2737/</loc>
-    <lastmod>2011-02-19T10:55:45+00:00</lastmod>
   </url>
   
   <url>
@@ -4033,7 +3948,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/i-have-a-bug-catchable-fatal-error-2733/</loc>
+    <loc>http://damien.co/blog/2011-02-14-i-have-a-bug-catchable-fatal-error/</loc>
     <lastmod>2011-02-14T08:28:54+00:00</lastmod>
   </url>
   
@@ -4063,7 +3978,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/productivity-tip-technical-writing-the-writers-block-2617/</loc>
+    <loc>http://damien.co/blog/2011-01-31-productivity-tip-technical-writing-the-writers-block/</loc>
     <lastmod>2011-01-31T09:45:18+00:00</lastmod>
   </url>
   
@@ -4073,7 +3988,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/productivity-%e2%80%93-clear-some-time-to-get-writing-2611/</loc>
+    <loc>http://damien.co/blog/2011-01-30-productivity-e28093-clear-some-time-to-get-writing/</loc>
     <lastmod>2011-01-30T17:00:26+00:00</lastmod>
   </url>
   
@@ -4088,12 +4003,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/aperture-3-digital-photo-software-improved-integration-with-flickr-2584/</loc>
+    <loc>http://damien.co/blog/2011-01-24-aperture-3-digital-photo-software-improved-integration-with-flickr/</loc>
     <lastmod>2011-01-24T09:04:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/tags/flickr/</loc>
+    <loc>http://damien.co/categories/software/</loc>
     <lastmod>2011-01-24T09:04:47+00:00</lastmod>
   </url>
   
@@ -4103,7 +4018,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/mobile-marketing/say-hello-to-10000000-little-downloads-of-mobile-apps-2577/</loc>
+    <loc>http://damien.co/blog/2011-01-22-say-hello-to-10000000-little-downloads-of-mobile-apps/</loc>
     <lastmod>2011-01-22T22:47:45+00:00</lastmod>
   </url>
   
@@ -4188,17 +4103,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/2010-12-28-cleanadmin-just-the-best-wordpress-plugin-by-a-mile-2/</loc>
-    <lastmod>2010-12-28T10:16:17+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://damien.co/wordpress/cleanadmin-just-the-best-wordpress-plugin-by-a-mile-2368/</loc>
     <lastmod>2010-12-28T10:16:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/foursquare/foursquare-for-writers-bloggers-slideshare-presentation-of-the-day-2349/</loc>
+    <loc>http://damien.co/blog/2010-12-21-foursquare-for-writers-bloggers-slideshare-presentation-of-the-day/</loc>
     <lastmod>2010-12-21T16:29:38+00:00</lastmod>
   </url>
   
@@ -4328,12 +4238,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/general/saturday-humour-2155/</loc>
+    <loc>http://damien.co/blog/2010-12-04-saturday-humour/</loc>
     <lastmod>2010-12-04T09:42:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/blog/android/autodesk-sketchbook-mobile-comes-to-android-2167/</loc>
+    <loc>http://damien.co/blog/2010-12-02-autodesk-sketchbook-mobile-comes-to-android/</loc>
     <lastmod>2010-12-02T14:00:54+00:00</lastmod>
   </url>
   
@@ -4363,7 +4273,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/wordpress/get-started-with-wordpress-for-your-business-website-b2b-marketing-2132/</loc>
+    <loc>http://damien.co/blog/2010-11-29-get-started-with-wordpress-for-your-business-website-b2b-marketing/</loc>
     <lastmod>2010-11-29T16:00:55+00:00</lastmod>
   </url>
   
@@ -4423,7 +4333,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/how-to-choose-a-good-social-media-marketing-consultant-2030/</loc>
+    <loc>http://damien.co/blog/2010-11-23-how-to-choose-a-good-social-media-marketing-consultant/</loc>
     <lastmod>2010-11-23T09:41:06+00:00</lastmod>
   </url>
   
@@ -4433,7 +4343,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/general/20000-visitors-so-far-this-year-1995/</loc>
+    <loc>http://damien.co/blog/2010-11-22-20000-visitors-so-far-this-year/</loc>
     <lastmod>2010-11-22T09:29:27+00:00</lastmod>
   </url>
   
@@ -4450,6 +4360,11 @@
   <url>
     <loc>http://damien.co/news-releases/social-media-news-this-morning-november-21-2010-1982/</loc>
     <lastmod>2010-11-21T08:02:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/tags/infographic/</loc>
+    <lastmod>2010-11-20T10:37:31+00:00</lastmod>
   </url>
   
   <url>
@@ -4498,7 +4413,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/resources/case-study-how-to-get-100-people-in-your-retail-store-at-the-same-time-1932/</loc>
+    <loc>http://damien.co/blog/2010-11-16-case-study-how-to-get-100-people-in-your-retail-store-at-the-same-time/</loc>
     <lastmod>2010-11-16T09:30:03+00:00</lastmod>
   </url>
   
@@ -4563,7 +4478,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/twitter/twitter-my-recommendation-dont-auto-follow-1863/</loc>
+    <loc>http://damien.co/blog/2010-11-08-twitter-my-recommendation-dont-auto-follow/</loc>
     <lastmod>2010-11-08T09:46:00+00:00</lastmod>
   </url>
   
@@ -4578,7 +4493,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/android/how-smartphone-users-see-each-other-1854/</loc>
+    <loc>http://damien.co/blog/2010-11-05-how-smartphone-users-see-each-other/</loc>
     <lastmod>2010-11-05T09:27:37+00:00</lastmod>
   </url>
   
@@ -4598,17 +4513,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-crm/zoho-crm-just-integrated-with-google-sites-1824/</loc>
+    <loc>http://damien.co/blog/2010-11-03-zoho-crm-just-integrated-with-google-sites/</loc>
     <lastmod>2010-11-03T09:42:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/tags/flashmob/</loc>
-    <lastmod>2010-11-03T09:01:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/general/social-media-campaign-ukuncuts-shows-people-are-not-happy-vodafone-1817/</loc>
+    <loc>http://damien.co/blog/2010-11-03-social-media-campaign-ukuncuts-shows-people-are-not-happy-vodafone/</loc>
     <lastmod>2010-11-03T09:01:49+00:00</lastmod>
   </url>
   
@@ -4728,11 +4638,6 @@
   </url>
   
   <url>
-    <loc>http://damien.co/resources/how-to-get-more-people-in-your-shop-with-foursquare-a-case-study-1723/</loc>
-    <lastmod>2010-10-18T09:00:22+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://damien.co/tags/map-my-foursquare/</loc>
     <lastmod>2010-10-15T09:00:50+00:00</lastmod>
   </url>
@@ -4740,11 +4645,6 @@
   <url>
     <loc>http://damien.co/news-releases/map-my-foursquare-unique-way-to-visualise-your-checkins-1710/</loc>
     <lastmod>2010-10-15T09:00:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/social-media/foursquare/9-step-guide-to-foursquare-for-business-1703/</loc>
-    <lastmod>2010-10-11T09:00:50+00:00</lastmod>
   </url>
   
   <url>
@@ -4768,7 +4668,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/general/challenge-of-the-week-can-i-get-by-with-iwork-alone-1680/</loc>
+    <loc>http://damien.co/blog/2010-10-04-challenge-of-the-week-can-i-get-by-with-iwork-alone/</loc>
     <lastmod>2010-10-04T09:00:00+00:00</lastmod>
   </url>
   
@@ -4823,7 +4723,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/foursquare/1st-foursquare-swarm-badge-party-in-latvia-1561/</loc>
+    <loc>http://damien.co/blog/2010-09-22-1st-foursquare-swarm-badge-party-in-latvia/</loc>
     <lastmod>2010-09-22T09:00:15+00:00</lastmod>
   </url>
   
@@ -4838,7 +4738,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/twitter/are-twitter-followers-better-than-fans-1538/</loc>
+    <loc>http://damien.co/blog/2010-09-20-are-twitter-followers-better-than-fans/</loc>
     <lastmod>2010-09-20T11:00:17+00:00</lastmod>
   </url>
   
@@ -4903,7 +4803,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/bit-ly-making-offline-marketing-work-for-social-media-with-url-shortener-1444/</loc>
+    <loc>http://damien.co/blog/2010-09-03-bit-ly-making-offline-marketing-work-for-social-media-with-url-shortener/</loc>
     <lastmod>2010-09-03T10:00:13+00:00</lastmod>
   </url>
   
@@ -4973,7 +4873,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/which-social-media-experience-is-right-for-you-1406/</loc>
+    <loc>http://damien.co/blog/2010-08-16-which-social-media-experience-is-right-for-you/</loc>
     <lastmod>2010-08-16T10:00:21+00:00</lastmod>
   </url>
   
@@ -4983,17 +4883,17 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/vilnius-lithuania-loves-foursquare-1393/</loc>
+    <loc>http://damien.co/blog/2010-08-13-vilnius-lithuania-loves-foursquare/</loc>
     <lastmod>2010-08-13T10:00:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/general/vilnius-youth-in-lithuania-get-up-to-no-good-1390/</loc>
+    <loc>http://damien.co/blog/2010-08-12-vilnius-youth-in-lithuania-get-up-to-no-good/</loc>
     <lastmod>2010-08-12T11:00:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/general/lithuanian-youth-love-their-mobiles-1386/</loc>
+    <loc>http://damien.co/blog/2010-08-11-lithuanian-youth-love-their-mobiles/</loc>
     <lastmod>2010-08-11T11:00:57+00:00</lastmod>
   </url>
   
@@ -5013,12 +4913,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/social-media-reputation-management-using-linkedin-1367/</loc>
+    <loc>http://damien.co/blog/2010-07-29-social-media-reputation-management-using-linkedin/</loc>
     <lastmod>2010-07-29T11:00:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/social-media-reputation-management-google-profile-1360/</loc>
+    <loc>http://damien.co/blog/2010-07-28-social-media-reputation-management-google-profile/</loc>
     <lastmod>2010-07-28T11:00:29+00:00</lastmod>
   </url>
   
@@ -5028,17 +4928,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/wordpress/how-to-view-your-wordpress-website-on-iphone-or-android-1343/</loc>
+    <loc>http://damien.co/blog/2010-07-26-how-to-view-your-wordpress-website-on-iphone-or-android/</loc>
     <lastmod>2010-07-26T16:00:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/blog/2010-07-25-how-to-export-posts-from-wordpress-to-word-doc-via-pdf-in-mac-osx-2/</loc>
-    <lastmod>2010-07-25T18:00:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/wordpress/how-to-export-posts-from-wordpress-to-word-doc-via-pdf-in-mac-osx-1335/</loc>
+    <loc>http://damien.co/blog/2010-07-25-how-to-export-posts-from-wordpress-to-word-doc-via-pdf-in-mac-osx/</loc>
     <lastmod>2010-07-25T18:00:30+00:00</lastmod>
   </url>
   
@@ -5063,7 +4958,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/social-media-marketing-integrate-with-traditional-marketing-activities-1312/</loc>
+    <loc>http://damien.co/blog/2010-07-20-social-media-marketing-integrate-with-traditional-marketing-activities/</loc>
     <lastmod>2010-07-20T10:00:06+00:00</lastmod>
   </url>
   
@@ -5088,12 +4983,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/social-media-marketing-essential-collection-1143/</loc>
+    <loc>http://damien.co/blog/2010-07-15-social-media-marketing-essential-collection/</loc>
     <lastmod>2010-07-15T09:40:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/get-started-with-foursquare-for-social-media-mobile-marketing-1231/</loc>
+    <loc>http://damien.co/blog/2010-07-14-get-started-with-foursquare-for-social-media-mobile-marketing/</loc>
     <lastmod>2010-07-14T09:00:26+00:00</lastmod>
   </url>
   
@@ -5108,17 +5003,17 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/how-to-claim-your-business-listing-in-foursquare-1235/</loc>
+    <loc>http://damien.co/blog/2010-07-13-how-to-claim-your-business-listing-in-foursquare/</loc>
     <lastmod>2010-07-13T09:32:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/foursquare-usage-peaks-on-the-weekend-1258/</loc>
+    <loc>http://damien.co/blog/2010-07-12-foursquare-usage-peaks-on-the-weekend/</loc>
     <lastmod>2010-07-12T13:00:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/essential-location-based-apps-for-android-mobiles-1221/</loc>
+    <loc>http://damien.co/blog/2010-07-12-essential-location-based-apps-for-android-mobiles/</loc>
     <lastmod>2010-07-12T09:00:44+00:00</lastmod>
   </url>
   
@@ -5128,7 +5023,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/foursquare-user-base-to-hit-2-million-this-week-1263/</loc>
+    <loc>http://damien.co/blog/2010-07-11-foursquare-user-base-to-hit-2-million-this-week/</loc>
     <lastmod>2010-07-11T16:27:51+00:00</lastmod>
   </url>
   
@@ -5138,12 +5033,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/what-will-be-your-next-foursquare-badge-new-hubspot-grader-tool-1208/</loc>
+    <loc>http://damien.co/blog/2010-07-08-what-will-be-your-next-foursquare-badge-new-hubspot-grader-tool/</loc>
     <lastmod>2010-07-08T09:12:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/start-a-social-media-marketing-plan-what-do-you-want-to-achieve-1192/</loc>
+    <loc>http://damien.co/blog/2010-07-07-start-a-social-media-marketing-plan-what-do-you-want-to-achieve/</loc>
     <lastmod>2010-07-07T09:43:32+00:00</lastmod>
   </url>
   
@@ -5213,7 +5108,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-crm/essential-collection-of-zoho-crm-guides-1096/</loc>
+    <loc>http://damien.co/blog/2010-06-28-essential-collection-of-zoho-crm-guides/</loc>
     <lastmod>2010-06-28T09:00:13+00:00</lastmod>
   </url>
   
@@ -5248,22 +5143,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/tags/company-website/</loc>
-    <lastmod>2010-06-15T09:00:44+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/migration/</loc>
-    <lastmod>2010-06-15T09:00:44+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/blog/2010-06-15-startup-guide-to-building-a-website-with-wordpress-2/</loc>
-    <lastmod>2010-06-15T09:00:44+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/startup/startup-guide-to-building-a-website-with-wordpress-1059/</loc>
+    <loc>http://damien.co/blog/2010-06-15-startup-guide-to-building-a-website-with-wordpress/</loc>
     <lastmod>2010-06-15T09:00:44+00:00</lastmod>
   </url>
   
@@ -5278,17 +5158,22 @@
   </url>
   
   <url>
+    <loc>http://damien.co/categories/london-startup-weekend/</loc>
+    <lastmod>2010-06-13T18:18:10+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://damien.co/blog/2010-06-13-london-startup-weekend-june-2010-teams/</loc>
     <lastmod>2010-06-13T18:18:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/general/london-startup-weekend-day-2-summary-1025/</loc>
+    <loc>http://damien.co/blog/2010-06-06-london-startup-weekend-day-2-summary/</loc>
     <lastmod>2010-06-06T10:21:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/general/im-looking-for-a-new-project-or-work-1020/</loc>
+    <loc>http://damien.co/blog/2010-06-03-im-looking-for-a-new-project-or-work/</loc>
     <lastmod>2010-06-03T11:46:16+00:00</lastmod>
   </url>
   
@@ -5298,12 +5183,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/general/london-startup-weekend-starts-in-2-days-insert-panic-now-1016/</loc>
+    <loc>http://damien.co/blog/2010-06-02-london-startup-weekend-starts-in-2-days-insert-panic-now/</loc>
     <lastmod>2010-06-02T15:30:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/mobile-marketing/50-completely-useful-stats-for-social-media-mobile-marketing-1002/</loc>
+    <loc>http://damien.co/blog/2010-05-31-50-completely-useful-stats-for-social-media-mobile-marketing/</loc>
     <lastmod>2010-05-31T16:27:18+00:00</lastmod>
   </url>
   
@@ -5328,7 +5213,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/mobile-marketing/how-to-google-maps-local-claim-your-business-930/</loc>
+    <loc>http://damien.co/blog/2010-05-12-how-to-google-maps-local-claim-your-business/</loc>
     <lastmod>2010-05-12T08:00:57+00:00</lastmod>
   </url>
   
@@ -5343,7 +5228,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/android/3-must-try-android-apps-to-manage-wifi-950/</loc>
+    <loc>http://damien.co/blog/2010-05-11-3-must-try-android-apps-to-manage-wifi/</loc>
     <lastmod>2010-05-11T13:00:23+00:00</lastmod>
   </url>
   
@@ -5353,12 +5238,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/gowalla-foursquare-open-for-business-926/</loc>
+    <loc>http://damien.co/blog/2010-05-11-gowalla-foursquare-open-for-business/</loc>
     <lastmod>2010-05-11T08:00:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/general/virtualbox-has-a-new-how-to-book-918/</loc>
+    <loc>http://damien.co/blog/2010-05-10-virtualbox-has-a-new-how-to-book/</loc>
     <lastmod>2010-05-10T16:00:51+00:00</lastmod>
   </url>
   
@@ -5378,17 +5263,17 @@
   </url>
   
   <url>
-    <loc>http://damien.co/wordpress/skimlinks-is-working-is-it-afiliate-marketing-or-what-911/</loc>
+    <loc>http://damien.co/blog/2010-05-10-skimlinks-is-working-is-it-afiliate-marketing-or-what/</loc>
     <lastmod>2010-05-10T09:13:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/social-crm/how-to-zoho-crm-empty-your-recycle-bin-to-delete-accounts-contacts-922/</loc>
+    <loc>http://damien.co/blog/2010-05-08-how-to-zoho-crm-empty-your-recycle-bin-to-delete-accounts-contacts/</loc>
     <lastmod>2010-05-08T22:10:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/general/london-startup-weekend-june-4-6-tickets-on-sale-905/</loc>
+    <loc>http://damien.co/blog/2010-05-06-london-startup-weekend-june-4-6-tickets-on-sale/</loc>
     <lastmod>2010-05-06T15:38:32+00:00</lastmod>
   </url>
   
@@ -5403,12 +5288,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-crm/zoho-crm-do-you-use-your-own-custom-web-from-then-change-to-https-894/</loc>
+    <loc>http://damien.co/blog/2010-04-21-zoho-crm-do-you-use-your-own-custom-web-from-then-change-to-https/</loc>
     <lastmod>2010-04-21T14:14:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/general/android-markets-going-international-advice-for-developers-vcs-startups-874/</loc>
+    <loc>http://damien.co/blog/2010-04-20-android-markets-going-international-advice-for-developers-vcs-startups/</loc>
     <lastmod>2010-04-20T15:00:09+00:00</lastmod>
   </url>
   
@@ -5423,7 +5308,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/android/android-phones-product-life-cycle-how-to-choose-869/</loc>
+    <loc>http://damien.co/blog/2010-04-19-android-phones-product-life-cycle-how-to-choose/</loc>
     <lastmod>2010-04-19T16:00:49+00:00</lastmod>
   </url>
   
@@ -5433,7 +5318,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/mobile-marketing/why-mobile-why-now-short-guide-to-mobile-marketing-877/</loc>
+    <loc>http://damien.co/blog/2010-04-18-why-mobile-why-now-short-guide-to-mobile-marketing/</loc>
     <lastmod>2010-04-18T16:16:15+00:00</lastmod>
   </url>
   
@@ -5453,7 +5338,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-crm/how-to-send-an-invoice-with-zoho-crm-free-edition-zoho-invoice-854/</loc>
+    <loc>http://damien.co/blog/2010-04-08-how-to-send-an-invoice-with-zoho-crm-free-edition-zoho-invoice/</loc>
     <lastmod>2010-04-08T16:09:06+00:00</lastmod>
   </url>
   
@@ -5463,17 +5348,17 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-crm/zoho-crm-create-a-lead-form-for-your-website-824/</loc>
+    <loc>http://damien.co/blog/2010-03-31-zoho-crm-create-a-lead-form-for-your-website/</loc>
     <lastmod>2010-03-31T14:36:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/social-crm/zoho-crm-what-is-email-opt-out-848/</loc>
+    <loc>http://damien.co/blog/2010-03-31-zoho-crm-what-is-email-opt-out/</loc>
     <lastmod>2010-03-31T12:13:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/social-crm/how-to-change-tab-names-in-zoho-crm-make-it-easy-to-manage-leads-815/</loc>
+    <loc>http://damien.co/blog/2010-03-29-how-to-change-tab-names-in-zoho-crm-make-it-easy-to-manage-leads/</loc>
     <lastmod>2010-03-29T11:00:09+00:00</lastmod>
   </url>
   
@@ -5483,7 +5368,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-crm/how-to-record-email-newsletter-signup-in-zoho-crm-add-a-custom-field-835/</loc>
+    <loc>http://damien.co/blog/2010-03-28-how-to-record-email-newsletter-signup-in-zoho-crm-add-a-custom-field/</loc>
     <lastmod>2010-03-28T21:21:44+00:00</lastmod>
   </url>
   
@@ -5503,17 +5388,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/2010-03-14-wordpress-use-a-custom-design-for-landing-pages-2/</loc>
-    <lastmod>2010-03-14T23:43:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/wordpress/wordpress-use-a-custom-design-for-landing-pages-756/</loc>
-    <lastmod>2010-03-14T23:43:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/landing-pages/</loc>
+    <loc>http://damien.co/blog/2010-03-14-wordpress-use-a-custom-design-for-landing-pages/</loc>
     <lastmod>2010-03-14T23:43:45+00:00</lastmod>
   </url>
   
@@ -5523,7 +5398,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-crm/zoho-crm-best-free-web-based-crm-included-in-google-apps-marketplace-748/</loc>
+    <loc>http://damien.co/blog/2010-03-14-zoho-crm-best-free-web-based-crm-included-in-google-apps-marketplace/</loc>
     <lastmod>2010-03-14T23:04:36+00:00</lastmod>
   </url>
   
@@ -5538,7 +5413,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/wordpress/how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-740/</loc>
+    <loc>http://damien.co/blog/2010-03-11-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress/</loc>
     <lastmod>2010-03-11T21:12:23+00:00</lastmod>
   </url>
   
@@ -5548,17 +5423,27 @@
   </url>
   
   <url>
+    <loc>http://damien.co/tags/company-website/</loc>
+    <lastmod>2010-03-08T22:54:54+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://damien.co/blog/2010-03-08-migrating-your-company-website-to-wordpress-self-hosted-2/</loc>
     <lastmod>2010-03-08T22:54:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/wordpress/wordpress-top-9-plugins-for-any-new-install-693/</loc>
+    <loc>http://damien.co/tags/migration/</loc>
+    <lastmod>2010-03-08T22:54:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/blog/2010-03-08-wordpress-top-9-plugins-for-any-new-install/</loc>
     <lastmod>2010-03-08T21:07:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/blog/android/android-market-benefits-developer-apples-app-certification-515/</loc>
+    <loc>http://damien.co/blog/2010-03-04-android-market-benefits-developer-apples-app-certification/</loc>
     <lastmod>2010-03-04T22:29:32+00:00</lastmod>
   </url>
   
@@ -5568,17 +5453,22 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/video-integrated-marketing-latest-internet-usage-video-562/</loc>
+    <loc>http://damien.co/tags/integrated-marketing/</loc>
     <lastmod>2010-03-02T10:46:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/blog/android/newsrob-best-android-application-for-google-reader-538/</loc>
+    <loc>http://damien.co/blog/2010-03-02-video-integrated-marketing-latest-internet-usage-video/</loc>
+    <lastmod>2010-03-02T10:46:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/blog/2010-02-28-newsrob-best-android-application-for-google-reader/</loc>
     <lastmod>2010-02-28T15:11:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/general/how-to-install-virtualbox-on-a-mac-533/</loc>
+    <loc>http://damien.co/blog/2010-02-28-how-to-install-virtualbox-on-a-mac/</loc>
     <lastmod>2010-02-28T14:48:23+00:00</lastmod>
   </url>
   
@@ -5588,7 +5478,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/mobile-marketing/3-reasons-sms-marketing-will-die-this-year-520/</loc>
+    <loc>http://damien.co/blog/2010-02-26-3-reasons-sms-marketing-will-die-this-year/</loc>
     <lastmod>2010-02-26T10:55:13+00:00</lastmod>
   </url>
   
@@ -5603,7 +5493,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/mobile-marketing/essential-tips-promotions-charities-mobile-451/</loc>
+    <loc>http://damien.co/blog/2010-02-22-essential-tips-promotions-charities-mobile/</loc>
     <lastmod>2010-02-22T07:44:59+00:00</lastmod>
   </url>
   
@@ -5618,7 +5508,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/mobile-marketing/mobile-marketing-strategies-mobile-crm-442/</loc>
+    <loc>http://damien.co/blog/2010-02-08-mobile-marketing-strategies-mobile-crm/</loc>
     <lastmod>2010-02-08T09:47:42+00:00</lastmod>
   </url>
   
@@ -5638,7 +5528,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/mobile-marketing/mobile-seo-google-extends-click-to-call-to-mobile-search-446/</loc>
+    <loc>http://damien.co/blog/2010-02-08-mobile-seo-google-extends-click-to-call-to-mobile-search/</loc>
     <lastmod>2010-02-08T09:11:31+00:00</lastmod>
   </url>
   
@@ -5653,17 +5543,17 @@
   </url>
   
   <url>
-    <loc>http://damien.co/mobile-marketing/what-kids-do-online-uk-internet-usage-444/</loc>
+    <loc>http://damien.co/blog/2010-02-07-what-kids-do-online-uk-internet-usage/</loc>
     <lastmod>2010-02-07T12:56:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/mobile-marketing/looking-for-insights-on-mobile-and-retail-sector-440/</loc>
+    <loc>http://damien.co/blog/2010-02-06-looking-for-insights-on-mobile-and-retail-sector/</loc>
     <lastmod>2010-02-06T17:00:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/general/most-read-posts-january-2010-426/</loc>
+    <loc>http://damien.co/blog/2010-02-01-most-read-posts-january-2010/</loc>
     <lastmod>2010-02-01T12:18:10+00:00</lastmod>
   </url>
   
@@ -5673,7 +5563,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/mobile-marketing/where-to-start-building-mobile-apps-for-large-screens-mobile-agencies-beware-422/</loc>
+    <loc>http://damien.co/blog/2010-01-28-where-to-start-building-mobile-apps-for-large-screens-mobile-agencies-beware/</loc>
     <lastmod>2010-01-28T15:28:57+00:00</lastmod>
   </url>
   
@@ -5683,7 +5573,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/android/android-market-best-games-412/</loc>
+    <loc>http://damien.co/blog/2010-01-23-android-market-best-games/</loc>
     <lastmod>2010-01-23T00:43:01+00:00</lastmod>
   </url>
   
@@ -5713,7 +5603,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/wordpress/how-to-not-impact-your-seo-and-website-traffic-when-changing-wordpress-permalinks-406/</loc>
+    <loc>http://damien.co/blog/2010-01-19-how-to-not-impact-your-seo-and-website-traffic-when-changing-wordpress-permalinks/</loc>
     <lastmod>2010-01-19T17:54:21+00:00</lastmod>
   </url>
   
@@ -5798,7 +5688,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/general/how-to-make-mobile-part-of-your-marketing-strategy-357/</loc>
+    <loc>http://damien.co/blog/2009-11-09-how-to-make-mobile-part-of-your-marketing-strategy/</loc>
     <lastmod>2009-11-09T09:01:18+00:00</lastmod>
   </url>
   
@@ -5894,6 +5784,11 @@
   
   <url>
     <loc>http://damien.co/general/tip-of-the-day-windows-vista-sp2-wont-install-on-a-partitioned-drive-320/</loc>
+    <lastmod>2009-09-29T15:18:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/tags/tips/</loc>
     <lastmod>2009-09-29T15:18:03+00:00</lastmod>
   </url>
   
@@ -6043,7 +5938,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/blog/android/10-best-android-apps-for-your-phone-250/</loc>
+    <loc>http://damien.co/blog/2009-08-11-10-best-android-apps-for-your-phone/</loc>
     <lastmod>2009-08-11T15:14:41+00:00</lastmod>
   </url>
   
@@ -6068,7 +5963,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/general/2-must-have-android-apps-from-google-for-your-htc-magic-or-g1-226/</loc>
+    <loc>http://damien.co/blog/2009-07-10-2-must-have-android-apps-from-google-for-your-htc-magic-or-g1/</loc>
     <lastmod>2009-07-10T18:11:54+00:00</lastmod>
   </url>
   
@@ -6138,11 +6033,6 @@
   </url>
   
   <url>
-    <loc>http://damien.co/general/decline-of-the-music-industry-is-there-a-decline-177/</loc>
-    <lastmod>2009-05-13T13:57:45+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://damien.co/general/shhh-htc-magic-just-lacks-the-volume-for-a-music-phone-172/</loc>
     <lastmod>2009-05-13T11:27:51+00:00</lastmod>
   </url>
@@ -6208,7 +6098,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/resources/how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09-132/</loc>
+    <loc>http://damien.co/blog/2009-04-10-how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09/</loc>
     <lastmod>2009-04-10T23:50:53+00:00</lastmod>
   </url>
   
@@ -6533,7 +6423,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/general/whats-the-problem-with-depth-of-catalogue-23/</loc>
+    <loc>http://damien.co/categories/content-and-product/</loc>
+    <lastmod>2005-12-16T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/blog/2005-12-16-whats-the-problem-with-depth-of-catalogue/</loc>
     <lastmod>2005-12-16T10:00:00+00:00</lastmod>
   </url>
   
@@ -6615,6 +6510,14 @@
   <url>
     <loc>http://damien.co/categories/travel/</loc>
     <lastmod>2004-08-01T17:20:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/categories/ci/cd/</loc>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/blog/2012-08-19-how-to-get-started-with-wordpress-stack-exchange-or-how-i-got-to-1000-rep-in-4-weeks/</loc>
   </url>
   
 </urlset>

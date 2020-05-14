@@ -28,10 +28,10 @@ Common: Optional GMT correction for SMS/MMS timestamps</description>
     
     <item>
       <title>Cyanogenmod &amp;#8211; How to download big apps on your SD Card</title>
-      <link>http://damien.co/blog/android/cyanogenmod-how-to-download-big-apps-on-your-sd-card-3022/</link>
+      <link>http://damien.co/blog/2011-05-08-cyanogenmod-how-to-download-big-apps-on-your-sd-card/</link>
       <pubDate>Sun, 08 May 2011 12:31:58 +0000</pubDate>
       
-      <guid>http://damien.co/blog/android/cyanogenmod-how-to-download-big-apps-on-your-sd-card-3022/</guid>
+      <guid>http://damien.co/blog/2011-05-08-cyanogenmod-how-to-download-big-apps-on-your-sd-card/</guid>
       <description>Are you suffering from Android Market download issues? Have you just rooted your Android with Cyanogenmod and found you can’t download Google Maps?
 If you can’t download Google Maps it’s because most Android phones have a download cache limited to 3MB and Google Maps is a whooping 5.4MB.
 How to Download large files after rooting your Android The answer to your problems is S2E simple2ext – which moves your download cache off the phone to your SD Card.</description>
@@ -39,19 +39,19 @@ How to Download large files after rooting your Android The answer to your proble
     
     <item>
       <title>Cyanogenmod 7.0.3 &amp;#8211; have you updated?</title>
-      <link>http://damien.co/blog/android/cyanogenmod-7-0-3-have-you-updated-3012/</link>
+      <link>http://damien.co/blog/2011-05-07-cyanogenmod-7-0-3-have-you-updated/</link>
       <pubDate>Sat, 07 May 2011 16:38:08 +0000</pubDate>
       
-      <guid>http://damien.co/blog/android/cyanogenmod-7-0-3-have-you-updated-3012/</guid>
+      <guid>http://damien.co/blog/2011-05-07-cyanogenmod-7-0-3-have-you-updated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cyanogenmod 7.02 have you updated</title>
-      <link>http://damien.co/blog/android/cyanogenmod-7-02-have-you-updated-2915/</link>
+      <link>http://damien.co/blog/2011-04-28-cyanogenmod-7-02-have-you-updated/</link>
       <pubDate>Thu, 28 Apr 2011 21:11:26 +0000</pubDate>
       
-      <guid>http://damien.co/blog/android/cyanogenmod-7-02-have-you-updated-2915/</guid>
+      <guid>http://damien.co/blog/2011-04-28-cyanogenmod-7-02-have-you-updated/</guid>
       <description>Have you updated? – the latest Cyanogenmod v7.02 has been released. Mostly it fixes bugs and ‘actually’ fixes GPS.
 Being a point release its not focused on new features – but if you haven’t updated then you should. As always backup your current Rom before installing this update.
 Summary from the changelog:
@@ -81,10 +81,10 @@ Noticeable extras – application shortcut menus have a link to the Android Mark
     
     <item>
       <title>I upgraded to Cyanogenmod 7 on HTC Desire</title>
-      <link>http://damien.co/blog/i-upgraded-to-cyanogenmod-7-on-htc-desire-2780/</link>
+      <link>http://damien.co/blog/2011-02-22-i-upgraded-to-cyanogenmod-7-on-htc-desire/</link>
       <pubDate>Tue, 22 Feb 2011 09:16:27 +0000</pubDate>
       
-      <guid>http://damien.co/blog/i-upgraded-to-cyanogenmod-7-on-htc-desire-2780/</guid>
+      <guid>http://damien.co/blog/2011-02-22-i-upgraded-to-cyanogenmod-7-on-htc-desire/</guid>
       <description>I just updated my HTC Desire to the new Cyanogenmod 7 rom and it’s been running fine. A part of me does miss the HTC Sense UE overlay .. but … meh. If you have already rooted your phone and been using Clockwork ROM Manager, you just need to go looking for the new Cyanogenmod 7 RC1.
 The upgrade process is very simple – but here are a couple of pointers –</description>
     </item>

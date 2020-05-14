@@ -13,21 +13,10 @@
     
     <item>
       <title>HOW TO: Stop WordPress Comment Spam – instantly</title>
-      <link>http://damien.co/wordpress/how-to-stop-wordpress-comment-spam-%e2%80%93-instantly-4435/</link>
+      <link>http://damien.co/blog/2011-07-05-how-to-stop-wordpress-comment-spam-e28093-instantly/</link>
       <pubDate>Tue, 05 Jul 2011 12:06:21 +0000</pubDate>
       
-      <guid>http://damien.co/wordpress/how-to-stop-wordpress-comment-spam-%e2%80%93-instantly-4435/</guid>
-      <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme’s functions.php. This is one of my favourite WordPress functions and I use it on all my setups.
-This code snippet works by blocking comments from being added offsite or indirectly and not from the comment box on your webpage.
-Just to prove this works … take a look at your spam comments now and mentally calculate your daily average of new spam comments.</description>
-    </item>
-    
-    <item>
-      <title>HOW TO: Stop WordPress Comment Spam &amp;#8211; instantly</title>
-      <link>http://damien.co/blog/2011-07-05-how-to-stop-wordpress-comment-spam-instantly/</link>
-      <pubDate>Tue, 05 Jul 2011 11:06:21 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2011-07-05-how-to-stop-wordpress-comment-spam-instantly/</guid>
+      <guid>http://damien.co/blog/2011-07-05-how-to-stop-wordpress-comment-spam-e28093-instantly/</guid>
       <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme’s functions.php. This is one of my favourite WordPress functions and I use it on all my setups.
 This code snippet works by blocking comments from being added offsite or indirectly and not from the comment box on your webpage.
 Just to prove this works … take a look at your spam comments now and mentally calculate your daily average of new spam comments.</description>

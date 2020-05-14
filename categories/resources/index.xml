@@ -76,10 +76,10 @@ How To Install Selenium on your Mac OSx Mac already has Python and a package man
     
     <item>
       <title>Web Application testing &amp;#8211; install Siege on Linux (or Mac OSx)</title>
-      <link>http://damien.co/resources/web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx-6011/</link>
+      <link>http://damien.co/blog/2012-05-22-web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx/</link>
       <pubDate>Tue, 22 May 2012 13:38:58 +0000</pubDate>
       
-      <guid>http://damien.co/resources/web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx-6011/</guid>
+      <guid>http://damien.co/blog/2012-05-22-web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx/</guid>
       <description>Siegeis a great tool for performance and load testing your web application. I’ve been using it for the past 6 months to test WordPress websites along with other web apps that we’ve been building.
 Use it to straighten out any kinks with applications like WordPress, learn if you’re server and database is flakey or prove that your CDN is super.
 Siege testing vs Apache Benchmark If you’ve used Apache Benchmark in Mac OSx or Linux then you’ll already have an idea what Siege can do.</description>
@@ -114,8 +114,7 @@ Using a centred layout with Axure you can cover ‘all’ devices larger then a 
       <guid>http://damien.co/resources/axure-responsive-layout-browser-width-6548/</guid>
       <description>I’ve been playing around with scroll spy and re-creating this effect in Axure. Now, I’ve started to tackle responsive layout and browser width.
 Axure is a great tool for making wireframes come to life … seriously. When you’re building a web or mobile application you’re better off with a complete clickable prototype then leaving your client guessing.
-Responsive layout in Axure 
-This is a bit more complex – but start with a Dynamic Panel and (using the newer Axure v6.</description>
+Responsive layout in Axure This is a bit more complex – but start with a Dynamic Panel and (using the newer Axure v6.</description>
     </item>
     
     <item>
@@ -146,7 +145,6 @@ Are you impressed by Twitter Bootstrap? Some are, some aren’t – but I don’
       
       <guid>http://damien.co/resources/axure-twitter-bootstrap-widget-library-v0-1-6219/</guid>
       <description>Twitter Bootstrap provides a great CSS framework and design philosophy making it easy to get going with your new web-based enterprise. So it only seemed natural Axure needs a widget library for Twitter Bootstrap.
-
 Axurehas been my tool of choice for UX / UI wireframing and prototyping since July 2011. It was forced on me. Having been a fan of Omnigraffle and Balsamiq, I was resistant to change. Then I discovered the power of templates, generators and prototypes.</description>
     </item>
     
@@ -212,15 +210,6 @@ Thanks to everyone for liking it!</description>
     </item>
     
     <item>
-      <title>Case Study How to get 100 people in your retail store at the same time</title>
-      <link>http://damien.co/resources/case-study-how-to-get-100-people-in-your-retail-store-at-the-same-time-1932/</link>
-      <pubDate>Tue, 16 Nov 2010 09:30:03 +0000</pubDate>
-      
-      <guid>http://damien.co/resources/case-study-how-to-get-100-people-in-your-retail-store-at-the-same-time-1932/</guid>
-      <description>Regular followers of my work, will have seen an earlier case study on Foursquare marketing for retail and I’ve recently been updating this. So this week there are a couple of posts on the Swarm Badge Party that was organised in Latvia.Client Brief Bite Latvija just opened a new technical advice and support centre dedicated to questions about mobile broadband, device configuration and helping people get the most from their mobile.</description>
-    </item>
-    
-    <item>
       <title>Most Popular Posts – October</title>
       <link>http://damien.co/resources/most-popular-posts-october-1870/</link>
       <pubDate>Sun, 07 Nov 2010 10:01:37 +0000</pubDate>
@@ -232,16 +221,6 @@ If you missed out reading some of the best social media news and stuff from Octo
   [ id=”1703″ type=”post”]9 step guide to Foursquare[/]
   [ id=”1691″ type=”post”]Social Media &amp;amp; Internet Usage Policies for Workplaces[/]
   and to get the best news – then sign-up for my social media monthly news</description>
-    </item>
-    
-    <item>
-      <title>How to get more people in your shop with Foursquare a Case Study</title>
-      <link>http://damien.co/resources/how-to-get-more-people-in-your-shop-with-foursquare-a-case-study-1723/</link>
-      <pubDate>Mon, 18 Oct 2010 09:00:22 +0000</pubDate>
-      
-      <guid>http://damien.co/resources/how-to-get-more-people-in-your-shop-with-foursquare-a-case-study-1723/</guid>
-      <description>Have you been looking to use social media for marketing? Trying to think of creative ideas to get more people to visit your shops? Foursquare has a number of options for retailers to come up with engaging experiences to get more people in your shops.
-Foursquare Swarm Badge Party This social media case study for Bite Latvija, a mobile operator shows how Foursquare was used to launch their new technology support centre – this led to increase customer awareness and customer engagement.</description>
     </item>
     
     <item>
@@ -290,8 +269,8 @@ and in Vilnius this week – everyone went back to school!</description>
       <pubDate>Tue, 13 Jul 2010 11:00:28 +0000</pubDate>
       
       <guid>http://damien.co/resources/8-step-guide-to-foursquare-1287/</guid>
-      <description>
-With all the excitement of _Foursquare_ heading to 2,000,000 users this week it was time to post this 8 step guide to Foursquare to help you get started using this geo-location social network.8 Step Guide is a easy to follow and includes tips like:
+      <description>With all the excitement of Foursquare heading to 2,000,000 users this week it was time to post this 8 step guide to Foursquare to help you get started using this geo-location social network.
+8 Step Guide is a easy to follow and includes tips like:
  Claim your business Run Competitions for Customers Reward the Mayor Track your Checkins Cross promote Foursquare on Twitter, Facebook &amp;amp; your website  </description>
     </item>
     
@@ -307,10 +286,10 @@ Now I’ve updated it and created it as a PDF for your to download and have your
     
     <item>
       <title>HOW TO install Virtualbox on Mac osx host &amp;amp; WinXp guest using TinyXP rev 09</title>
-      <link>http://damien.co/resources/how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09-132/</link>
+      <link>http://damien.co/blog/2009-04-10-how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09/</link>
       <pubDate>Fri, 10 Apr 2009 23:50:53 +0000</pubDate>
       
-      <guid>http://damien.co/resources/how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09-132/</guid>
+      <guid>http://damien.co/blog/2009-04-10-how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09/</guid>
       <description>Virtualbox is a dream freeware solution for anyone – novice to geek – who wants to run different computers inside their computer … virtual so to speak. Today I’ve been tinkering with getting Virtualbox working on a Mac laptop running WinXP.
 Virtualbox from Oracle Sunis a freeware, open source virtualisation application .. it comes in a number of flavours – I’ve previously used it to run WinXP guests inside WinXP hosts for testing and at work it was the only way to install things without having to go to the IT helpdesk.</description>
     </item>

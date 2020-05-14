@@ -6,28 +6,17 @@
     <description>Recent content in performance on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 10 Sep 2012 14:06:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 May 2012 13:38:58 +0000</lastBuildDate>
     
 	<atom:link href="http://damien.co/tags/performance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Startup Metrics for Pirates (SeedCamp 2008)</title>
-      <link>http://damien.co/startup/startup-metrics-for-pirates-seedcamp-2008-7781/</link>
-      <pubDate>Mon, 10 Sep 2012 14:06:15 +0000</pubDate>
-      
-      <guid>http://damien.co/startup/startup-metrics-for-pirates-seedcamp-2008-7781/</guid>
-      <description>If you’re in a Startup you need to agree quite quickly on some of those performance metrics and here, Dave McClure shares his view.
-Sure you can go for the glamour figures — like millions of page views, likes or tweets. But wouldn’t you just prefer some hard cash? or qualified leads?
-At the end of the day, the stats you pick, you have to stick with and track over time.</description>
-    </item>
-    
-    <item>
       <title>Web Application testing &amp;#8211; install Siege on Linux (or Mac OSx)</title>
-      <link>http://damien.co/resources/web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx-6011/</link>
+      <link>http://damien.co/blog/2012-05-22-web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx/</link>
       <pubDate>Tue, 22 May 2012 13:38:58 +0000</pubDate>
       
-      <guid>http://damien.co/resources/web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx-6011/</guid>
+      <guid>http://damien.co/blog/2012-05-22-web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx/</guid>
       <description>Siegeis a great tool for performance and load testing your web application. I’ve been using it for the past 6 months to test WordPress websites along with other web apps that we’ve been building.
 Use it to straighten out any kinks with applications like WordPress, learn if you’re server and database is flakey or prove that your CDN is super.
 Siege testing vs Apache Benchmark If you’ve used Apache Benchmark in Mac OSx or Linux then you’ll already have an idea what Siege can do.</description>

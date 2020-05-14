@@ -22,7 +22,7 @@ It’s been great over the years to have Google Reader there for me as a bit of 
     </item>
     
     <item>
-      <title>What&amp;#8217;s the RSS Feed for a Custom Post Type?</title>
+      <title>Whats the RSS Feed for a Custom Post Type?</title>
       <link>http://damien.co/blog/2012-05-08-whats-the-rss-feed-for-a-custom-post-type/</link>
       <pubDate>Tue, 08 May 2012 12:37:49 +0000</pubDate>
       
@@ -30,7 +30,7 @@ It’s been great over the years to have Google Reader there for me as a bit of 
       <description>WordPress introduced custom post types allowing creative and technical types to do more then just write pages and posts. Your websites main RSS feed doesn’t include custom post types — but custom posts do have their own unique RSS feeds which you can use.
 What’s the RSS feed for custom posts? The custom post rss feed looks like this
 So a link to my Presentations would look like this
-Linkage HT WordPress.</description>
+ &amp;lt;a href=&amp;quot;http://damien.</description>
     </item>
     
   </channel>

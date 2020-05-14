@@ -12,14 +12,12 @@
     
     
     <item>
-      <title>WordPress Isotope &amp;#038; Filtering by Categories</title>
+      <title>WordPress Isotope - Filtering by Categories</title>
       <link>http://damien.co/blog/2012-06-14-wordpress-isotope-filtering-by-categories/</link>
       <pubDate>Thu, 14 Jun 2012 17:27:25 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-06-14-wordpress-isotope-filtering-by-categories/</guid>
       <description>Isotope is an ‘exquisite jQuery plugin for magical layouts’ which basically means it works wonders on responsive layouts. I’ve created a WordPress plugin for Isotope and just updated this to add Filtering by Categories.
-
-
 How do you add Filtering for Isotope to WordPress? WordPress uses jQuery in no conflict mode. so you just need to modify the Isotope example code
 You’ll need to create your own custom WordPress template with its own WPQuery loop</description>
     </item>

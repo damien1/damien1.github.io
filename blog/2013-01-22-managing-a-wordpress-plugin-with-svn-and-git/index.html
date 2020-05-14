@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   
-  <meta name="description" content="Damien Saunders - marketing &amp; management consultant">
+  <meta name="description" content="Damien Saunders | management consultant">
   <meta name="author" content="Damien Saunders">
   <meta name="generator" content="Hugo 0.70.0" />
   
@@ -84,6 +84,10 @@
         <div class="row">
             <div class="col-md-12">
                 
+                <div class="post-img">
+                    <img class="img-fluid" alt="" src="http://damien.co/images/WordPress.png">
+                </div>
+                
                 <div class="post-content">
                     <p>I’m not trying to torture myself — which is why for the past 18 months managing my plugins in the <strong>WordPress SVN repository</strong> has been separated from my development work which is all saved in <strong>Git (Bitbucket</strong> to be totally honest).</p>
 <p>The time has come to find out just what ‘<strong>git svn</strong>‘ is all about and see if I can make it work!  I’ve yet to become a master or ninja of Git .. but thanks to persistence on my part in setting up continuous integration with Jenkins and automated testing with Selenium I’m getting to know Git more.</p>
@@ -99,54 +103,48 @@
 <p>(hint: your WordPress Plugin SVN URL should look like mine, except with your plugin name)</p>
 <p>Depending on how much you have used your SVN repo, this could take awhile … but you’ll get a list of all your commits</p>
 <p>What you are looking for is the 1st commit like this:</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<p><!-- raw HTML omitted --></p>
-<h3 id="git-svn-clone">GIT SVN Clone</h3>
+<pre><code>------------------------------------------------------------------------
+r570197 | plugin-master | 2012-07-10 18:57:59 +0100 (Tue, 10 Jul 2012) | 1 line
+adding dbc-backup-2 by damiensaunders
+------------------------------------------------------------------------
+</code></pre><h3 id="git-svn-clone">GIT SVN Clone</h3>
 <p>Now navigate to where you want your plugin repo on your local machine (hint all my plugins reside inside the wp-content/plugins folder).</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<p><!-- raw HTML omitted --></p>
+<pre><code>git svn clone -s -r570197 http://plugins.svn.wordpress.org/your-plugin
+</code></pre><p>-s = The SVN repo is in standard layout (trunk, branch, tags)
+-r = start from revision<!-- raw HTML omitted --></p>
 <p>Hint: don’t do this without a revision, or you could be waiting days as your local machine scours the whole of the WordPress Plugin SVN repo.</p>
 <p>I tried using</p>
-<!-- raw HTML omitted -->
-<p>but that ended up generating an error so I don’t use that switch</p>
+<pre><code>git svn clone -s -rxxxxxx --no-minimize-url
+</code></pre><p>but that ended up generating an error so I don’t use that switch</p>
 <p>Now you just need to change directory and fetch everything from your SVN repo like this:</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<p>What this is doing is getting all commits starting from revision r570197 when my plugin was first created.</p>
+<pre><code>cd plugin-name/
+git svn fetch
+</code></pre><p>What this is doing is getting all commits starting from revision r570197 when my plugin was first created.</p>
 <p>Even starting from the revision, this takes a bit of time (20 – 30 mins was enough for my plugin). The screen will start filling up with info on each file if it was A(dded) or M(edified).</p>
 <p>When its done, you’ll have a new folder on your local machine with all your SVN contents (except no Tag or Branch folders and no ‘assets’ folder).</p>
 <h3 id="add-bitbucket-to-your-new-git-svn-repo">Add Bitbucket to your new Git SVN Repo</h3>
 <p>This way you can start to pull down your code (if it already exists in Git).</p>
 <!-- raw HTML omitted -->
 <p>Hint: you can use the same command for Github, etc.</p>
-<p><!-- raw HTML omitted --></p>
 <h3 id="git-rebase">Git Rebase</h3>
 <p>We’ll do a bit of a clean up and check</p>
-<!-- raw HTML omitted -->
-<p>This should be quick … we’ve not done any local changes yet and hopefully no-one else committed to WordPress SVN 🙂</p>
-<h3 id="heading"></h3>
+<pre><code>git svn rebase
+</code></pre><p>This should be quick … we’ve not done any local changes yet and hopefully no-one else committed to WordPress SVN 🙂</p>
 <h3 id="merge-git-and-wordpress-svn">Merge Git and WordPress SVN</h3>
 <p>This is the powerful command which does a lot of good work</p>
 <p>git pull –rebase origin master</p>
-<p><!-- raw HTML omitted --></p>
 <p>What will happen is that Git will pull everything from your Git remote that we added (called origin) and it start to match and check your SVN. It’s very likely you’ll have merge conflicts and will need to resolve them … which is easy to fix!</p>
-<p><!-- raw HTML omitted --></p>
 <p>If you don’t have any merge errors you’re a Saint!</p>
 <p>If you do have errors — then its time to launch your fav Git app and do some visual diff / detective work.</p>
 <h2 id="bitbucket-and-sourcetree">Bitbucket and SourceTree</h2>
 <p>I’m a fan of a SourceTree and use it for most of my work — my Git friends tell me I should do more from the CLI, but thats never going to happen. SourceTree does work with Github too.</p>
 <p>So now you can open SourceTree and just add a new Repo from the local working copy.</p>
-<p><!-- raw HTML omitted --></p>
-<p>##<!-- raw HTML omitted --></p>
 <p>Now you’re done … you can go about your dev work and safely use Git to commit to Origin</p>
 <p>Remember to not commit often to SVN as it will affect your trunk for one thing!</p>
-<p><!-- raw HTML omitted --></p>
 <h2 id="bitbucket-8212-sourcetree-svn-fail">Bitbucket — SourceTree SVN Fail?</h2>
 <p>SourceTree has an option to clone from SVN. I thought I’d be smart and try to clone from WordPress SVN repository for my plugin. But it failed me.</p>
 <h4 id="further-reading">Further Reading</h4>
-<!-- raw HTML omitted -->
+<p><a href="https://danielbachhuber.com/2010/09/29/how-to-properly-use-git-with-wordpress-org-subversion/">How to properly use Git with WordPress.org Subversion</a></p>
 
                 </div>
             </div>

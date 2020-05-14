@@ -27,7 +27,7 @@
       
       <guid>http://damien.co/blog/2011-12-27-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-2/</guid>
       <description>WordPress offers lots of plugins to choose from and if you add to many you will soon come across this Fatal Error message. You can easily fix the problem (and then go back to adding more plugins).
-This out of memory error doesn’t mean you have to go buy more RAM — just have to amend a line of text in a wordpress settings file.
+This out of memory error doesn&amp;rsquo;t mean you have to go buy more RAM — just have to amend a line of text in a wordpress settings file.
  Fix the Fatal Error: Allowed Memory Size When you installed WordPress you either uploaded it using FTP yourself or went to an admin cpanel and installed it.</description>
     </item>
     

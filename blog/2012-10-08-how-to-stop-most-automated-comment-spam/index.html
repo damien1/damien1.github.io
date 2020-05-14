@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   
-  <meta name="description" content="Damien Saunders - marketing &amp; management consultant">
+  <meta name="description" content="Damien Saunders | management consultant">
   <meta name="author" content="Damien Saunders">
   <meta name="generator" content="Hugo 0.70.0" />
   
@@ -70,7 +70,7 @@
                     <div class="portfolio-meta">
                         <span>Monday, Oct 8, 2012</span>|
                         <span> Tags:
-                            Comments, exploits, Referal URL, spam
+                            Security
                         </span>
                     </div>
                 </div>
@@ -85,25 +85,21 @@
             <div class="col-md-12">
                 
                 <div class="post-content">
-                    <p><!-- raw HTML omitted --></p>
-<p>It is easy to stop most <strong>WordPress</strong> <strong>comment spam</strong> instantly with one small change to your theme’s <em>functions.php</em>. This is one of my <em>favourite WordPress functions</em> and I use it on all my setups.</p>
+                    <p>It is easy to stop most <strong>WordPress</strong> <strong>comment spam</strong> instantly with one small change to your theme’s <em>functions.php</em>. This is one of my <em>favourite WordPress functions</em> and I use it on all my setups.</p>
 <p>This code snippet works by blocking comments from being added offsite or indirectly and not from the comment box on your webpage. Most spammers try to automate their ‘workload’ and try to exploit WordPress functions that allow you to manage comments or add posts via the WordPress API’s.</p>
 <p>Just to prove this works … take a look at your spam comments now and mentally calculate your daily average of new spam comments. Then after adding this code to your functions.php file wait for 24 hours … if your spam comments are not down or close to zero you’ve done something wrong.</p>
-<p><!-- raw HTML omitted --></p>
 <h2 id="the-role-of-wordpress-functionsphp">The role of WordPress Functions.php</h2>
 <p>Your functions.php file is the place to add snippets of code just like this. It’s found inside your theme folder and the code here runs before your site starts to load. Remember to keep a copy incase you update or replace your theme, this is because the functions.php file is unique to the active theme.</p>
 <h2 id="stop-wordpress-comment-spam">Stop WordPress Comment Spam</h2>
 <p>Go to your theme folder and open functions.php and insert this code</p>
-<p>[php]<br>
-//Block Referal URL exploit for Comments<br>
-function verify_comment_referer() {<br>
-if (!wp_get_referer()) {<br>
-wp_die( __(‘You cannot post comment at this time, may be you need to enable referrers in your browser.’) );<br>
-}<br>
-}<br>
-add_action(‘check_comment_flood’, ‘verify_comment_referer’);</p>
-<p>[/php]</p>
-<p>Do you like this? Did this work for you?</p>
+<pre><code>//Block Referal URL exploit for Comments
+function verify\_comment\_referer() {
+if (!wp\_get\_referer()) {
+wp\_die( \__(&amp;#8216;You cannot post comment at this time, may be you need to enable referrers in your browser.&amp;#8217;) );
+}
+}
+add\_action(&amp;#8216;check\_comment\_flood&amp;#8217;, &amp;#8216;verify\_comment_referer&amp;#8217;);
+</code></pre><p>Do you like this? Did this work for you?</p>
 
                 </div>
             </div>

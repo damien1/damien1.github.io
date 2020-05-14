@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   
-  <meta name="description" content="Damien Saunders - marketing &amp; management consultant">
+  <meta name="description" content="Damien Saunders | management consultant">
   <meta name="author" content="Damien Saunders">
   <meta name="generator" content="Hugo 0.70.0" />
   
@@ -70,7 +70,7 @@
                     <div class="portfolio-meta">
                         <span>Tuesday, Dec 27, 2011</span>|
                         <span> Tags:
-                            Errors, How To, Issues, Memory, WordPress
+                            Errors, How To, Issues, Memory, FAQ
                         </span>
                     </div>
                 </div>
@@ -85,35 +85,31 @@
             <div class="col-md-12">
                 
                 <div class="post-img">
-                    <img class="img-fluid" alt="" src="">
+                    <img class="img-fluid" alt="" src="http://damien.co/images/WordPress.png">
                 </div>
                 
                 <div class="post-content">
                     <p>WordPress offers lots of plugins to choose from and if you add to many you will soon come across this Fatal Error message. You can easily fix the problem (and then go back to adding more plugins).</p>
-<p>This out of memory error doesn’t mean you have to go buy more RAM — just have to amend a line of text in a wordpress settings file.</p>
+<p>This out of memory error doesn&rsquo;t mean you have to go buy more RAM — just have to amend a line of text in a wordpress settings file.</p>
 <!-- raw HTML omitted -->
 <p> </p>
 <h2 id="fix-the-fatal-error-allowed-memory-size">Fix the Fatal Error: Allowed Memory Size</h2>
 <p>When you installed WordPress you either uploaded it using FTP yourself or went to an admin cpanel and installed it. Now you have to use FTP to connect and edit this file.</p>
-<p>Open your FTP client and login (get your FTP settings from your hosting provider if you don’t have this already)</p>
+<p>Open your FTP client and login (get your FTP settings from your hosting provider if you don&rsquo;t have this already)</p>
 <p>There are 3 accepted ways to increase memory …</p>
 <ol>
-<li>
-<p>Try adding this line to your wp-config.php file:<br>
-define(‘WP_MEMORY_LIMIT’, ’64M’);</p>
-</li>
-<li>
-<p>If you have access to your PHP.ini file, change the line in PHP.ini<br>
-If your line shows 32M try 64M:<br>
-memory_limit = 64M ; Maximum amount of memory a script may consume (64MB)</p>
-</li>
-<li>
-<p>If you don’t have access to PHP.ini try adding this to an .htaccess file:<br>
-php_value memory_limit 64M</p>
-</li>
+<li>Try adding this line to your wp-config.php file:</li>
 </ol>
-<p> </p>
-<p>If you want some ideas for extra plugins to now go install – you can start with my list of <!-- raw HTML omitted -->9 Plugins for WordPress <!-- raw HTML omitted --></p>
+<pre><code>define('WP\_MEMORY\_LIMIT', '64M');
+</code></pre><ol start="2">
+<li>If you have access to your PHP.ini file, change the line in PHP.ini
+If your line shows 32M try 64M:</li>
+</ol>
+<pre><code>memory_limit = 64M ; Maximum amount of memory a script may consume (64MB)
+</code></pre><ol start="3">
+<li>If you don&rsquo;t have access to PHP.ini try adding this to an .htaccess file:</li>
+</ol>
+<pre><code class="language-php\_value" data-lang="php\_value"></code></pre><p>If you want some ideas for extra plugins to now go install – you can start with my list of <!-- raw HTML omitted -->9 Plugins for WordPress <!-- raw HTML omitted --></p>
 
                 </div>
             </div>

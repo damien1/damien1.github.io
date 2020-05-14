@@ -4,14 +4,14 @@
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   
-  <meta name="description" content="Damien Saunders - marketing &amp; management consultant">
+  <meta name="description" content="Damien Saunders | management consultant">
   <meta name="author" content="Damien Saunders">
   <meta name="generator" content="Hugo 0.70.0" />
   
   <!-- Mobile Specific Metas -->
   <meta name="format-detection" content="telephone=no">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>HOW TO: Better way to Enable WordPress maintenance mode</title>
+  <title>How to enable WordPress maintenance mode</title>
   <link rel="icon" href="http://damien.co/images/favicon.ico">
 
   <!-- Twitter Bootstrs CSS -->
@@ -66,11 +66,11 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="block">
-                    <h2>HOW TO: Better way to Enable WordPress maintenance mode</h2>
+                    <h2>How to enable WordPress maintenance mode</h2>
                     <div class="portfolio-meta">
                         <span>Saturday, Jul 9, 2011</span>|
                         <span> Tags:
-                            Admin, Maintenance, Updates, user experience, WordPress
+                            Maintenance, Updates, user experience, WordPress
                         </span>
                     </div>
                 </div>
@@ -85,26 +85,32 @@
             <div class="col-md-12">
                 
                 <div class="post-img">
-                    <img class="img-fluid" alt="" src="">
+                    <img class="img-fluid" alt="" src="http://damien.co/images/WordPress.png">
                 </div>
                 
                 <div class="post-content">
-                    <p><strong>WordPress</strong> is a great tool. It has its own way of <em>managing updates</em> to your website – and will switch to <strong>maintenance mode</strong> automatically.  For the <em>best user experience</em> you should enable maintenance mode yourself.</p>
-<h2 id="how-to-enable-maintenance-mode-without-a-plugin-8211-method-1">How to Enable Maintenance Mode without a Plugin – method 1</h2>
+                    <p><strong>WordPress</strong> is a great tool. It has its own way of <em>managing updates</em> to your website - and will switch to <strong>maintenance mode</strong> automatically.  For the <em>best user experience</em> you should enable maintenance mode yourself.</p>
+<p><img src="../../wp-content/uploads/2011/05/maintenance.png" alt="WordPress Maintenance Page"></p>
+<h2 id="how-to-enable-maintenance-mode-without-a-plugin---method-1">How to Enable Maintenance Mode without a Plugin - method 1</h2>
 <p>Activating maintenance mode without a plugin is easy. First, open your FTP program and then navigate to the root folder of you WordPress install.</p>
-<p>Then create a new file and change the name to .maintenance – WordPress looks for this file and automatically maintenance mode has been turned on.</p>
+<p>Then create a new file and change the name to .maintenance - WordPress looks for this file and automatically maintenance mode has been turned on.</p>
 <p>Once you’re done, you just need to rename or delete the .maintenance file</p>
-<h2 id="enable-maintenance-mode--allow-access-to-wp-admin-8211-method-2">Enable Maintenance mode &amp; allow access to WP-Admin – method 2</h2>
+<h2 id="enable-maintenance-mode--allow-access-to-wp-admin---method-2">Enable Maintenance mode &amp; allow access to WP-Admin - method 2</h2>
 <p>The preferred option for maintenance is a bit more graceful. Any visitors to your site will see a short message and any logged in or Admin users will still have access.</p>
-<p>This is probably the best solution – giving the most control to you the web developer.</p>
+<p>This is probably the best solution - giving the most control to you the web developer.</p>
 <p>So this time … create a new file and paste this code:</p>
-<p>[php]</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<p>[/php]</p>
-<p>Then just save the file and rename it to  .maintenance as and when you need it.  You’ll have a great tool now that can protect your website while you tinker under the hood.</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+<pre><code class="language-<?php" data-lang="<?php">function is\_user\_logged_in() {
+$loggedin = false;
+foreach ( (array) $_COOKIE as $cookie =&gt; $value ) {
+if ( stristr($cookie, &amp;#8216;wordpress\_logged\_in_&amp;#8217;) )
+$loggedin = true;
+}
+return $loggedin;
+}
+if ( ! stristr($\_SERVER[&amp;#8216;REQUEST\_URI&amp;#8217;], &amp;#8216;/wp-admin&amp;#8217;) &amp;&amp; ! stristr($\_SERVER[&amp;#8216;REQUEST\_URI&amp;#8217;], &amp;#8216;/wp-login.php&amp;#8217;) &amp;&amp; ! is\_user\_logged_in() )
+$upgrading = time();
+?&gt;
+</code></pre><p>Then just save the file and rename it to  .maintenance as and when you need it.  You&rsquo;ll have a great tool now that can protect your website while you tinker under the hood.</p>
 
                 </div>
             </div>

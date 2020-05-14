@@ -4,14 +4,14 @@
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   
-  <meta name="description" content="Damien Saunders - marketing &amp; management consultant">
+  <meta name="description" content="Damien Saunders | management consultant">
   <meta name="author" content="Damien Saunders">
   <meta name="generator" content="Hugo 0.70.0" />
   
   <!-- Mobile Specific Metas -->
   <meta name="format-detection" content="telephone=no">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>WordPress Isotope &amp;#038; Filtering by Categories</title>
+  <title>WordPress Isotope - Filtering by Categories</title>
   <link rel="icon" href="http://damien.co/images/favicon.ico">
 
   <!-- Twitter Bootstrs CSS -->
@@ -66,7 +66,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="block">
-                    <h2>WordPress Isotope &amp;#038; Filtering by Categories</h2>
+                    <h2>WordPress Isotope - Filtering by Categories</h2>
                     <div class="portfolio-meta">
                         <span>Thursday, Jun 14, 2012</span>|
                         <span> Tags:
@@ -84,35 +84,47 @@
         <div class="row">
             <div class="col-md-12">
                 
+                <div class="post-img">
+                    <img class="img-fluid" alt="" src="http://damien.co/wp-content/projects/Banner-Isotopev1.png">
+                </div>
+                
                 <div class="post-content">
-                    <p><strong><!-- raw HTML omitted -->Isotope<!-- raw HTML omitted --></strong> is an ‘exquisite jQuery plugin for magical layouts’ which basically means it works wonders on <em>responsive layouts</em>. I’ve created a <strong><!-- raw HTML omitted -->WordPress plugin for Isotope<!-- raw HTML omitted --></strong> and just updated this to add <strong>Filtering by Categories</strong>.</p>
-<p><a href="http://wordpress.damien.co/files/2012/06/Screen-Shot-2012-06-14-at-15.46.57.jpg"><!-- raw HTML omitted --></a></p>
-<p><a href="http://wordpress.damien.co/files/2012/06/Screen-Shot-2012-06-14-at-15.47.06.jpg"><!-- raw HTML omitted --></a></p>
-<!-- raw HTML omitted -->
+                    <p><strong><!-- raw HTML omitted -->Isotope<!-- raw HTML omitted --></strong> is an ‘exquisite jQuery plugin for magical layouts’ which basically means it works wonders on <em>responsive layouts</em>. I’ve created a <strong>WordPress plugin for Isotope</strong> and just updated this to add <strong>Filtering by Categories</strong>.</p>
 <h2 id="how-do-you-add-filtering-for-isotope-to-wordpress">How do you add Filtering for Isotope to WordPress?</h2>
 <p>WordPress uses jQuery in no conflict mode. so you just need to modify the Isotope example code</p>
 <p>You’ll need to create your own custom WordPress template with its own WPQuery loop</p>
-<p>Above your Loop you’ll need to add your filter buttons like this<br>
-[php]</p>
-<!-- raw HTML omitted -->
-<p>And at the bottom of the page you need to add this script.<br>
-[php]</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<p>[/php]</p>
-<p>Here’s the original code for filtering (before I made it safe for WordPress)<br>
-[php]<br>
-// filter items when filter link is clicked<br>
-$(‘#filters a’).click(function(){<br>
-var selector = $(this).attr(‘data-filter’);<br>
-$container.isotope({ filter: selector });<br>
-return false;<br>
-});<br>
-[/php]</p>
-<p> </p>
-<h3 id="linkage">Linkage</h3>
+<p>Above your Loop you’ll need to add your filter buttons like this</p>
+<pre><code>&lt;ul id=&quot;options&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot; data-filter=&quot;*&quot; class=&quot;current&quot;&gt;show all&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot; data-filter=&quot;.web&quot; class=&quot;current&quot;&gt;web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot; data-filter=&quot;.mobile&quot; class=&quot;current&quot;&gt;mobile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</code></pre><p>And at the bottom of the page you need to add this script.</p>
+<pre><code>&lt;script type=&quot;text/javascript&quot;&gt;
+jQuery(document).ready(function(){
+var mycontainer = jQuery(&amp;#8216;#isocontent&amp;#8217;);
+mycontainer.isotope({
+itemSelector: &amp;#8216;.box&amp;#8217;
+});
+
+// filter items when filter link is clicked
+jQuery(&amp;#8216;#options a&amp;#8217;).click(function(){
+var selector = jQuery(this).attr(&amp;#8216;data-filter&amp;#8217;);
+mycontainer.isotope({ filter: selector });
+return false;
+});
+
+});
+&lt;/script&gt;
+</code></pre><p>Here’s the original code for filtering (before I made it safe for WordPress)</p>
+<pre><code>// filter items when filter link is clicked
+$(&amp;#8216;#filters a&amp;#8217;).click(function(){
+var selector = $(this).attr(&amp;#8216;data-filter&amp;#8217;);
+$container.isotope({ filter: selector });
+return false;
+});
+</code></pre><h3 id="linkage">Linkage</h3>
 <p><!-- raw HTML omitted -->Damien’s Bitbucket Project Repo<!-- raw HTML omitted --></p>
-<p> </p>
 <h3 id="notes-on-isotope-licensing">Notes on Isotope Licensing</h3>
 <p>Commercial use of Isotope requires purchase of one-time license fee per developer seat. Commercial use includes any application that makes you money — portfolio sites, premium templates, etc. Commercial licenses may be purchased at metafizzy.co.</p>
 

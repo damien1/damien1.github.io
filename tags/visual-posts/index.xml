@@ -6,20 +6,10 @@
     <description>Recent content in Visual Posts on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 11 Sep 2012 22:39:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Sep 2012 21:49:27 +0000</lastBuildDate>
     
 	<atom:link href="http://damien.co/tags/visual-posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Freetile Visual Post Layouts a plugin WordPress</title>
-      <link>http://damien.co/blog/2012-09-11-freetile-visual-post-layouts-a-plugin-wordpress/</link>
-      <pubDate>Tue, 11 Sep 2012 22:39:11 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2012-09-11-freetile-visual-post-layouts-a-plugin-wordpress/</guid>
-      <description>Today I’ve been reading up on Freetilea jQuery project by Yannisfor visual layouts similar to what I’ve done with Isotope Visual Post Layouts.
- Freetile is a plugin for jQuery that enables the organization of webpage content in an efficient, dynamic and responsive layout. It can be applied to a container element and it will attempt to arrange it’s children in a layout that makes optimal use of screen space, by “packing” them in a tight arrangement.</description>
-    </item>
     
     <item>
       <title>Isotope Visual Post Layouts for WordPress version 0.31 is out</title>

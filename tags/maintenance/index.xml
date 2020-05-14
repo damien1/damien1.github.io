@@ -29,28 +29,18 @@ Damien</description>
       <pubDate>Mon, 26 Dec 2011 13:00:15 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-12-26-custom-maintenance-page-for-wordpress/</guid>
-      <description>WordPress is a great tool. It has its own way of managing updates to your website – and will switch to maintenance mode automatically. Sometimes this is called an HTTP Status 503 Service Unavailable.
+      <description>[WordPress] is a great tool. It has its own way of managing updates to your website – and will switch to maintenance mode automatically. Sometimes this is called an HTTP Status 503 Service Unavailable.
 For the best user experience you can setup your own custom maintenance page – where you can show your brand, making it clear that this is planned maintenance and give your visitor some where else to go.</description>
     </item>
     
     <item>
-      <title>HOW TO: Better way to Enable WordPress maintenance mode</title>
-      <link>http://damien.co/wordpress/how-to-better-way-to-enable-wordpress-maintenance-mode-4433/</link>
-      <pubDate>Sat, 09 Jul 2011 18:00:58 +0000</pubDate>
-      
-      <guid>http://damien.co/wordpress/how-to-better-way-to-enable-wordpress-maintenance-mode-4433/</guid>
-      <description>WordPress is a great tool. It has its own way of managing updates to your website – and will switch to maintenance mode automatically. For the best user experience you should enable maintenance mode yourself.
-How to Enable Maintenance Mode without a Plugin – method 1 Activating maintenance mode without a plugin is easy. First, open your FTP program and then navigate to the root folder of you WordPress install.</description>
-    </item>
-    
-    <item>
-      <title>HOW TO: Better way to Enable WordPress maintenance mode</title>
+      <title>How to enable WordPress maintenance mode</title>
       <link>http://damien.co/blog/2011-07-09-how-to-enable-wordpress-maintenance-mode-2/</link>
       <pubDate>Sat, 09 Jul 2011 17:00:58 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-07-09-how-to-enable-wordpress-maintenance-mode-2/</guid>
-      <description>WordPress is a great tool. It has its own way of managing updates to your website – and will switch to maintenance mode automatically. For the best user experience you should enable maintenance mode yourself.
-How to Enable Maintenance Mode without a Plugin – method 1 Activating maintenance mode without a plugin is easy. First, open your FTP program and then navigate to the root folder of you WordPress install.</description>
+      <description>WordPress is a great tool. It has its own way of managing updates to your website - and will switch to maintenance mode automatically. For the best user experience you should enable maintenance mode yourself.
+How to Enable Maintenance Mode without a Plugin - method 1 Activating maintenance mode without a plugin is easy. First, open your FTP program and then navigate to the root folder of you WordPress install.</description>
     </item>
     
     <item>

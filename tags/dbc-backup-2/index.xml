@@ -74,25 +74,35 @@ TESTED - on WordPress 3.6</description>
     </item>
     
     <item>
+      <title>Open Letter to Users of DBC Backup (the old plugin)</title>
+      <link>http://damien.co/blog/2012-12-03-open-letter-to-users-of-dbc-backup-the-old-plugin/</link>
+      <pubDate>Mon, 03 Dec 2012 22:09:14 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2012-12-03-open-letter-to-users-of-dbc-backup-the-old-plugin/</guid>
+      <description>So I noticed recently that Google has an index of everyone who has installed my plugin but hasn’t locked down their website. Which led me to wonder ‘If I could find these insecure sites via Google, should I warn them?’.
+And so I did …
+ I’m a WordPress developer in the UK and I look after a plugin called DBC-Backup-2.
+I’ve always loved DBC-Backup ( a plugin you are are using on your website ), so when I found out that no one was maintaining it, I decided to ‘adopt’ DBC-Backup.</description>
+    </item>
+    
+    <item>
       <title>DBC Backup 2 updated to 2.1.1 it&amp;#8217;s a little bit harder Update Now</title>
       <link>http://damien.co/blog/2012-10-25-dbc-backup-2-updated-to-2-1-1-its-a-little-bit-harder-update-now/</link>
       <pubDate>Thu, 25 Oct 2012 23:09:44 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-10-25-dbc-backup-2-updated-to-2-1-1-its-a-little-bit-harder-update-now/</guid>
       <description>A new version of DBC Backup 2 has been released. I’m doing this to make life just a little bit harder. You should update to v2.1.1 as soon as possible please.
-What’s in this release? This release looks to address a common security issue with WordPress and browsing folders like /wp-content etc.
-I also recommend all users of my plugin and WordPress to check that their .htaccess file includes this 1 line (well 2 lines):</description>
+What’s in this release? This release looks to address a common security issue with WordPress and browsing folders like /wp-content etc. I also recommend all users of my plugin and WordPress to check that their .htaccess file includes this 1 line (well 2 lines):</description>
     </item>
     
     <item>
-      <title>Thank you &amp;#8230; 2000&#43; downloads of DBC Backup 2 for WordPress</title>
+      <title>Thank you 2000&#43; downloads of DBC Backup 2 for WordPress</title>
       <link>http://damien.co/blog/2012-09-17-thank-you-2000-downloads-of-dbc-backup-2-for-wordpress/</link>
       <pubDate>Mon, 17 Sep 2012 09:36:21 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-09-17-thank-you-2000-downloads-of-dbc-backup-2-for-wordpress/</guid>
       <description>I want to say ‘Thank You’ to all of you who have downloaded and installed DBC Backup 2. Over the weekend, plugin downloads rose above 2000.
-DBC Backup 2 makes it easy to safely backup your WordPress SQL database to a folder on your web server. It’s a unique solution which also includes regular, scheduled backups so that you can have a daily, weekly or monthly backup.
-If you like DBC Backup 2 – please can you rate it 5 Stars on WordPress.</description>
+DBC Backup 2 makes it easy to safely backup your WordPress SQL database to a folder on your web server. It’s a unique solution which also includes regular, scheduled backups so that you can have a daily, weekly or monthly backup.</description>
     </item>
     
     <item>
@@ -112,9 +122,8 @@ Database backup and security should be a critical issue for Marketing Agencies, 
       <pubDate>Fri, 27 Jul 2012 16:30:12 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-07-27-dbc-backup-2-wordpress-database-backup-here-comes-version-2-1/</guid>
-      <description>DBC Backup 2for WordPress database backup has just been updated. The new version improves the user experience for managing the plugin as well as fixing minor bugs.
-What is in the new release? 
-The new release includes:
+      <description>DBC Backup 2 for WordPress database backup has just been updated. The new version improves the user experience for managing the plugin as well as fixing minor bugs.
+What is in the new release? The new release includes:
  A new admin page layout consistent with other WordPress plugins moves the link for DBC Backup to the Tools menu, again consistent with other plugins Fixes a problem where the user options where not deleted if the plugin was deleted Addresses a problem where users forgot to check the Active for the backup schedule Includes new options for social media sharing and getting help &amp;amp; support.</description>
     </item>
     
@@ -126,6 +135,17 @@ The new release includes:
       <guid>http://damien.co/blog/2012-07-21-dbc-backup-2-sneak-peak-of-the-new-version/</guid>
       <description>I wanted to give you a sneak peak at DBC Backup 2 and changes which are coming in the next version. DBC Backup 2 is a simple and easy way to safely backup your WordPress SQL database and store it on your webserver.
 DBC Backup 2 – purpose and niche I only recently ‘adopted’ this plugin for my own … and as much as I’d like to add features I don’t really want to change anything about it.</description>
+    </item>
+    
+    <item>
+      <title>WordPress database backup plugin launched - DBC Backup 2</title>
+      <link>http://damien.co/blog/2012-07-11-dbc-backup-new-plugin-forked-from-the-old/</link>
+      <pubDate>Wed, 11 Jul 2012 14:17:07 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2012-07-11-dbc-backup-new-plugin-forked-from-the-old/</guid>
+      <description>Announcing DBC Backup 2, a WordPress plugin to backup your WordPress SQL database is now available from WordPress Plugins.
+DBC Backup 2 creates a SQL export and saves a compressed file to your web host server. Many web hosts provide large amounts of free space for storing your data so it makes sense to use this free space to safely store your database.
+Key Features  Save time – set a Batch Job to run daily, weekly, monthly User Control – User defined path to store backups Compact – Compression of SQL exports (Gzip or Tar) saves space Safe – the export folder is ‘protected’ from prying eyes or direct downloads Save money – Uses web host to store export backups  Revival of DBC Backup The plugin is a revival of a much older plugin that I have used for a couple of years now.</description>
     </item>
     
   </channel>

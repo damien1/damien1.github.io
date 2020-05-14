@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   
-  <meta name="description" content="Damien Saunders - marketing &amp; management consultant">
+  <meta name="description" content="Damien Saunders | management consultant">
   <meta name="author" content="Damien Saunders">
   <meta name="generator" content="Hugo 0.70.0" />
   
@@ -70,7 +70,7 @@
                     <div class="portfolio-meta">
                         <span>Monday, Dec 26, 2011</span>|
                         <span> Tags:
-                            How To, Maintenance, WordPress
+                            Maintenance
                         </span>
                     </div>
                 </div>
@@ -84,41 +84,44 @@
         <div class="row">
             <div class="col-md-12">
                 
+                <div class="post-img">
+                    <img class="img-fluid" alt="" src="http://damien.co/images/WordPress.png">
+                </div>
+                
                 <div class="post-content">
-                    <p><strong><a href="/tag/WordPress">WordPress</a></strong> is a great tool. It has its own way of <em>managing updates</em> to your website – and will switch to <strong>maintenance mode</strong> automatically.  Sometimes this is called an HTTP Status 503 Service Unavailable.</p>
+                    <p><strong>[WordPress]</strong> is a great tool. It has its own way of <em>managing updates</em> to your website – and will switch to <strong>maintenance mode</strong> automatically.  Sometimes this is called an HTTP Status 503 Service Unavailable.</p>
 <p>For the <em>best user experience</em> you can setup your own custom maintenance page – where you can show your brand, making it clear that this is planned maintenance and give your visitor some where else to go.</p>
-<p>Here’s my current <a href="/wp-content/maintenance.php">maintenance mode page</a> click to see it in action.</p>
-<p><!-- raw HTML omitted --></p>
+<p><img src="../../wp-content/uploads/2011/12/maintenance-php.jpg" alt="Maintenance PHP"></p>
 <h2 id="get-some-control-8211-enable-wordpress-maintenance-mode-the-right-way">Get some control – enable WordPress Maintenance Mode the right way.</h2>
 <p>Earlier this year I wrote about <a href="/2011/07/how-to-enable-wordpress-maintenance-mode/">enabling WordPress Maintenance</a> mode and how you can customise this yourself.</p>
 <h2 id="create-your-own-maintenance-page">Create your own Maintenance Page</h2>
 <p>As you can already tell – a maintenance page is just a PHP file with HTML. Start your favourite editor (I use Coda) and create a file called maintenance.php.</p>
-<p><!-- raw HTML omitted --></p>
 <p>You need to have a bit of code at the top and the bottom of the page like this …</p>
-<p>[php toolbar=”true” wraplines=”true”]</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<p>So this top part does all the smart work for your server and WordPress to generate an Error 503 page.</p>
+<pre><code>&lt;?php
+$protocol = $\_SERVER[&quot;SERVER\_PROTOCOL&quot;];
+if ( &amp;#8216;HTTP/1.1&amp;#8217; != $protocol &amp;&amp; &amp;#8216;HTTP/1.0&amp;#8217; != $protocol )
+$protocol = &amp;#8216;HTTP/1.0&amp;#8217;;
+header( &quot;$protocol 503 Service Unavailable&quot;, true, 503 );
+header( &amp;#8216;Content-Type: text/html; charset=utf-8&amp;#8217; );
+?&gt;
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+&lt;head&gt;
+</code></pre><p>So this top part does all the smart work for your server and WordPress to generate an Error 503 page.</p>
 <p>After that … you can then add some HTML …</p>
-<p>[php toolbar=”true” wraplines=”true”]</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<p>[/php]</p>
-<p>At the end of the document after you close the HTML make sure you have added</p>
-<p>[php]</p>
-<!-- raw HTML omitted -->
-<p>[/php]</p>
-<p>Now save your maintenance.php file and upload it to the wp-content directory.</p>
+<pre><code>&lt;title&gt;503 Service Temporarily Unavailable&lt;/title&gt;
+
+&lt;?php die(); ?&gt;
+</code></pre><p>At the end of the document after you close the HTML make sure you have added</p>
+<pre><code>&lt;?php die(); ?&gt;
+</code></pre><p>Now save your maintenance.php file and upload it to the wp-content directory.</p>
 <h2 id="top-tips-for-maintenance-pages">Top tips for Maintenance Pages</h2>
 <ul>
 <li>Embed your CSS styles in the HTML</li>
 <li>Link to your social networks (Give visitors a destination)</li>
 <li>Link to your mail list subscribe form (Promote deeper engagement)</li>
-<li>Make your 503 Http status page cute</li>
+<li>Make your 503 Http status page visual</li>
 </ul>
-<p><a href="http://www.flickr.com/photos/girliemac/6540643319/" title="503 - Service Unavailable by GirlieMac, on Flickr"><!-- raw HTML omitted --></a></p>
 <p>If you’d like some help to set this up in WordPress, please consider hiring me and I can add this to your site.</p>
 
                 </div>

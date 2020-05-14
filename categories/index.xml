@@ -93,6 +93,33 @@
     </item>
     
     <item>
+      <title>Home Networking</title>
+      <link>http://damien.co/categories/home-networking/</link>
+      <pubDate>Sat, 18 Jan 2014 23:36:48 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/home-networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plugin</title>
+      <link>http://damien.co/categories/plugin/</link>
+      <pubDate>Wed, 01 Jan 2014 11:30:48 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/plugin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plugins</title>
+      <link>http://damien.co/categories/plugins/</link>
+      <pubDate>Wed, 01 Jan 2014 11:30:48 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/plugins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Marketing</title>
       <link>http://damien.co/categories/marketing/</link>
       <pubDate>Sat, 14 Dec 2013 22:46:35 +0000</pubDate>
@@ -102,20 +129,20 @@
     </item>
     
     <item>
+      <title>Development</title>
+      <link>http://damien.co/categories/development/</link>
+      <pubDate>Thu, 26 Sep 2013 12:05:33 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FAQ</title>
       <link>http://damien.co/categories/faq/</link>
       <pubDate>Mon, 13 May 2013 21:18:40 +0000</pubDate>
       
       <guid>http://damien.co/categories/faq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>http://damien.co/categories/development/</link>
-      <pubDate>Sun, 12 May 2013 13:42:39 +0000</pubDate>
-      
-      <guid>http://damien.co/categories/development/</guid>
       <description></description>
     </item>
     
@@ -147,20 +174,11 @@
     </item>
     
     <item>
-      <title>Theatre</title>
-      <link>http://damien.co/categories/theatre/</link>
+      <title>Culture</title>
+      <link>http://damien.co/categories/culture/</link>
       <pubDate>Wed, 12 Dec 2012 10:11:46 +0000</pubDate>
       
-      <guid>http://damien.co/categories/theatre/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Things I attended</title>
-      <link>http://damien.co/categories/things-i-attended/</link>
-      <pubDate>Wed, 12 Dec 2012 10:11:46 +0000</pubDate>
-      
-      <guid>http://damien.co/categories/things-i-attended/</guid>
+      <guid>http://damien.co/categories/culture/</guid>
       <description></description>
     </item>
     
@@ -174,20 +192,20 @@
     </item>
     
     <item>
-      <title>FAQ&amp;#039;s</title>
-      <link>http://damien.co/categories/faq#039s/</link>
-      <pubDate>Mon, 08 Oct 2012 14:56:41 +0000</pubDate>
-      
-      <guid>http://damien.co/categories/faq#039s/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Startup</title>
       <link>http://damien.co/categories/startup/</link>
       <pubDate>Mon, 10 Sep 2012 14:06:15 +0000</pubDate>
       
       <guid>http://damien.co/categories/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile</title>
+      <link>http://damien.co/categories/mobile/</link>
+      <pubDate>Mon, 03 Sep 2012 13:21:09 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/mobile/</guid>
       <description></description>
     </item>
     
@@ -246,20 +264,20 @@
     </item>
     
     <item>
-      <title>Back End Server</title>
-      <link>http://damien.co/categories/back-end-server/</link>
-      <pubDate>Sun, 10 Jun 2012 16:12:48 +0000</pubDate>
-      
-      <guid>http://damien.co/categories/back-end-server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Axure</title>
       <link>http://damien.co/categories/axure/</link>
       <pubDate>Mon, 28 May 2012 16:07:55 +0000</pubDate>
       
       <guid>http://damien.co/categories/axure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAQ&amp;#039;s</title>
+      <link>http://damien.co/categories/faq#039s/</link>
+      <pubDate>Fri, 27 Apr 2012 15:33:20 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/faq#039s/</guid>
       <description></description>
     </item>
     
@@ -318,15 +336,6 @@
     </item>
     
     <item>
-      <title>Customisation</title>
-      <link>http://damien.co/categories/customisation/</link>
-      <pubDate>Sun, 10 Jul 2011 16:31:32 +0000</pubDate>
-      
-      <guid>http://damien.co/categories/customisation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>video</title>
       <link>http://damien.co/categories/video/</link>
       <pubDate>Mon, 30 May 2011 11:22:50 +0000</pubDate>
@@ -354,11 +363,38 @@
     </item>
     
     <item>
+      <title>Software</title>
+      <link>http://damien.co/categories/software/</link>
+      <pubDate>Mon, 24 Jan 2011 09:04:47 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Top Posts</title>
       <link>http://damien.co/categories/top-posts/</link>
       <pubDate>Sat, 01 Jan 2011 10:00:52 +0000</pubDate>
       
       <guid>http://damien.co/categories/top-posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>London Startup Weekend</title>
+      <link>http://damien.co/categories/london-startup-weekend/</link>
+      <pubDate>Sun, 13 Jun 2010 18:18:10 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/london-startup-weekend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content and Product</title>
+      <link>http://damien.co/categories/content-and-product/</link>
+      <pubDate>Fri, 16 Dec 2005 10:00:00 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/content-and-product/</guid>
       <description></description>
     </item>
     
@@ -377,6 +413,15 @@
       <pubDate>Sun, 01 Aug 2004 17:20:52 +0000</pubDate>
       
       <guid>http://damien.co/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI/CD</title>
+      <link>http://damien.co/categories/ci/cd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/ci/cd/</guid>
       <description></description>
     </item>
     

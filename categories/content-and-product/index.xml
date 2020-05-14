@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content and Product on Damien Saunders</title>
+    <link>http://damien.co/categories/content-and-product/</link>
+    <description>Recent content in Content and Product on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 16 Dec 2005 10:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/categories/content-and-product/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Whats the problem with depth of catalogue?</title>
+      <link>http://damien.co/blog/2005-12-16-whats-the-problem-with-depth-of-catalogue/</link>
+      <pubDate>Fri, 16 Dec 2005 10:00:00 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2005-12-16-whats-the-problem-with-depth-of-catalogue/</guid>
+      <description>It’s like trying to sell ice creams to eskimos – do you go for depth and variety of your content catalogue or stick to the sickly seasonal or monthly favourites … you can be damned either way.
+What I’m thinking is that most mobile content sales via WAP were dominated by the operator portals, but you invariably find that top downloads page will have the Star Wars March, Axel F and something from Guns n Roses (AC/DC).</description>
+    </item>
+    
+  </channel>
+</rss>

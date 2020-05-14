@@ -4,14 +4,14 @@
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   
-  <meta name="description" content="Damien Saunders - marketing &amp; management consultant">
+  <meta name="description" content="Damien Saunders | management consultant">
   <meta name="author" content="Damien Saunders">
   <meta name="generator" content="Hugo 0.70.0" />
   
   <!-- Mobile Specific Metas -->
   <meta name="format-detection" content="telephone=no">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Using Isotope &amp;#038; masonry with WordPress</title>
+  <title>Using Isotope and masonry with WordPress</title>
   <link rel="icon" href="http://damien.co/images/favicon.ico">
 
   <!-- Twitter Bootstrs CSS -->
@@ -66,7 +66,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="block">
-                    <h2>Using Isotope &amp;#038; masonry with WordPress</h2>
+                    <h2>Using Isotope and masonry with WordPress</h2>
                     <div class="portfolio-meta">
                         <span>Saturday, Apr 7, 2012</span>|
                         <span> Tags:
@@ -84,21 +84,37 @@
         <div class="row">
             <div class="col-md-12">
                 
+                <div class="post-img">
+                    <img class="img-fluid" alt="" src="http://damien.co/wp-content/projects/Banner-Isotopev1.png">
+                </div>
+                
                 <div class="post-content">
                     <p>So I have been using Isotope for sometime on my website … I was recently asked why I had stopped using Isotope at which point I discovered that it had stopped working when I changed my theme.</p>
-<!-- raw HTML omitted -->
 <h2 id="using-jquery-instead-of--for-javascript">Using jQuery instead of $ for javascript</h2>
-<p>The basic script for isotope is …</p>
-<p>[php]</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<p>[/php]</p>
-<p>However, WordPress reserves the use of $ so you need to change your script to</p>
-<p>[php]</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<p>[/php]</p>
+<p>The basic script for isotope is &hellip;</p>
+<pre><code>&lt;script type=&amp;quot;text/javascript&amp;quot;&gt;
+$(function(){
 
+var $container = $(&amp;#8216;#container&amp;#8217;);
+
+$container.isotope({
+itemSelector: &amp;#8216;.box&amp;#8217;
+});
+
+});
+&lt;/script&gt;
+</code></pre><p>However, WordPress reserves the use of $ so you need to change your script to</p>
+<pre><code>&lt;script type=&amp;quot;text/javascript&amp;quot;&gt;
+jQuery(document).ready(function() {
+
+var mycontainer = jQuery(&amp;#8216;#isocontent&amp;#8217;);
+
+mycontainer.isotope({
+itemSelector: &amp;#8216;.box&amp;#8217;
+});
+});
+&lt;/script&gt;
+</code></pre>
                 </div>
             </div>
         </div>

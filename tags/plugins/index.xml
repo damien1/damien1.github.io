@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>plugins on Damien Saunders</title>
+    <title>Plugins on Damien Saunders</title>
     <link>http://damien.co/tags/plugins/</link>
-    <description>Recent content in plugins on Damien Saunders</description>
+    <description>Recent content in Plugins on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 22 Apr 2013 12:11:05 +0000</lastBuildDate>
@@ -19,8 +19,7 @@
       <guid>http://damien.co/blog/2013-04-22-teaser-visual-layouts-pro-freetile/</guid>
       <description>Development has finished on my next plugin … Visual Layouts Pro (Freetile) plugin.
 This takes the Freetile jQuery plugin and mashes it up with Filtrify and Twitter Bootstrap to give you an awesome plugin for a responsive, visual layout …
-
- Key Features of Visual Layouts Pro  Tags &amp;amp; Category based filters Show / Hide content Show Excerpt Works on posts, pages Includes Twitter Bootstrap with powerful options for CSS and web design Pagination  </description>
+Key Features of Visual Layouts Pro  Tags &amp;amp; Category based filters Show / Hide content Show Excerpt Works on posts, pages Includes Twitter Bootstrap with powerful options for CSS and web design Pagination  </description>
     </item>
     
     <item>
@@ -50,7 +49,7 @@ I’ve discovered that Jetpack is a feature rich collection of plugins but I ser
       <guid>http://damien.co/blog/2013-04-09-visual-layouts-pro/</guid>
       <description>I’ve just finished work on the first release of my WordPress plugin Visual Layouts Pro — this features the awesome Freetile jQuery plugin for a responsive visual grid layout.
 Visual Layouts Pro, like my other plugins, offers the best features for creating a grid layout framework for your WordPress site – without needing to change your theme!
-  Key Features Visual Layouts WordPress plugin  Uses Twitter Bootstrap CSS and grid framework Shortcode for including the excerpt Pagination Works on any post, page or custom post type Options to include featured images – image and text, or text only.</description>
+Key Features Visual Layouts WordPress plugin  Uses Twitter Bootstrap CSS and grid framework Shortcode for including the excerpt Pagination Works on any post, page or custom post type Options to include featured images – image and text, or text only.</description>
     </item>
     
     <item>
@@ -85,7 +84,7 @@ The best plugin for WordPress that handles any mobile device is easily WPtouch 
     </item>
     
     <item>
-      <title>19 of the best WordPress Plugins to use with your Multisite Network (or What Plugins I&amp;#8217;m Using)</title>
+      <title>19 of the best WordPress Plugins to use with your Multisite Network (or What Plugins Im Using)</title>
       <link>http://damien.co/blog/2012-06-15-19-best-wordpress-plugins-use-multisite-network-or-what-plugins-im-using/</link>
       <pubDate>Fri, 15 Jun 2012 16:37:59 +0000</pubDate>
       
@@ -102,37 +101,6 @@ WordPress is one of the worlds’ most popular website and blogging tools and it
       <guid>http://damien.co/blog/2011-12-28-wordpress-top-9-plugins-for-any-new-install-2/</guid>
       <description>WordPress is one of the World’s most used web and blog tools – it has 1000’s of plugins that add functionality to your website. Here then is a short list of essential WordPress Plugins from WordPress.org to get you started. The list covers SEO, Spam, Analytics and helps you get started with Google SERP.
 Akismet Akismet is included in every installation of WordPress, so that makes it one of the alltime popular plugins.</description>
-    </item>
-    
-    <item>
-      <title>Make an impact using integrated marketing. Use these best WordPress plugins</title>
-      <link>http://damien.co/blog/2011-10-31-make-an-impact-using-integrated-marketing-use-these-best-wordpress-plugins/</link>
-      <pubDate>Mon, 31 Oct 2011 11:00:36 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2011-10-31-make-an-impact-using-integrated-marketing-use-these-best-wordpress-plugins/</guid>
-      <description>Integrated marketing with WordPress is easy – you only need a few plugins to have a powerful website at the heart of your digital marketing.
-WordPress plugins there are thousands to choose from and they are so easy to install. I tend to be cutting edge and try new plugins a lot , but here are some of the best plugins to improve WordPress for social media and digital marketing.</description>
-    </item>
-    
-    <item>
-      <title>HOW TO recover from the most common WordPress website killers</title>
-      <link>http://damien.co/wordpress/how-to-recover-from-the-most-common-wordpress-website-killers-2-4432/</link>
-      <pubDate>Sun, 10 Jul 2011 16:31:32 +0000</pubDate>
-      
-      <guid>http://damien.co/wordpress/how-to-recover-from-the-most-common-wordpress-website-killers-2-4432/</guid>
-      <description>It’s easy to recover from the 2 most common errors that kill your WordPress website. Fix the issue in 3 simple steps.When something goes wrong WordPress the most common cause is a plugin conflict or a problem with your theme. There’s nothing worse then feeling you’ve been locked out from your own website and can’t get to the wp-admin section to login.
-Today, WordPress is one of the world’s best solutions for blogging and website.</description>
-    </item>
-    
-    <item>
-      <title>HOW TO recover from the most common WordPress website killers</title>
-      <link>http://damien.co/blog/2011-07-10-how-to-recover-from-the-most-common-wordpress-website-killers/</link>
-      <pubDate>Sun, 10 Jul 2011 15:31:32 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2011-07-10-how-to-recover-from-the-most-common-wordpress-website-killers/</guid>
-      <description>It’s easy to recover from the 2 most common errors that kill your WordPress website. Fix the issue in 3 simple steps.
-When something goes wrong WordPress the most common cause is a plugin conflict or a problem with your theme. There’s nothing worse then feeling you’ve been locked out from your own website and can’t get to the wp-admin section to login.
-Today, WordPress is one of the world’s best solutions for blogging and website.</description>
     </item>
     
     <item>
@@ -174,6 +142,15 @@ The point here is that writing original content can be easy – but your great w
       <description>Social Media Marketing plugins for WordPress – you only need a few to have a powerful integrated marketing website.
 WordPress plugins there are millions(?) to choose from and they are so easy to install. I tend to be cutting edge and change my plugins often, but here are some of the best plugins to improve WordPress for social media and digital marketing.
 The point here is that writing original content can be easy – but your great works need to be found.</description>
+    </item>
+    
+    <item>
+      <title>HOW TO export posts from WordPress to Word Doc via PDF in Mac OSx</title>
+      <link>http://damien.co/blog/2010-07-25-how-to-export-posts-from-wordpress-to-word-doc-via-pdf-in-mac-osx/</link>
+      <pubDate>Sun, 25 Jul 2010 18:00:30 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2010-07-25-how-to-export-posts-from-wordpress-to-word-doc-via-pdf-in-mac-osx/</guid>
+      <description>WordPress is one of the best end to end solutions for building a website and it has a large selection of themes, plugins and tools to make it more than just another blog. I recommend WordPress at the start of any project – just because it typically requires less management involvement or decisions from the IT or Tech teams to get started with.Having spent a lot more time writing about Social Media lately, I wanted to collect these posts into an editable collection (maybe I should have started by writing all my posts in word you might say).</description>
     </item>
     
   </channel>
