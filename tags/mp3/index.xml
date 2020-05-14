@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mp3 on Damien Saunders</title>
-    <link>https://damien.co/tags/mp3/</link>
+    <link>http://damien.co/tags/mp3/</link>
     <description>Recent content in mp3 on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 26 Oct 2009 15:05:39 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/mp3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/mp3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MacOSx Converts: XNJB get your Creative audio player to charge on a Mac</title>
-      <link>https://damien.co/general/macosx-converts-xnjb-get-your-creative-audio-player-to-charge-on-a-mac-331/</link>
+      <link>http://damien.co/general/macosx-converts-xnjb-get-your-creative-audio-player-to-charge-on-a-mac-331/</link>
       <pubDate>Mon, 26 Oct 2009 15:05:39 +0000</pubDate>
       
-      <guid>https://damien.co/general/macosx-converts-xnjb-get-your-creative-audio-player-to-charge-on-a-mac-331/</guid>
+      <guid>http://damien.co/general/macosx-converts-xnjb-get-your-creative-audio-player-to-charge-on-a-mac-331/</guid>
       <description>XNJB: is the app of the day for people who have used MP3 players from Creative technology. Moving to a Mac I was at a lose as to how to copy music to my Creative Zen and how to charge my Creative on my Mac.
 This is where XNJB comes to the rescue and lets you copy music or charge your Creative while running Mac OSX 10.6 Snow Leopard.
 XNJB should be bundled with Creative Media Players … after all these years and all the marketing hype around the Mac not having official support for Mac is sometimes a death knell or ‘dirge’ for any brand.</description>
@@ -24,30 +24,30 @@ XNJB should be bundled with Creative Media Players … after all these years and
     
     <item>
       <title>Comparison of Digital Music Retailers in Europe</title>
-      <link>https://damien.co/general/comparison-of-digital-music-retailers-in-europe-246/</link>
+      <link>http://damien.co/general/comparison-of-digital-music-retailers-in-europe-246/</link>
       <pubDate>Tue, 11 Aug 2009 17:28:04 +0000</pubDate>
       
-      <guid>https://damien.co/general/comparison-of-digital-music-retailers-in-europe-246/</guid>
+      <guid>http://damien.co/general/comparison-of-digital-music-retailers-in-europe-246/</guid>
       <description>Comment: There are a number of digital music retailers working around Europe, here is Damien Saunders’ summary of a few of the bigger services (catalogue greater than 1 million tracks).
 &amp;lt;td width=&amp;quot;75&amp;quot;&amp;gt; Countries &amp;lt;/td&amp;gt; &amp;lt;td width=&amp;quot;75&amp;quot;&amp;gt; MP3 to buy &amp;lt;/td&amp;gt; &amp;lt;td width=&amp;quot;79&amp;quot;&amp;gt; Subscription &amp;lt;/td&amp;gt; &amp;lt;td width=&amp;quot;75&amp;quot;&amp;gt; Catalogue Size &amp;lt;/td&amp;gt; &amp;lt;td width=&amp;quot;75&amp;quot;&amp;gt; 3rd Party API &amp;lt;/td&amp;gt; &amp;lt;td width=&amp;quot;75&amp;quot;&amp;gt; PC Software &amp;lt;/td&amp;gt;  &amp;lt;td width=&amp;quot;75&amp;quot;&amp;gt; UK &amp;lt;/td&amp;gt; &amp;lt;td width=&amp;quot;75&amp;quot;&amp;gt; Yes &amp;lt;/td&amp;gt; &amp;lt;td width=&amp;quot;79&amp;quot;&amp;gt; No &amp;lt;/td&amp;gt; &amp;lt;td width=&amp;quot;75&amp;quot;&amp;gt; 3.</description>
     </item>
     
     <item>
       <title>Datz makes downloading unlimited DRM free music hard</title>
-      <link>https://damien.co/general/datz-makes-downloading-unlimited-drm-free-music-hard-110/</link>
+      <link>http://damien.co/general/datz-makes-downloading-unlimited-drm-free-music-hard-110/</link>
       <pubDate>Fri, 31 Oct 2008 10:36:36 +0000</pubDate>
       
-      <guid>https://damien.co/general/datz-makes-downloading-unlimited-drm-free-music-hard-110/</guid>
+      <guid>http://damien.co/general/datz-makes-downloading-unlimited-drm-free-music-hard-110/</guid>
       <description>Comment: Datz music lounge has come out for Xmas in the UK with a £99.99 unlimited music DRM free offer. So whats the hooks … plenty even before you get going.
 So Datz announced unlimited DRM Free music downloads (legally) this week … the service has an upfront fee of £99.99 – probably too steep for most people to consider – but maybe Sainsburys thinks it will be a last minute stocking stuffer.</description>
     </item>
     
     <item>
       <title>Ill move to Linux thanks Amarok</title>
-      <link>https://damien.co/blog/2008-08-14-ill-move-to-linux-thanks-amarok/</link>
+      <link>http://damien.co/blog/2008-08-14-ill-move-to-linux-thanks-amarok/</link>
       <pubDate>Thu, 14 Aug 2008 09:06:03 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2008-08-14-ill-move-to-linux-thanks-amarok/</guid>
+      <guid>http://damien.co/blog/2008-08-14-ill-move-to-linux-thanks-amarok/</guid>
       <description>Damien says, one of the biggest problems with Linux has always been a lack of strength in its media players. Amarok v2 is now in the pipe and its looking great.
 The Amarok 1 client which most Linux users had to use (it was the best option) really lacked in its options for managing artists, albums, compilations as it relied on a database driven columns view. I never found that easy to use.</description>
     </item>

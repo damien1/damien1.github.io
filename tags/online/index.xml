@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Online on Damien Saunders</title>
-    <link>https://damien.co/tags/online/</link>
+    <link>http://damien.co/tags/online/</link>
     <description>Recent content in Online on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 31 May 2011 11:24:33 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/online/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/online/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learning to use Google Adsense</title>
-      <link>https://damien.co/blog/learning-to-use-google-adsense-3510/</link>
+      <link>http://damien.co/blog/learning-to-use-google-adsense-3510/</link>
       <pubDate>Tue, 31 May 2011 11:24:33 +0000</pubDate>
       
-      <guid>https://damien.co/blog/learning-to-use-google-adsense-3510/</guid>
+      <guid>http://damien.co/blog/learning-to-use-google-adsense-3510/</guid>
       <description>Hi … if you’re looking at this in your RSS feed reader will now notice at the bottom of each post there is now a Google Adsense ad.
  Last week I turned on Google Adsense – initially for my RSS feed. The reason I’m doing this is to learn and test different ad formats and learn how to manage and use Google Adsense.
 I’ll be better able to advise you on your social media and digital marketing strategy by using products like Google Adsense.</description>

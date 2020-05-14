@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Us on Damien Saunders</title>
-    <link>https://damien.co/about/</link>
+    <link>http://damien.co/about/</link>
     <description>Recent content in About Us on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate>
     
-	<atom:link href="https://damien.co/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

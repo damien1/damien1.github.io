@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CD on Damien Saunders</title>
-    <link>https://damien.co/tags/cd/</link>
+    <link>http://damien.co/tags/cd/</link>
     <description>Recent content in CD on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 20 Sep 2009 19:54:18 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/cd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/cd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Group Review: Manage your CD library collection on a Mac</title>
-      <link>https://damien.co/general/cd-library-management-283/</link>
+      <link>http://damien.co/general/cd-library-management-283/</link>
       <pubDate>Sun, 20 Sep 2009 19:54:18 +0000</pubDate>
       
-      <guid>https://damien.co/general/cd-library-management-283/</guid>
+      <guid>http://damien.co/general/cd-library-management-283/</guid>
       <description>Now that you’ve ripped and digitised all of your CD library – what do you do with your CD’s? One idea is to create a catalogue and then you can box or put away (or recycle) your CD’s and DVD’s giving you much more space to fill with books, CD’s or other stuff.If you’re like me, I’ve been ripping all my CD’s for years and the CD and cases were just collecting dust in my room.</description>
     </item>
     

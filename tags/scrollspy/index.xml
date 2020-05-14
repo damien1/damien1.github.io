@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>scrollspy on Damien Saunders</title>
-    <link>https://damien.co/tags/scrollspy/</link>
+    <link>http://damien.co/tags/scrollspy/</link>
     <description>Recent content in scrollspy on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 15 Mar 2012 10:09:25 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/scrollspy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/scrollspy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Axure &amp;#8211; Create Scroll Spy and Sticky Nav Bars like Twitter Bootstrap</title>
-      <link>https://damien.co/resources/axure-create-scroll-spy-and-sticky-nav-bars-like-twitter-bootstrap-6256/</link>
+      <link>http://damien.co/resources/axure-create-scroll-spy-and-sticky-nav-bars-like-twitter-bootstrap-6256/</link>
       <pubDate>Thu, 15 Mar 2012 10:09:25 +0000</pubDate>
       
-      <guid>https://damien.co/resources/axure-create-scroll-spy-and-sticky-nav-bars-like-twitter-bootstrap-6256/</guid>
+      <guid>http://damien.co/resources/axure-create-scroll-spy-and-sticky-nav-bars-like-twitter-bootstrap-6256/</guid>
       <description>Have you seen Twitter Bootstrapand liked scrollspy javascript? Perhaps you want to use it in Axure to create floating navbars and sticky toolbars?
 Are you impressed by Twitter Bootstrap? Some are, some aren’t – but I don’t know what the fuss is about – if you’ve got an amazing framework that is responsive and ready to go for your next startup – what’s not to love about it? It saves some design time and some development time.</description>
     </item>

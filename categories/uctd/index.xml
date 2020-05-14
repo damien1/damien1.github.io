@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UCTD on Damien Saunders</title>
-    <link>https://damien.co/categories/uctd/</link>
+    <link>http://damien.co/categories/uctd/</link>
     <description>Recent content in UCTD on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/categories/uctd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/categories/uctd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2019 Where am I?</title>
-      <link>https://damien.co/blog/2019-08-28-2019-uctd/</link>
+      <link>http://damien.co/blog/2019-08-28-2019-uctd/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2019-08-28-2019-uctd/</guid>
+      <guid>http://damien.co/blog/2019-08-28-2019-uctd/</guid>
       <description>Hi there. Well here&amp;rsquo;s something new I didn&amp;rsquo;t expect &amp;hellip; I have just found out I have an autoimmune disease - undifferentiated connective tissue disease or UCTD.
 I need to do some research and find out more about this &amp;hellip;</description>
     </item>

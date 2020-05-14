@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WordPress on Damien Saunders</title>
-    <link>https://damien.co/categories/wordpress/</link>
+    <link>http://damien.co/categories/wordpress/</link>
     <description>Recent content in WordPress on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 05 Mar 2014 13:18:37 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>WordPress 3.5.2 is here &amp;#8211; time to update your site</title>
-      <link>https://damien.co/blog/2013-06-23-wordpress-3-5-2-is-here-time-to-update-your-site/</link>
+      <link>http://damien.co/blog/2013-06-23-wordpress-3-5-2-is-here-time-to-update-your-site/</link>
       <pubDate>Sun, 23 Jun 2013 16:20:17 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2013-06-23-wordpress-3-5-2-is-here-time-to-update-your-site/</guid>
+      <guid>http://damien.co/blog/2013-06-23-wordpress-3-5-2-is-here-time-to-update-your-site/</guid>
       <description>WordPress 3.5.2 is here … and it’s not to be confused with the 3.6 beta releases. Being a point release, you shouldn’t expect significant changes. WordPress 3.5.2 is a security release, which means it’s critical that you update your site.
 What’s in WordPress 3.5.2? The release note for this specifically looks to address a bunch of security related issues:
  Blocking server-side request forgery attacks, which could potentially enable an attacker to gain access to a site.</description>
@@ -24,20 +24,20 @@ What’s in WordPress 3.5.2? The release note for this specifically looks to add
     
     <item>
       <title>WordPress 3.5 &amp;#8211; Welcome! My plugins are tested and working.</title>
-      <link>https://damien.co/blog/2012-12-12-wordpress-3-5-welcome-my-plugins-are-tested-and-working/</link>
+      <link>http://damien.co/blog/2012-12-12-wordpress-3-5-welcome-my-plugins-are-tested-and-working/</link>
       <pubDate>Wed, 12 Dec 2012 19:33:24 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-12-12-wordpress-3-5-welcome-my-plugins-are-tested-and-working/</guid>
+      <guid>http://damien.co/blog/2012-12-12-wordpress-3-5-welcome-my-plugins-are-tested-and-working/</guid>
       <description>In case you hadn’t noticed — WordPress 3.5is here. This release has one great new feature – the replacement for the media library and the drag n drop uploader has changed.
 My Plugins Tested are ready to go  DBC Backup 2 Isotope Visual Post Layouts Visual Post Layouts  I’ve been testing and checking my pluginsover the past few months and they are all fine and ready to use 🙂</description>
     </item>
     
     <item>
       <title>How to get started with WordPress Stack Exchange. Or How I got to 1000&#43; rep in 4 weeks</title>
-      <link>https://damien.co/blog/2012-08-19-how-to-get-started-with-wordpress-stack-exchange-or-how-i-got-to-1000-rep-in-4-weeks/</link>
+      <link>http://damien.co/blog/2012-08-19-how-to-get-started-with-wordpress-stack-exchange-or-how-i-got-to-1000-rep-in-4-weeks/</link>
       <pubDate>Sun, 19 Aug 2012 15:49:51 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-08-19-how-to-get-started-with-wordpress-stack-exchange-or-how-i-got-to-1000-rep-in-4-weeks/</guid>
+      <guid>http://damien.co/blog/2012-08-19-how-to-get-started-with-wordpress-stack-exchange-or-how-i-got-to-1000-rep-in-4-weeks/</guid>
       <description>There are lots of ways to earn reputation points on WordPress Answers on Stack Exchange. If you develop or are seriously interested in WordPress then go join WP Stack Exchange immediately.
 
 Why bother with WordPress Answers? Well let’s just say that it’s a nice way to ‘pay it forward’ – that’s to say if you give helpful answers you’ll get helpful answers.
@@ -46,10 +46,10 @@ How to grow your reputation on WordPress Answers Stack Exchange is much like oth
     
     <item>
       <title>8 points to help you choose the right WordPress e-Commerce solution</title>
-      <link>https://damien.co/blog/2012-07-18-choose-the-right-wordpress-e-commerce-solution-for-you/</link>
+      <link>http://damien.co/blog/2012-07-18-choose-the-right-wordpress-e-commerce-solution-for-you/</link>
       <pubDate>Wed, 18 Jul 2012 15:59:04 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-07-18-choose-the-right-wordpress-e-commerce-solution-for-you/</guid>
+      <guid>http://damien.co/blog/2012-07-18-choose-the-right-wordpress-e-commerce-solution-for-you/</guid>
       <description>WordPress is a very versatile solution for e-commerce. There are many ways you can integrate or setup e-commerce with WordPress allowing you to sell goods and services at the same time as blogging or promoting them.
 Most of the available options are just plugins, a quick scan of the WordPress plugin repo will show there are plenty of options from donation buttons for PayPal to integrations with Magento.
 What WordPress E-Commerce Solutions are there?</description>
@@ -57,20 +57,20 @@ What WordPress E-Commerce Solutions are there?</description>
     
     <item>
       <title>Pros and Cons of Post Formats vs. WordPress Multisite</title>
-      <link>https://damien.co/blog/2012-07-17-pros-and-cons-of-post-types-vs-multiple-blogs/</link>
+      <link>http://damien.co/blog/2012-07-17-pros-and-cons-of-post-types-vs-multiple-blogs/</link>
       <pubDate>Tue, 17 Jul 2012 11:41:36 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-07-17-pros-and-cons-of-post-types-vs-multiple-blogs/</guid>
+      <guid>http://damien.co/blog/2012-07-17-pros-and-cons-of-post-types-vs-multiple-blogs/</guid>
       <description>WordPress is a flexible solution for web publishing. Post Formats were introduced a couple of years back to help users and developers to create content in one WYSIWYG Editorbut show it differently on the site. I’ll start by saying that there is quite a bit of press about why there is a general lack of support by theme developers for post formats(see one example below).
 – If you have a theme which doesn’t support post formats (most don’t) then you can’t start this way.</description>
     </item>
     
     <item>
       <title>WordPress database backup plugin launched &amp;#8211; DBC Backup 2</title>
-      <link>https://damien.co/blog/2012-07-11-dbc-backup-new-plugin-forked-from-the-old/</link>
+      <link>http://damien.co/blog/2012-07-11-dbc-backup-new-plugin-forked-from-the-old/</link>
       <pubDate>Wed, 11 Jul 2012 14:17:07 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-07-11-dbc-backup-new-plugin-forked-from-the-old/</guid>
+      <guid>http://damien.co/blog/2012-07-11-dbc-backup-new-plugin-forked-from-the-old/</guid>
       <description>Announcing DBC Backup 2, a WordPress plugin to backup your WordPress SQL database is now available from WordPress Plugins.
 DBC Backup 2 creates a SQL export and saves a compressed file to your web host server. Many web hosts provide large amounts of free space for storing your data so it makes sense to use this free space to safely store your database.
 Key Features  Save time – set a Batch Job to run daily, weekly, monthly User Control – User defined path to store backups Compact – Compression of SQL exports (Gzip or Tar) saves space Safe – the export folder is ‘protected’ from prying eyes or direct downloads Save money – Uses web host to store export backups  Revival of DBC Backup The plugin is a revival of a much older plugin that I have used for a couple of years now.</description>
@@ -78,10 +78,10 @@ Key Features  Save time – set a Batch Job to run daily, weekly, monthly User C
     
     <item>
       <title>WordPress pre-update checklist to help avoid any problems</title>
-      <link>https://damien.co/blog/2012-06-18-wordpress-pre-update-checklist-to-help-avoid-any-problems/</link>
+      <link>http://damien.co/blog/2012-06-18-wordpress-pre-update-checklist-to-help-avoid-any-problems/</link>
       <pubDate>Mon, 18 Jun 2012 17:12:09 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-06-18-wordpress-pre-update-checklist-to-help-avoid-any-problems/</guid>
+      <guid>http://damien.co/blog/2012-06-18-wordpress-pre-update-checklist-to-help-avoid-any-problems/</guid>
       <description>WordPress gets a major update about twice a year. If you’re responsible for doing the upgrade here’s a pre-update checklist for WordPress to help you identify any bugs that will get in the way of a flawless update.
 The main point of the checklist is to reduce risk of failure by helping you identifying potential issues and roadblocks and give you confidence in a fast update process.
 A second point to remember is the cost of not running the update – staying on an older version of WordPress can expose you to security issues which are fixed in the new update and also make it harder at a later time to run an update.</description>
@@ -89,10 +89,10 @@ A second point to remember is the cost of not running the update – staying on 
     
     <item>
       <title>WordPress 3.4 RC2</title>
-      <link>https://damien.co/blog/2012-06-06-wordpress-3-4-rc2/</link>
+      <link>http://damien.co/blog/2012-06-06-wordpress-3-4-rc2/</link>
       <pubDate>Wed, 06 Jun 2012 21:03:08 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-06-06-wordpress-3-4-rc2/</guid>
+      <guid>http://damien.co/blog/2012-06-06-wordpress-3-4-rc2/</guid>
       <description>The second release candidate for the next version of WordPress 3.4 is here and the project team is hoping to go live next week.
 WordPress 3.4 what you can expect WordPress 3.4 has had a couple of beta releases and 1 RC – so this is getting close to the finished product.
 WordPress 3.4 has some cool features – including Theme customisation which kind of like a WordPress Getting Started Wizard.</description>
@@ -100,20 +100,20 @@ WordPress 3.4 has some cool features – including Theme customisation which kin
     
     <item>
       <title>Change your WordPress Multi-Site Domain URL</title>
-      <link>https://damien.co/blog/2012-05-18-change-your-wordpress-multi-site-domain-url/</link>
+      <link>http://damien.co/blog/2012-05-18-change-your-wordpress-multi-site-domain-url/</link>
       <pubDate>Fri, 18 May 2012 15:33:31 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-05-18-change-your-wordpress-multi-site-domain-url/</guid>
+      <guid>http://damien.co/blog/2012-05-18-change-your-wordpress-multi-site-domain-url/</guid>
       <description>I’ve just finished changing my domain name URL for my WordPress multisite. After running WordPress as a network for nearly 2 years and managing a number of other WordPress sites, domain changes should be easy to do (but over time things get more complicated).
 WordPress multisite adds a layer of complications – if you just want to update the domain URL for one of your blogs, then check out Domain Mapping plugins.</description>
     </item>
     
     <item>
       <title>What&amp;#8217;s the RSS Feed for a Custom Post Type?</title>
-      <link>https://damien.co/blog/2012-05-08-whats-the-rss-feed-for-a-custom-post-type/</link>
+      <link>http://damien.co/blog/2012-05-08-whats-the-rss-feed-for-a-custom-post-type/</link>
       <pubDate>Tue, 08 May 2012 12:37:49 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-05-08-whats-the-rss-feed-for-a-custom-post-type/</guid>
+      <guid>http://damien.co/blog/2012-05-08-whats-the-rss-feed-for-a-custom-post-type/</guid>
       <description>WordPress introduced custom post types allowing creative and technical types to do more then just write pages and posts. Your websites main RSS feed doesn’t include custom post types — but custom posts do have their own unique RSS feeds which you can use.
 What’s the RSS feed for custom posts? The custom post rss feed looks like this
 So a link to my Presentations would look like this
@@ -122,20 +122,20 @@ Linkage HT WordPress.</description>
     
     <item>
       <title>WordPress Security make sure you update today</title>
-      <link>https://damien.co/blog/2012-04-23-wordpress-security-make-sure-you-update-today/</link>
+      <link>http://damien.co/blog/2012-04-23-wordpress-security-make-sure-you-update-today/</link>
       <pubDate>Mon, 23 Apr 2012 15:42:59 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-04-23-wordpress-security-make-sure-you-update-today/</guid>
+      <guid>http://damien.co/blog/2012-04-23-wordpress-security-make-sure-you-update-today/</guid>
       <description>When ever there is a security updatefor WordPress you should always update your blog and website as soon as possible. According to Kasperskyone of the reasons that the recent Flashback Mac OSx Trojan malware infected 600,000+ computers was due to infected WordPress websites.
 So how did this happen? When developers build you a website there typically is no time or budget left over for maintenance and updates. This means websites can be left running on old versions of WordPress with known security issues and these can be exploited by hackers.</description>
     </item>
     
     <item>
       <title>WordPress 3.3.2</title>
-      <link>https://damien.co/blog/2012-04-23-wordpress-3-3-2/</link>
+      <link>http://damien.co/blog/2012-04-23-wordpress-3-3-2/</link>
       <pubDate>Mon, 23 Apr 2012 11:45:02 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-04-23-wordpress-3-3-2/</guid>
+      <guid>http://damien.co/blog/2012-04-23-wordpress-3-3-2/</guid>
       <description>WordPress 3.3.2 is here … and it’s not to be confused with the 3.4 beta releases. Being a point release, you shouldn’t expect significant changes.
 WordPress 3.3.2 is a security release, which means it’s critical that you update your site. The release notefor this
  Media Upload – the Flash Uploader and the newer Plupload have been updated Vulnerability where a site administrator could deactivate network-wide plugins Cross-site scripting vulnerability when making URLs clickable and in redirects after posting comments in older browsers, and when filtering URLs.</description>
@@ -143,10 +143,10 @@ WordPress 3.3.2 is a security release, which means it’s critical that you upda
     
     <item>
       <title>WordPress 3.4 beta 3 is here</title>
-      <link>https://damien.co/blog/2012-04-22-wordpress-3-4-beta-3-is-here/</link>
+      <link>http://damien.co/blog/2012-04-22-wordpress-3-4-beta-3-is-here/</link>
       <pubDate>Sun, 22 Apr 2012 21:31:37 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-04-22-wordpress-3-4-beta-3-is-here/</guid>
+      <guid>http://damien.co/blog/2012-04-22-wordpress-3-4-beta-3-is-here/</guid>
       <description>‘Another week, another beta’ so it seem. WordPress 3.4is on its way … it’s entered public beta, which means you can download it and try it for yourself. This is beta 3 so we can probably expect Release Candidate 1 in a week.
 Don’t try this at home if you’re new to WordPress.
 WordPress 3.4 does a lot for Themes and Theme Developers As I’ve previously posted, this release is all about themes.</description>
@@ -154,10 +154,10 @@ WordPress 3.4 does a lot for Themes and Theme Developers As I’ve previously po
     
     <item>
       <title>WordPress 3.4 enters public beta &amp;#8211; benefits for Themes</title>
-      <link>https://damien.co/blog/2012-04-08-wordpress-3-4-enters-public-beta-benefits-for-themes/</link>
+      <link>http://damien.co/blog/2012-04-08-wordpress-3-4-enters-public-beta-benefits-for-themes/</link>
       <pubDate>Sun, 08 Apr 2012 18:13:40 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-04-08-wordpress-3-4-enters-public-beta-benefits-for-themes/</guid>
+      <guid>http://damien.co/blog/2012-04-08-wordpress-3-4-enters-public-beta-benefits-for-themes/</guid>
       <description>WordPress 3.4is on its way … it’s entered public beta, which means you can download it and try it for yourself. Don’t try this at home if you’re new to WordPress.
 WordPress 3.4 does a lot for Themes and Theme Developers Basically, WordPress 3.4 is all about themes. Many of the changes are described with a lot of jargon so far.
 The release note details a lot of theme changes:</description>
@@ -165,10 +165,10 @@ The release note details a lot of theme changes:</description>
     
     <item>
       <title>UPDATE TIME &amp;#8211; WordPress 3.3.1 released</title>
-      <link>https://damien.co/blog/2012-01-03-update-time-wordpress-3-3-1-released/</link>
+      <link>http://damien.co/blog/2012-01-03-update-time-wordpress-3-3-1-released/</link>
       <pubDate>Tue, 03 Jan 2012 22:41:19 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-01-03-update-time-wordpress-3-3-1-released/</guid>
+      <guid>http://damien.co/blog/2012-01-03-update-time-wordpress-3-3-1-released/</guid>
       <description>Welcome to 2012, it’s ‘barely’ the first day of work and the WordPress team have released WordPress 3.3.1. This is a security and bug fix release which means it’s time to update as this is a mandatory update for us all.
 What’s in this release?
 This release is just 2 weeks after the big update to 3.3 so don’t be expecting anything new. Release 3.3.1 addresses a security issue with ‘cross site scripting’ and 15 other maintenance fixes.</description>
@@ -176,20 +176,20 @@ This release is just 2 weeks after the big update to 3.3 so don’t be expecting
     
     <item>
       <title>Increase WordPress Memory &amp;#8211; Help for EvoHosting.co.uk Users</title>
-      <link>https://damien.co/wordpress/increase-wordpress-memory-help-for-evohosting-co-uk-users-5454/</link>
+      <link>http://damien.co/wordpress/increase-wordpress-memory-help-for-evohosting-co-uk-users-5454/</link>
       <pubDate>Mon, 26 Dec 2011 15:38:28 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/increase-wordpress-memory-help-for-evohosting-co-uk-users-5454/</guid>
+      <guid>http://damien.co/wordpress/increase-wordpress-memory-help-for-evohosting-co-uk-users-5454/</guid>
       <description>I’ve been using EvoHostingfor a good couple of years now and have always been impressed by their service and flexibility. I’ve felt my site has suffered in recent months – I just feel the performance has suffered and have few options to speed-up my website.
 So sometimes you want more freedom to control your server (like Rackspace), but using a shared server gives you few choices to do this. Here is the solution for WordPress sites hosted by EvoHosting UK which you can implement now.</description>
     </item>
     
     <item>
       <title>WordPress 3.3 is here &amp;#8230; get updating</title>
-      <link>https://damien.co/blog/2011-12-14-wordpress-3-3-is-here-get-updating/</link>
+      <link>http://damien.co/blog/2011-12-14-wordpress-3-3-is-here-get-updating/</link>
       <pubDate>Wed, 14 Dec 2011 09:11:54 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2011-12-14-wordpress-3-3-is-here-get-updating/</guid>
+      <guid>http://damien.co/blog/2011-12-14-wordpress-3-3-is-here-get-updating/</guid>
       <description>WordPress 3.3 is here … I’ve been a little slow in posting this as I was busying myself checking a number of websites have all updated ok. But now it’s time. Get updating!
 If you haven’t already figured out that something new is happening with WordPress then read … Getting to grips with WordPress 3.3
 Should you update now? Yes … update to WordPress 3.3 as soon as possible in order to take advantage of the new features.</description>
@@ -197,10 +197,10 @@ Should you update now? Yes … update to WordPress 3.3 as soon as possible in or
     
     <item>
       <title>WordPress 3.3 RC3 &amp;#8211; This has to be it</title>
-      <link>https://damien.co/blog/2011-12-12-wordpress-3-3-rc3-this-has-to-be-it/</link>
+      <link>http://damien.co/blog/2011-12-12-wordpress-3-3-rc3-this-has-to-be-it/</link>
       <pubDate>Mon, 12 Dec 2011 09:03:57 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2011-12-12-wordpress-3-3-rc3-this-has-to-be-it/</guid>
+      <guid>http://damien.co/blog/2011-12-12-wordpress-3-3-rc3-this-has-to-be-it/</guid>
       <description>The third and final release candidate of WordPress 3.3 is here. AND … now we know that hopefully next week the real WordPress 3.3 will be here.
 The release note hints that everything is ready. This version RC3 WordPress 3.3 has a few last minute bug fixes and tidy up.
 If you haven’t started testing WordPress 3.3, then now is the time to check plugins, themes and familiarise yourself.
@@ -209,10 +209,10 @@ If you haven’t started testing WordPress 3.3, then now is the time to check pl
     
     <item>
       <title>WordPress 3.3 RC2 is here</title>
-      <link>https://damien.co/blog/2011-12-08-wordpress-3-3-rc2-is-here/</link>
+      <link>http://damien.co/blog/2011-12-08-wordpress-3-3-rc2-is-here/</link>
       <pubDate>Thu, 08 Dec 2011 22:12:25 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2011-12-08-wordpress-3-3-rc2-is-here/</guid>
+      <guid>http://damien.co/blog/2011-12-08-wordpress-3-3-rc2-is-here/</guid>
       <description>The second release candidate for the next version of WordPress 3.3 is here.
 If you develop stuff and haven’t started testing your plugins or theme, now is the time.
  WordPress 3.3 what you can expect WordPress 3.3 has already had 4 beta releases – so this RC could be the last one. From experience, this is just bug checking, tidy up and fixing last minute security things.
@@ -221,10 +221,10 @@ You can expect the real thing before Christmas!</description>
     
     <item>
       <title>Getting to grips with WordPress 3.3</title>
-      <link>https://damien.co/blog/2011-12-05-getting-to-grips-with-wordpress-3-3/</link>
+      <link>http://damien.co/blog/2011-12-05-getting-to-grips-with-wordpress-3-3/</link>
       <pubDate>Mon, 05 Dec 2011 14:30:36 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2011-12-05-getting-to-grips-with-wordpress-3-3/</guid>
+      <guid>http://damien.co/blog/2011-12-05-getting-to-grips-with-wordpress-3-3/</guid>
       <description>Now that the first release candidate for WordPress 3.3 is out, we can all plan (hopefully) for the real thing to be out before we take-off for Christmas Holidays in about 2 weeks.
 Getting to grips with WordPress 3.3 This is a significant point release but don’t expect ‘major’ new features. Anyway, here are the features you’ll like and a little run-down of each one:
 – Fly-out Menus with some responsive design</description>
@@ -232,10 +232,10 @@ Getting to grips with WordPress 3.3 This is a significant point release but don�
     
     <item>
       <title>WordPress 3.3 release candidate 1 is here</title>
-      <link>https://damien.co/blog/2011-12-01-wordpress-3-3-release-candidate-1-is-here/</link>
+      <link>http://damien.co/blog/2011-12-01-wordpress-3-3-release-candidate-1-is-here/</link>
       <pubDate>Thu, 01 Dec 2011 19:11:46 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2011-12-01-wordpress-3-3-release-candidate-1-is-here/</guid>
+      <guid>http://damien.co/blog/2011-12-01-wordpress-3-3-release-candidate-1-is-here/</guid>
       <description>The first release candidate for the next version of WordPress 3.3 is here. If you haven’t started testing, now is the time.
  WordPress 3.3 what you can expect WordPress 3.3 has already had 4 beta releases – so this RC is getting close to the finished product.
 WordPress 3.3 has some cool features – including re-work on the WordPress Toolbar for logged in users, changes to backend admin pages and minor improvements for multisite admins.</description>
@@ -243,20 +243,20 @@ WordPress 3.3 has some cool features – including re-work on the WordPress Tool
     
     <item>
       <title>Migrating your company website to WordPress Self Hosted</title>
-      <link>https://damien.co/wordpress/migrating-your-company-website-to-wordpress-self-hosted-697/</link>
+      <link>http://damien.co/wordpress/migrating-your-company-website-to-wordpress-self-hosted-697/</link>
       <pubDate>Wed, 16 Nov 2011 23:04:49 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/migrating-your-company-website-to-wordpress-self-hosted-697/</guid>
+      <guid>http://damien.co/wordpress/migrating-your-company-website-to-wordpress-self-hosted-697/</guid>
       <description>WordPressis one of the most popular solutions for blogging. What people don’t know is that WordPress self hosted is the best solution for building a standalone B2B or SME company website. We recently finished the migration of the mmCHANNEL company website from an in-house developed website (using PHP, etc) to single install, self hosted WordPress installation.
 There were a few times when I felt that maybe WordPress wasn’t right, but overall it’s going great and the results are visible!</description>
     </item>
     
     <item>
       <title>WordPress 3.3 beta 3 is here</title>
-      <link>https://damien.co/blog/2011-11-10-wordpress-3-3-beta-3-is-here/</link>
+      <link>http://damien.co/blog/2011-11-10-wordpress-3-3-beta-3-is-here/</link>
       <pubDate>Thu, 10 Nov 2011 12:33:49 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2011-11-10-wordpress-3-3-beta-3-is-here/</guid>
+      <guid>http://damien.co/blog/2011-11-10-wordpress-3-3-beta-3-is-here/</guid>
       <description>WordPress 3.3 is on its way … the latest beta 3.3 is now available, which means you can download it and try it for yourself. This beta doesn’t add anything new, as the official post says ‘it’s all about making things prettier’ along with lots of bug fixes.
 Typically you can expect to get a release candidate after this and then the official thing will be here.
 Should I update to this beta?</description>
@@ -264,30 +264,30 @@ Should I update to this beta?</description>
     
     <item>
       <title>WordPress 3.3 enters public beta</title>
-      <link>https://damien.co/blog/2011-10-30-wordpress-3-3-enters-public-beta/</link>
+      <link>http://damien.co/blog/2011-10-30-wordpress-3-3-enters-public-beta/</link>
       <pubDate>Sun, 30 Oct 2011 17:18:34 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2011-10-30-wordpress-3-3-enters-public-beta/</guid>
+      <guid>http://damien.co/blog/2011-10-30-wordpress-3-3-enters-public-beta/</guid>
       <description>WordPress 3.3 is on its way … it’s entered public beta, which means you can download it and try it for yourself. Don’t try this at home if you’re new to WordPress.
 WordPress 3.3 does a lot for admin and logged in users WordPress 3.3 has some cool features – including much more work on the WordPress Toolbar for logged in users, changes to backend admin pages and minor improvements for multisite admins.</description>
     </item>
     
     <item>
       <title>Get the best for free business and magazine theme for WordPress &amp;#8211; Thanks Woothemes</title>
-      <link>https://damien.co/blog/2011-10-04-get-the-best-for-free-business-and-magazine-theme-for-wordpress-thanks-woothemes/</link>
+      <link>http://damien.co/blog/2011-10-04-get-the-best-for-free-business-and-magazine-theme-for-wordpress-thanks-woothemes/</link>
       <pubDate>Tue, 04 Oct 2011 11:36:02 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2011-10-04-get-the-best-for-free-business-and-magazine-theme-for-wordpress-thanks-woothemes/</guid>
+      <guid>http://damien.co/blog/2011-10-04-get-the-best-for-free-business-and-magazine-theme-for-wordpress-thanks-woothemes/</guid>
       <description>WooThemes have outdone themselves with their most recent free WordPress business theme. Swatchis a powerful business and magazine theme with its own slider / carousel and a custom homepage layout that has 3 widget areas and up to 4 footer widgets.
 Seriously – this is the ultimate free theme for any business or serious blogger. It has 2 custom post types, along with the Slides on for the homepage it also has a portfolio for you to show off your work or presentations.</description>
     </item>
     
     <item>
       <title>WordPress just updated to 3.2.1</title>
-      <link>https://damien.co/wordpress/wordpress-just-updated-to-3-2-1-2-4431/</link>
+      <link>http://damien.co/wordpress/wordpress-just-updated-to-3-2-1-2-4431/</link>
       <pubDate>Sun, 17 Jul 2011 23:10:27 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/wordpress-just-updated-to-3-2-1-2-4431/</guid>
+      <guid>http://damien.co/wordpress/wordpress-just-updated-to-3-2-1-2-4431/</guid>
       <description>WordPress just released 3.2.1 so that means it’s time to update your WordPress install. This is a minor update and only a week since 3.2 was launched..
 What’s in this release?There isn’t much from a user or admin perspective, but you don’t normally expect that in a point release.
 The main deliverables in the release are:
@@ -298,10 +298,10 @@ The main deliverables in the release are:
     
     <item>
       <title>WordPress just updated to 3.2.1</title>
-      <link>https://damien.co/blog/2011-07-17-wordpress-just-updated-to-3-2-1/</link>
+      <link>http://damien.co/blog/2011-07-17-wordpress-just-updated-to-3-2-1/</link>
       <pubDate>Sun, 17 Jul 2011 22:10:27 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2011-07-17-wordpress-just-updated-to-3-2-1/</guid>
+      <guid>http://damien.co/blog/2011-07-17-wordpress-just-updated-to-3-2-1/</guid>
       <description>WordPress just released 3.2.1 so that means it’s time to update your WordPress install. This is a minor update and only a week since 3.2 was launched..
 What’s in this release?There isn’t much from a user or admin perspective, but you don’t normally expect that in a point release.
  The main deliverables in the release are:
@@ -311,30 +311,30 @@ What’s in this release?There isn’t much from a user or admin perspective, bu
     
     <item>
       <title>HOW TO recover from the most common WordPress website killers</title>
-      <link>https://damien.co/wordpress/how-to-recover-from-the-most-common-wordpress-website-killers-2-4432/</link>
+      <link>http://damien.co/wordpress/how-to-recover-from-the-most-common-wordpress-website-killers-2-4432/</link>
       <pubDate>Sun, 10 Jul 2011 16:31:32 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/how-to-recover-from-the-most-common-wordpress-website-killers-2-4432/</guid>
+      <guid>http://damien.co/wordpress/how-to-recover-from-the-most-common-wordpress-website-killers-2-4432/</guid>
       <description>It’s easy to recover from the 2 most common errors that kill your WordPress website. Fix the issue in 3 simple steps.When something goes wrong WordPress the most common cause is a plugin conflict or a problem with your theme. There’s nothing worse then feeling you’ve been locked out from your own website and can’t get to the wp-admin section to login.
 Today, WordPress is one of the world’s best solutions for blogging and website.</description>
     </item>
     
     <item>
       <title>HOW TO: Better way to Enable WordPress maintenance mode</title>
-      <link>https://damien.co/wordpress/how-to-better-way-to-enable-wordpress-maintenance-mode-4433/</link>
+      <link>http://damien.co/wordpress/how-to-better-way-to-enable-wordpress-maintenance-mode-4433/</link>
       <pubDate>Sat, 09 Jul 2011 18:00:58 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/how-to-better-way-to-enable-wordpress-maintenance-mode-4433/</guid>
+      <guid>http://damien.co/wordpress/how-to-better-way-to-enable-wordpress-maintenance-mode-4433/</guid>
       <description>WordPress is a great tool. It has its own way of managing updates to your website – and will switch to maintenance mode automatically. For the best user experience you should enable maintenance mode yourself.
 How to Enable Maintenance Mode without a Plugin – method 1 Activating maintenance mode without a plugin is easy. First, open your FTP program and then navigate to the root folder of you WordPress install.</description>
     </item>
     
     <item>
       <title>WordPress 3.2 is here – time to update</title>
-      <link>https://damien.co/wordpress/wordpress-3-2-is-here-%e2%80%93-time-to-update-4434/</link>
+      <link>http://damien.co/wordpress/wordpress-3-2-is-here-%e2%80%93-time-to-update-4434/</link>
       <pubDate>Tue, 05 Jul 2011 12:19:01 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/wordpress-3-2-is-here-%e2%80%93-time-to-update-4434/</guid>
+      <guid>http://damien.co/wordpress/wordpress-3-2-is-here-%e2%80%93-time-to-update-4434/</guid>
       <description>The next version of WordPress is here – it’s going to make the admin section look awhole lot different.
 So it’s true – WordPress 3.2 is here and after a couple of months anticipation it’s time to update.
 What’s in WordPress 3.2? 
@@ -344,10 +344,10 @@ What’s in WordPress 3.2?
     
     <item>
       <title>HOW TO: Stop WordPress Comment Spam – instantly</title>
-      <link>https://damien.co/wordpress/how-to-stop-wordpress-comment-spam-%e2%80%93-instantly-4435/</link>
+      <link>http://damien.co/wordpress/how-to-stop-wordpress-comment-spam-%e2%80%93-instantly-4435/</link>
       <pubDate>Tue, 05 Jul 2011 12:06:21 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/how-to-stop-wordpress-comment-spam-%e2%80%93-instantly-4435/</guid>
+      <guid>http://damien.co/wordpress/how-to-stop-wordpress-comment-spam-%e2%80%93-instantly-4435/</guid>
       <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme’s functions.php. This is one of my favourite WordPress functions and I use it on all my setups.
 This code snippet works by blocking comments from being added offsite or indirectly and not from the comment box on your webpage.
 Just to prove this works … take a look at your spam comments now and mentally calculate your daily average of new spam comments.</description>
@@ -355,10 +355,10 @@ Just to prove this works … take a look at your spam comments now and mentally 
     
     <item>
       <title>WordPress 3.2 is here &amp;#8211; time to update</title>
-      <link>https://damien.co/blog/2011-07-05-wordpress-3-2-is-here-time-to-update/</link>
+      <link>http://damien.co/blog/2011-07-05-wordpress-3-2-is-here-time-to-update/</link>
       <pubDate>Tue, 05 Jul 2011 11:19:01 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2011-07-05-wordpress-3-2-is-here-time-to-update/</guid>
+      <guid>http://damien.co/blog/2011-07-05-wordpress-3-2-is-here-time-to-update/</guid>
       <description>The next version of WordPress is here – it’s going to make the admin section look awhole lot different.
 So it’s true – WordPress 3.2 is here and after a couple of months anticipation it’s time to update.
 What’s in WordPress 3.2? 
@@ -368,10 +368,10 @@ What’s in WordPress 3.2?
     
     <item>
       <title>Social Media Marketing with WordPress needs a good theme</title>
-      <link>https://damien.co/wordpress/social-media-marketing-with-wordpress-needs-a-good-theme-2-4436/</link>
+      <link>http://damien.co/wordpress/social-media-marketing-with-wordpress-needs-a-good-theme-2-4436/</link>
       <pubDate>Mon, 04 Jul 2011 16:02:18 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/social-media-marketing-with-wordpress-needs-a-good-theme-2-4436/</guid>
+      <guid>http://damien.co/wordpress/social-media-marketing-with-wordpress-needs-a-good-theme-2-4436/</guid>
       <description>Get a good theme – it’s all about the instant appeal that any visitor has when they first land on your site. WordPress has many themes suited for social media marketing with a magazine layout, a featured panel and ready to go marketing plugins.
 Why WordPress? WordPress is one of the world’s most popular solutions for blogging
 If you’re reading and researching Why WordPress – you’ll probably see many articles focus on three words – Free, Simple &amp;amp; Easy.</description>
@@ -379,10 +379,10 @@ If you’re reading and researching Why WordPress – you’ll probably see many
     
     <item>
       <title>MarsEdit updates – best desktop blogging app for WordPress &amp;amp; Mac</title>
-      <link>https://damien.co/wordpress/marsedit-updates-%e2%80%93-best-desktop-blogging-app-for-wordpress-mac-4437/</link>
+      <link>http://damien.co/wordpress/marsedit-updates-%e2%80%93-best-desktop-blogging-app-for-wordpress-mac-4437/</link>
       <pubDate>Sun, 03 Jul 2011 15:58:04 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/marsedit-updates-%e2%80%93-best-desktop-blogging-app-for-wordpress-mac-4437/</guid>
+      <guid>http://damien.co/wordpress/marsedit-updates-%e2%80%93-best-desktop-blogging-app-for-wordpress-mac-4437/</guid>
       <description>MarsEdit the preferred desktop and offline blogging application for WordPress and Apple Macusers has updated.This is mostly a bug-fix release and the update will automatically install for most users.
 What’s in this release? The release note highlights a few good things for WordPress users such as:
  Media Manager now remembers and restores last-selected folder across launches Fix a bug that prevented custom text and background color preferences from working in rich text mode Add protections to avoid crashing on some malformed server responses Fix a bug where only the first paragraph was styled with e.</description>
@@ -390,66 +390,66 @@ What’s in this release? The release note highlights a few good things for Word
     
     <item>
       <title>WordPress 3.2 Release Candidate 3</title>
-      <link>https://damien.co/wordpress/wordpress-3-2-release-candidate-3-2-4438/</link>
+      <link>http://damien.co/wordpress/wordpress-3-2-release-candidate-3-2-4438/</link>
       <pubDate>Sat, 02 Jul 2011 15:21:50 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/wordpress-3-2-release-candidate-3-2-4438/</guid>
+      <guid>http://damien.co/wordpress/wordpress-3-2-release-candidate-3-2-4438/</guid>
       <description>Improved look n feel / user experience to the Admin pages (after many years) Integrated the admin homepage header (with the WordPress Logo) with the left hand menu Admin bar has changed for single install and network admins Admin left hand menu has changed with big text to collapse / hide Network / Admin menu has been integrated in User menu / dropdown on the top right  Before you update any live site – backup  If you’re still stuck … get in contact and I’ll be happy to help you through</description>
     </item>
     
     <item>
       <title>WordPress 3.2 Release Candidate 3</title>
-      <link>https://damien.co/blog/2011-07-02-wordpress-3-2-release-candidate-3/</link>
+      <link>http://damien.co/blog/2011-07-02-wordpress-3-2-release-candidate-3/</link>
       <pubDate>Sat, 02 Jul 2011 14:21:50 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2011-07-02-wordpress-3-2-release-candidate-3/</guid>
+      <guid>http://damien.co/blog/2011-07-02-wordpress-3-2-release-candidate-3/</guid>
       <description>Improved look n feel / user experience to the Admin pages (after many years) Integrated the admin homepage header (with the WordPress Logo) with the left hand menu Admin bar has changed for single install and network admins Admin left hand menu has changed with big text to collapse / hide Network / Admin menu has been integrated in User menu / dropdown on the top right  Before you update any live site – backup If you’re still stuck … get in contact and I’ll be happy to help you through</description>
     </item>
     
     <item>
       <title>WordPress updated to 3.1.4 – security update</title>
-      <link>https://damien.co/wordpress/wordpress-updated-to-3-1-4-%e2%80%93-security-update-4439/</link>
+      <link>http://damien.co/wordpress/wordpress-updated-to-3-1-4-%e2%80%93-security-update-4439/</link>
       <pubDate>Fri, 01 Jul 2011 10:02:47 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/wordpress-updated-to-3-1-4-%e2%80%93-security-update-4439/</guid>
+      <guid>http://damien.co/wordpress/wordpress-updated-to-3-1-4-%e2%80%93-security-update-4439/</guid>
       <description>Source: WordPress Codex</description>
     </item>
     
     <item>
       <title>WordPress updated to 3.1.4 &amp;#8211; security update</title>
-      <link>https://damien.co/blog/2011-07-01-wordpress-updated-to-3-1-4-security-update/</link>
+      <link>http://damien.co/blog/2011-07-01-wordpress-updated-to-3-1-4-security-update/</link>
       <pubDate>Fri, 01 Jul 2011 09:02:47 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2011-07-01-wordpress-updated-to-3-1-4-security-update/</guid>
+      <guid>http://damien.co/blog/2011-07-01-wordpress-updated-to-3-1-4-security-update/</guid>
       <description>Source: WordPress Codex</description>
     </item>
     
     <item>
       <title>WordPress 3.2 Release Candidate is here</title>
-      <link>https://damien.co/social-media/wordpress-3-2-release-candidate-is-here-3-4440/</link>
+      <link>http://damien.co/social-media/wordpress-3-2-release-candidate-is-here-3-4440/</link>
       <pubDate>Mon, 27 Jun 2011 20:10:10 +0000</pubDate>
       
-      <guid>https://damien.co/social-media/wordpress-3-2-release-candidate-is-here-3-4440/</guid>
+      <guid>http://damien.co/social-media/wordpress-3-2-release-candidate-is-here-3-4440/</guid>
       <description>The second release candidate for the next version of WordPress 3.2 is here. If you haven’t started testing 3.2, now is the time. Previous experience would make this the final RC before the real deal.
  Should I update to this release candidate? As this is a release candidate you shouldn’t use this on a really important live site – but it does mean it’s pretty stable and useful. You should find that most popular plugins and themes have no issues as developers have been working since RC1.</description>
     </item>
     
     <item>
       <title>WordPress 3.2 Release Candidate is here</title>
-      <link>https://damien.co/blog/2011-06-27-wordpress-3-2-release-candidate-is-here-2/</link>
+      <link>http://damien.co/blog/2011-06-27-wordpress-3-2-release-candidate-is-here-2/</link>
       <pubDate>Mon, 27 Jun 2011 19:10:10 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2011-06-27-wordpress-3-2-release-candidate-is-here-2/</guid>
+      <guid>http://damien.co/blog/2011-06-27-wordpress-3-2-release-candidate-is-here-2/</guid>
       <description>The second release candidate for the next version of WordPress 3.2 is here. If you haven’t started testing 3.2, now is the time. Previous experience would make this the final RC before the real deal.
  Should I update to this release candidate? As this is a release candidate you shouldn’t use this on a really important live site – but it does mean it’s pretty stable and useful. You should find that most popular plugins and themes have no issues as developers have been working since RC1.</description>
     </item>
     
     <item>
       <title>WordPress 3.2 Release Candidate is here</title>
-      <link>https://damien.co/wordpress/wordpress-3-2-release-candidate-is-here-3961/</link>
+      <link>http://damien.co/wordpress/wordpress-3-2-release-candidate-is-here-3961/</link>
       <pubDate>Wed, 15 Jun 2011 15:44:26 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/wordpress-3-2-release-candidate-is-here-3961/</guid>
+      <guid>http://damien.co/wordpress/wordpress-3-2-release-candidate-is-here-3961/</guid>
       <description>The first release candidate for the next version of WordPress 3.2 is here.
 Should I update to this release candidate? As this is a release candidate you shouldn’t use this on a really important live site – but it does mean it’s pretty stable and useful. You may find that you have issues with plugins and themes as developers work to support this RC.
  WordPress 3.2 what you can expect WordPress 3.</description>
@@ -457,10 +457,10 @@ Should I update to this release candidate? As this is a release candidate you sh
     
     <item>
       <title>10 very useful WordPress resources for you</title>
-      <link>https://damien.co/wordpress/10-very-useful-wordpress-resources-for-you-3950/</link>
+      <link>http://damien.co/wordpress/10-very-useful-wordpress-resources-for-you-3950/</link>
       <pubDate>Wed, 15 Jun 2011 15:14:17 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/10-very-useful-wordpress-resources-for-you-3950/</guid>
+      <guid>http://damien.co/wordpress/10-very-useful-wordpress-resources-for-you-3950/</guid>
       <description>Now that summer is really here (really) … it’s time to catchup on missed reading. So here is a collection of 10 of the best WordPress articles for you to re-read.
 [related_posts limit=”10″]
 PS .. this is showing off a new shortcode from WooThemes to automatically create a list of related posts.</description>
@@ -468,10 +468,10 @@ PS .. this is showing off a new shortcode from WooThemes to automatically create
     
     <item>
       <title>5 reasons why I choose to use WordPress</title>
-      <link>https://damien.co/wordpress/5-reasons-why-i-choose-to-use-wordpress-3554/</link>
+      <link>http://damien.co/wordpress/5-reasons-why-i-choose-to-use-wordpress-3554/</link>
       <pubDate>Fri, 03 Jun 2011 11:27:33 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/5-reasons-why-i-choose-to-use-wordpress-3554/</guid>
+      <guid>http://damien.co/wordpress/5-reasons-why-i-choose-to-use-wordpress-3554/</guid>
       <description>If you’re reading and researching Why WordPress – you’ll probably see many articles focus on three words – Free, Simple &amp;amp; Easy. These words tell you nothing about WordPress and so I started writing this to help you decide to choose WordPress.
 I started using WordPress in 2003 and I still have my hosted account London.WordPress.com. I switched to self-hosted in 2009.
 For me, I’ve chosen WordPress because
@@ -480,40 +480,40 @@ For me, I’ve chosen WordPress because
     
     <item>
       <title>WordPress Updates to 3.1.3 &amp;#8211; time to update</title>
-      <link>https://damien.co/wordpress/wordpress-updates-to-3-1-3-time-to-update-3489/</link>
+      <link>http://damien.co/wordpress/wordpress-updates-to-3-1-3-time-to-update-3489/</link>
       <pubDate>Thu, 26 May 2011 18:03:58 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/wordpress-updates-to-3-1-3-time-to-update-3489/</guid>
+      <guid>http://damien.co/wordpress/wordpress-updates-to-3-1-3-time-to-update-3489/</guid>
       <description>WordPress just updated to 3.1.3 and so that means it’s time to update your WordPress install. This is a security update for all previous WordPress versions so that means it’s a mandatory update.
  What’s in this release?There isn’t much from a user or admin perspective, but you don’t normally expect that in a point release. If you do a lot of WordPress support or development changes to the import process and media file management maybe of interest.</description>
     </item>
     
     <item>
       <title>HOW TO: Enable WordPress maintenance mode</title>
-      <link>https://damien.co/wordpress/how-to-enable-wordpress-maintenance-mode-2964/</link>
+      <link>http://damien.co/wordpress/how-to-enable-wordpress-maintenance-mode-2964/</link>
       <pubDate>Mon, 02 May 2011 15:36:55 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/how-to-enable-wordpress-maintenance-mode-2964/</guid>
+      <guid>http://damien.co/wordpress/how-to-enable-wordpress-maintenance-mode-2964/</guid>
       <description>WordPress is a great tool. It has its own way of managing updates to your website – and will switch to maintenance mode automatically. For the best user experience you should enable maintenance mode yourself.
 How to Enable Maintenance Mode without a Plugin – method 1 Activating maintenance mode without a plugin is easy. First, open your FTP program and then navigate to the root folder of you WordPress install.</description>
     </item>
     
     <item>
       <title>Switching to Scrivener for WordPress blogging</title>
-      <link>https://damien.co/wordpress/switching-to-scrivener-for-wordpress-blogging-2901/</link>
+      <link>http://damien.co/wordpress/switching-to-scrivener-for-wordpress-blogging-2901/</link>
       <pubDate>Sun, 24 Apr 2011 12:28:13 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/switching-to-scrivener-for-wordpress-blogging-2901/</guid>
+      <guid>http://damien.co/wordpress/switching-to-scrivener-for-wordpress-blogging-2901/</guid>
       <description>I’ve just made the switch – or as we speak, I’m starting to learn about this ‘new’ tool for writers called Scrivener. Described as the app for writers, journalists and anyone that needs to write short or long stories, Scrivener collects together scraps of articles, research material and helps to draft your writing.
 To me, the biggest problem with regular blogging is the interface. If you blog on the go then you already know that the WordPress admin suite is not very accessible when you’re in a plane, train or automobile.</description>
     </item>
     
     <item>
       <title>6 magazine WordPress themes special from Woothemes &amp;#8211; get it before Easter&amp;#8217;s over</title>
-      <link>https://damien.co/wordpress/6-magazine-wordpress-themes-special-from-woothemes-get-it-before-easters-over-2897/</link>
+      <link>http://damien.co/wordpress/6-magazine-wordpress-themes-special-from-woothemes-get-it-before-easters-over-2897/</link>
       <pubDate>Sat, 23 Apr 2011 22:11:45 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/6-magazine-wordpress-themes-special-from-woothemes-get-it-before-easters-over-2897/</guid>
+      <guid>http://damien.co/wordpress/6-magazine-wordpress-themes-special-from-woothemes-get-it-before-easters-over-2897/</guid>
       <description>Here is a special offer on WordPress themes you can’t beat – Woothemes is offering 5 for the price of 1 this Easter long weekend.
 To make it even more generous – I’m selecting 6 themes for you to make your decision even easier. One of these a is a great free WordPress theme suited for any blogger
 
@@ -522,10 +522,10 @@ Woothemes could be one of the best WordPress theme clubs – or it could be a gr
     
     <item>
       <title>Best WordPress plugins for social media marketing</title>
-      <link>https://damien.co/wordpress/best-wordpress-plugins-for-social-media-marketing-2319/</link>
+      <link>http://damien.co/wordpress/best-wordpress-plugins-for-social-media-marketing-2319/</link>
       <pubDate>Wed, 26 Jan 2011 09:20:06 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/best-wordpress-plugins-for-social-media-marketing-2319/</guid>
+      <guid>http://damien.co/wordpress/best-wordpress-plugins-for-social-media-marketing-2319/</guid>
       <description>Social Media Marketing plugins for WordPress – you only need a few to have a powerful integrated marketing website.
 WordPress plugins there are millions(?) to choose from and they are so easy to install. I tend to be cutting edge and change my plugins often, but here are some of the best plugins to improve WordPress for social media and digital marketing.
 The point here is that writing original content can be easy – but your great works need to be found.</description>
@@ -533,10 +533,10 @@ The point here is that writing original content can be easy – but your great w
     
     <item>
       <title>WordPress Security Updates Again?</title>
-      <link>https://damien.co/blog/2010-12-30-wordpress-security-updates-again-2/</link>
+      <link>http://damien.co/blog/2010-12-30-wordpress-security-updates-again-2/</link>
       <pubDate>Thu, 30 Dec 2010 13:07:10 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2010-12-30-wordpress-security-updates-again-2/</guid>
+      <guid>http://damien.co/blog/2010-12-30-wordpress-security-updates-again-2/</guid>
       <description>Security Updates, I had thought were a thing that only happened to people running Windows operating system. Yet WordPress has issued 3 patches in the last 30 days to address security fixes.
 30 November 2010WordPress 3.0.2 was a mandatory security update.
 This was the first update in nearly 6 months so it was a surprise that barely a week later we get another update.
@@ -545,10 +545,10 @@ This was the first update in nearly 6 months so it was a surprise that barely a 
     
     <item>
       <title>WordPress Security Updates Again?</title>
-      <link>https://damien.co/wordpress/wordpress-security-updates-again-2415/</link>
+      <link>http://damien.co/wordpress/wordpress-security-updates-again-2415/</link>
       <pubDate>Thu, 30 Dec 2010 13:07:10 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/wordpress-security-updates-again-2415/</guid>
+      <guid>http://damien.co/wordpress/wordpress-security-updates-again-2415/</guid>
       <description>Security Updates, I had thought were a thing that only happened to people running Windows operating system. Yet WordPress has issued 3 patches in the last 30 days to address security fixes.
 30 November 2010WordPress 3.0.2 was a mandatory security update.
 This was the first update in nearly 6 months so it was a surprise that barely a week later we get another update.
@@ -557,10 +557,10 @@ This was the first update in nearly 6 months so it was a surprise that barely a 
     
     <item>
       <title>CleanAdmin just the best WordPress plugin by a mile</title>
-      <link>https://damien.co/wordpress/cleanadmin-just-the-best-wordpress-plugin-by-a-mile-2368/</link>
+      <link>http://damien.co/wordpress/cleanadmin-just-the-best-wordpress-plugin-by-a-mile-2368/</link>
       <pubDate>Tue, 28 Dec 2010 10:16:17 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/cleanadmin-just-the-best-wordpress-plugin-by-a-mile-2368/</guid>
+      <guid>http://damien.co/wordpress/cleanadmin-just-the-best-wordpress-plugin-by-a-mile-2368/</guid>
       <description>CleanAdmin delivers a much need style change to your WordPress admin section. WordPress is (just about) the world’s favourite blog and web publishing platform, yet changes to the overall design and usability have been ignored in favour of delivering new tools and functions for bloggers and blog readers.
 
 Freshen your WordPress look n feel with just one plugin Enter CleanAdmin the plugin to clean up the backend of WordPress. Ironically, this plugin is just like changing a theme.</description>
@@ -568,39 +568,39 @@ Freshen your WordPress look n feel with just one plugin Enter CleanAdmin the plu
     
     <item>
       <title>myGeoBook is building geolocation tools for any website</title>
-      <link>https://damien.co/social-media/mygeobook-2276/</link>
+      <link>http://damien.co/social-media/mygeobook-2276/</link>
       <pubDate>Fri, 17 Dec 2010 11:00:25 +0000</pubDate>
       
-      <guid>https://damien.co/social-media/mygeobook-2276/</guid>
+      <guid>http://damien.co/social-media/mygeobook-2276/</guid>
       <description>myGeoBook is about geolocation &amp;amp; social media, with a set of tools for any website developer to use. Maps maybe sexy to some people and yes everyone is talking about mobile location services right now ([ id=”232″ type=”category”]Foursquare[/] anyone).
 Here’s a very short guide on how to add a map to WordPress using myGeoBook — but first, here’s an example. This map is based on the Frommers best restaurants in Europe.</description>
     </item>
     
     <item>
       <title>Get started with WordPress for your business website &amp;#038; b2b marketing</title>
-      <link>https://damien.co/wordpress/get-started-with-wordpress-for-your-business-website-b2b-marketing-2132/</link>
+      <link>http://damien.co/wordpress/get-started-with-wordpress-for-your-business-website-b2b-marketing-2132/</link>
       <pubDate>Mon, 29 Nov 2010 16:00:55 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/get-started-with-wordpress-for-your-business-website-b2b-marketing-2132/</guid>
+      <guid>http://damien.co/wordpress/get-started-with-wordpress-for-your-business-website-b2b-marketing-2132/</guid>
       <description>Do you need a new website? Want to get started with Social Media Marketingand Blogging? Have you been enjoying the visual wonder of this website and blog that was built using WordPress?Now you can have your own custom built WordPressto your needs by me.Get your own WordPress business blog &amp;amp; website I’m offering free coaching in WordPress to get you started ‘immediately’.
 Right now you can choose from 2 options which all include hosting and your own domain name.</description>
     </item>
     
     <item>
       <title>Social Media News this morning November 22, 2010</title>
-      <link>https://damien.co/news-releases/social-media-news-this-morning-november-22-2010-1998/</link>
+      <link>http://damien.co/news-releases/social-media-news-this-morning-november-22-2010-1998/</link>
       <pubDate>Mon, 22 Nov 2010 08:01:27 +0000</pubDate>
       
-      <guid>https://damien.co/news-releases/social-media-news-this-morning-november-22-2010-1998/</guid>
+      <guid>http://damien.co/news-releases/social-media-news-this-morning-november-22-2010-1998/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social media Sunday</title>
-      <link>https://damien.co/social-media/social-media-sunday-1977/</link>
+      <link>http://damien.co/social-media/social-media-sunday-1977/</link>
       <pubDate>Sun, 21 Nov 2010 11:35:18 +0000</pubDate>
       
-      <guid>https://damien.co/social-media/social-media-sunday-1977/</guid>
+      <guid>http://damien.co/social-media/social-media-sunday-1977/</guid>
       <description>Social media Sunday continues this week … With a theme on presentations and communicating. I’m in the country this weekend, so this post was done using blogpress on my iPad which has some great features for managing wordpress more like a magazine.
  Navigation alternatives and insights  Jess3 how social media is changing design  Social media and mobile. From an educationalists perspective
 http://www.slideshare.net/mobile/timbuckteeth/combining-mobile-tools-and-social-media#20  </description>
@@ -608,56 +608,56 @@ http://www.slideshare.net/mobile/timbuckteeth/combining-mobile-tools-and-social-
     
     <item>
       <title>WordPress Theme &amp;#8211; Continuum via Woothemes</title>
-      <link>https://damien.co/wordpress/wordpress-theme-continuum-via-woothemes-1762/</link>
+      <link>http://damien.co/wordpress/wordpress-theme-continuum-via-woothemes-1762/</link>
       <pubDate>Sat, 30 Oct 2010 08:30:29 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/wordpress-theme-continuum-via-woothemes-1762/</guid>
+      <guid>http://damien.co/wordpress/wordpress-theme-continuum-via-woothemes-1762/</guid>
       <description>Some days I think a spring cleanis just as good for you as taking a holiday. Out with the old and give yourself some more space to create a mess.
 Take for example this website – its built using WordPress and being very critical about the quality of my work or ‘portfolio’, I always want to be tweaking and changing my website and lookg at ways to make things better. So thankfully, today Woothemes(who I use with all my projects) came out with a new magazine layout that I’ve installed already.</description>
     </item>
     
     <item>
       <title>WP Supercache &amp;#8211; were you seeing Garbage</title>
-      <link>https://damien.co/wordpress/wp-supercache-were-you-seeing-garbage-1482/</link>
+      <link>http://damien.co/wordpress/wp-supercache-were-you-seeing-garbage-1482/</link>
       <pubDate>Sat, 11 Sep 2010 11:00:03 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/wp-supercache-were-you-seeing-garbage-1482/</guid>
+      <guid>http://damien.co/wordpress/wp-supercache-were-you-seeing-garbage-1482/</guid>
       <description>Sorry … I didn’t realise … my site has been having problems for a couple of weeks now. It turns out the WP Supercache a [ id=”693″ type=”post”]favourite WordPress[/] plugin was corrupting my site due to a conflict with my server compression.My Google Analytics bounce rate reports were quite high for the past couple of weeks and I didnt see anything was wrong until someone told me they were seeing garbadge on my website.</description>
     </item>
     
     <item>
       <title>HOW TO: View your WordPress Website on iPhone or Android</title>
-      <link>https://damien.co/wordpress/how-to-view-your-wordpress-website-on-iphone-or-android-1343/</link>
+      <link>http://damien.co/wordpress/how-to-view-your-wordpress-website-on-iphone-or-android-1343/</link>
       <pubDate>Mon, 26 Jul 2010 16:00:27 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/how-to-view-your-wordpress-website-on-iphone-or-android-1343/</guid>
+      <guid>http://damien.co/wordpress/how-to-view-your-wordpress-website-on-iphone-or-android-1343/</guid>
       <description>WordPressis a very comprehensive all-round tool for websites – and its not just for blogs. If you’re starting out with WordPress and need your site to look smooth on a mobile phone like the iPhone or any big screen Androidmobile then you’ll need a plugin for this.The best plugin for WordPress that handles any mobile device is easily WPtouch iPhone Theme. Once the plugin is installed and activated its working for you straight away.</description>
     </item>
     
     <item>
       <title>HOW TO export posts from WordPress to Word Doc via PDF in Mac OSx</title>
-      <link>https://damien.co/blog/2010-07-25-how-to-export-posts-from-wordpress-to-word-doc-via-pdf-in-mac-osx-2/</link>
+      <link>http://damien.co/blog/2010-07-25-how-to-export-posts-from-wordpress-to-word-doc-via-pdf-in-mac-osx-2/</link>
       <pubDate>Sun, 25 Jul 2010 18:00:30 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2010-07-25-how-to-export-posts-from-wordpress-to-word-doc-via-pdf-in-mac-osx-2/</guid>
+      <guid>http://damien.co/blog/2010-07-25-how-to-export-posts-from-wordpress-to-word-doc-via-pdf-in-mac-osx-2/</guid>
       <description>WordPress is one of the best end to end solutions for building a website and it has a large selection of themes, plugins and tools to make it more than just another blog. I recommend WordPress at the start of any project – just because it typically requires less management involvement or decisions from the IT or Tech teams to get started with.Having spent a lot more time writing about Social Media lately, I wanted to collect these posts into an editable collection (maybe I should have started by writing all my posts in word you might say).</description>
     </item>
     
     <item>
       <title>HOW TO export posts from WordPress to Word Doc via PDF in Mac OSx</title>
-      <link>https://damien.co/wordpress/how-to-export-posts-from-wordpress-to-word-doc-via-pdf-in-mac-osx-1335/</link>
+      <link>http://damien.co/wordpress/how-to-export-posts-from-wordpress-to-word-doc-via-pdf-in-mac-osx-1335/</link>
       <pubDate>Sun, 25 Jul 2010 18:00:30 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/how-to-export-posts-from-wordpress-to-word-doc-via-pdf-in-mac-osx-1335/</guid>
+      <guid>http://damien.co/wordpress/how-to-export-posts-from-wordpress-to-word-doc-via-pdf-in-mac-osx-1335/</guid>
       <description>WordPress is one of the best end to end solutions for building a website and it has a large selection of themes, plugins and tools to make it more than just another blog. I recommend WordPress at the start of any project – just because it typically requires less management involvement or decisions from the IT or Tech teams to get started with.Having spent a lot more time writing about Social Media lately, I wanted to collect these posts into an editable collection (maybe I should have started by writing all my posts in word you might say).</description>
     </item>
     
     <item>
       <title>Startup Guide to building a website with WordPress</title>
-      <link>https://damien.co/startup/startup-guide-to-building-a-website-with-wordpress-1059/</link>
+      <link>http://damien.co/startup/startup-guide-to-building-a-website-with-wordpress-1059/</link>
       <pubDate>Tue, 15 Jun 2010 09:00:44 +0000</pubDate>
       
-      <guid>https://damien.co/startup/startup-guide-to-building-a-website-with-wordpress-1059/</guid>
+      <guid>http://damien.co/startup/startup-guide-to-building-a-website-with-wordpress-1059/</guid>
       <description>So your new business needs a website – and someone told you to build it using WordPress. Cool .. this collection of resources on WordPress for your new venture will help you:
 How to migrate your website to WordPress– from experience and using a real life case study
 9 essential plugins for WordPress– here’s my recommendations on WordPress plugins to get you started.
@@ -666,30 +666,30 @@ How to make a landing page template in WordPress– landing pages or static page
     
     <item>
       <title>Skimlinks is working &amp;#8211; is it afiliate marketing or what?</title>
-      <link>https://damien.co/wordpress/skimlinks-is-working-is-it-afiliate-marketing-or-what-911/</link>
+      <link>http://damien.co/wordpress/skimlinks-is-working-is-it-afiliate-marketing-or-what-911/</link>
       <pubDate>Mon, 10 May 2010 09:13:13 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/skimlinks-is-working-is-it-afiliate-marketing-or-what-911/</guid>
+      <guid>http://damien.co/wordpress/skimlinks-is-working-is-it-afiliate-marketing-or-what-911/</guid>
       <description>I just added the Skimlinkswordpress plugin to my site. Skimlinks is my first step into affiliate marketing (is that what it is?). The wordpress plugin was very easy to install – but I think I should have read up more on affiliate marketing so it was over to the NMA magazine who recently ran an special on affiliate marketing to help me out.
 In essence, affiliate marketing involves any 3rd party creating content that is linked to a product page and the affiliate gets a commission for the sale.</description>
     </item>
     
     <item>
       <title>HOW TO use WordPress and design a custom landing page</title>
-      <link>https://damien.co/wordpress/wordpress-use-a-custom-design-for-landing-pages-756/</link>
+      <link>http://damien.co/wordpress/wordpress-use-a-custom-design-for-landing-pages-756/</link>
       <pubDate>Sun, 14 Mar 2010 23:43:45 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/wordpress-use-a-custom-design-for-landing-pages-756/</guid>
+      <guid>http://damien.co/wordpress/wordpress-use-a-custom-design-for-landing-pages-756/</guid>
       <description>WordPress may just be one ofthe best solution for building a web and mobile site. One feature is that a user can create static pages that integrate or fit in with the theme of the site. Here is the easy and quick solution for how to create a custom template and have a fresh new look for landing pages or static pages.
 In fact WordPress has a lot of features that make it easy to use as a CMS – content management system and static pages are important.</description>
     </item>
     
     <item>
       <title>HOW TO fix the Fatal Error: Allowed Memory Size in WordPress</title>
-      <link>https://damien.co/wordpress/how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-740/</link>
+      <link>http://damien.co/wordpress/how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-740/</link>
       <pubDate>Thu, 11 Mar 2010 21:12:23 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-740/</guid>
+      <guid>http://damien.co/wordpress/how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-740/</guid>
       <description>WordPress offers lots of plugins to choose from and if you add to many you will soon come across this Fatal Error message. You can easily fix the problem (and then go back to adding more plugins).
 This out of memory error doesn’t mean you have to go buy more RAM — just have to amend a line of text in a wordpress settings file.
 Fix the Fatal Error: Allowed Memory Size  When you installed WordPress you either uploaded it using FTP yourself or went to an admin cpanel and installed it.</description>
@@ -697,28 +697,28 @@ Fix the Fatal Error: Allowed Memory Size  When you installed WordPress you eithe
     
     <item>
       <title>Migrating your company website to WordPress Self Hosted</title>
-      <link>https://damien.co/blog/2010-03-08-migrating-your-company-website-to-wordpress-self-hosted-2/</link>
+      <link>http://damien.co/blog/2010-03-08-migrating-your-company-website-to-wordpress-self-hosted-2/</link>
       <pubDate>Mon, 08 Mar 2010 22:54:54 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2010-03-08-migrating-your-company-website-to-wordpress-self-hosted-2/</guid>
+      <guid>http://damien.co/blog/2010-03-08-migrating-your-company-website-to-wordpress-self-hosted-2/</guid>
       <description>WordPressis one of the most popular solutions for blogging. What people don’t know is that WordPress self hosted is the best solution for building a standalone SOHO / SME company website. We recently finished the migration of the mmCHANNEL company websitefrom an in-house developed website (using PHP, etc) to single install, self hosted WordPress installaton.There has been some times when I felt that maybe WordPress wasn’t right, but overall it’s going great and the results are visible!</description>
     </item>
     
     <item>
       <title>WordPress: 9 Plugins for any new install</title>
-      <link>https://damien.co/wordpress/wordpress-top-9-plugins-for-any-new-install-693/</link>
+      <link>http://damien.co/wordpress/wordpress-top-9-plugins-for-any-new-install-693/</link>
       <pubDate>Mon, 08 Mar 2010 21:07:41 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/wordpress-top-9-plugins-for-any-new-install-693/</guid>
+      <guid>http://damien.co/wordpress/wordpress-top-9-plugins-for-any-new-install-693/</guid>
       <description>WordPress provides a great tool to build and run your own website – it has 1000’s of plugins that add functionality to your website. Here then is a short list of essential plugins to get you started.Akismet Akismet is included in every installation of WordPress and so it make it one of the most popular plugins. There are better spam protectors, this doesn’t stop spam comments. You need a wordpress.com user name so that the plugin can sync over the internet.</description>
     </item>
     
     <item>
       <title>How to not impact your SEO and website traffic when changing WordPress Permalinks</title>
-      <link>https://damien.co/wordpress/how-to-not-impact-your-seo-and-website-traffic-when-changing-wordpress-permalinks-406/</link>
+      <link>http://damien.co/wordpress/how-to-not-impact-your-seo-and-website-traffic-when-changing-wordpress-permalinks-406/</link>
       <pubDate>Tue, 19 Jan 2010 17:54:21 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/how-to-not-impact-your-seo-and-website-traffic-when-changing-wordpress-permalinks-406/</guid>
+      <guid>http://damien.co/wordpress/how-to-not-impact-your-seo-and-website-traffic-when-changing-wordpress-permalinks-406/</guid>
       <description>Having made some changes to your wordpress permalinks, you can easily protect your web site traffic, SEO and search results from Google. This means you and your visitors get no 404 not found error.
 This wordpress plug-in looks at the incoming link URL structure and then redirects on the fly to the correct post with the new permalink structure.
 This didn’t make my list of Top 9 WordPress pluginsfor a new install – but if you are migrating a website this is critical.</description>

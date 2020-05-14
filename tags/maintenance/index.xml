@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maintenance on Damien Saunders</title>
-    <link>https://damien.co/tags/maintenance/</link>
+    <link>http://damien.co/tags/maintenance/</link>
     <description>Recent content in Maintenance on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 06 Jan 2012 18:58:26 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/maintenance/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/maintenance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Planned maintenance and work tonight</title>
-      <link>https://damien.co/general/planned-maintenance-and-work-tonight-5851/</link>
+      <link>http://damien.co/general/planned-maintenance-and-work-tonight-5851/</link>
       <pubDate>Fri, 06 Jan 2012 18:58:26 +0000</pubDate>
       
-      <guid>https://damien.co/general/planned-maintenance-and-work-tonight-5851/</guid>
+      <guid>http://damien.co/general/planned-maintenance-and-work-tonight-5851/</guid>
       <description>Just a short note — Tonight there will be some planned maintenance and the wonderful team at Evohost will be migrating me to a newer, faster server.
 The downtime will hopefully be kept as short as possible – but maybe come back on Saturday if you find anything funny.
 Cheers
@@ -25,40 +25,40 @@ Damien</description>
     
     <item>
       <title>Custom Maintenance Page for WordPress</title>
-      <link>https://damien.co/blog/2011-12-26-custom-maintenance-page-for-wordpress/</link>
+      <link>http://damien.co/blog/2011-12-26-custom-maintenance-page-for-wordpress/</link>
       <pubDate>Mon, 26 Dec 2011 13:00:15 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2011-12-26-custom-maintenance-page-for-wordpress/</guid>
+      <guid>http://damien.co/blog/2011-12-26-custom-maintenance-page-for-wordpress/</guid>
       <description>WordPress is a great tool. It has its own way of managing updates to your website – and will switch to maintenance mode automatically. Sometimes this is called an HTTP Status 503 Service Unavailable.
 For the best user experience you can setup your own custom maintenance page – where you can show your brand, making it clear that this is planned maintenance and give your visitor some where else to go.</description>
     </item>
     
     <item>
       <title>HOW TO: Better way to Enable WordPress maintenance mode</title>
-      <link>https://damien.co/wordpress/how-to-better-way-to-enable-wordpress-maintenance-mode-4433/</link>
+      <link>http://damien.co/wordpress/how-to-better-way-to-enable-wordpress-maintenance-mode-4433/</link>
       <pubDate>Sat, 09 Jul 2011 18:00:58 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/how-to-better-way-to-enable-wordpress-maintenance-mode-4433/</guid>
+      <guid>http://damien.co/wordpress/how-to-better-way-to-enable-wordpress-maintenance-mode-4433/</guid>
       <description>WordPress is a great tool. It has its own way of managing updates to your website – and will switch to maintenance mode automatically. For the best user experience you should enable maintenance mode yourself.
 How to Enable Maintenance Mode without a Plugin – method 1 Activating maintenance mode without a plugin is easy. First, open your FTP program and then navigate to the root folder of you WordPress install.</description>
     </item>
     
     <item>
       <title>HOW TO: Better way to Enable WordPress maintenance mode</title>
-      <link>https://damien.co/blog/2011-07-09-how-to-enable-wordpress-maintenance-mode-2/</link>
+      <link>http://damien.co/blog/2011-07-09-how-to-enable-wordpress-maintenance-mode-2/</link>
       <pubDate>Sat, 09 Jul 2011 17:00:58 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2011-07-09-how-to-enable-wordpress-maintenance-mode-2/</guid>
+      <guid>http://damien.co/blog/2011-07-09-how-to-enable-wordpress-maintenance-mode-2/</guid>
       <description>WordPress is a great tool. It has its own way of managing updates to your website – and will switch to maintenance mode automatically. For the best user experience you should enable maintenance mode yourself.
 How to Enable Maintenance Mode without a Plugin – method 1 Activating maintenance mode without a plugin is easy. First, open your FTP program and then navigate to the root folder of you WordPress install.</description>
     </item>
     
     <item>
       <title>HOW TO: Enable WordPress maintenance mode</title>
-      <link>https://damien.co/wordpress/how-to-enable-wordpress-maintenance-mode-2964/</link>
+      <link>http://damien.co/wordpress/how-to-enable-wordpress-maintenance-mode-2964/</link>
       <pubDate>Mon, 02 May 2011 15:36:55 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/how-to-enable-wordpress-maintenance-mode-2964/</guid>
+      <guid>http://damien.co/wordpress/how-to-enable-wordpress-maintenance-mode-2964/</guid>
       <description>WordPress is a great tool. It has its own way of managing updates to your website – and will switch to maintenance mode automatically. For the best user experience you should enable maintenance mode yourself.
 How to Enable Maintenance Mode without a Plugin – method 1 Activating maintenance mode without a plugin is easy. First, open your FTP program and then navigate to the root folder of you WordPress install.</description>
     </item>

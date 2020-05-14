@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visual Posts on Damien Saunders</title>
-    <link>https://damien.co/tags/visual-posts/</link>
+    <link>http://damien.co/tags/visual-posts/</link>
     <description>Recent content in Visual Posts on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 11 Sep 2012 22:39:11 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/visual-posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/visual-posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Freetile Visual Post Layouts a plugin WordPress</title>
-      <link>https://damien.co/blog/2012-09-11-freetile-visual-post-layouts-a-plugin-wordpress/</link>
+      <link>http://damien.co/blog/2012-09-11-freetile-visual-post-layouts-a-plugin-wordpress/</link>
       <pubDate>Tue, 11 Sep 2012 22:39:11 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-09-11-freetile-visual-post-layouts-a-plugin-wordpress/</guid>
+      <guid>http://damien.co/blog/2012-09-11-freetile-visual-post-layouts-a-plugin-wordpress/</guid>
       <description>Today I’ve been reading up on Freetilea jQuery project by Yannisfor visual layouts similar to what I’ve done with Isotope Visual Post Layouts.
  Freetile is a plugin for jQuery that enables the organization of webpage content in an efficient, dynamic and responsive layout. It can be applied to a container element and it will attempt to arrange it’s children in a layout that makes optimal use of screen space, by “packing” them in a tight arrangement.</description>
     </item>
     
     <item>
       <title>Isotope Visual Post Layouts for WordPress version 0.31 is out</title>
-      <link>https://damien.co/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</link>
+      <link>http://damien.co/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</link>
       <pubDate>Thu, 06 Sep 2012 21:49:27 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</guid>
+      <guid>http://damien.co/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</guid>
       <description>Isotope Visual Post Layouts is my plugin for WordPress that makes it easy to add some stunning visual effects to your blog. I’ve just updated the plugin and if you have this installed, then WordPress should tell you automatically to update sometime in the next 24 hours.
 Isotope Visual Post Layouts version 0.31 is out I’ve just updated the plugin to v0.31, it’s tested and supported on WordPress 3.4.2 and I also fixed a bug and added a feature.</description>
     </item>

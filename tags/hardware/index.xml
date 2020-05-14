@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hardware on Damien Saunders</title>
-    <link>https://damien.co/tags/hardware/</link>
+    <link>http://damien.co/tags/hardware/</link>
     <description>Recent content in Hardware on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 17 Dec 2011 09:11:49 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rackspace &amp;#8211; you wish for simplicity &amp;#8211; what you get is simply choice</title>
-      <link>https://damien.co/blog/insights-blog/rackspace-you-wish-for-simplicity-what-you-get-is-simply-choice-5258/</link>
+      <link>http://damien.co/blog/insights-blog/rackspace-you-wish-for-simplicity-what-you-get-is-simply-choice-5258/</link>
       <pubDate>Sat, 17 Dec 2011 09:11:49 +0000</pubDate>
       
-      <guid>https://damien.co/blog/insights-blog/rackspace-you-wish-for-simplicity-what-you-get-is-simply-choice-5258/</guid>
+      <guid>http://damien.co/blog/insights-blog/rackspace-you-wish-for-simplicity-what-you-get-is-simply-choice-5258/</guid>
       <description>Everyone I talk to in digital marketing and everyone who wants to be a technical expert has an opinion on Rackspace. In reality, when it comes to virtualisation, hosting servers, scalability and choice, the price you pay to Rackspace can be significantly less then you pay to other providers.
 But at what cost? It seems that freedom is the price you pay and freedom to choose is confusing.
 1p per hour for a server is a problem The problem with Rackspace is the pricing model.</description>

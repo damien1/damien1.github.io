@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>visual design on Damien Saunders</title>
-    <link>https://damien.co/tags/visual-design/</link>
+    <link>http://damien.co/tags/visual-design/</link>
     <description>Recent content in visual design on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 23 May 2011 15:42:54 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/visual-design/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/visual-design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Android apps run full screen on Honeycomb Tablets</title>
-      <link>https://damien.co/blog/android/android-apps-run-full-screen-on-honeycomb-tablets-3482/</link>
+      <link>http://damien.co/blog/android/android-apps-run-full-screen-on-honeycomb-tablets-3482/</link>
       <pubDate>Mon, 23 May 2011 15:42:54 +0000</pubDate>
       
-      <guid>https://damien.co/blog/android/android-apps-run-full-screen-on-honeycomb-tablets-3482/</guid>
+      <guid>http://damien.co/blog/android/android-apps-run-full-screen-on-honeycomb-tablets-3482/</guid>
       <description>Google recently announced some exciting new features for Android 3.0 Honeycomb. Most notably, Android 3.0 sees tablets and mobile devices merge to the same code base. This is kind of like having one OS for all devices. There are interface design considerations that need to be understood before launching your app on the big screen.
 Android Apps run full screen – Interface Design The key point to note is that Android apps run in full screen on tablets.</description>
     </item>

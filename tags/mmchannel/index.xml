@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mmCHANNEL on Damien Saunders</title>
-    <link>https://damien.co/tags/mmchannel/</link>
+    <link>http://damien.co/tags/mmchannel/</link>
     <description>Recent content in mmCHANNEL on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 16 Nov 2011 23:04:49 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/mmchannel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/mmchannel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Migrating your company website to WordPress Self Hosted</title>
-      <link>https://damien.co/wordpress/migrating-your-company-website-to-wordpress-self-hosted-697/</link>
+      <link>http://damien.co/wordpress/migrating-your-company-website-to-wordpress-self-hosted-697/</link>
       <pubDate>Wed, 16 Nov 2011 23:04:49 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/migrating-your-company-website-to-wordpress-self-hosted-697/</guid>
+      <guid>http://damien.co/wordpress/migrating-your-company-website-to-wordpress-self-hosted-697/</guid>
       <description>WordPressis one of the most popular solutions for blogging. What people don’t know is that WordPress self hosted is the best solution for building a standalone B2B or SME company website. We recently finished the migration of the mmCHANNEL company website from an in-house developed website (using PHP, etc) to single install, self hosted WordPress installation.
 There were a few times when I felt that maybe WordPress wasn’t right, but overall it’s going great and the results are visible!</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jetpack on Damien Saunders</title>
-    <link>https://damien.co/tags/jetpack/</link>
+    <link>http://damien.co/tags/jetpack/</link>
     <description>Recent content in Jetpack on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 13 Apr 2013 14:28:50 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/jetpack/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/jetpack/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to disable Jetpack WordPress plugins</title>
-      <link>https://damien.co/blog/2013-04-13-how-to-disable-jetpack-plugins/</link>
+      <link>http://damien.co/blog/2013-04-13-how-to-disable-jetpack-plugins/</link>
       <pubDate>Sat, 13 Apr 2013 14:28:50 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2013-04-13-how-to-disable-jetpack-plugins/</guid>
+      <guid>http://damien.co/blog/2013-04-13-how-to-disable-jetpack-plugins/</guid>
       <description>Enabling and Disabling Jetpack for WordPress individual plugins presented a bit of a challenge recently. Not having used Jetpack before, I thought it time to try out this collection of plugins developed and maintained by Automattic over the past 4 weeks.
 I’ve discovered that Jetpack is a feature rich collection of plugins but I seriously doubled-up on plugins doing the same job. I didn’t need Google Analytics as well as WordPress Stats.</description>
     </item>

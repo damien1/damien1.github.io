@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>.htaccess on Damien Saunders</title>
-    <link>https://damien.co/tags/.htaccess/</link>
+    <link>http://damien.co/tags/.htaccess/</link>
     <description>Recent content in .htaccess on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 18 Apr 2013 21:55:23 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/.htaccess/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/.htaccess/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>WordPress Security &amp;#8211; protect your wp-admin with this quick .htaccess trick</title>
-      <link>https://damien.co/blog/2013-04-18-wordpress-security-protect-your-wp-admin-with-this-quick-htaccess-trick/</link>
+      <link>http://damien.co/blog/2013-04-18-wordpress-security-protect-your-wp-admin-with-this-quick-htaccess-trick/</link>
       <pubDate>Thu, 18 Apr 2013 21:55:23 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2013-04-18-wordpress-security-protect-your-wp-admin-with-this-quick-htaccess-trick/</guid>
+      <guid>http://damien.co/blog/2013-04-18-wordpress-security-protect-your-wp-admin-with-this-quick-htaccess-trick/</guid>
       <description>WordPress is under going an attack by a swarm of Zombies– and they are after any site with an Admin user account. Securing WordPress is easy and you can do two things to protect your website and yourself.
   Change and then delete your Admin account (if you haven’t already)
   Only allow access to WordPress /wp-admin by your IP address
@@ -25,10 +25,10 @@
     
     <item>
       <title>HOW TO FIX: .htaccess &amp;#038; permalinks not working in WordPress</title>
-      <link>https://damien.co/blog/2012-07-23-how-to-fix-htaccess-permalinks-not-working-in-wordpress/</link>
+      <link>http://damien.co/blog/2012-07-23-how-to-fix-htaccess-permalinks-not-working-in-wordpress/</link>
       <pubDate>Mon, 23 Jul 2012 15:30:41 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-07-23-how-to-fix-htaccess-permalinks-not-working-in-wordpress/</guid>
+      <guid>http://damien.co/blog/2012-07-23-how-to-fix-htaccess-permalinks-not-working-in-wordpress/</guid>
       <description>If you’re setting up WordPress on a new server you may find that your custom permalinks don’t work and worse changes you make to your .htaccess file are ignored or have no effect. It sounds like you need to modify your VHOST configuration file on your web server.
 Modify VHOST to AllowOverride By default AllowOverride is disabled, this means .htaccess files and files like php.ini are ignored.
 Even if you enable mod_rewrite using sudo a2enmod rewrite your .</description>
@@ -36,10 +36,10 @@ Even if you enable mod_rewrite using sudo a2enmod rewrite your .</description>
     
     <item>
       <title>WordPress Security 5G Blacklist .htaccess</title>
-      <link>https://damien.co/blog/2012-06-10-wordpress-security-5g-blacklist-htaccess/</link>
+      <link>http://damien.co/blog/2012-06-10-wordpress-security-5g-blacklist-htaccess/</link>
       <pubDate>Sun, 10 Jun 2012 16:12:48 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-06-10-wordpress-security-5g-blacklist-htaccess/</guid>
+      <guid>http://damien.co/blog/2012-06-10-wordpress-security-5g-blacklist-htaccess/</guid>
       <description>If you’re into WordPress Security (which you should be) … then you’ve probably already played around with your .htaccess file to block comment spam. For a number of years now, Perishable Press has been working on a blacklist to help kills spam and other un-welcomes! Now in its 5th Generation the Blacklist is very powerful.
 Perishable Press is a great source of information on .htaccess and URL rewrite rules … but I wanted to just highlight a couple of things (perhaps for my own memory).</description>
     </item>

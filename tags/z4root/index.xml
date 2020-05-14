@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>z4root on Damien Saunders</title>
-    <link>https://damien.co/tags/z4root/</link>
+    <link>http://damien.co/tags/z4root/</link>
     <description>Recent content in z4root on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 12 Apr 2011 12:38:00 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/z4root/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/z4root/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>z4Root [I just rooted] Samsung Europa Android 2.2.1 (VFUK)</title>
-      <link>https://damien.co/blog/android/z4root-i-just-rooted-samsung-europa-android-2-2-1-vfuk-2874/</link>
+      <link>http://damien.co/blog/android/z4root-i-just-rooted-samsung-europa-android-2-2-1-vfuk-2874/</link>
       <pubDate>Tue, 12 Apr 2011 12:38:00 +0000</pubDate>
       
-      <guid>https://damien.co/blog/android/z4root-i-just-rooted-samsung-europa-android-2-2-1-vfuk-2874/</guid>
+      <guid>http://damien.co/blog/android/z4root-i-just-rooted-samsung-europa-android-2-2-1-vfuk-2874/</guid>
       <description>Is z4root the easiest tool? If you’ve been keeping up with the world of custom rom’s to root your Android you may have heard about this.
 z4root doesn’t get much of a mention – its key differentiator is that it is an untethered root tool – eg you run it from your mobile and not from your PC or Mac.
 I’ve got a Samsung Galaxy Europa prepay on Vodafone UK – I needed to do screenshots and the only good way to do this involves running root first.</description>

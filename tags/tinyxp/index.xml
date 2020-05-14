@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tinyxp on Damien Saunders</title>
-    <link>https://damien.co/tags/tinyxp/</link>
+    <link>http://damien.co/tags/tinyxp/</link>
     <description>Recent content in tinyxp on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 10 Apr 2009 23:50:53 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/tinyxp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/tinyxp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>HOW TO install Virtualbox on Mac osx host &amp;amp; WinXp guest using TinyXP rev 09</title>
-      <link>https://damien.co/resources/how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09-132/</link>
+      <link>http://damien.co/resources/how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09-132/</link>
       <pubDate>Fri, 10 Apr 2009 23:50:53 +0000</pubDate>
       
-      <guid>https://damien.co/resources/how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09-132/</guid>
+      <guid>http://damien.co/resources/how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09-132/</guid>
       <description>Virtualbox is a dream freeware solution for anyone – novice to geek – who wants to run different computers inside their computer … virtual so to speak. Today I’ve been tinkering with getting Virtualbox working on a Mac laptop running WinXP.
 Virtualbox from Oracle Sunis a freeware, open source virtualisation application .. it comes in a number of flavours – I’ve previously used it to run WinXP guests inside WinXP hosts for testing and at work it was the only way to install things without having to go to the IT helpdesk.</description>
     </item>

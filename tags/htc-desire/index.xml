@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HTC Desire on Damien Saunders</title>
-    <link>https://damien.co/tags/htc-desire/</link>
+    <link>http://damien.co/tags/htc-desire/</link>
     <description>Recent content in HTC Desire on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 22 Feb 2011 09:16:27 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/htc-desire/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/htc-desire/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>I upgraded to Cyanogenmod 7 on HTC Desire</title>
-      <link>https://damien.co/blog/i-upgraded-to-cyanogenmod-7-on-htc-desire-2780/</link>
+      <link>http://damien.co/blog/i-upgraded-to-cyanogenmod-7-on-htc-desire-2780/</link>
       <pubDate>Tue, 22 Feb 2011 09:16:27 +0000</pubDate>
       
-      <guid>https://damien.co/blog/i-upgraded-to-cyanogenmod-7-on-htc-desire-2780/</guid>
+      <guid>http://damien.co/blog/i-upgraded-to-cyanogenmod-7-on-htc-desire-2780/</guid>
       <description>I just updated my HTC Desire to the new Cyanogenmod 7 rom and it’s been running fine. A part of me does miss the HTC Sense UE overlay .. but … meh. If you have already rooted your phone and been using Clockwork ROM Manager, you just need to go looking for the new Cyanogenmod 7 RC1.
 The upgrade process is very simple – but here are a couple of pointers –</description>
     </item>

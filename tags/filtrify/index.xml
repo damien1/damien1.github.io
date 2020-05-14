@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Filtrify on Damien Saunders</title>
-    <link>https://damien.co/tags/filtrify/</link>
+    <link>http://damien.co/tags/filtrify/</link>
     <description>Recent content in Filtrify on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 07 Apr 2013 20:48:56 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/filtrify/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/filtrify/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Visual Layouts Filtrify &amp;#038; Isotope Visual Layouts &amp;#8211; will they work with your WordPress Theme?</title>
-      <link>https://damien.co/blog/2013-04-07-visual-layouts-filtrify-isotope-visual-layouts-with-your-wordpress-theme/</link>
+      <link>http://damien.co/blog/2013-04-07-visual-layouts-filtrify-isotope-visual-layouts-with-your-wordpress-theme/</link>
       <pubDate>Sun, 07 Apr 2013 20:48:56 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2013-04-07-visual-layouts-filtrify-isotope-visual-layouts-with-your-wordpress-theme/</guid>
+      <guid>http://damien.co/blog/2013-04-07-visual-layouts-filtrify-isotope-visual-layouts-with-your-wordpress-theme/</guid>
       <description>I recently received this email and thought I’d write up a few notes on my plugins. Right or Wrong … If you like the style of your theme, WordPress plugins are there to extend the function of your site. This means you don’t have to replace your existing theme just to get a new feature.
  Want to get a cool theme instead? If you do like the style / grid layout that I’m showing and want to replace your theme … then checkout the WooThemes range of themes.</description>
     </item>
     
     <item>
       <title>Visual Layouts &amp;#8211; Isotope Filtrify and custom WordPress taxonomies</title>
-      <link>https://damien.co/blog/2013-02-08-visual-layouts-isotope-filtrify-and-custom-wordpress-taxonomies/</link>
+      <link>http://damien.co/blog/2013-02-08-visual-layouts-isotope-filtrify-and-custom-wordpress-taxonomies/</link>
       <pubDate>Fri, 08 Feb 2013 11:06:13 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2013-02-08-visual-layouts-isotope-filtrify-and-custom-wordpress-taxonomies/</guid>
+      <guid>http://damien.co/blog/2013-02-08-visual-layouts-isotope-filtrify-and-custom-wordpress-taxonomies/</guid>
       <description>Creating tag and category based filtering is easy using my new plugin Visual Layouts Filtrify.. and now I want to show you that custom post types and custom taxonomies in WordPress are also handled with this new plugin.
 Using two of my plugins, you can create a visual grid of your posts, photos, portfolio, products and even use it to create your own WooCommerce e-commerce product page without having to get a new theme.</description>
     </item>
     
     <item>
       <title>Just Announced: Isotope Visual Layouts plugin gets Filtrify for tags &amp;amp; filtering</title>
-      <link>https://damien.co/blog/2013-02-04-just-announced-isotope-visual-layouts-plugin-gets-filtrify-for-tags-filtering/</link>
+      <link>http://damien.co/blog/2013-02-04-just-announced-isotope-visual-layouts-plugin-gets-filtrify-for-tags-filtering/</link>
       <pubDate>Mon, 04 Feb 2013 11:55:45 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2013-02-04-just-announced-isotope-visual-layouts-plugin-gets-filtrify-for-tags-filtering/</guid>
+      <guid>http://damien.co/blog/2013-02-04-just-announced-isotope-visual-layouts-plugin-gets-filtrify-for-tags-filtering/</guid>
       <description>Visual Layouts Filtrify is my newest plugin for WordPress and my first plugin to extend Isotope Visual Post Layouts.
 What does Visual Layouts Filtrify do?   Add drop-down menus and filtering to your website
   Works with tags and categories (no configuration)
@@ -46,10 +46,10 @@ What does Visual Layouts Filtrify do?   Add drop-down menus and filtering to you
     
     <item>
       <title>Isotope &#43; filtrify &#43; WordPress = No Sweat</title>
-      <link>https://damien.co/blog/2012-09-08-isotope-filtrify-wordpress-no-sweat/</link>
+      <link>http://damien.co/blog/2012-09-08-isotope-filtrify-wordpress-no-sweat/</link>
       <pubDate>Sat, 08 Sep 2012 16:35:17 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-09-08-isotope-filtrify-wordpress-no-sweat/</guid>
+      <guid>http://damien.co/blog/2012-09-08-isotope-filtrify-wordpress-no-sweat/</guid>
       <description>I’ve been busy this weekend catching up on some development work for my favourite WordPress plugin Visual Post Layouts which uses Isotope.
 Today I’ve integrated filtrifywhich makes it easy to choose your posts by Category.</description>
     </item>

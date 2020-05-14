@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apple on Damien Saunders</title>
-    <link>https://damien.co/tags/apple/</link>
+    <link>http://damien.co/tags/apple/</link>
     <description>Recent content in Apple on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 16 Mar 2013 17:33:15 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/apple/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Time for a service &amp;#8211; #reformated-my-mac-day</title>
-      <link>https://damien.co/general/time-for-a-service-reformated-my-mac-day-8439/</link>
+      <link>http://damien.co/general/time-for-a-service-reformated-my-mac-day-8439/</link>
       <pubDate>Sat, 16 Mar 2013 17:33:15 +0000</pubDate>
       
-      <guid>https://damien.co/general/time-for-a-service-reformated-my-mac-day-8439/</guid>
+      <guid>http://damien.co/general/time-for-a-service-reformated-my-mac-day-8439/</guid>
       <description>Reformatting a computer is usually an emotionally distressful activity – involving losing files, trying to find software discs and panic about lost licence codes.
 Over the years, I’ve reformatted and deleted many computers – kind of like giving your computer a semi annual service. As a result of noticing something not running right .. it just has to be done.
 Today’s reformat went faster then I expected.
@@ -25,10 +25,10 @@ Reformat your Apple Mac and reinstall OSx operating system Once you are happy th
     
     <item>
       <title>I feel like a kid in a candy shop &amp;#8230; #reformatted-my-mac-day</title>
-      <link>https://damien.co/general/i-feel-like-a-kid-in-a-candy-shop-reformatted-my-mac-day-8433/</link>
+      <link>http://damien.co/general/i-feel-like-a-kid-in-a-candy-shop-reformatted-my-mac-day-8433/</link>
       <pubDate>Sat, 16 Mar 2013 12:19:48 +0000</pubDate>
       
-      <guid>https://damien.co/general/i-feel-like-a-kid-in-a-candy-shop-reformatted-my-mac-day-8433/</guid>
+      <guid>http://damien.co/general/i-feel-like-a-kid-in-a-candy-shop-reformatted-my-mac-day-8433/</guid>
       <description>
 I woke up this morning .. it’s pouring with rain … my Apple MacBook Pro decides it doesn’t want to connect to my wifi.
 So I had to do, what I had to do! and reformatted my Mac.
@@ -39,29 +39,29 @@ First things first ..
     
     <item>
       <title>HOW TO: Start, Stop, Restart or Reload Jenkins &amp;#8211; Mac OSx</title>
-      <link>https://damien.co/general/how-to-start-stop-restart-or-reload-jenkins-mac-osx-8022/</link>
+      <link>http://damien.co/general/how-to-start-stop-restart-or-reload-jenkins-mac-osx-8022/</link>
       <pubDate>Wed, 28 Nov 2012 13:36:07 +0000</pubDate>
       
-      <guid>https://damien.co/general/how-to-start-stop-restart-or-reload-jenkins-mac-osx-8022/</guid>
+      <guid>http://damien.co/general/how-to-start-stop-restart-or-reload-jenkins-mac-osx-8022/</guid>
       <description>I’ve just started to use Jenkins as part of a continuous integration setup that I’m building. Mostly I’m doing this to learn and then apply this to something bigger. At home, I’m using Jenkins as a CI server to manage testing of my PHP WordPress plugins. I know it could be overkill, but as a one man band, automating testing is something that saves me time and increases my confidence that the development feature is tested and ready to deploy!</description>
     </item>
     
     <item>
       <title>WTF! TomTom you make Apple Maps really do suck</title>
-      <link>https://damien.co/blog/wtf-tomtom-you-make-apple-maps-really-do-suck-7849/</link>
+      <link>http://damien.co/blog/wtf-tomtom-you-make-apple-maps-really-do-suck-7849/</link>
       <pubDate>Wed, 26 Sep 2012 08:44:34 +0000</pubDate>
       
-      <guid>https://damien.co/blog/wtf-tomtom-you-make-apple-maps-really-do-suck-7849/</guid>
+      <guid>http://damien.co/blog/wtf-tomtom-you-make-apple-maps-really-do-suck-7849/</guid>
       <description>To me, I used Apple Maps on my iPad to check walking directions. So why is Apple Maps now powered by a Sat nav company like TomTom. Apparently I have to pay tollS to walk 6m to my home … Not just one toll … That&amp;rsquo;s tolls.
 And annoyingly all map data is now from some sat nav company so you can&amp;rsquo;t get walking directions.</description>
     </item>
     
     <item>
       <title>Why You Don’t Need Mac Anti-Virus Software &amp;#8211; Plus What You Do Need</title>
-      <link>https://damien.co/blog/why-you-dont-need-mac-anti-virus-software-plus-what-you-do-need-7777/</link>
+      <link>http://damien.co/blog/why-you-dont-need-mac-anti-virus-software-plus-what-you-do-need-7777/</link>
       <pubDate>Sun, 09 Sep 2012 15:19:27 +0000</pubDate>
       
-      <guid>https://damien.co/blog/why-you-dont-need-mac-anti-virus-software-plus-what-you-do-need-7777/</guid>
+      <guid>http://damien.co/blog/why-you-dont-need-mac-anti-virus-software-plus-what-you-do-need-7777/</guid>
       <description>I’ve been using Apple Macbook Pro as my primary work horse since 2008. I’ve always had ClamXav installed as a ‘heuristic’ solution to monitor apps and downloads for virus and malware.
 I’m a fan of sandbox for apps, but as I do develop a whole heap of different things, just installing from the Mac App Store is not an option for me.
 Now I’m going to look for other software ….</description>
@@ -69,10 +69,10 @@ Now I’m going to look for other software ….</description>
     
     <item>
       <title>3 articles to read on Brand Marketing &amp;#038; Strategy</title>
-      <link>https://damien.co/blog/3-articles-read-brand-marketing-strategy-7318/</link>
+      <link>http://damien.co/blog/3-articles-read-brand-marketing-strategy-7318/</link>
       <pubDate>Sun, 17 Jun 2012 17:19:04 +0000</pubDate>
       
-      <guid>https://damien.co/blog/3-articles-read-brand-marketing-strategy-7318/</guid>
+      <guid>http://damien.co/blog/3-articles-read-brand-marketing-strategy-7318/</guid>
       <description>You’ll love these 3 articles by Mark Ritson who has a weekly opinion piece in Marketing Week. His column is the inside, back page and the first article I read.
 Why Graff Diamonds Failed to list on the Hong Kong Stock Exchange (old school luxury brand)
 Link &amp;gt; Marketing Week— is this not the same trap for other FTSE100 and multinationals? becoming old-fashioned and lacking brand appeal
@@ -81,20 +81,20 @@ Apple’s leadership bios look about as diverse as an Alabama country club circa
     
     <item>
       <title>Top Development Tools on my MacBook Pro</title>
-      <link>https://damien.co/development/top-development-tools-on-my-macbook-pro-7234/</link>
+      <link>http://damien.co/development/top-development-tools-on-my-macbook-pro-7234/</link>
       <pubDate>Mon, 11 Jun 2012 09:10:47 +0000</pubDate>
       
-      <guid>https://damien.co/development/top-development-tools-on-my-macbook-pro-7234/</guid>
+      <guid>http://damien.co/development/top-development-tools-on-my-macbook-pro-7234/</guid>
       <description>If you wanted to know what I apps and software I use every day then here you go … For starters this is all Mac OSx stuff.
  AxureRP 6.5 – wireframes and interactive prototypes. UX/UI Heaven Terminal – go command line (for SSH and most server stuff like testing with siege) Coda 2 – An all in one IDE – FTP, MySQL database, CSS, Editor and more … Transmit – only if I can’t be bothered to use Coda Firefox (and then only for these 2 extensions) SQLite Manager – SQLite may be the new mySQL … we’ll see Selenium IDE – for browser based testing (but only in Firefox) Sequel Pro – mySQL database manager SourceTree (as it works with Bitbucket)  Other apps to know about  MarsEdit – Best blog tool around for WordPress – but definitely room to improve Scrivener – for writing all that blog stuff Omnigraffle – when you can’t use Axure (and don’t have Visio) Pixelmator – who needs Photoshop Aperture – who needs Lightroom Netnewswire – I do all my RSS reading on the mobile now  Cloud based stuff I use every day  Google.</description>
     </item>
     
     <item>
       <title>It wasn&amp;#8217;t about design &amp;#8211; it was the first computer I used. Thanks Steve</title>
-      <link>https://damien.co/general/it-wasnt-about-design-it-was-the-first-computer-i-used-thanks-steve-4444/</link>
+      <link>http://damien.co/general/it-wasnt-about-design-it-was-the-first-computer-i-used-thanks-steve-4444/</link>
       <pubDate>Thu, 06 Oct 2011 09:32:17 +0000</pubDate>
       
-      <guid>https://damien.co/general/it-wasnt-about-design-it-was-the-first-computer-i-used-thanks-steve-4444/</guid>
+      <guid>http://damien.co/general/it-wasnt-about-design-it-was-the-first-computer-i-used-thanks-steve-4444/</guid>
       <description>What was your first computer? The first computer I had regular use of was kept locked up in my school’s library. It was an Apple IIe with a green monochrome monitor. At 9 years of age, I was hooked.
 
 Growing up far, far away where the most important news of the day was NZ losing its number 1 market for dairy and lamb as the UK joined the ‘EU’ – a piece of technology like the Apple IIe probably cost the world.</description>
@@ -102,10 +102,10 @@ Growing up far, far away where the most important news of the day was NZ losing 
     
     <item>
       <title>Just Updated &amp;#8211; iTunes in the Cloud (beta)</title>
-      <link>https://damien.co/general/just-updated-itunes-in-the-cloud-beta-3763/</link>
+      <link>http://damien.co/general/just-updated-itunes-in-the-cloud-beta-3763/</link>
       <pubDate>Tue, 07 Jun 2011 18:25:48 +0000</pubDate>
       
-      <guid>https://damien.co/general/just-updated-itunes-in-the-cloud-beta-3763/</guid>
+      <guid>http://damien.co/general/just-updated-itunes-in-the-cloud-beta-3763/</guid>
       <description>There’s a new update to iTunes this morning (evening in the UK) … iTunes 10.3 introduces in the Cloud beta. This was only introduced yesterday at the Apple WWDC.
 The update is available for Windows and Apple computers now.
  What’s new in iTunes 10.3 Introducing iTunes in the Cloud beta. The music you purchase in iTunes appears automatically on all your devices. You can also download your past iTunes purchases.</description>
@@ -113,10 +113,10 @@ The update is available for Windows and Apple computers now.
     
     <item>
       <title>Are you thinking what I&amp;#8217;m thinking? Two predictions for Steve Jobs?</title>
-      <link>https://damien.co/general/are-you-thinking-what-im-thinking-two-predictions-for-steve-jobs-3752/</link>
+      <link>http://damien.co/general/are-you-thinking-what-im-thinking-two-predictions-for-steve-jobs-3752/</link>
       <pubDate>Mon, 06 Jun 2011 16:04:25 +0000</pubDate>
       
-      <guid>https://damien.co/general/are-you-thinking-what-im-thinking-two-predictions-for-steve-jobs-3752/</guid>
+      <guid>http://damien.co/general/are-you-thinking-what-im-thinking-two-predictions-for-steve-jobs-3752/</guid>
       <description>Are you thinking what I’m thinking? It’s only a few hours til the start of the Apple WWDC which is ‘the biggest’ event in the year for Apple Fans.
 Something borrowed or something blue? Apple, Lion &amp;amp; iOS5 Does Apple’s new software tickle your fancy? does the idea of conjoined operating systems for mobile and computers excite you?
 Yeh I really want a touch-screen on my MacBook Pro – but that will never happen.</description>
@@ -124,10 +124,10 @@ Yeh I really want a touch-screen on my MacBook Pro – but that will never happe
     
     <item>
       <title>Apple Aperture updates to 3.1.2</title>
-      <link>https://damien.co/general/apple-aperture-updates-to-3-1-2-2803/</link>
+      <link>http://damien.co/general/apple-aperture-updates-to-3-1-2-2803/</link>
       <pubDate>Sat, 26 Mar 2011 16:57:18 +0000</pubDate>
       
-      <guid>https://damien.co/general/apple-aperture-updates-to-3-1-2-2803/</guid>
+      <guid>http://damien.co/general/apple-aperture-updates-to-3-1-2-2803/</guid>
       <description>Apple has updated its Aperture software to 3.1.2 – it seems to focus on the new users who quite likely brought the Appstore copy.
 The release note is not very useful – but maybe the adjustments will be interesting to see what happens.
  </description>
@@ -135,20 +135,20 @@ The release note is not very useful – but maybe the adjustments will be intere
     
     <item>
       <title>Aperture 3 digital photo software improved integration with Flickr</title>
-      <link>https://damien.co/blog/aperture-3-digital-photo-software-improved-integration-with-flickr-2584/</link>
+      <link>http://damien.co/blog/aperture-3-digital-photo-software-improved-integration-with-flickr-2584/</link>
       <pubDate>Mon, 24 Jan 2011 09:04:47 +0000</pubDate>
       
-      <guid>https://damien.co/blog/aperture-3-digital-photo-software-improved-integration-with-flickr-2584/</guid>
+      <guid>http://damien.co/blog/aperture-3-digital-photo-software-improved-integration-with-flickr-2584/</guid>
       <description>I’ve been using Apple Aperture 3 for my digital photography and image processing for a couple of years. It’s great for importing those images for clients and quickly doing all the editing, tagging, grouping and touch-ups.
 What I didn’t like about it as a workflow tool – is that it lacks proper integration with Flickr. In the 3.0 version from last year you could publish as a Set of photos to Flickr, but couldn’t just add an image to your photostream.</description>
     </item>
     
     <item>
       <title>Say hello to 10,000,000,000 little downloads of mobile apps</title>
-      <link>https://damien.co/mobile-marketing/say-hello-to-10000000-little-downloads-of-mobile-apps-2577/</link>
+      <link>http://damien.co/mobile-marketing/say-hello-to-10000000-little-downloads-of-mobile-apps-2577/</link>
       <pubDate>Sat, 22 Jan 2011 22:47:45 +0000</pubDate>
       
-      <guid>https://damien.co/mobile-marketing/say-hello-to-10000000-little-downloads-of-mobile-apps-2577/</guid>
+      <guid>http://damien.co/mobile-marketing/say-hello-to-10000000-little-downloads-of-mobile-apps-2577/</guid>
       <description>It was only earlier this week that Apple’s homepage changed to advertise the fact that a 10 billion milestone was soon to be reached.
 It wouldn’t be insane to think that 10 billion app downloads is a milestone and a half – no other app store or mobile operator portal has reported such impressive download figures.
 In other recent news e-marketer reckoned that we all had a collective average of 60 of these apps on our smartphones — that’s a lot of games, news, branded content and generally important little bits of code on our phones.</description>
@@ -156,115 +156,115 @@ In other recent news e-marketer reckoned that we all had a collective average of
     
     <item>
       <title>Apple Mac App Store initially I was dubious</title>
-      <link>https://damien.co/blog/insights-blog/apple-mac-app-store-initially-i-was-dubious-2529/</link>
+      <link>http://damien.co/blog/insights-blog/apple-mac-app-store-initially-i-was-dubious-2529/</link>
       <pubDate>Fri, 07 Jan 2011 09:50:26 +0000</pubDate>
       
-      <guid>https://damien.co/blog/insights-blog/apple-mac-app-store-initially-i-was-dubious-2529/</guid>
+      <guid>http://damien.co/blog/insights-blog/apple-mac-app-store-initially-i-was-dubious-2529/</guid>
       <description>Initially I was dubious or even skeptical about the new Apple Mac App Store – and everyone from Mashableto ReadWriteWebto Download Squadhave already done a post about first thoughts or white washed the Apple PR news item.
 Things that are surprising in the Mac App Store I was surprised to find this week that Mobile App Developers are using this as the opportunity to port their Apps off of the phone to the desktop.</description>
     </item>
     
     <item>
       <title>Apple Mac App Store an imperfect tool for small apps developers?</title>
-      <link>https://damien.co/startup/apple-mac-app-store-an-imperfect-tool-for-small-apps-developers-2481/</link>
+      <link>http://damien.co/startup/apple-mac-app-store-an-imperfect-tool-for-small-apps-developers-2481/</link>
       <pubDate>Wed, 05 Jan 2011 10:26:32 +0000</pubDate>
       
-      <guid>https://damien.co/startup/apple-mac-app-store-an-imperfect-tool-for-small-apps-developers-2481/</guid>
+      <guid>http://damien.co/startup/apple-mac-app-store-an-imperfect-tool-for-small-apps-developers-2481/</guid>
       <description>Apple’s new Mac App Store arrives on January 6 and it could be the perfect tool for small app developers and a welcome boost in hybrid web-app startups. That said — Does your business or client want their marketing and product development strategy to be led by Apple’s App Store?
 Mac App Store key features for Users Customers of the Mac App Store (eg anyone owning a Mac) will think this is a really useful new system tool.</description>
     </item>
     
     <item>
       <title>Just installed Office for Mac 2011- first thoughts</title>
-      <link>https://damien.co/general/just-installed-office-for-mac-2011-first-thoughts-1755/</link>
+      <link>http://damien.co/general/just-installed-office-for-mac-2011-first-thoughts-1755/</link>
       <pubDate>Wed, 27 Oct 2010 13:47:52 +0000</pubDate>
       
-      <guid>https://damien.co/general/just-installed-office-for-mac-2011-first-thoughts-1755/</guid>
+      <guid>http://damien.co/general/just-installed-office-for-mac-2011-first-thoughts-1755/</guid>
       <description>So .. Thanks to Amazon and Royal Mail at 730am I received my copy of Office for Mac 2011. Most obvious change is that the floating palette or toolbox is gone, replaced by the Ribbon which has been in Windows Version for a few years.
 It now seems way way faster … Once one office app is open, the others open bleedingly fast. So they must now share more of a common backend.</description>
     </item>
     
     <item>
       <title>iWork &amp;#8211; Pages I don&amp;#039;t like</title>
-      <link>https://damien.co/general/iwork-pages-i-dont-like-1687/</link>
+      <link>http://damien.co/general/iwork-pages-i-dont-like-1687/</link>
       <pubDate>Tue, 05 Oct 2010 17:00:00 +0000</pubDate>
       
-      <guid>https://damien.co/general/iwork-pages-i-dont-like-1687/</guid>
+      <guid>http://damien.co/general/iwork-pages-i-dont-like-1687/</guid>
       <description>I started the week with the ambition to just use iWork for a week. Today’s Tuesday and now I see the #failure of such a challenge.iWork Pages can’t convert Word documents so easily I’ve been sent a word document to review for a friend – that should be easy as iWork opens Microsoft Office Word .docx formats. The document opens ok … but the content has been placed into separate textblocks on the page just like any traditional desktop publishing app would do – but of course this was supposed to be a document that needed to be cleaned up.</description>
     </item>
     
     <item>
       <title>Challenge of the week &amp;#8211; Can I get by with iWork alone</title>
-      <link>https://damien.co/general/challenge-of-the-week-can-i-get-by-with-iwork-alone-1680/</link>
+      <link>http://damien.co/general/challenge-of-the-week-can-i-get-by-with-iwork-alone-1680/</link>
       <pubDate>Mon, 04 Oct 2010 09:00:00 +0000</pubDate>
       
-      <guid>https://damien.co/general/challenge-of-the-week-can-i-get-by-with-iwork-alone-1680/</guid>
+      <guid>http://damien.co/general/challenge-of-the-week-can-i-get-by-with-iwork-alone-1680/</guid>
       <description>Having cleaned up my Macbook Pro and reformatted the hard drive … I’m going to spend the week using iWorkfor all my document needs. I’m a smart guy … I know I love Office for Mac(powerpoint makes any presentation look hot) – but maybe I can be doing sexy presentations in Keynote instead.So I’ve not got Office on my Mac and will let you know – I anticipate that I’ll be frustrated by Pages and its desktop publishing layouts but I should get used to that quickly.</description>
     </item>
     
     <item>
       <title>Insert Disc &amp;amp; Press Enter to Format</title>
-      <link>https://damien.co/general/insert-disc-press-enter-to-format-1674/</link>
+      <link>http://damien.co/general/insert-disc-press-enter-to-format-1674/</link>
       <pubDate>Sat, 02 Oct 2010 15:00:46 +0000</pubDate>
       
-      <guid>https://damien.co/general/insert-disc-press-enter-to-format-1674/</guid>
+      <guid>http://damien.co/general/insert-disc-press-enter-to-format-1674/</guid>
       <description>Some old habits die hardand so last night I reformatted my 18 month old macbook pro. I had felt that it was starting to run a bit slow than ‘normal’ and I recently had a problem with a kernel panic (caused when testing a up to 21mb USB modem). So I have a ‘clean’ new computer and that has also given me a chance to think about what to reinstall.</description>
     </item>
     
     <item>
       <title>Android Market would benefit Developer instead of Apple App Certification?</title>
-      <link>https://damien.co/blog/android/android-market-benefits-developer-apples-app-certification-515/</link>
+      <link>http://damien.co/blog/android/android-market-benefits-developer-apples-app-certification-515/</link>
       <pubDate>Thu, 04 Mar 2010 22:29:32 +0000</pubDate>
       
-      <guid>https://damien.co/blog/android/android-market-benefits-developer-apples-app-certification-515/</guid>
+      <guid>http://damien.co/blog/android/android-market-benefits-developer-apples-app-certification-515/</guid>
       <description>Develop apps for Android or develop mobile apps for Apple, some days its hard to figure out just what to do. On this website I’ve written a lot on Android phones and apps.Around 6000 apps have been removed from the Apple store recently due to their erotic nature. It’s not that Android Market has no quality control – Adult or Erotic does not exist as a content category in Android Market but dating apps or other soft-porn apps so far have not shown huge growth (ahem) on Android.</description>
     </item>
     
     <item>
       <title>Where to start building mobile apps for large screens &amp;#8211; mobile agencies beware</title>
-      <link>https://damien.co/mobile-marketing/where-to-start-building-mobile-apps-for-large-screens-mobile-agencies-beware-422/</link>
+      <link>http://damien.co/mobile-marketing/where-to-start-building-mobile-apps-for-large-screens-mobile-agencies-beware-422/</link>
       <pubDate>Thu, 28 Jan 2010 15:28:57 +0000</pubDate>
       
-      <guid>https://damien.co/mobile-marketing/where-to-start-building-mobile-apps-for-large-screens-mobile-agencies-beware-422/</guid>
+      <guid>http://damien.co/mobile-marketing/where-to-start-building-mobile-apps-for-large-screens-mobile-agencies-beware-422/</guid>
       <description>Where to start with building a mobile app or going mobile has been a popular topic for some time. Many FMCG brands and agencies are requesting only quotes for mobile apps – forgetting the less popular java app or branded mobile game. At the expense of budget – haha – focusing on a mobile app can be a costly exercise starting from about 10k to 100k plus.
 Marketing Agencies and their Brands need to go and reconsider their mobile strategy – and if you’ve already built a mobile app – you maybe disappointed how it looks on the larger screen devices.</description>
     </item>
     
     <item>
       <title>Best Apps for your Mac &amp;#8211; after a clean install</title>
-      <link>https://damien.co/general/best-apps-for-your-mac-after-a-clean-install-372/</link>
+      <link>http://damien.co/general/best-apps-for-your-mac-after-a-clean-install-372/</link>
       <pubDate>Sun, 29 Nov 2009 15:41:38 +0000</pubDate>
       
-      <guid>https://damien.co/general/best-apps-for-your-mac-after-a-clean-install-372/</guid>
+      <guid>http://damien.co/general/best-apps-for-your-mac-after-a-clean-install-372/</guid>
       <description>So I have had to rebuild my Mac running OS X 10.6 Snow Leopard 3 times in the past 2 days after having problems with a t-mobile usb modem which corrupts the hard drive.Here’s the short list of my favourite, can’t live without em, just got to install them apps:
 Best Apps for your Mac  ClamXav – still the best and most recommended free virus protection for your mac Adium – pronounced like stadium, this is the multi chat application for the mac Skype – for free calls to the office and home Dropbox – for sharing files between the office and clients Mac Office 2008 – word, powerpoint and to some extent excel, because all my templates are Office based and the guys in the office use PC’s.</description>
     </item>
     
     <item>
       <title>Could it be Tesco Mobile selling iPhone? or just Tesco Supermarkets</title>
-      <link>https://damien.co/general/could-it-be-tesco-mobile-selling-iphone-or-just-tesco-supermarkets-368/</link>
+      <link>http://damien.co/general/could-it-be-tesco-mobile-selling-iphone-or-just-tesco-supermarkets-368/</link>
       <pubDate>Thu, 26 Nov 2009 11:00:07 +0000</pubDate>
       
-      <guid>https://damien.co/general/could-it-be-tesco-mobile-selling-iphone-or-just-tesco-supermarkets-368/</guid>
+      <guid>http://damien.co/general/could-it-be-tesco-mobile-selling-iphone-or-just-tesco-supermarkets-368/</guid>
       <description>Sounds like good news in the UK market ‘opening’ up to more distribution channels for the iPhone. Tesco’s annouced it plans to start selling the iPhone by the end of the year and promised to add value to the market, where prices are stagnating between O2 and Orange.
 What this means is that Tesco will be just another distributor like the Carphone Warehouse — and so at first, it didn’t seem clear if customers will have a choice of O2 or Orange.</description>
     </item>
     
     <item>
       <title>Does building an iPhone App make cents? sense?</title>
-      <link>https://damien.co/general/does-building-an-iphone-make-cents-sense-348/</link>
+      <link>http://damien.co/general/does-building-an-iphone-make-cents-sense-348/</link>
       <pubDate>Mon, 02 Nov 2009 19:36:42 +0000</pubDate>
       
-      <guid>https://damien.co/general/does-building-an-iphone-make-cents-sense-348/</guid>
+      <guid>http://damien.co/general/does-building-an-iphone-make-cents-sense-348/</guid>
       <description>With the boom in the number of apps in the App Store (over 100,000) and total downloads in excess of 2bn … someone has got to be making money … right?In part, the iPhone does offer a better platform for apps – it’s about to overtake RIM as the leading consumer smartphone, sold more than 34 million units and got some of the highest mobile internet usage rates we’ve seen so far.</description>
     </item>
     
     <item>
       <title>MacOSx Converts: XNJB get your Creative audio player to charge on a Mac</title>
-      <link>https://damien.co/general/macosx-converts-xnjb-get-your-creative-audio-player-to-charge-on-a-mac-331/</link>
+      <link>http://damien.co/general/macosx-converts-xnjb-get-your-creative-audio-player-to-charge-on-a-mac-331/</link>
       <pubDate>Mon, 26 Oct 2009 15:05:39 +0000</pubDate>
       
-      <guid>https://damien.co/general/macosx-converts-xnjb-get-your-creative-audio-player-to-charge-on-a-mac-331/</guid>
+      <guid>http://damien.co/general/macosx-converts-xnjb-get-your-creative-audio-player-to-charge-on-a-mac-331/</guid>
       <description>XNJB: is the app of the day for people who have used MP3 players from Creative technology. Moving to a Mac I was at a lose as to how to copy music to my Creative Zen and how to charge my Creative on my Mac.
 This is where XNJB comes to the rescue and lets you copy music or charge your Creative while running Mac OSX 10.6 Snow Leopard.
 XNJB should be bundled with Creative Media Players … after all these years and all the marketing hype around the Mac not having official support for Mac is sometimes a death knell or ‘dirge’ for any brand.</description>
@@ -272,20 +272,20 @@ XNJB should be bundled with Creative Media Players … after all these years and
     
     <item>
       <title>An Apple a Day &amp;#8230; more operators to sell iPhone</title>
-      <link>https://damien.co/general/an-apple-a-day-more-operators-to-sell-iphone-325/</link>
+      <link>http://damien.co/general/an-apple-a-day-more-operators-to-sell-iphone-325/</link>
       <pubDate>Tue, 29 Sep 2009 16:00:22 +0000</pubDate>
       
-      <guid>https://damien.co/general/an-apple-a-day-more-operators-to-sell-iphone-325/</guid>
+      <guid>http://damien.co/general/an-apple-a-day-more-operators-to-sell-iphone-325/</guid>
       <description>Following on yesterday’s news that Orange Uk will start selling iPhone … ending O2 / Telefonica’s virtual monopoly in the UK. Today, Vodafone in UK and Ireland announced their plans to sell Apple iPhones.
 Good news for the operators? well ending the monopoly of iPhone was a good move. An operator with a data usage strategy will want to be selling iPhones along side other data hungry phones like RIM, Android, Symbian devices.</description>
     </item>
     
     <item>
       <title>Mac OSx Convert &amp;#8211; Office tip move between documents</title>
-      <link>https://damien.co/general/mac-osx-convert-office-tip-move-between-documents-308/</link>
+      <link>http://damien.co/general/mac-osx-convert-office-tip-move-between-documents-308/</link>
       <pubDate>Wed, 23 Sep 2009 23:47:29 +0000</pubDate>
       
-      <guid>https://damien.co/general/mac-osx-convert-office-tip-move-between-documents-308/</guid>
+      <guid>http://damien.co/general/mac-osx-convert-office-tip-move-between-documents-308/</guid>
       <description>Here’s a quick one for you … how do you switch between a number of open documents in Word or Excel?
 The quick Mac way is CMD + `
 The Windows Office way was Pressing F6
@@ -294,29 +294,29 @@ If you still want to do this … on the Mac then you have to press FN + Shift + 
     
     <item>
       <title>Mac OSx Convert Tip of the Day &amp;#8211; Screenshots</title>
-      <link>https://damien.co/general/mac-osx-convert-tip-of-the-day-screenshots-302/</link>
+      <link>http://damien.co/general/mac-osx-convert-tip-of-the-day-screenshots-302/</link>
       <pubDate>Mon, 21 Sep 2009 18:51:02 +0000</pubDate>
       
-      <guid>https://damien.co/general/mac-osx-convert-tip-of-the-day-screenshots-302/</guid>
+      <guid>http://damien.co/general/mac-osx-convert-tip-of-the-day-screenshots-302/</guid>
       <description>The snipping tool has to be one of the best features introduced into Windows Vista (except for the nasty red line around the pictures). PRT-SCRN is now a thing of the past. But what do you do when your Mac doesnt even have a PRT SCRN key? Press any key ? ? ? ?
 CMD+SHIFT+4 is the combination to remember .. and then press the space bar if you want a screen shot of the current window</description>
     </item>
     
     <item>
       <title>Group Review: Manage your CD library collection on a Mac</title>
-      <link>https://damien.co/general/cd-library-management-283/</link>
+      <link>http://damien.co/general/cd-library-management-283/</link>
       <pubDate>Sun, 20 Sep 2009 19:54:18 +0000</pubDate>
       
-      <guid>https://damien.co/general/cd-library-management-283/</guid>
+      <guid>http://damien.co/general/cd-library-management-283/</guid>
       <description>Now that you’ve ripped and digitised all of your CD library – what do you do with your CD’s? One idea is to create a catalogue and then you can box or put away (or recycle) your CD’s and DVD’s giving you much more space to fill with books, CD’s or other stuff.If you’re like me, I’ve been ripping all my CD’s for years and the CD and cases were just collecting dust in my room.</description>
     </item>
     
     <item>
       <title>Mac OSx Convert Tip of the Day &amp;#8211; keyboard shortcuts</title>
-      <link>https://damien.co/general/mac-osx-convert-tip-of-the-day-keyboard-shortcuts-287/</link>
+      <link>http://damien.co/general/mac-osx-convert-tip-of-the-day-keyboard-shortcuts-287/</link>
       <pubDate>Sun, 20 Sep 2009 19:26:51 +0000</pubDate>
       
-      <guid>https://damien.co/general/mac-osx-convert-tip-of-the-day-keyboard-shortcuts-287/</guid>
+      <guid>http://damien.co/general/mac-osx-convert-tip-of-the-day-keyboard-shortcuts-287/</guid>
       <description>The Mac OSx Convert has been reading up various selections of 101 of the best (or worst) OSx tips. Many of these tips don’t address the Keyboard shortcuts … on the newer Macbooks first tip is always press the Fn key to access function keys in the top row.
 Best tip of the day … here’s a long list from Apple of the Keyboard Shortcuts
 http://support.apple.com/kb/HT1343</description>
@@ -324,20 +324,20 @@ http://support.apple.com/kb/HT1343</description>
     
     <item>
       <title>Tip from a Windows Convert: Office for Mac &amp;#8211; Excel Keyboard Shortcut</title>
-      <link>https://damien.co/general/tip-from-a-windows-convert-office-for-mac-excel-keyboard-shortcut-269/</link>
+      <link>http://damien.co/general/tip-from-a-windows-convert-office-for-mac-excel-keyboard-shortcut-269/</link>
       <pubDate>Thu, 20 Aug 2009 12:12:26 +0000</pubDate>
       
-      <guid>https://damien.co/general/tip-from-a-windows-convert-office-for-mac-excel-keyboard-shortcut-269/</guid>
+      <guid>http://damien.co/general/tip-from-a-windows-convert-office-for-mac-excel-keyboard-shortcut-269/</guid>
       <description>I’ve been using keyboard shortcuts for Microsoft Office on Windows for years. So here I am now using Mac Office on a Macbook Pro and still trying to figure out how to get around the keyboard.Tip of the Day – Windows Excel Alt+Enter and in Mac Office Excel keyboard shortcut is Fn+Ctrl+Alt
 This adds a carriage return within the current cell and its great for doing long text entry in 1 cell.</description>
     </item>
     
     <item>
       <title>Upgrading to Virtualbox 3.0 and Mac OSx hosts</title>
-      <link>https://damien.co/general/upgrading-to-virtualbox-3-0-and-mac-osx-hosts-222/</link>
+      <link>http://damien.co/general/upgrading-to-virtualbox-3-0-and-mac-osx-hosts-222/</link>
       <pubDate>Fri, 10 Jul 2009 14:45:06 +0000</pubDate>
       
-      <guid>https://damien.co/general/upgrading-to-virtualbox-3-0-and-mac-osx-hosts-222/</guid>
+      <guid>http://damien.co/general/upgrading-to-virtualbox-3-0-and-mac-osx-hosts-222/</guid>
       <description>Assuming you have been using Virtualbox before, then the upgrade process to Virtualbox 3 is going to be easy and smooth sailing.
 For first time users of Virtualbox or in fact virtualisation who are using a Mac OSx then you should read my earlier posts on how to get going. These are:
   15 minute guide to running Windows 7 RC on a Mac and
@@ -346,40 +346,40 @@ For first time users of Virtualbox or in fact virtualisation who are using a Mac
     
     <item>
       <title>Blow out the candles &amp;#8211; Happy 1st Birthday Apple Apps Store</title>
-      <link>https://damien.co/general/blow-out-the-candles-happy-1st-birthday-apple-apps-store-213/</link>
+      <link>http://damien.co/general/blow-out-the-candles-happy-1st-birthday-apple-apps-store-213/</link>
       <pubDate>Tue, 07 Jul 2009 20:55:35 +0000</pubDate>
       
-      <guid>https://damien.co/general/blow-out-the-candles-happy-1st-birthday-apple-apps-store-213/</guid>
+      <guid>http://damien.co/general/blow-out-the-candles-happy-1st-birthday-apple-apps-store-213/</guid>
       <description>So its Happy Birthday to Apple and its App Store – 1 year old. Its created a new industry and probably will change the way everyone digests content – now that everything has an app or a widget you dont need to browse for it.
 Except for Search – Apple and the Apps store has changed how mobile phone manufacturers think about content like Nokia, RIM and Sony Ericsson all launched (or launching) app stores in the past 3 months.</description>
     </item>
     
     <item>
       <title>15 minute guide to Virtualbox Windows 7 RC1 and your Mac</title>
-      <link>https://damien.co/general/15-minute-guide-to-running-windows-7-rc1-on-a-mac-180/</link>
+      <link>http://damien.co/general/15-minute-guide-to-running-windows-7-rc1-on-a-mac-180/</link>
       <pubDate>Sun, 17 May 2009 20:05:38 +0000</pubDate>
       
-      <guid>https://damien.co/general/15-minute-guide-to-running-windows-7-rc1-on-a-mac-180/</guid>
+      <guid>http://damien.co/general/15-minute-guide-to-running-windows-7-rc1-on-a-mac-180/</guid>
       <description>So this follows an earlier post of mine about Virtualbox and running Windows XP on a Macbook Pro. Virtualbox is a great piece of software for running virtual operating systems on another machine (like runing Windows 7 on a Mac OSX).Today’s guide shows that you can be up n running with Windows 7 RC in about 15 minutes … thats got to be good ??
 So Grab your Windows 7 RC1 ISO file from the Windows website, grab a copy of Virtualbox for Mac and get going.</description>
     </item>
     
     <item>
       <title>Tips on Changing Settings for Virtualbox on a Mac Laptop</title>
-      <link>https://damien.co/general/tips-on-changing-settings-for-virtualbox-on-a-mac-laptop-159/</link>
+      <link>http://damien.co/general/tips-on-changing-settings-for-virtualbox-on-a-mac-laptop-159/</link>
       <pubDate>Mon, 13 Apr 2009 20:12:34 +0000</pubDate>
       
-      <guid>https://damien.co/general/tips-on-changing-settings-for-virtualbox-on-a-mac-laptop-159/</guid>
+      <guid>http://damien.co/general/tips-on-changing-settings-for-virtualbox-on-a-mac-laptop-159/</guid>
       <description>This covers basic settings on a Mac Laptop Intel running osx … Running Virtualbox, the freeware virtualisation software on any computer can be easy – and there are a number of internet based support forums. Getting your head around the settings for Virtualbox can be a bit harder.
 Virtualbox is configurable from its GUI interface and also has a larger set of command line options, which are all covered in the userguide on the Virtualbox download site</description>
     </item>
     
     <item>
       <title>Apple to standardise iTunes prices in Europe</title>
-      <link>https://damien.co/general/apple-to-standardise-itunes-prices-in-europe-69/</link>
+      <link>http://damien.co/general/apple-to-standardise-itunes-prices-in-europe-69/</link>
       <pubDate>Wed, 09 Jan 2008 15:08:59 +0000</pubDate>
       
-      <guid>https://damien.co/general/apple-to-standardise-itunes-prices-in-europe-69/</guid>
+      <guid>http://damien.co/general/apple-to-standardise-itunes-prices-in-europe-69/</guid>
       <description> comment: The reason that Apple charges different retail prices in each market is due to the differences in wholesale prices charged in each market by the major labels. Apple could use this as leverage against the labels to lower their prices in all major EU markets
  </description>
     </item>

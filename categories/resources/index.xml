@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources on Damien Saunders</title>
-    <link>https://damien.co/categories/resources/</link>
+    <link>http://damien.co/categories/resources/</link>
     <description>Recent content in Resources on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 14 Apr 2014 14:43:46 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/categories/resources/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/categories/resources/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Trello example board - House Buying in the UK</title>
-      <link>https://damien.co/blog/2014-04-14-trello-example-house-buying-uk/</link>
+      <link>http://damien.co/blog/2014-04-14-trello-example-house-buying-uk/</link>
       <pubDate>Mon, 14 Apr 2014 14:43:46 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2014-04-14-trello-example-house-buying-uk/</guid>
+      <guid>http://damien.co/blog/2014-04-14-trello-example-house-buying-uk/</guid>
       <description>Trello is one of my favourite tools for project planning and also time wasting - I guess you can spend hours planning your life (ha ha).
 I&amp;rsquo;ve put together a sample board for anyone wanting to use Trello to help manage their house purchase. It&amp;rsquo;s pretty specific for 1st time buyers / renters but you can adapt it.</description>
     </item>
     
     <item>
       <title>Can I get at WordPress code from inside a Selenium test?</title>
-      <link>https://damien.co/resources/can-i-get-at-wordpress-code-from-inside-a-selenium-test-7973/</link>
+      <link>http://damien.co/resources/can-i-get-at-wordpress-code-from-inside-a-selenium-test-7973/</link>
       <pubDate>Thu, 25 Oct 2012 13:27:55 +0000</pubDate>
       
-      <guid>https://damien.co/resources/can-i-get-at-wordpress-code-from-inside-a-selenium-test-7973/</guid>
+      <guid>http://damien.co/resources/can-i-get-at-wordpress-code-from-inside-a-selenium-test-7973/</guid>
       <description>There are many ways to skin a cat and trying to use Selenium with WordPress CLI is new to me. Essentially, WordPress is ‘just’ a dynamic website using a SQL database with some themes and plugin files behind it.
 Selenium is designed as a frontend browser test tool so keep that in mind for a minute and I assume you mean Selenium IDE. The result would be very brittle test cases if you built something up with Selenium IDE + WordPress CLI.</description>
     </item>
     
     <item>
       <title>Key trends in mobile usage from the UK</title>
-      <link>https://damien.co/blog/2012-07-18-key-trends-in-mobile-usage-from-the-uk/</link>
+      <link>http://damien.co/blog/2012-07-18-key-trends-in-mobile-usage-from-the-uk/</link>
       <pubDate>Wed, 18 Jul 2012 15:23:16 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-07-18-key-trends-in-mobile-usage-from-the-uk/</guid>
+      <guid>http://damien.co/blog/2012-07-18-key-trends-in-mobile-usage-from-the-uk/</guid>
       <description>Mobile usage in the UK is on the increase. That’s all sounding good so far.
 The latest communications report from Ofcom has shown a year on year growth of 1.6 million mobiles and the biggest growth in postpaid subscribers due to more customers taking out contracts for smartphones.
 Want to download this for free? Read to the end of the presentation and copy the discount coupon code.</description>
@@ -44,10 +44,10 @@ Want to download this for free? Read to the end of the presentation and copy the
     
     <item>
       <title>HOW TO: Install Chromedriver for Mac OS X / Selenium / Python</title>
-      <link>https://damien.co/resources/how-to-install-chromedriver-mac-os-x-selenium-python-7406/</link>
+      <link>http://damien.co/resources/how-to-install-chromedriver-mac-os-x-selenium-python-7406/</link>
       <pubDate>Thu, 28 Jun 2012 14:29:43 +0000</pubDate>
       
-      <guid>https://damien.co/resources/how-to-install-chromedriver-mac-os-x-selenium-python-7406/</guid>
+      <guid>http://damien.co/resources/how-to-install-chromedriver-mac-os-x-selenium-python-7406/</guid>
       <description>Selenium is great for automated testing of web-apps and I’ve been using the Firefox extension Selenium IDE for a few months now.
 For completeness of automated testing for web apps you need to do this in a number of different browsers which Selenium IDE doesn’t do. So you’ll need to download and install Selenium on your Mac.
 Download Chromedriver to your Mac Head over to the Chromedriver Project page and download the latest package.</description>
@@ -55,20 +55,20 @@ Download Chromedriver to your Mac Head over to the Chromedriver Project page and
     
     <item>
       <title>HOW TO: Get started with Selenium 2 for Mac OS X / Java</title>
-      <link>https://damien.co/resources/how-to-get-started-selenium-2-mac-os-x-java-7403/</link>
+      <link>http://damien.co/resources/how-to-get-started-selenium-2-mac-os-x-java-7403/</link>
       <pubDate>Wed, 27 Jun 2012 13:02:01 +0000</pubDate>
       
-      <guid>https://damien.co/resources/how-to-get-started-selenium-2-mac-os-x-java-7403/</guid>
+      <guid>http://damien.co/resources/how-to-get-started-selenium-2-mac-os-x-java-7403/</guid>
       <description>If you own a Mac and want to get started with Selenium for Automated Testing of your web apps, then you’re already most of the way there. The Mac operating system already offers a number of baked in solutions and command line tools like Python, Ruby and Java.
 Get started with Selenium IDE and Firefox Selenium IDE is a browser extension for Firefox. It’s useful to use this to create test cases so install this first.</description>
     </item>
     
     <item>
       <title>HOW TO: Install Selenium 2 for Mac OS X / Python</title>
-      <link>https://damien.co/resources/how-to-install-selenium-2-mac-os-x-python-7391/</link>
+      <link>http://damien.co/resources/how-to-install-selenium-2-mac-os-x-python-7391/</link>
       <pubDate>Sat, 23 Jun 2012 21:54:10 +0000</pubDate>
       
-      <guid>https://damien.co/resources/how-to-install-selenium-2-mac-os-x-python-7391/</guid>
+      <guid>http://damien.co/resources/how-to-install-selenium-2-mac-os-x-python-7391/</guid>
       <description>If you own a Mac and want to get started with Selenium for Automated Testing of your web apps, then you’re already most of the way there.
 The Mac operating system already offers a number of baked in solutions and command line tools like Python, Ruby and Java.
 How To Install Selenium on your Mac OSx Mac already has Python and a package manager called easy_install, so open Terminal and type</description>
@@ -76,10 +76,10 @@ How To Install Selenium on your Mac OSx Mac already has Python and a package man
     
     <item>
       <title>Web Application testing &amp;#8211; install Siege on Linux (or Mac OSx)</title>
-      <link>https://damien.co/resources/web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx-6011/</link>
+      <link>http://damien.co/resources/web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx-6011/</link>
       <pubDate>Tue, 22 May 2012 13:38:58 +0000</pubDate>
       
-      <guid>https://damien.co/resources/web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx-6011/</guid>
+      <guid>http://damien.co/resources/web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx-6011/</guid>
       <description>Siegeis a great tool for performance and load testing your web application. I’ve been using it for the past 6 months to test WordPress websites along with other web apps that we’ve been building.
 Use it to straighten out any kinks with applications like WordPress, learn if you’re server and database is flakey or prove that your CDN is super.
 Siege testing vs Apache Benchmark If you’ve used Apache Benchmark in Mac OSx or Linux then you’ll already have an idea what Siege can do.</description>
@@ -87,20 +87,20 @@ Siege testing vs Apache Benchmark If you’ve used Apache Benchmark in Mac OSx o
     
     <item>
       <title>Web Application &amp;#038; Automated Testing &amp;#8211; Firefox &amp;#038; Selenium IDE</title>
-      <link>https://damien.co/resources/web-application-automated-testing-firefox-selenium-ide-6979/</link>
+      <link>http://damien.co/resources/web-application-automated-testing-firefox-selenium-ide-6979/</link>
       <pubDate>Fri, 18 May 2012 09:56:53 +0000</pubDate>
       
-      <guid>https://damien.co/resources/web-application-automated-testing-firefox-selenium-ide-6979/</guid>
+      <guid>http://damien.co/resources/web-application-automated-testing-firefox-selenium-ide-6979/</guid>
       <description>I’ve just getting started automated testing with Selenium for a number of web appprojects that we’ve been developing lately. My background has been all about managing the project, test plans and manual test execution, so the learning curve is a bit steep.
 Automated testing fits in well with Agile and Scrum project management. Using Selenium IDE you can first create the test case, try it out manually and then when development is finished, you just run the automated test.</description>
     </item>
     
     <item>
       <title>Axure &amp;#8211; more on responsive designs</title>
-      <link>https://damien.co/resources/axure-more-on-responsive-designs-6657/</link>
+      <link>http://damien.co/resources/axure-more-on-responsive-designs-6657/</link>
       <pubDate>Tue, 10 Apr 2012 09:43:57 +0000</pubDate>
       
-      <guid>https://damien.co/resources/axure-more-on-responsive-designs-6657/</guid>
+      <guid>http://damien.co/resources/axure-more-on-responsive-designs-6657/</guid>
       <description>Axure is a really great tool for generating an interactive prototype and doing something more amazing with wireframes.
 I’m one step closer to something resembling the current state of responsive and I’ve updated my example of responsive design …. http://share.axure.com/VLO0IZ/If you read anything about responsive or mobile design then check out Luke Wroblewski as he proposes 4 device screen widths to design for.
 Using a centred layout with Axure you can cover ‘all’ devices larger then a 1024 / 960 grid (if that’s what you use) — so that’s 2 devices.</description>
@@ -108,10 +108,10 @@ Using a centred layout with Axure you can cover ‘all’ devices larger then a 
     
     <item>
       <title>Axure &amp;#8211; Responsive layout &amp;#038; browser width</title>
-      <link>https://damien.co/resources/axure-responsive-layout-browser-width-6548/</link>
+      <link>http://damien.co/resources/axure-responsive-layout-browser-width-6548/</link>
       <pubDate>Mon, 02 Apr 2012 13:33:25 +0000</pubDate>
       
-      <guid>https://damien.co/resources/axure-responsive-layout-browser-width-6548/</guid>
+      <guid>http://damien.co/resources/axure-responsive-layout-browser-width-6548/</guid>
       <description>I’ve been playing around with scroll spy and re-creating this effect in Axure. Now, I’ve started to tackle responsive layout and browser width.
 Axure is a great tool for making wireframes come to life … seriously. When you’re building a web or mobile application you’re better off with a complete clickable prototype then leaving your client guessing.
 Responsive layout in Axure 
@@ -120,10 +120,10 @@ This is a bit more complex – but start with a Dynamic Panel and (using the new
     
     <item>
       <title>Axure Sticky Nav &amp;#038; Scroll Spy part 2</title>
-      <link>https://damien.co/resources/axure-sticky-nav-scroll-spy-part-2-6286/</link>
+      <link>http://damien.co/resources/axure-sticky-nav-scroll-spy-part-2-6286/</link>
       <pubDate>Mon, 26 Mar 2012 11:00:22 +0000</pubDate>
       
-      <guid>https://damien.co/resources/axure-sticky-nav-scroll-spy-part-2-6286/</guid>
+      <guid>http://damien.co/resources/axure-sticky-nav-scroll-spy-part-2-6286/</guid>
       <description>I wanted another go at the scroll spy and sticky nav bar effect in Axure … which I previously wrote about. Reason being I like scroll spy and wanted to show a more complex and sensitive version.
 Axure Scroll Spy, Sticky Nav &amp;amp; Pin to Browser This latest Axure scroll spy exampleshow
  Header which sticks at the top Navbar which becomes sticky when you scroll Buttons that change selected state while you scroll  Image Map Regions I’ve make a lot of use of Image Map Regions to provide ‘feedback’ as you scroll.</description>
@@ -131,20 +131,20 @@ Axure Scroll Spy, Sticky Nav &amp;amp; Pin to Browser This latest Axure scroll s
     
     <item>
       <title>Axure &amp;#8211; Create Scroll Spy and Sticky Nav Bars like Twitter Bootstrap</title>
-      <link>https://damien.co/resources/axure-create-scroll-spy-and-sticky-nav-bars-like-twitter-bootstrap-6256/</link>
+      <link>http://damien.co/resources/axure-create-scroll-spy-and-sticky-nav-bars-like-twitter-bootstrap-6256/</link>
       <pubDate>Thu, 15 Mar 2012 10:09:25 +0000</pubDate>
       
-      <guid>https://damien.co/resources/axure-create-scroll-spy-and-sticky-nav-bars-like-twitter-bootstrap-6256/</guid>
+      <guid>http://damien.co/resources/axure-create-scroll-spy-and-sticky-nav-bars-like-twitter-bootstrap-6256/</guid>
       <description>Have you seen Twitter Bootstrapand liked scrollspy javascript? Perhaps you want to use it in Axure to create floating navbars and sticky toolbars?
 Are you impressed by Twitter Bootstrap? Some are, some aren’t – but I don’t know what the fuss is about – if you’ve got an amazing framework that is responsive and ready to go for your next startup – what’s not to love about it? It saves some design time and some development time.</description>
     </item>
     
     <item>
       <title>Axure Twitter Bootstrap Widget Library v0.1</title>
-      <link>https://damien.co/resources/axure-twitter-bootstrap-widget-library-v0-1-6219/</link>
+      <link>http://damien.co/resources/axure-twitter-bootstrap-widget-library-v0-1-6219/</link>
       <pubDate>Sat, 10 Mar 2012 22:35:53 +0000</pubDate>
       
-      <guid>https://damien.co/resources/axure-twitter-bootstrap-widget-library-v0-1-6219/</guid>
+      <guid>http://damien.co/resources/axure-twitter-bootstrap-widget-library-v0-1-6219/</guid>
       <description>Twitter Bootstrap provides a great CSS framework and design philosophy making it easy to get going with your new web-based enterprise. So it only seemed natural Axure needs a widget library for Twitter Bootstrap.
 
 Axurehas been my tool of choice for UX / UI wireframing and prototyping since July 2011. It was forced on me. Having been a fan of Omnigraffle and Balsamiq, I was resistant to change. Then I discovered the power of templates, generators and prototypes.</description>
@@ -152,20 +152,20 @@ Axurehas been my tool of choice for UX / UI wireframing and prototyping since Ju
     
     <item>
       <title>What are the key trends and insights for mobile usage? [presentation]</title>
-      <link>https://damien.co/resources/what-are-the-key-trends-and-insights-for-mobile-usage-presentation-4696/</link>
+      <link>http://damien.co/resources/what-are-the-key-trends-and-insights-for-mobile-usage-presentation-4696/</link>
       <pubDate>Mon, 14 Nov 2011 15:03:55 +0000</pubDate>
       
-      <guid>https://damien.co/resources/what-are-the-key-trends-and-insights-for-mobile-usage-presentation-4696/</guid>
+      <guid>http://damien.co/resources/what-are-the-key-trends-and-insights-for-mobile-usage-presentation-4696/</guid>
       <description>Need statistics or insights for key trends about mobile usage? Are you into mobile marketing or just wanting to understand more about how your customers use their smartphone …
 Then my latest presentation is here to help you. Let me not beat around the bush – I’ve not got a million dollar mobile platform to see you, but if you need great consultancy with a passion for mobile, then get in contact</description>
     </item>
     
     <item>
       <title>10 best downloads &amp;#038; other useful things</title>
-      <link>https://damien.co/resources/10-best-downloads-other-useful-things-4690/</link>
+      <link>http://damien.co/resources/10-best-downloads-other-useful-things-4690/</link>
       <pubDate>Sun, 13 Nov 2011 21:14:08 +0000</pubDate>
       
-      <guid>https://damien.co/resources/10-best-downloads-other-useful-things-4690/</guid>
+      <guid>http://damien.co/resources/10-best-downloads-other-useful-things-4690/</guid>
       <description>It’s time to catchup on some missed out reading and get out in the sun. So here is a collection of 10 of the best downloads, tools and other useful things that you love to read.
 So I’m not going to second guess these related posts – I’m sure there will be stuff about Foursquare and Social Media along with Axure, Balsamiq and things to do with wireframes.
 [related_posts limit=”10″]</description>
@@ -173,59 +173,59 @@ So I’m not going to second guess these related posts – I’m sure there will
     
     <item>
       <title>FREE DOWNLOAD Axure Wireframe &amp;#038; Prototype for iPad</title>
-      <link>https://damien.co/resources/free-download-axure-wireframe-prototype-for-ipad-4464/</link>
+      <link>http://damien.co/resources/free-download-axure-wireframe-prototype-for-ipad-4464/</link>
       <pubDate>Mon, 10 Oct 2011 11:45:39 +0000</pubDate>
       
-      <guid>https://damien.co/resources/free-download-axure-wireframe-prototype-for-ipad-4464/</guid>
+      <guid>http://damien.co/resources/free-download-axure-wireframe-prototype-for-ipad-4464/</guid>
       <description>I recently started using Axure for wire framing and creating clickable prototypes. I enjoyed it so much that I started to put together my own project for the Apple iPad with masters and a basic set of wireframes.
 FREE Download iPad Axure Project Yes, it’s a free download and can be used under Creative Commons – CC-Attribution and you can use it for commercial and non-commercial projects. Just let me know please.</description>
     </item>
     
     <item>
       <title>Using Axure for wireframes &amp;#038; user experience</title>
-      <link>https://damien.co/resources/using-axure-for-wireframes-user-experience-4430/</link>
+      <link>http://damien.co/resources/using-axure-for-wireframes-user-experience-4430/</link>
       <pubDate>Tue, 04 Oct 2011 12:57:16 +0000</pubDate>
       
-      <guid>https://damien.co/resources/using-axure-for-wireframes-user-experience-4430/</guid>
+      <guid>http://damien.co/resources/using-axure-for-wireframes-user-experience-4430/</guid>
       <description>Recently I discovered Axure as a tool for mapping user experience – and I have to say it’s pretty damn good. Given that its also able to generate clickable prototypes along with documentation like functional specifications this is more then pretty damn good. It’s a powerful tool – but if you’re building user journeys, wire framing and process flows can be easier to do in other tools.
 It’s hard to compare Axure to Balsamiq, Visio or Omnigraffle – particularly on price since Axure starts at around $580 per licence.</description>
     </item>
     
     <item>
       <title>A quick overview Balsamiq Mockups</title>
-      <link>https://damien.co/resources/a-quick-overview-balsamiq-mockups-3478/</link>
+      <link>http://damien.co/resources/a-quick-overview-balsamiq-mockups-3478/</link>
       <pubDate>Wed, 25 May 2011 11:20:52 +0000</pubDate>
       
-      <guid>https://damien.co/resources/a-quick-overview-balsamiq-mockups-3478/</guid>
+      <guid>http://damien.co/resources/a-quick-overview-balsamiq-mockups-3478/</guid>
       <description>Mobile user experience and interface design is tricky business at the best of time. You need tools and templates that can help quickly sketch or mockup what things will look like which is where Balsamiq comes in.
 Back in 2008 I started to use Balsamiq Mockups for sketches of mobile UX/UI for mobile operator content portals. This isn’t easy work at the best of times. Launched in June 2008, Mockups helps software designers and developers build great software by letting them easily sketch out their ideas, then quickly collaborate and iterate over them.</description>
     </item>
     
     <item>
       <title>Slideshare Featured presentation of the day – get started with Foursquare</title>
-      <link>https://damien.co/resources/slideshare-featured-presentation-of-the-day-get-started-with-foursquare-1938/</link>
+      <link>http://damien.co/resources/slideshare-featured-presentation-of-the-day-get-started-with-foursquare-1938/</link>
       <pubDate>Tue, 16 Nov 2010 11:51:33 +0000</pubDate>
       
-      <guid>https://damien.co/resources/slideshare-featured-presentation-of-the-day-get-started-with-foursquare-1938/</guid>
+      <guid>http://damien.co/resources/slideshare-featured-presentation-of-the-day-get-started-with-foursquare-1938/</guid>
       <description>Here’s my newest Guide to getting started with Foursquareand it was selected by Slideshareas featured presentation on their homepage and on their business marketing section.The cat was definitely out of the bag on this … it’s had more than 460nearly 1000 views in one dayand a number of new favourites
 Thanks to everyone for liking it!</description>
     </item>
     
     <item>
       <title>Case Study How to get 100 people in your retail store at the same time</title>
-      <link>https://damien.co/resources/case-study-how-to-get-100-people-in-your-retail-store-at-the-same-time-1932/</link>
+      <link>http://damien.co/resources/case-study-how-to-get-100-people-in-your-retail-store-at-the-same-time-1932/</link>
       <pubDate>Tue, 16 Nov 2010 09:30:03 +0000</pubDate>
       
-      <guid>https://damien.co/resources/case-study-how-to-get-100-people-in-your-retail-store-at-the-same-time-1932/</guid>
+      <guid>http://damien.co/resources/case-study-how-to-get-100-people-in-your-retail-store-at-the-same-time-1932/</guid>
       <description>Regular followers of my work, will have seen an earlier case study on Foursquare marketing for retail and I’ve recently been updating this. So this week there are a couple of posts on the Swarm Badge Party that was organised in Latvia.Client Brief Bite Latvija just opened a new technical advice and support centre dedicated to questions about mobile broadband, device configuration and helping people get the most from their mobile.</description>
     </item>
     
     <item>
       <title>Most Popular Posts – October</title>
-      <link>https://damien.co/resources/most-popular-posts-october-1870/</link>
+      <link>http://damien.co/resources/most-popular-posts-october-1870/</link>
       <pubDate>Sun, 07 Nov 2010 10:01:37 +0000</pubDate>
       
-      <guid>https://damien.co/resources/most-popular-posts-october-1870/</guid>
+      <guid>http://damien.co/resources/most-popular-posts-october-1870/</guid>
       <description>So it’s November – and that means cold days, cold nights and clear skies for fireworks!
 If you missed out reading some of the best social media news and stuff from October then try these:
   [ id=”1715″ type=”post”]Android – 4 of the best WiFi Apps[/]
@@ -236,29 +236,29 @@ If you missed out reading some of the best social media news and stuff from Octo
     
     <item>
       <title>How to get more people in your shop with Foursquare a Case Study</title>
-      <link>https://damien.co/resources/how-to-get-more-people-in-your-shop-with-foursquare-a-case-study-1723/</link>
+      <link>http://damien.co/resources/how-to-get-more-people-in-your-shop-with-foursquare-a-case-study-1723/</link>
       <pubDate>Mon, 18 Oct 2010 09:00:22 +0000</pubDate>
       
-      <guid>https://damien.co/resources/how-to-get-more-people-in-your-shop-with-foursquare-a-case-study-1723/</guid>
+      <guid>http://damien.co/resources/how-to-get-more-people-in-your-shop-with-foursquare-a-case-study-1723/</guid>
       <description>Have you been looking to use social media for marketing? Trying to think of creative ideas to get more people to visit your shops? Foursquare has a number of options for retailers to come up with engaging experiences to get more people in your shops.
 Foursquare Swarm Badge Party This social media case study for Bite Latvija, a mobile operator shows how Foursquare was used to launch their new technology support centre – this led to increase customer awareness and customer engagement.</description>
     </item>
     
     <item>
       <title>Why you need a social media policy</title>
-      <link>https://damien.co/resources/why-you-need-a-social-media-policy-1654/</link>
+      <link>http://damien.co/resources/why-you-need-a-social-media-policy-1654/</link>
       <pubDate>Tue, 28 Sep 2010 09:00:32 +0000</pubDate>
       
-      <guid>https://damien.co/resources/why-you-need-a-social-media-policy-1654/</guid>
+      <guid>http://damien.co/resources/why-you-need-a-social-media-policy-1654/</guid>
       <description>Are you responsible for using Twitter at your office? Or maybe you started answering questions from customers on Facebook … if so you should check what your company policy on social media says.Why You Need a Social Media Policy &amp;amp; What should it cover You need a policy to protect yourself and your company – that policy needs to recognise that we all use social media &amp;amp; social networks every day.</description>
     </item>
     
     <item>
       <title>August 2010 &amp;#8211; Most Popular Posts</title>
-      <link>https://damien.co/resources/august-2010-most-popular-posts-1446/</link>
+      <link>http://damien.co/resources/august-2010-most-popular-posts-1446/</link>
       <pubDate>Thu, 02 Sep 2010 11:00:18 +0000</pubDate>
       
-      <guid>https://damien.co/resources/august-2010-most-popular-posts-1446/</guid>
+      <guid>http://damien.co/resources/august-2010-most-popular-posts-1446/</guid>
       <description>So AUGUST has been and gone and now we are into September … already September has started out cold n wet for many people. If you missed some of the news and opinions from the past month, then here’s a reminder of what you enjoyed most:
 [ id=”1408″ type=”post”]5 Tips to using Foursquare in Retail Marketing[/]
 [ id=”1406″ type=”post”]Which Social Media experience is right for you?[/]
@@ -267,29 +267,29 @@ and in Vilnius this week – everyone went back to school!</description>
     
     <item>
       <title>Essential Collection to Get Started with Foursquare</title>
-      <link>https://damien.co/resources/essential-collection-to-get-started-with-foursquare-1301/</link>
+      <link>http://damien.co/resources/essential-collection-to-get-started-with-foursquare-1301/</link>
       <pubDate>Fri, 23 Jul 2010 15:00:03 +0000</pubDate>
       
-      <guid>https://damien.co/resources/essential-collection-to-get-started-with-foursquare-1301/</guid>
+      <guid>http://damien.co/resources/essential-collection-to-get-started-with-foursquare-1301/</guid>
       <description>If you’re new to _Foursquare_ or your business is wondering how to leverage geolocation social networks in areas like sales and marketing, customer service or retention then this _essential collection_ will help you to get started.Of course, when you first started using Facebook, Foursquare, Gowalla, MySpace, etc, etc your initial experience is about ‘what does this do for me’, not ‘what can my business do with this’. If your business is new to this then take a look at my social media marketing kit.</description>
     </item>
     
     <item>
       <title>Easy Guide to Social Media Marketing &amp;amp; Location</title>
-      <link>https://damien.co/resources/easy-guide-to-social-media-marketing-location-1316/</link>
+      <link>http://damien.co/resources/easy-guide-to-social-media-marketing-location-1316/</link>
       <pubDate>Mon, 19 Jul 2010 16:00:00 +0000</pubDate>
       
-      <guid>https://damien.co/resources/easy-guide-to-social-media-marketing-location-1316/</guid>
+      <guid>http://damien.co/resources/easy-guide-to-social-media-marketing-location-1316/</guid>
       <description>This easy guide to social media &amp;amp; location marketingwas something I published only to SlideShare – a new channel which has great potential for B2B digital marketing. This guide sums up key activities to get you started and is a bit of motivation that you can share with office colleagues. Key points include:
  Claim your Business on Foursquare Claim your Entry on Google Maps Create an Email Newsletter Create a Facebook Website Cross Promote using Twitter, Facebook and your website  </description>
     </item>
     
     <item>
       <title>8 Step Guide to Foursquare</title>
-      <link>https://damien.co/resources/8-step-guide-to-foursquare-1287/</link>
+      <link>http://damien.co/resources/8-step-guide-to-foursquare-1287/</link>
       <pubDate>Tue, 13 Jul 2010 11:00:28 +0000</pubDate>
       
-      <guid>https://damien.co/resources/8-step-guide-to-foursquare-1287/</guid>
+      <guid>http://damien.co/resources/8-step-guide-to-foursquare-1287/</guid>
       <description>
 With all the excitement of _Foursquare_ heading to 2,000,000 users this week it was time to post this 8 step guide to Foursquare to help you get started using this geo-location social network.8 Step Guide is a easy to follow and includes tips like:
  Claim your business Run Competitions for Customers Reward the Mayor Track your Checkins Cross promote Foursquare on Twitter, Facebook &amp;amp; your website  </description>
@@ -297,20 +297,20 @@ With all the excitement of _Foursquare_ heading to 2,000,000 users this week it 
     
     <item>
       <title>FREE Download Guide to installing Virtualbox and TinyXP on a Mac</title>
-      <link>https://damien.co/resources/free-download-guide-to-installing-virtualbox-and-tinyxp-on-a-mac-1098/</link>
+      <link>http://damien.co/resources/free-download-guide-to-installing-virtualbox-and-tinyxp-on-a-mac-1098/</link>
       <pubDate>Tue, 29 Jun 2010 09:00:01 +0000</pubDate>
       
-      <guid>https://damien.co/resources/free-download-guide-to-installing-virtualbox-and-tinyxp-on-a-mac-1098/</guid>
+      <guid>http://damien.co/resources/free-download-guide-to-installing-virtualbox-and-tinyxp-on-a-mac-1098/</guid>
       <description>If you’ve read any of my popular post on Virtualbox for a Mac you’ll know that they are short, easy to follow and up to date.
 Now I’ve updated it and created it as a PDF for your to download and have your own copy of my guide</description>
     </item>
     
     <item>
       <title>HOW TO install Virtualbox on Mac osx host &amp;amp; WinXp guest using TinyXP rev 09</title>
-      <link>https://damien.co/resources/how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09-132/</link>
+      <link>http://damien.co/resources/how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09-132/</link>
       <pubDate>Fri, 10 Apr 2009 23:50:53 +0000</pubDate>
       
-      <guid>https://damien.co/resources/how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09-132/</guid>
+      <guid>http://damien.co/resources/how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09-132/</guid>
       <description>Virtualbox is a dream freeware solution for anyone – novice to geek – who wants to run different computers inside their computer … virtual so to speak. Today I’ve been tinkering with getting Virtualbox working on a Mac laptop running WinXP.
 Virtualbox from Oracle Sunis a freeware, open source virtualisation application .. it comes in a number of flavours – I’ve previously used it to run WinXP guests inside WinXP hosts for testing and at work it was the only way to install things without having to go to the IT helpdesk.</description>
     </item>

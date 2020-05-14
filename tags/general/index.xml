@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General on Damien Saunders</title>
-    <link>https://damien.co/tags/general/</link>
+    <link>http://damien.co/tags/general/</link>
     <description>Recent content in General on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 11 May 2020 23:02:24 +0100</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/general/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/general/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello Hugo</title>
-      <link>https://damien.co/blog/2020-05-0-10-hello-hugo/</link>
+      <link>http://damien.co/blog/2020-05-0-10-hello-hugo/</link>
       <pubDate>Mon, 11 May 2020 23:02:24 +0100</pubDate>
       
-      <guid>https://damien.co/blog/2020-05-0-10-hello-hugo/</guid>
+      <guid>http://damien.co/blog/2020-05-0-10-hello-hugo/</guid>
       <description>Welcome &amp;hellip; and say Hello to Hugo.
 I&amp;rsquo;m sorry to say my love affair with WordPress is at an end. I moved on, and over the last few years, found maintaining my old site painful. It was time to move.
 It&amp;rsquo;s not all WordPress fault - I&amp;rsquo;ve had continue problems of short outages after my web host was bought out by another company. After migrating to a new server, I lost all my sub-domains so WordPress Multisite was of no use.</description>
@@ -24,20 +24,20 @@ It&amp;rsquo;s not all WordPress fault - I&amp;rsquo;ve had continue problems of
     
     <item>
       <title>2019 Where am I?</title>
-      <link>https://damien.co/blog/2019-04-28-2019-where-am-i/</link>
+      <link>http://damien.co/blog/2019-04-28-2019-where-am-i/</link>
       <pubDate>Sun, 28 Apr 2019 16:56:21 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2019-04-28-2019-where-am-i/</guid>
+      <guid>http://damien.co/blog/2019-04-28-2019-where-am-i/</guid>
       <description>Hi there. Yes, it&amp;rsquo;s been awhile, but I&amp;rsquo;m back and just trying to figure out what I will do with this site.
 In the meantime, social media and digital marketing has moved on; so most of my content is on Instagram. Don&amp;rsquo;t get me started about Twitter. Do people still use it? or just bots?</description>
     </item>
     
     <item>
       <title>Hello 2016</title>
-      <link>https://damien.co/general/hello-2016-9155/</link>
+      <link>http://damien.co/general/hello-2016-9155/</link>
       <pubDate>Tue, 09 Feb 2016 10:16:14 +0000</pubDate>
       
-      <guid>https://damien.co/general/hello-2016-9155/</guid>
+      <guid>http://damien.co/general/hello-2016-9155/</guid>
       <description>Hello - It&amp;rsquo;s been a long time and now I&amp;rsquo;m back.
 Things are going to change around here and I&amp;rsquo;ll be writing more about my experiences with SharePoint 2013 and less on WordPress.</description>
     </item>

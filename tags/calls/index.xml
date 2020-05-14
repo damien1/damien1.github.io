@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Calls on Damien Saunders</title>
-    <link>https://damien.co/tags/calls/</link>
+    <link>http://damien.co/tags/calls/</link>
     <description>Recent content in Calls on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 13 Apr 2010 16:18:09 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/calls/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/calls/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ZOHO CRM adds call logging for leads &amp;amp; contacts</title>
-      <link>https://damien.co/social-crm/zoho-crm-adds-call-logging-for-leads-contacts-862/</link>
+      <link>http://damien.co/social-crm/zoho-crm-adds-call-logging-for-leads-contacts-862/</link>
       <pubDate>Tue, 13 Apr 2010 16:18:09 +0000</pubDate>
       
-      <guid>https://damien.co/social-crm/zoho-crm-adds-call-logging-for-leads-contacts-862/</guid>
+      <guid>http://damien.co/social-crm/zoho-crm-adds-call-logging-for-leads-contacts-862/</guid>
       <description>ZOHO CRM a web based (SaaS) customer relationship management solution (CRM) recently added a bunch of new features. For sometime users were able to record events like meetings but now there is an easy way to record daily / regular contact like telephone calls.
 ****
 ZOHO CRM Call Logger The Call Logger button is on the view Contact Detail page

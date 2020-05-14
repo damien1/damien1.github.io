@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>permalinks on Damien Saunders</title>
-    <link>https://damien.co/tags/permalinks/</link>
+    <link>http://damien.co/tags/permalinks/</link>
     <description>Recent content in permalinks on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 19 Jan 2010 17:54:21 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/permalinks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/permalinks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to not impact your SEO and website traffic when changing WordPress Permalinks</title>
-      <link>https://damien.co/wordpress/how-to-not-impact-your-seo-and-website-traffic-when-changing-wordpress-permalinks-406/</link>
+      <link>http://damien.co/wordpress/how-to-not-impact-your-seo-and-website-traffic-when-changing-wordpress-permalinks-406/</link>
       <pubDate>Tue, 19 Jan 2010 17:54:21 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/how-to-not-impact-your-seo-and-website-traffic-when-changing-wordpress-permalinks-406/</guid>
+      <guid>http://damien.co/wordpress/how-to-not-impact-your-seo-and-website-traffic-when-changing-wordpress-permalinks-406/</guid>
       <description>Having made some changes to your wordpress permalinks, you can easily protect your web site traffic, SEO and search results from Google. This means you and your visitors get no 404 not found error.
 This wordpress plug-in looks at the incoming link URL structure and then redirects on the fly to the correct post with the new permalink structure.
 This didn’t make my list of Top 9 WordPress pluginsfor a new install – but if you are migrating a website this is critical.</description>

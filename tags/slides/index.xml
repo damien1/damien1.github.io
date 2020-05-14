@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>slides on Damien Saunders</title>
-    <link>https://damien.co/tags/slides/</link>
+    <link>http://damien.co/tags/slides/</link>
     <description>Recent content in slides on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 17 Jan 2012 11:30:49 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/slides/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/slides/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A couple more examples of impressive jQuery and JS</title>
-      <link>https://damien.co/blog/couple-more-examples-of-impressive-js-jquery-5974/</link>
+      <link>http://damien.co/blog/couple-more-examples-of-impressive-js-jquery-5974/</link>
       <pubDate>Tue, 17 Jan 2012 11:30:49 +0000</pubDate>
       
-      <guid>https://damien.co/blog/couple-more-examples-of-impressive-js-jquery-5974/</guid>
+      <guid>http://damien.co/blog/couple-more-examples-of-impressive-js-jquery-5974/</guid>
       <description>jQuery and Javascript may not be all that bad for you .. or your website.
 Recently I’ve been looking into fluid and responsive layouts for web design and I’ve been using a jQuery framework called Isotope on my blog page.
 Isotope looks like it can do magical things. If only I had the time to make it work properly.

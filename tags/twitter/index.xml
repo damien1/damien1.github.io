@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Twitter on Damien Saunders</title>
-    <link>https://damien.co/tags/twitter/</link>
+    <link>http://damien.co/tags/twitter/</link>
     <description>Recent content in Twitter on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 19 Mar 2013 11:31:15 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting Twitter URL&amp;#8217;s right with Bit.ly Shortlinks by Yoast</title>
-      <link>https://damien.co/blog/2012-10-10-getting-twitter-urls-right-with-bit-ly/</link>
+      <link>http://damien.co/blog/2012-10-10-getting-twitter-urls-right-with-bit-ly/</link>
       <pubDate>Wed, 10 Oct 2012 15:13:57 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-10-10-getting-twitter-urls-right-with-bit-ly/</guid>
+      <guid>http://damien.co/blog/2012-10-10-getting-twitter-urls-right-with-bit-ly/</guid>
       <description>Integrating Twitter with WordPress is pretty easy to do without a plugin. With a few lines of code you can have a nice tweet this or follow me button on every post or page of your WordPress website.
 However, the URL that is part of the Tweet is the permalink URL and for many sites you’ll want to Tweet a shortened URL. If like me, using Bit.ly and Yoast’s Bitly Shortlink plugin, you maybe wondering how to get your short Bit.</description>
     </item>
     
     <item>
       <title>Best tools to start with Social Media Marketing &amp;#8211; 2011 re-cap (where are they now)</title>
-      <link>https://damien.co/social-media-marketing-2/best-tools-to-start-with-social-media-marketing-2011-re-cap-where-are-they-now-7192/</link>
+      <link>http://damien.co/social-media-marketing-2/best-tools-to-start-with-social-media-marketing-2011-re-cap-where-are-they-now-7192/</link>
       <pubDate>Tue, 19 Jun 2012 14:29:49 +0000</pubDate>
       
-      <guid>https://damien.co/social-media-marketing-2/best-tools-to-start-with-social-media-marketing-2011-re-cap-where-are-they-now-7192/</guid>
+      <guid>http://damien.co/social-media-marketing-2/best-tools-to-start-with-social-media-marketing-2011-re-cap-where-are-they-now-7192/</guid>
       <description>[typography font=”Special Elite” size=”25″ size_format=”px”]If you’re just getting started with Social Media marketing then you need at least 1 web based tool to help you.[/typography]
 __In 2011, I wrote a great article on the best tools to start with Social Media Marketing. A year later, things have changed, so I wanted to look back at my 2011 suggestions to see where they are now.
 Keep track of your social media status and influence, albeit using Klout’s own scoring.</description>
@@ -34,10 +34,10 @@ Keep track of your social media status and influence, albeit using Klout’s o
     
     <item>
       <title>You can follow me on Twitter</title>
-      <link>https://damien.co/promo/you-can-follow-me-on-twitter-5473/</link>
+      <link>http://damien.co/promo/you-can-follow-me-on-twitter-5473/</link>
       <pubDate>Fri, 15 Jun 2012 23:30:37 +0000</pubDate>
       
-      <guid>https://damien.co/promo/you-can-follow-me-on-twitter-5473/</guid>
+      <guid>http://damien.co/promo/you-can-follow-me-on-twitter-5473/</guid>
       <description>Did you know that social media is more than just blogs and RSS feeds? Well I hope so.
 
 I have a following on Twitter that is &amp;lt;— this BIG —&amp;gt; which is a lot for little me. Maybe you prefer Twitter because you can dip in to the Twitterstream – maybe you should try following me.
@@ -46,10 +46,10 @@ What does Damien Saunders have to share on Twitter? Damien’s Twitter account i
     
     <item>
       <title>Twitter &amp;#8211; a few suggested alternatives to CoTweet or Hootsuite</title>
-      <link>https://damien.co/social-media/twitter/twitter-a-few-suggested-alternatives-to-cotweet-or-hootsuite-6680/</link>
+      <link>http://damien.co/social-media/twitter/twitter-a-few-suggested-alternatives-to-cotweet-or-hootsuite-6680/</link>
       <pubDate>Fri, 13 Apr 2012 12:53:32 +0000</pubDate>
       
-      <guid>https://damien.co/social-media/twitter/twitter-a-few-suggested-alternatives-to-cotweet-or-hootsuite-6680/</guid>
+      <guid>http://damien.co/social-media/twitter/twitter-a-few-suggested-alternatives-to-cotweet-or-hootsuite-6680/</guid>
       <description>Are you responsible for Twitter and Social Media in your business? Perhaps you’ve been feeling a bit lost after CoTweet closed its free version (shame on them) … here are a few alternatives you can look at
 HootSuite
 – yes I said alternative to CoTweet – personally, I like to use my own bit.ly Pro URL so this was not an option.
@@ -58,10 +58,10 @@ HootSuite
     
     <item>
       <title>You can follow me on Twitter</title>
-      <link>https://damien.co/promo/you-can-follow-me-on-twitter-3-5469/</link>
+      <link>http://damien.co/promo/you-can-follow-me-on-twitter-3-5469/</link>
       <pubDate>Fri, 10 Feb 2012 15:11:37 +0000</pubDate>
       
-      <guid>https://damien.co/promo/you-can-follow-me-on-twitter-3-5469/</guid>
+      <guid>http://damien.co/promo/you-can-follow-me-on-twitter-3-5469/</guid>
       <description>Did you know that social media is more than just blogs and RSS feeds? Well I hope so.
 
 I have a following on Twitter that is &amp;lt;— this BIG —&amp;gt; which is a lot for little me. Maybe you prefer Twitter because you can dip in to the Twitterstream – maybe you should try following me.
@@ -70,10 +70,10 @@ What does Damien Saunders have to share on Twitter? Damien’s Twitter account i
     
     <item>
       <title>You can follow me on Twitter</title>
-      <link>https://damien.co/promo/you-can-follow-me-on-twitter-2-5465/</link>
+      <link>http://damien.co/promo/you-can-follow-me-on-twitter-2-5465/</link>
       <pubDate>Sun, 15 Jan 2012 23:42:54 +0000</pubDate>
       
-      <guid>https://damien.co/promo/you-can-follow-me-on-twitter-2-5465/</guid>
+      <guid>http://damien.co/promo/you-can-follow-me-on-twitter-2-5465/</guid>
       <description>Did you know that social media is more than just blogs and RSS feeds? Well I hope so.
 
 I have a following on Twitter that is &amp;lt;— this BIG —&amp;gt; which is a lot for little me. Maybe you prefer Twitter because you can dip in to the Twitterstream – maybe you should try following me.
@@ -82,30 +82,30 @@ What does Damien Saunders have to share on Twitter? Damien’s Twitter account i
     
     <item>
       <title>HOW TO use Twitter for your startup</title>
-      <link>https://damien.co/startup/how-to-use-twitter-for-your-startup-2-1069/</link>
+      <link>http://damien.co/startup/how-to-use-twitter-for-your-startup-2-1069/</link>
       <pubDate>Mon, 14 Nov 2011 09:40:48 +0000</pubDate>
       
-      <guid>https://damien.co/startup/how-to-use-twitter-for-your-startup-2-1069/</guid>
+      <guid>http://damien.co/startup/how-to-use-twitter-for-your-startup-2-1069/</guid>
       <description>Twitter is a very powerful tool for any startup and I believe it is the first social network any would be entrepreneur needs to setup when launching their new business. The worst mistake any startup marketer will make is just tweeting “Hello World” without a plan.
 Make your Twitter Marketing Plan Any startup sales &amp;amp; marketing plan or marcomms plan needs to make the most of the 4 P’s – product place price promotion.</description>
     </item>
     
     <item>
       <title>Getting Twitter Tools to work with MarsEdit</title>
-      <link>https://damien.co/social-media/twitter/getting-twitter-tools-to-work-with-marsedit-2870/</link>
+      <link>http://damien.co/social-media/twitter/getting-twitter-tools-to-work-with-marsedit-2870/</link>
       <pubDate>Sun, 10 Apr 2011 20:13:30 +0000</pubDate>
       
-      <guid>https://damien.co/social-media/twitter/getting-twitter-tools-to-work-with-marsedit-2870/</guid>
+      <guid>http://damien.co/social-media/twitter/getting-twitter-tools-to-work-with-marsedit-2870/</guid>
       <description>Just wondering if this works — I’m trying to make MarsEdit work with a plugin that I love called TwitterTools
 If you know about this plugin and using external editors then let me know.</description>
     </item>
     
     <item>
       <title>Using Social Media takes 20% of your Australian day</title>
-      <link>https://damien.co/social-media/using-social-media-takes-20-of-your-australian-day-2786/</link>
+      <link>http://damien.co/social-media/using-social-media-takes-20-of-your-australian-day-2786/</link>
       <pubDate>Wed, 23 Feb 2011 09:25:49 +0000</pubDate>
       
-      <guid>https://damien.co/social-media/using-social-media-takes-20-of-your-australian-day-2786/</guid>
+      <guid>http://damien.co/social-media/using-social-media-takes-20-of-your-australian-day-2786/</guid>
       <description>Australians spend 1 in 5 minutes using social media sites. Social Networking usage was about 22% in December 2010 says comScore.
 The statistics reveal that Facebook, Twitter, LinkedIn are some of the most popular destinations. If you add into this instant messaging then the total rises to 35% – which is probably a more realistic definition of social networking.
 There is a presentation you can download with really good insights on internet usage across Australia.</description>
@@ -113,47 +113,47 @@ There is a presentation you can download with really good insights on internet u
     
     <item>
       <title>Twitter my recommendation don’t Auto Follow</title>
-      <link>https://damien.co/social-media/twitter/twitter-my-recommendation-dont-auto-follow-1863/</link>
+      <link>http://damien.co/social-media/twitter/twitter-my-recommendation-dont-auto-follow-1863/</link>
       <pubDate>Mon, 08 Nov 2010 09:46:00 +0000</pubDate>
       
-      <guid>https://damien.co/social-media/twitter/twitter-my-recommendation-dont-auto-follow-1863/</guid>
+      <guid>http://damien.co/social-media/twitter/twitter-my-recommendation-dont-auto-follow-1863/</guid>
       <description>Results Prove Dont Auto Follow I have not Auto-Followed Twitterers for some time – as I try to focus on building some relationship (!!!) with people who I choose to follow. If I follow you, it’s cause I’m interested in what you do or who you are.
 In the screenshot below from CoTweet (my favourite Twitter Tool) – this is just a few of the Auto-DM messages I have been receiving and most are from Twitter Pyramid Plan Selling people trying to skim a few bits of cash from me clicking on their message or buying in to their marketing scheme.</description>
     </item>
     
     <item>
       <title>UPDATED: Twitter Tools &amp;#8211; CoTweet best for your business</title>
-      <link>https://damien.co/social-media/twitter-tools-cotweet-best-for-your-business-1549/</link>
+      <link>http://damien.co/social-media/twitter-tools-cotweet-best-for-your-business-1549/</link>
       <pubDate>Tue, 21 Sep 2010 11:00:32 +0000</pubDate>
       
-      <guid>https://damien.co/social-media/twitter-tools-cotweet-best-for-your-business-1549/</guid>
+      <guid>http://damien.co/social-media/twitter-tools-cotweet-best-for-your-business-1549/</guid>
       <description>CoTweet provides the easiest way for your business to start managing your company or brand on Twitter. If you already are using HootSuite or Tweetdeck you should stop for a minute and check you are doing the right thing for your business. CoTweetis designed for the multi-user / multi-site (!!) environment with assignment, archiving and other management tools – this means you’ll never lose a tweet again (or have to share the computer with your boss).</description>
     </item>
     
     <item>
       <title>Are Twitter Followers better than Fans?</title>
-      <link>https://damien.co/social-media/twitter/are-twitter-followers-better-than-fans-1538/</link>
+      <link>http://damien.co/social-media/twitter/are-twitter-followers-better-than-fans-1538/</link>
       <pubDate>Mon, 20 Sep 2010 11:00:17 +0000</pubDate>
       
-      <guid>https://damien.co/social-media/twitter/are-twitter-followers-better-than-fans-1538/</guid>
+      <guid>http://damien.co/social-media/twitter/are-twitter-followers-better-than-fans-1538/</guid>
       <description>Are Twitter Followers better than Facebook Fanswas a topic discussed on emarketer recently. It’s a question I get asked all the time – relatively speaking – Which is the best social network to start social media marketing? The thing is you need to try them both at the same time.And here is the problem every social network has its pro’s and cons – and here is the answer. If you were a criminal, on trial in the Old Bailey, the prosecution’s job is to prove you had the intention of committing a crime, so it was just an accident.</description>
     </item>
     
     <item>
       <title>Which Social Media experience is right for you?</title>
-      <link>https://damien.co/social-media/which-social-media-experience-is-right-for-you-1406/</link>
+      <link>http://damien.co/social-media/which-social-media-experience-is-right-for-you-1406/</link>
       <pubDate>Mon, 16 Aug 2010 10:00:21 +0000</pubDate>
       
-      <guid>https://damien.co/social-media/which-social-media-experience-is-right-for-you-1406/</guid>
+      <guid>http://damien.co/social-media/which-social-media-experience-is-right-for-you-1406/</guid>
       <description>How to tell what is right in social media? Myth: Build it &amp;amp; they will come Love great content … Love Google Just listen to social media is not a good position </description>
     </item>
     
     <item>
       <title>Best Collection of Tools for Twitter you Need</title>
-      <link>https://damien.co/social-media/best-collection-tool-for-twitter-you-need-1076/</link>
+      <link>http://damien.co/social-media/best-collection-tool-for-twitter-you-need-1076/</link>
       <pubDate>Fri, 25 Jun 2010 23:16:55 +0000</pubDate>
       
-      <guid>https://damien.co/social-media/best-collection-tool-for-twitter-you-need-1076/</guid>
+      <guid>http://damien.co/social-media/best-collection-tool-for-twitter-you-need-1076/</guid>
       <description>Here’s a collection of the best tools for Twitter for any Social Media Specialist or Community Manager.
 Twitter is a powerful tool for getting your message out there. Just like starting a new business, you need to have a guide that shows you how to make the most out of Twitter.**
 **

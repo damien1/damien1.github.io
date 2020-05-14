@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Customisation on Damien Saunders</title>
-    <link>https://damien.co/categories/customisation/</link>
+    <link>http://damien.co/categories/customisation/</link>
     <description>Recent content in Customisation on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 10 Jul 2011 16:31:32 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/categories/customisation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/categories/customisation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>HOW TO recover from the most common WordPress website killers</title>
-      <link>https://damien.co/wordpress/how-to-recover-from-the-most-common-wordpress-website-killers-2-4432/</link>
+      <link>http://damien.co/wordpress/how-to-recover-from-the-most-common-wordpress-website-killers-2-4432/</link>
       <pubDate>Sun, 10 Jul 2011 16:31:32 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/how-to-recover-from-the-most-common-wordpress-website-killers-2-4432/</guid>
+      <guid>http://damien.co/wordpress/how-to-recover-from-the-most-common-wordpress-website-killers-2-4432/</guid>
       <description>It’s easy to recover from the 2 most common errors that kill your WordPress website. Fix the issue in 3 simple steps.When something goes wrong WordPress the most common cause is a plugin conflict or a problem with your theme. There’s nothing worse then feeling you’ve been locked out from your own website and can’t get to the wp-admin section to login.
 Today, WordPress is one of the world’s best solutions for blogging and website.</description>
     </item>
     
     <item>
       <title>HOW TO: Better way to Enable WordPress maintenance mode</title>
-      <link>https://damien.co/wordpress/how-to-better-way-to-enable-wordpress-maintenance-mode-4433/</link>
+      <link>http://damien.co/wordpress/how-to-better-way-to-enable-wordpress-maintenance-mode-4433/</link>
       <pubDate>Sat, 09 Jul 2011 18:00:58 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/how-to-better-way-to-enable-wordpress-maintenance-mode-4433/</guid>
+      <guid>http://damien.co/wordpress/how-to-better-way-to-enable-wordpress-maintenance-mode-4433/</guid>
       <description>WordPress is a great tool. It has its own way of managing updates to your website – and will switch to maintenance mode automatically. For the best user experience you should enable maintenance mode yourself.
 How to Enable Maintenance Mode without a Plugin – method 1 Activating maintenance mode without a plugin is easy. First, open your FTP program and then navigate to the root folder of you WordPress install.</description>
     </item>
     
     <item>
       <title>HOW TO: Stop WordPress Comment Spam – instantly</title>
-      <link>https://damien.co/wordpress/how-to-stop-wordpress-comment-spam-%e2%80%93-instantly-4435/</link>
+      <link>http://damien.co/wordpress/how-to-stop-wordpress-comment-spam-%e2%80%93-instantly-4435/</link>
       <pubDate>Tue, 05 Jul 2011 12:06:21 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/how-to-stop-wordpress-comment-spam-%e2%80%93-instantly-4435/</guid>
+      <guid>http://damien.co/wordpress/how-to-stop-wordpress-comment-spam-%e2%80%93-instantly-4435/</guid>
       <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme’s functions.php. This is one of my favourite WordPress functions and I use it on all my setups.
 This code snippet works by blocking comments from being added offsite or indirectly and not from the comment box on your webpage.
 Just to prove this works … take a look at your spam comments now and mentally calculate your daily average of new spam comments.</description>
@@ -44,10 +44,10 @@ Just to prove this works … take a look at your spam comments now and mentally 
     
     <item>
       <title>HOW TO use WordPress and design a custom landing page</title>
-      <link>https://damien.co/blog/2010-03-14-wordpress-use-a-custom-design-for-landing-pages-2/</link>
+      <link>http://damien.co/blog/2010-03-14-wordpress-use-a-custom-design-for-landing-pages-2/</link>
       <pubDate>Sun, 14 Mar 2010 23:43:45 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2010-03-14-wordpress-use-a-custom-design-for-landing-pages-2/</guid>
+      <guid>http://damien.co/blog/2010-03-14-wordpress-use-a-custom-design-for-landing-pages-2/</guid>
       <description>WordPress may just be one ofthe best solution for building a web and mobile site. One feature is that a user can create static pages that integrate or fit in with the theme of the site. Here is the easy and quick solution for how to create a custom template and have a fresh new look for landing pages or static pages.
 In fact WordPress has a lot of features that make it easy to use as a CMS – content management system and static pages are important.</description>
     </item>

@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>spam on Damien Saunders</title>
-    <link>https://damien.co/tags/spam/</link>
+    <link>http://damien.co/tags/spam/</link>
     <description>Recent content in spam on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 08 Oct 2012 14:56:41 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/spam/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/spam/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>HOW TO: Stop (most) Automated Comment Spam</title>
-      <link>https://damien.co/blog/2012-10-08-how-to-stop-most-automated-comment-spam/</link>
+      <link>http://damien.co/blog/2012-10-08-how-to-stop-most-automated-comment-spam/</link>
       <pubDate>Mon, 08 Oct 2012 14:56:41 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-10-08-how-to-stop-most-automated-comment-spam/</guid>
+      <guid>http://damien.co/blog/2012-10-08-how-to-stop-most-automated-comment-spam/</guid>
       <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme’s functions.php. This is one of my favourite WordPress functions and I use it on all my setups.
 This code snippet works by blocking comments from being added offsite or indirectly and not from the comment box on your webpage. Most spammers try to automate their ‘workload’ and try to exploit WordPress functions that allow you to manage comments or add posts via the WordPress API’s.</description>
     </item>
     
     <item>
       <title>19 of the best WordPress Plugins to use with your Multisite Network (or What Plugins I&amp;#8217;m Using)</title>
-      <link>https://damien.co/blog/2012-06-15-19-best-wordpress-plugins-use-multisite-network-or-what-plugins-im-using/</link>
+      <link>http://damien.co/blog/2012-06-15-19-best-wordpress-plugins-use-multisite-network-or-what-plugins-im-using/</link>
       <pubDate>Fri, 15 Jun 2012 16:37:59 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-06-15-19-best-wordpress-plugins-use-multisite-network-or-what-plugins-im-using/</guid>
+      <guid>http://damien.co/blog/2012-06-15-19-best-wordpress-plugins-use-multisite-network-or-what-plugins-im-using/</guid>
       <description>I’ve been running WordPress as a multisite network and I often get asked about what are the best plugins for WordPress. Everyone has their opinion. I’ve listed the plugins which are network activated and grouped them in some meaningful manner for web marketers and development people.
 WordPress is one of the worlds’ most popular website and blogging tools and it’s latest version makes it easier to manage the look of your website.</description>
     </item>
     
     <item>
       <title>WordPress Security 5G Blacklist .htaccess</title>
-      <link>https://damien.co/blog/2012-06-10-wordpress-security-5g-blacklist-htaccess/</link>
+      <link>http://damien.co/blog/2012-06-10-wordpress-security-5g-blacklist-htaccess/</link>
       <pubDate>Sun, 10 Jun 2012 16:12:48 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-06-10-wordpress-security-5g-blacklist-htaccess/</guid>
+      <guid>http://damien.co/blog/2012-06-10-wordpress-security-5g-blacklist-htaccess/</guid>
       <description>If you’re into WordPress Security (which you should be) … then you’ve probably already played around with your .htaccess file to block comment spam. For a number of years now, Perishable Press has been working on a blacklist to help kills spam and other un-welcomes! Now in its 5th Generation the Blacklist is very powerful.
 Perishable Press is a great source of information on .htaccess and URL rewrite rules … but I wanted to just highlight a couple of things (perhaps for my own memory).</description>
     </item>
     
     <item>
       <title>WordPress: 9 Plugins for any new install</title>
-      <link>https://damien.co/blog/2011-12-28-wordpress-top-9-plugins-for-any-new-install-2/</link>
+      <link>http://damien.co/blog/2011-12-28-wordpress-top-9-plugins-for-any-new-install-2/</link>
       <pubDate>Wed, 28 Dec 2011 21:07:41 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2011-12-28-wordpress-top-9-plugins-for-any-new-install-2/</guid>
+      <guid>http://damien.co/blog/2011-12-28-wordpress-top-9-plugins-for-any-new-install-2/</guid>
       <description>WordPress is one of the World’s most used web and blog tools – it has 1000’s of plugins that add functionality to your website. Here then is a short list of essential WordPress Plugins from WordPress.org to get you started. The list covers SEO, Spam, Analytics and helps you get started with Google SERP.
 Akismet Akismet is included in every installation of WordPress, so that makes it one of the alltime popular plugins.</description>
     </item>
     
     <item>
       <title>HOW TO: Stop WordPress Comment Spam – instantly</title>
-      <link>https://damien.co/wordpress/how-to-stop-wordpress-comment-spam-%e2%80%93-instantly-4435/</link>
+      <link>http://damien.co/wordpress/how-to-stop-wordpress-comment-spam-%e2%80%93-instantly-4435/</link>
       <pubDate>Tue, 05 Jul 2011 12:06:21 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/how-to-stop-wordpress-comment-spam-%e2%80%93-instantly-4435/</guid>
+      <guid>http://damien.co/wordpress/how-to-stop-wordpress-comment-spam-%e2%80%93-instantly-4435/</guid>
       <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme’s functions.php. This is one of my favourite WordPress functions and I use it on all my setups.
 This code snippet works by blocking comments from being added offsite or indirectly and not from the comment box on your webpage.
 Just to prove this works … take a look at your spam comments now and mentally calculate your daily average of new spam comments.</description>
@@ -64,10 +64,10 @@ Just to prove this works … take a look at your spam comments now and mentally 
     
     <item>
       <title>HOW TO: Stop WordPress Comment Spam &amp;#8211; instantly</title>
-      <link>https://damien.co/blog/2011-07-05-how-to-stop-wordpress-comment-spam-instantly/</link>
+      <link>http://damien.co/blog/2011-07-05-how-to-stop-wordpress-comment-spam-instantly/</link>
       <pubDate>Tue, 05 Jul 2011 11:06:21 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2011-07-05-how-to-stop-wordpress-comment-spam-instantly/</guid>
+      <guid>http://damien.co/blog/2011-07-05-how-to-stop-wordpress-comment-spam-instantly/</guid>
       <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme’s functions.php. This is one of my favourite WordPress functions and I use it on all my setups.
 This code snippet works by blocking comments from being added offsite or indirectly and not from the comment box on your webpage.
 Just to prove this works … take a look at your spam comments now and mentally calculate your daily average of new spam comments.</description>
@@ -75,10 +75,10 @@ Just to prove this works … take a look at your spam comments now and mentally 
     
     <item>
       <title>Comments are Free</title>
-      <link>https://damien.co/blog/insights-blog/comments-are-free-3585/</link>
+      <link>http://damien.co/blog/insights-blog/comments-are-free-3585/</link>
       <pubDate>Fri, 03 Jun 2011 18:35:53 +0000</pubDate>
       
-      <guid>https://damien.co/blog/insights-blog/comments-are-free-3585/</guid>
+      <guid>http://damien.co/blog/insights-blog/comments-are-free-3585/</guid>
       <description>With any successful blog, Comments and Spam are juxtaposed at opposite ends of the spectrum. We all want to engage and generate conversations. The change in SEO practices means spam is being replaced by inbound link baiting.
 Akismet the only rubber you need In WordPress – part of the battle is won by using the free Akismet plugin which is developed and maintained by Automattic (the ‘commercial arm’ of WordPress.com etc).</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Network Info II on Damien Saunders</title>
-    <link>https://damien.co/tags/network-info-ii/</link>
+    <link>http://damien.co/tags/network-info-ii/</link>
     <description>Recent content in Network Info II on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 18 Apr 2011 09:40:54 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/network-info-ii/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/network-info-ii/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Best Android App for technical info Network Info II</title>
-      <link>https://damien.co/blog/android/best-android-app-for-technical-info-network-info-ii-2882/</link>
+      <link>http://damien.co/blog/android/best-android-app-for-technical-info-network-info-ii-2882/</link>
       <pubDate>Mon, 18 Apr 2011 09:40:54 +0000</pubDate>
       
-      <guid>https://damien.co/blog/android/best-android-app-for-technical-info-network-info-ii-2882/</guid>
+      <guid>http://damien.co/blog/android/best-android-app-for-technical-info-network-info-ii-2882/</guid>
       <description>Mobile apps can be fun to use – but during mobile app testing you might need to diagnosing problems and finding bugs can be complicated. At least with Network Info II on your Android you have a pocket-encyclopedia with all the important information you need.
 At the basic level – Network Info II reports details on your mobile network connection, IP address, Wi-Fi connection, Bluetooth and details about your device and your sim card.</description>
     </item>

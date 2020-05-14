@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evernote on Damien Saunders</title>
-    <link>https://damien.co/tags/evernote/</link>
+    <link>http://damien.co/tags/evernote/</link>
     <description>Recent content in Evernote on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 21 May 2012 19:39:24 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/evernote/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/evernote/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>App Design: Review of Evernote&amp;#8217;s First Time User Guide</title>
-      <link>https://damien.co/apps-2/app-design-review-of-evernotes-first-time-user-guide-7098/</link>
+      <link>http://damien.co/apps-2/app-design-review-of-evernotes-first-time-user-guide-7098/</link>
       <pubDate>Mon, 21 May 2012 19:39:24 +0000</pubDate>
       
-      <guid>https://damien.co/apps-2/app-design-review-of-evernotes-first-time-user-guide-7098/</guid>
+      <guid>http://damien.co/apps-2/app-design-review-of-evernotes-first-time-user-guide-7098/</guid>
       <description>It’s not often that we (as app user or developers) stop to consider how important the First Time User experience or the Getting Started Guide is.
 If you had never heard of Evernote (or many other apps) then you rely on this introduction to do a lot of things. To sum it up, the first time user experience has to do two things:
  sell the customer that the app will do what the user thinks it will do (they’ve already installed it but app store descriptions can be misleading), and; tell the customer how to use it  Ultimately, large multi-platform applications have many, many, more features then there is time for a Quick Start Guide or First Time User experience.</description>

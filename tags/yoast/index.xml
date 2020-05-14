@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yoast on Damien Saunders</title>
-    <link>https://damien.co/tags/yoast/</link>
+    <link>http://damien.co/tags/yoast/</link>
     <description>Recent content in Yoast on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 10 Oct 2012 15:13:57 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/yoast/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/yoast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting Twitter URL&amp;#8217;s right with Bit.ly Shortlinks by Yoast</title>
-      <link>https://damien.co/blog/2012-10-10-getting-twitter-urls-right-with-bit-ly/</link>
+      <link>http://damien.co/blog/2012-10-10-getting-twitter-urls-right-with-bit-ly/</link>
       <pubDate>Wed, 10 Oct 2012 15:13:57 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-10-10-getting-twitter-urls-right-with-bit-ly/</guid>
+      <guid>http://damien.co/blog/2012-10-10-getting-twitter-urls-right-with-bit-ly/</guid>
       <description>Integrating Twitter with WordPress is pretty easy to do without a plugin. With a few lines of code you can have a nice tweet this or follow me button on every post or page of your WordPress website.
 However, the URL that is part of the Tweet is the permalink URL and for many sites you’ll want to Tweet a shortened URL. If like me, using Bit.ly and Yoast’s Bitly Shortlink plugin, you maybe wondering how to get your short Bit.</description>
     </item>

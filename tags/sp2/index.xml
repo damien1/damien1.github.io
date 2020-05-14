@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sp2 on Damien Saunders</title>
-    <link>https://damien.co/tags/sp2/</link>
+    <link>http://damien.co/tags/sp2/</link>
     <description>Recent content in sp2 on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 29 Sep 2009 15:18:03 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/sp2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/sp2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tip of the Day: Windows Vista SP2 won&amp;#039;t install on a partitioned drive</title>
-      <link>https://damien.co/general/tip-of-the-day-windows-vista-sp2-wont-install-on-a-partitioned-drive-320/</link>
+      <link>http://damien.co/general/tip-of-the-day-windows-vista-sp2-wont-install-on-a-partitioned-drive-320/</link>
       <pubDate>Tue, 29 Sep 2009 15:18:03 +0000</pubDate>
       
-      <guid>https://damien.co/general/tip-of-the-day-windows-vista-sp2-wont-install-on-a-partitioned-drive-320/</guid>
+      <guid>http://damien.co/general/tip-of-the-day-windows-vista-sp2-wont-install-on-a-partitioned-drive-320/</guid>
       <description>Tip of the day: Windows Vista clean install doesn’t work on a partitioned drive AND if you then partition the drive after installing Vista, the SP2 will not install as well.
 Effectively this means you should keep your primary drive as 1 partition … or wait til after you’ve installed Vista and all the service packs.
 There is a short microsoft kb on this ….

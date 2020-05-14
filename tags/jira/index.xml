@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JIRA on Damien Saunders</title>
-    <link>https://damien.co/tags/jira/</link>
+    <link>http://damien.co/tags/jira/</link>
     <description>Recent content in JIRA on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 01 Feb 2012 15:51:33 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/jira/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/jira/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>JIRA for Project Management &amp;#8211; its not just for Issues</title>
-      <link>https://damien.co/marketing-consultant-2/jira-for-project-management-its-not-just-for-issues-6138/</link>
+      <link>http://damien.co/marketing-consultant-2/jira-for-project-management-its-not-just-for-issues-6138/</link>
       <pubDate>Wed, 01 Feb 2012 15:51:33 +0000</pubDate>
       
-      <guid>https://damien.co/marketing-consultant-2/jira-for-project-management-its-not-just-for-issues-6138/</guid>
+      <guid>http://damien.co/marketing-consultant-2/jira-for-project-management-its-not-just-for-issues-6138/</guid>
       <description>If you’re reading this then you must use JIRA or know of someone who has had a JIRA experience. It seems that JIRA is a bit like a Marmite brand – you love it or you hate it. JIRA can be too much effort for many projects – but thats only cause the project can’t find time to build the value in JIRA.
 I think that anything which helps take pain away from managing bugs, issues and tasks is brilliant.</description>
     </item>

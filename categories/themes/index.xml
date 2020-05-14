@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Themes on Damien Saunders</title>
-    <link>https://damien.co/categories/themes/</link>
+    <link>http://damien.co/categories/themes/</link>
     <description>Recent content in Themes on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 29 Dec 2011 14:02:51 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/categories/themes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/categories/themes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How-To for WordPress &amp;#8211; maintain and improve your website</title>
-      <link>https://damien.co/blog/2011-12-29-how-to-for-wordpress-maintain-and-improve-your-website/</link>
+      <link>http://damien.co/blog/2011-12-29-how-to-for-wordpress-maintain-and-improve-your-website/</link>
       <pubDate>Thu, 29 Dec 2011 14:02:51 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2011-12-29-how-to-for-wordpress-maintain-and-improve-your-website/</guid>
+      <guid>http://damien.co/blog/2011-12-29-how-to-for-wordpress-maintain-and-improve-your-website/</guid>
       <description>Looking for some ideas to help improve or maintain WordPress .. here’s my collection of useful articles and How-To Guides
 [related_posts limit=”10″ image=”0″]
  Need some help or training with WordPress? [featured_products per_page=”12″ columns=”4″ orderby=”date” order=”desc”]</description>

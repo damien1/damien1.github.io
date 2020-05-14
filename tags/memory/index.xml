@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Memory on Damien Saunders</title>
-    <link>https://damien.co/tags/memory/</link>
+    <link>http://damien.co/tags/memory/</link>
     <description>Recent content in Memory on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 11 Apr 2014 13:53:26 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/memory/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/memory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>I got my website working again - no more out of memory issues</title>
-      <link>https://damien.co/general/got-website-working-memory-issues-8894/</link>
+      <link>http://damien.co/general/got-website-working-memory-issues-8894/</link>
       <pubDate>Fri, 11 Apr 2014 13:53:26 +0000</pubDate>
       
-      <guid>https://damien.co/general/got-website-working-memory-issues-8894/</guid>
+      <guid>http://damien.co/general/got-website-working-memory-issues-8894/</guid>
       <description>*fingers crossed* I’ve got my website working again. I’ve had a few out of memory issues and that had stopped all my work on here.</description>
     </item>
     
     <item>
       <title>HOW TO fix the Fatal Error: Allowed Memory Size in WordPress</title>
-      <link>https://damien.co/blog/2011-12-27-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-2/</link>
+      <link>http://damien.co/blog/2011-12-27-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-2/</link>
       <pubDate>Tue, 27 Dec 2011 12:30:23 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2011-12-27-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-2/</guid>
+      <guid>http://damien.co/blog/2011-12-27-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-2/</guid>
       <description>WordPress offers lots of plugins to choose from and if you add to many you will soon come across this Fatal Error message. You can easily fix the problem (and then go back to adding more plugins).
 This out of memory error doesn’t mean you have to go buy more RAM — just have to amend a line of text in a wordpress settings file.
  Fix the Fatal Error: Allowed Memory Size When you installed WordPress you either uploaded it using FTP yourself or went to an admin cpanel and installed it.</description>
@@ -33,10 +33,10 @@ This out of memory error doesn’t mean you have to go buy more RAM — just hav
     
     <item>
       <title>Increase WordPress Memory &amp;#8211; Help for EvoHosting.co.uk Users</title>
-      <link>https://damien.co/wordpress/increase-wordpress-memory-help-for-evohosting-co-uk-users-5454/</link>
+      <link>http://damien.co/wordpress/increase-wordpress-memory-help-for-evohosting-co-uk-users-5454/</link>
       <pubDate>Mon, 26 Dec 2011 15:38:28 +0000</pubDate>
       
-      <guid>https://damien.co/wordpress/increase-wordpress-memory-help-for-evohosting-co-uk-users-5454/</guid>
+      <guid>http://damien.co/wordpress/increase-wordpress-memory-help-for-evohosting-co-uk-users-5454/</guid>
       <description>I’ve been using EvoHostingfor a good couple of years now and have always been impressed by their service and flexibility. I’ve felt my site has suffered in recent months – I just feel the performance has suffered and have few options to speed-up my website.
 So sometimes you want more freedom to control your server (like Rackspace), but using a shared server gives you few choices to do this. Here is the solution for WordPress sites hosted by EvoHosting UK which you can implement now.</description>
     </item>

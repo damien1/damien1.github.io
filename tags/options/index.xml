@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Options on Damien Saunders</title>
-    <link>https://damien.co/tags/options/</link>
+    <link>http://damien.co/tags/options/</link>
     <description>Recent content in Options on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 13 Jan 2012 16:11:28 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/options/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/options/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to De-clutter Create Edit Posts</title>
-      <link>https://damien.co/blog/2012-01-13-how-to-de-clutter-create-edit-posts/</link>
+      <link>http://damien.co/blog/2012-01-13-how-to-de-clutter-create-edit-posts/</link>
       <pubDate>Fri, 13 Jan 2012 16:11:28 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-01-13-how-to-de-clutter-create-edit-posts/</guid>
+      <guid>http://damien.co/blog/2012-01-13-how-to-de-clutter-create-edit-posts/</guid>
       <description>The title field and the big Post Editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box.
 Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen.</description>
     </item>

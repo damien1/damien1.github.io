@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Issue Indicator on Damien Saunders</title>
-    <link>https://damien.co/tags/issue-indicator/</link>
+    <link>http://damien.co/tags/issue-indicator/</link>
     <description>Recent content in Issue Indicator on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 13 Jan 2012 16:04:21 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/issue-indicator/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/issue-indicator/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Live content not showing</title>
-      <link>https://damien.co/blog/2012-01-13-live-content-not-showing-for-the-new-issue/</link>
+      <link>http://damien.co/blog/2012-01-13-live-content-not-showing-for-the-new-issue/</link>
       <pubDate>Fri, 13 Jan 2012 16:04:21 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2012-01-13-live-content-not-showing-for-the-new-issue/</guid>
+      <guid>http://damien.co/blog/2012-01-13-live-content-not-showing-for-the-new-issue/</guid>
       <description>Are you using W3 Total Cache or a CDN and seeing a broken picture icon on the live site
 Right click on the icon and choose to show image in new tab
 Go to the Performance section

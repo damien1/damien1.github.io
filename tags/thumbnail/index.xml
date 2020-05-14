@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>thumbnail on Damien Saunders</title>
-    <link>https://damien.co/tags/thumbnail/</link>
+    <link>http://damien.co/tags/thumbnail/</link>
     <description>Recent content in thumbnail on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 15 Apr 2013 09:14:10 +0000</lastBuildDate>
     
-	<atom:link href="https://damien.co/tags/thumbnail/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://damien.co/tags/thumbnail/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Custom Images in WordPress &amp;#8211; Getting your own thumbnail</title>
-      <link>https://damien.co/blog/2013-04-15-custom-images-in-wordpress-getting-your-own-thumbnail/</link>
+      <link>http://damien.co/blog/2013-04-15-custom-images-in-wordpress-getting-your-own-thumbnail/</link>
       <pubDate>Mon, 15 Apr 2013 09:14:10 +0000</pubDate>
       
-      <guid>https://damien.co/blog/2013-04-15-custom-images-in-wordpress-getting-your-own-thumbnail/</guid>
+      <guid>http://damien.co/blog/2013-04-15-custom-images-in-wordpress-getting-your-own-thumbnail/</guid>
       <description>In WordPress, images are automatically re-saved in different sizes like creating a thumbnail. But what happens if you want to use your own image? or want a different size?
 Note: each image will also get a custom class added called dsimage … this means you can style it.</description>
     </item>
