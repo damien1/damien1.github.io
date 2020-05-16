@@ -18,5 +18,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
           allow_empty_commit: true
-          enable_jekyll: true
+          enable_jekyll: false
           cname: damien.co
