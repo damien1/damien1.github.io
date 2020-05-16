@@ -20,21 +20,3 @@ jobs:
           allow_empty_commit: true
           enable_jekyll: true
           cname: damien.co
-
-
-name: HugoTest
-
-on:
-  push:
-    branches:
-      - master
-      
- jobs:
-  deploy:
-    runs-on: ubuntu-18.04    
-      steps:
-        - uses: peaceiris/actions-hugo-link-check@v0.56.3
-        - name: -  "hugo-link-check" {
-          with:
-          HUGO_OPTIONS = "--buildDrafts"
-          OPTIONS = "-e 'http://localhost:8000'"
