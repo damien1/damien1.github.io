@@ -14,6 +14,6 @@ jobs:
         url: 'http://damien.co'
         # optional:
         honorRobotExclusions: false
-        ignorePatterns: 'github,google'
+        ignorePatterns: 'github,google,linkedin'
     - name: Get the result
       run: echo "${{steps.link-report.outputs.result}}"
