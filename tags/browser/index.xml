@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Browser on Damien Saunders</title>
+    <link>http://damien.co/tags/browser/</link>
+    <description>Recent content in Browser on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 23 Jun 2012 21:54:10 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/browser/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HOW TO: Install Selenium 2 for Mac OS X / Python</title>
+      <link>http://damien.co/resources/how-to-install-selenium-2-mac-os-x-python-7391/</link>
+      <pubDate>Sat, 23 Jun 2012 21:54:10 +0000</pubDate>
+      
+      <guid>http://damien.co/resources/how-to-install-selenium-2-mac-os-x-python-7391/</guid>
+      <description>If you own a Mac and want to get started with Selenium for Automated Testing of your web apps, then you&amp;rsquo;re already most of the way there.
+The Mac operating system already offers a number of baked in solutions and command line tools like Python, Ruby and Java.
+How To Install Selenium on your Mac OSx Mac already has Python and a package manager called easy_install, so open Terminal and type</description>
+    </item>
+    
+  </channel>
+</rss>

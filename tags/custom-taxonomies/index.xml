@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>custom taxonomies on Damien Saunders</title>
+    <link>http://damien.co/tags/custom-taxonomies/</link>
+    <description>Recent content in custom taxonomies on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 08 Feb 2013 11:06:13 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/custom-taxonomies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visual Layouts - Isotope Filtrify and custom WordPress taxonomies</title>
+      <link>http://damien.co/blog/2013-02-08-visual-layouts-isotope-filtrify-and-custom-wordpress-taxonomies/</link>
+      <pubDate>Fri, 08 Feb 2013 11:06:13 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2013-02-08-visual-layouts-isotope-filtrify-and-custom-wordpress-taxonomies/</guid>
+      <description>Creating tag and category based filtering is easy using my new plugin Visual Layouts Filtrify .. and now I want to show you that custom post types and custom taxonomies in WordPress are also handled with this new plugin.
+Using two of my plugins, you can create a visual grid of your posts, photos, portfolio, products and even use it to create your own WooCommerce e-commerce product page without having to get a new theme.</description>
+    </item>
+    
+  </channel>
+</rss>

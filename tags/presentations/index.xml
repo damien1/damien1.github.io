@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations on Damien Saunders</title>
+    <link>http://damien.co/tags/presentations/</link>
+    <description>Recent content in Presentations on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 17 Jan 2012 11:30:49 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/presentations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A couple more examples of impressive jQuery and JS</title>
+      <link>http://damien.co/blog/couple-more-examples-of-impressive-js-jquery-5974/</link>
+      <pubDate>Tue, 17 Jan 2012 11:30:49 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/couple-more-examples-of-impressive-js-jquery-5974/</guid>
+      <description>jQuery and Javascript may not be all that bad for you .. or your website.
+Recently I&amp;rsquo;ve been looking into fluid and responsive layouts for web design and I&amp;rsquo;ve been using a jQuery framework called Isotope on my blog page.
+Isotope looks like it can do magical things. If only I had the time to make it work properly.
+So here are two more impressive examples of what you can do with .</description>
+    </item>
+    
+    <item>
+      <title>Mailchimp makes e-mail marketing easy</title>
+      <link>http://damien.co/blog/2011-12-27-mailchimp-makes-e-mail-marketing-easy/</link>
+      <pubDate>Tue, 27 Dec 2011 18:57:49 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2011-12-27-mailchimp-makes-e-mail-marketing-easy/</guid>
+      <description>** Mailchimp** makes **e-mail marketing** easy - this Practical Guide will show you a process to follow to send your first e-mail marketing campaign. This Practical Guide will help you to understand lists, campaigns, templates and more …
+My latest presentation is for anyone who has already decided to use Mailchimp.</description>
+    </item>
+    
+  </channel>
+</rss>

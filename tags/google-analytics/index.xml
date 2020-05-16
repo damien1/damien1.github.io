@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google Analytics on Damien Saunders</title>
+    <link>http://damien.co/tags/google-analytics/</link>
+    <description>Recent content in Google Analytics on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 10 Apr 2012 12:34:04 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/google-analytics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Piwik Web Analytics best free alternative</title>
+      <link>http://damien.co/blog/2012-04-10-piwik-web-analytics-best-free-alternative/</link>
+      <pubDate>Tue, 10 Apr 2012 12:34:04 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2012-04-10-piwik-web-analytics-best-free-alternative/</guid>
+      <description>Have you tried Piwik yet? If you&amp;rsquo;ve been using Google Analytics and started to wonder what alternative web analytic tools are out there then look no further then Piwik.
+Piwikis a web analytics solution that is free and runs on your own server. It provides a lot of similar features to Google Analytics and will run alongside Google Analytics anyway.
+Why stick with Google Analytics? Now I love GA and will always implement it as a first choice.</description>
+    </item>
+    
+    <item>
+      <title>Google Analytics &amp;#038; Event Tracking</title>
+      <link>http://damien.co/blog/2011-11-23-google-analytics-event-tracking/</link>
+      <pubDate>Wed, 23 Nov 2011 13:53:59 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2011-11-23-google-analytics-event-tracking/</guid>
+      <description>Google Analytics provides a number of extra tools for the adventurous to improve tracking and provide valuable insights. There are two types of tracking you can have - event tracking is used to help analyse visitor behaviour onsite. It’s not complicated to do this - but it’s time consuming and complex.
+Google Analytics is one of the web’s most popular tools for reporting on activity and trends for just about any website.</description>
+    </item>
+    
+    <item>
+      <title>4 reasons to choose Google Analytics for your business</title>
+      <link>http://damien.co/marketing-consultant-2/4-reasons-to-choose-google-analytics-for-your-business-4932/</link>
+      <pubDate>Mon, 21 Nov 2011 16:13:29 +0000</pubDate>
+      
+      <guid>http://damien.co/marketing-consultant-2/4-reasons-to-choose-google-analytics-for-your-business-4932/</guid>
+      <description>Google Analytics is one of the web’s most popular tools for reporting on activity and trends for just about any website. Your online and offline marketing activities need meaningful analytics data to create actionable insights. In summary, website analytics has benefits for sales, marketing and product development - in fact most areas of your business.
+Why Choose Google Analytics? It&amp;rsquo;s easy to see why Google Analytics is so popular, because it&amp;rsquo;s free, but here are my top 4</description>
+    </item>
+    
+    <item>
+      <title>Where did all those Stats Go?</title>
+      <link>http://damien.co/blog/where-did-all-those-stats-go-2814/</link>
+      <pubDate>Thu, 31 Mar 2011 20:02:06 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/where-did-all-those-stats-go-2814/</guid>
+      <description>Where did all my stats go!
+That&amp;rsquo;s a very good question - apparently I&amp;rsquo;ve been suffering from a problem that Google no longer likes my domain name. This is a very nasty problem - even more so because the error message offers very little hope.
+  The site “http://damien.co” has not been registered.
+  My site is registered with Google Webmaster, I use Google Apps for my Domain — what else is there that needs to be Google-ified?</description>
+    </item>
+    
+  </channel>
+</rss>

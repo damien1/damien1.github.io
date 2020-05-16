@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Custom Post on Damien Saunders</title>
+    <link>http://damien.co/tags/custom-post/</link>
+    <description>Recent content in Custom Post on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 27 Nov 2012 13:31:45 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/custom-post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pods Framework for WordPress</title>
+      <link>http://damien.co/blog/2012-11-27-pods-framework-for-wordpress/</link>
+      <pubDate>Tue, 27 Nov 2012 13:31:45 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2012-11-27-pods-framework-for-wordpress/</guid>
+      <description>WordPress is one of the most flexible web apps to customise for your needs. Creating custom post types in WordPress is also quite easy and Pods Framework looks like a plugin that will make it easier still.
+I&amp;rsquo;m going to give it a try!</description>
+    </item>
+    
+  </channel>
+</rss>

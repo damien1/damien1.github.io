@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en-gb"><head>
+  <!-- Basic Page Needs -->
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  
+  <meta name="description" content="Damien Saunders | management consultant">
+  <meta name="author" content="Damien Saunders">
+  <meta name="generator" content="Hugo 0.70.0" />
+  
+  <!-- Mobile Specific Metas -->
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Managing a WordPress plugin with SVN and Git</title>
+  <link rel="icon" href="http://damien.co/images/favicon.ico">
+
+  <!-- Twitter Bootstrs CSS -->
+  <link rel="stylesheet" href="http://damien.co/plugins/bootstrap/bootstrap.min.css">
+  <!-- Ionicons Fonts Css -->
+  <link rel="stylesheet" href="http://damien.co/plugins/ionicons/ionicons.min.css">
+  <!-- animate css -->
+  <link rel="stylesheet" href="http://damien.co/plugins/animate-css/animate.css">
+  <!-- Hero area slider css-->
+  <link rel="stylesheet" href="http://damien.co/plugins/slider/slider.css">
+  <!-- slick slider -->
+  <link rel="stylesheet" href="http://damien.co/plugins/slick/slick.css">
+  <!-- Fancybox -->
+  <link rel="stylesheet" href="http://damien.co/plugins/facncybox/jquery.fancybox.css">
+  <!-- hover -->
+  <link rel="stylesheet" href="http://damien.co/plugins/hover/hover-min.css">
+  <!-- template main css file -->
+  
+  <link rel="stylesheet" href="http://damien.co/css/style.min.css" integrity="" media="screen">
+</head><body><section class="top-bar animated-header">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<nav class="navbar navbar-expand-lg navbar-light bg-light">
+					<a class="navbar-brand" href="http://damien.co">
+						<img src="http://damien.co/damiensaunders.png" alt="Damien Saunders">
+					</a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+						aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+
+					<div class="collapse navbar-collapse" id="navigation">
+						<ul class="navbar-nav ml-auto">
+							<li class="nav-item">
+								<a class="nav-link" href="http://damien.co">Home</a>
+							</li>
+							
+							<li class="nav-item">
+								<a class="nav-link" href="http://damien.co/blog">Blog</a>
+							</li>
+							
+					</div>
+				</nav>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="global-page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h2>Managing a WordPress plugin with SVN and Git</h2>
+                    <div class="portfolio-meta">
+                        <span>Tuesday, Jan 22, 2013</span>|
+                        <span> Tags:
+                            Git, Plugin Management, SCM, source code, SVN
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="single-post">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                
+                <div class="post-img">
+                    <img class="img-fluid" alt="" src="http://damien.co/images/WordPress.png">
+                </div>
+                
+                <div class="post-content">
+                    <p>I&rsquo;m not trying to torture myself — which is why for the past 18 months managing my plugins in the <strong>WordPress SVN repository</strong> has been separated from my development work which is all saved in <strong>Git (Bitbucket</strong> to be totally honest).</p>
+<p>The time has come to find out just what &lsquo;<strong>git svn</strong>&rsquo; is all about and see if I can make it work!  I&rsquo;ve yet to become a master or ninja of Git .. but thanks to persistence on my part in setting up continuous integration with Jenkins and automated testing with Selenium I&rsquo;m getting to know Git more.</p>
+<h2 id="how-to-manage-a-git-svn-wordpress-plugin-repo">How to manage a Git SVN WordPress Plugin Repo</h2>
+<h3 id="get-ready-8212-migrating-away-from-subversion">Get Ready — Migrating away from Subversion</h3>
+<p>You have to assume you already have a WordPress SVN plugin repo … otherwise what are you reading this for 🙂</p>
+<p>It doesn&rsquo;t matter if you use Bitbucket, Github or something else. Essentially we are going to setup a Git repo on your local machine, checkout the code from WordPress SVN and then pull in your code from Bitbucket.</p>
+<p>This is going to use my WordPress plugin DBC-Backup 2 so you just need to replace it with your plugin name.</p>
+<h3 id="svn-wordpress-plugin-log-and-history">SVN WordPress Plugin Log and History</h3>
+<p>We need to find the earliest commit on the WordPress SVN repo for your plugin so that we don&rsquo;t end up spending days checking out all the code from SVN.</p>
+<p>Open Terminal or your CLI …</p>
+<!-- raw HTML omitted -->
+<p>(hint: your WordPress Plugin SVN URL should look like mine, except with your plugin name)</p>
+<p>Depending on how much you have used your SVN repo, this could take awhile … but you&rsquo;ll get a list of all your commits</p>
+<p>What you are looking for is the 1st commit like this:</p>
+<pre><code>------------------------------------------------------------------------
+r570197 | plugin-master | 2012-07-10 18:57:59 +0100 (Tue, 10 Jul 2012) | 1 line
+adding dbc-backup-2 by damiensaunders
+------------------------------------------------------------------------
+</code></pre><h3 id="git-svn-clone">GIT SVN Clone</h3>
+<p>Now navigate to where you want your plugin repo on your local machine (hint all my plugins reside inside the wp-content/plugins folder).</p>
+<pre><code>git svn clone -s -r570197 http://plugins.svn.wordpress.org/your-plugin
+</code></pre><p>-s = The SVN repo is in standard layout (trunk, branch, tags)
+-r = start from revision<!-- raw HTML omitted --></p>
+<p>Hint: don&rsquo;t do this without a revision, or you could be waiting days as your local machine scours the whole of the WordPress Plugin SVN repo.</p>
+<p>I tried using</p>
+<pre><code>git svn clone -s -rxxxxxx --no-minimize-url
+</code></pre><p>but that ended up generating an error so I don&rsquo;t use that switch</p>
+<p>Now you just need to change directory and fetch everything from your SVN repo like this:</p>
+<pre><code>cd plugin-name/
+git svn fetch
+</code></pre><p>What this is doing is getting all commits starting from revision r570197 when my plugin was first created.</p>
+<p>Even starting from the revision, this takes a bit of time (20 - 30 mins was enough for my plugin). The screen will start filling up with info on each file if it was A(dded) or M(edified).</p>
+<p>When its done, you&rsquo;ll have a new folder on your local machine with all your SVN contents (except no Tag or Branch folders and no &lsquo;assets&rsquo; folder).</p>
+<h3 id="add-bitbucket-to-your-new-git-svn-repo">Add Bitbucket to your new Git SVN Repo</h3>
+<p>This way you can start to pull down your code (if it already exists in Git).</p>
+<!-- raw HTML omitted -->
+<p>Hint: you can use the same command for Github, etc.</p>
+<h3 id="git-rebase">Git Rebase</h3>
+<p>We&rsquo;ll do a bit of a clean up and check</p>
+<pre><code>git svn rebase
+</code></pre><p>This should be quick … we&rsquo;ve not done any local changes yet and hopefully no-one else committed to WordPress SVN 🙂</p>
+<h3 id="merge-git-and-wordpress-svn">Merge Git and WordPress SVN</h3>
+<p>This is the powerful command which does a lot of good work</p>
+<p>git pull -rebase origin master</p>
+<p>What will happen is that Git will pull everything from your Git remote that we added (called origin) and it start to match and check your SVN. It&rsquo;s very likely you&rsquo;ll have merge conflicts and will need to resolve them … which is easy to fix!</p>
+<p>If you don&rsquo;t have any merge errors you&rsquo;re a Saint!</p>
+<p>If you do have errors — then its time to launch your fav Git app and do some visual diff / detective work.</p>
+<h2 id="bitbucket-and-sourcetree">Bitbucket and SourceTree</h2>
+<p>I&rsquo;m a fan of a SourceTree and use it for most of my work — my Git friends tell me I should do more from the CLI, but thats never going to happen. SourceTree does work with Github too.</p>
+<p>So now you can open SourceTree and just add a new Repo from the local working copy.</p>
+<p>Now you&rsquo;re done … you can go about your dev work and safely use Git to commit to Origin</p>
+<p>Remember to not commit often to SVN as it will affect your trunk for one thing!</p>
+<h2 id="bitbucket-8212-sourcetree-svn-fail">Bitbucket — SourceTree SVN Fail?</h2>
+<p>SourceTree has an option to clone from SVN. I thought I&rsquo;d be smart and try to clone from WordPress SVN repository for my plugin. But it failed me.</p>
+<h4 id="further-reading">Further Reading</h4>
+<p><a href="https://danielbachhuber.com/2010/09/29/how-to-properly-use-git-with-wordpress-org-subversion/">How to properly use Git with WordPress.org Subversion</a></p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<!-- Footer Section Start -->
+<footer id="footer">
+    <div class="container">
+        <div class="row content-justify-between">
+            <div class="col-md-8 col-12 text-center text-lg-left text-md-left">
+                <p class="copyright">Copyright &copy;  2004 - 
+                    <span>
+                        <script>document.write(new Date().getFullYear())</script>
+                    </span>  Damien Saunders.
+                    <br> Theme design and developed by
+                    <a href="http://www.Themefisher.com" target="_blank">Themefisher</a>.
+                    
+                </p>
+            </div>
+            <div class="col-md-4 col-12">
+                <!-- Social Media -->
+                <ul class="social text-center text-md-right text-lg-right">
+                    
+                    <li><a href="https://linkedin.com/in/damiensaunders"><i class="ion-social-linkedin"></i></a></li>
+                    
+                    <li><a href="https://www.instagram.com/3496dasa/"><i class="ion-social-instagram"></i></a></li>
+                    
+                    <li><a href="https://twitter.com/damiensaunders"><i class="ion-social-twitter"></i></a></li>
+                    
+                    <li><a href="mailto:hello@damiensaunders.com"><i class="ion-email"></i></a></li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- footer section end -->
+
+<!-- jquery -->
+<script src="http://damien.co/plugins/jQurey/jquery.min.js"></script>
+<!-- Form Validation -->
+<script src="http://damien.co/plugins/form-validation/jquery.form.js"></script>
+<script src="http://damien.co/plugins/form-validation/jquery.validate.min.js"></script>
+<!-- slick slider -->
+<script src="http://damien.co/plugins/slick/slick.min.js"></script>
+<!-- bootstrap js -->
+<script src="http://damien.co/plugins/bootstrap/bootstrap.min.js"></script>
+<!-- wow js -->
+<script src="http://damien.co/plugins/wow-js/wow.min.js"></script>
+<!-- slider js -->
+<script src="http://damien.co/plugins/slider/slider.js"></script>
+<!-- Fancybox -->
+<script src="http://damien.co/plugins/facncybox/jquery.fancybox.js"></script>
+<!-- template main js -->
+
+<script src="http://damien.co/js/script.min.js"></script>
+<!-- google analitycs -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-12356173-11', 'auto');
+    ga('send', 'pageview');
+</script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>geotagging on Damien Saunders</title>
+    <link>http://damien.co/tags/geotagging/</link>
+    <description>Recent content in geotagging on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 11 May 2010 08:00:19 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/geotagging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gowalla? Foursquare open for Business? Who will setup a business team in Europe First</title>
+      <link>http://damien.co/blog/2010-05-11-gowalla-foursquare-open-for-business/</link>
+      <pubDate>Tue, 11 May 2010 08:00:19 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2010-05-11-gowalla-foursquare-open-for-business/</guid>
+      <description>Foursquare is now open to business and is moving beyond geo-tagging and location based social networking. But is Foursquare really open to business? After trying to claim my business location and setup an offer for visitors its now been 3 weeks without a reply.
+In the UK right now, I believe there is an opportunity for Gowalla, Foursquare, etc to setup a small but viable business team to work with digital agencies or mobile marketing specialists here.</description>
+    </item>
+    
+  </channel>
+</rss>

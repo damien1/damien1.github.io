@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plugins on Damien Saunders</title>
+    <link>http://damien.co/tags/plugins/</link>
+    <description>Recent content in Plugins on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 22 Apr 2013 12:11:05 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/plugins/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teaser - Visual Layouts Pro (freetile)</title>
+      <link>http://damien.co/blog/2013-04-22-teaser-visual-layouts-pro-freetile/</link>
+      <pubDate>Mon, 22 Apr 2013 12:11:05 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2013-04-22-teaser-visual-layouts-pro-freetile/</guid>
+      <description>Development has finished on my next plugin … Visual Layouts Pro (Freetile) plugin.
+This takes the Freetile jQuery plugin and mashes it up with Filtrify and Twitter Bootstrap to give you an awesome plugin for a responsive, visual layout …
+Key Features of Visual Layouts Pro  Tags &amp;amp; Category based filters Show / Hide content Show Excerpt Works on posts, pages Includes Twitter Bootstrap with powerful options for CSS and web design Pagination  </description>
+    </item>
+    
+    <item>
+      <title>Differences between a plugin and a theme</title>
+      <link>http://damien.co/blog/2013-04-15-differences-between-a-plugin-and-a-theme/</link>
+      <pubDate>Mon, 15 Apr 2013 13:58:34 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2013-04-15-differences-between-a-plugin-and-a-theme/</guid>
+      <description>In WordPress, as with many things, there are two ways to add features and customise your website, either with themes (php template files) or plugins. There are multiple threads about what&amp;rsquo;s the difference between a theme and a plugin. A plugin &amp;lsquo;should not&amp;rsquo; change your website design / look and feel … But a theme can do everything a plugin does (including installing other plugins). Difference between a plugin and a theme To make things sound simple … Primarily, a plugin gives you the user, fine control via the shortcode as to when my plugin function is activated, and of course you can just turn off the plugin at any time.</description>
+    </item>
+    
+    <item>
+      <title>How to disable Jetpack WordPress plugins</title>
+      <link>http://damien.co/blog/2013-04-13-how-to-disable-jetpack-plugins/</link>
+      <pubDate>Sat, 13 Apr 2013 14:28:50 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2013-04-13-how-to-disable-jetpack-plugins/</guid>
+      <description>Enabling and Disabling Jetpack for WordPress individual plugins presented a bit of a challenge recently. Not having used Jetpack before, I thought it time to try out this collection of plugins developed and maintained by Automattic over the past 4 weeks.
+I&amp;rsquo;ve discovered that Jetpack is a feature rich collection of plugins but I seriously doubled-up on plugins doing the same job. I didn&amp;rsquo;t need Google Analytics as well as WordPress Stats.</description>
+    </item>
+    
+    <item>
+      <title>Visual Layouts Pro</title>
+      <link>http://damien.co/blog/2013-04-09-visual-layouts-pro/</link>
+      <pubDate>Tue, 09 Apr 2013 11:27:00 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2013-04-09-visual-layouts-pro/</guid>
+      <description>I&amp;rsquo;ve just finished work on the first release of my WordPress plugin Visual Layouts Pro — this features the awesome Freetile jQuery plugin for a responsive visual grid layout.
+Visual Layouts Pro, like my other plugins, offers the best features for creating a grid layout framework for your WordPress site - without needing to change your theme!
+Key Features Visual Layouts WordPress plugin  Uses Twitter Bootstrap CSS and grid framework Shortcode for including the excerpt Pagination Works on any post, page or custom post type Options to include featured images - image and text, or text only.</description>
+    </item>
+    
+    <item>
+      <title>Pods Framework for WordPress</title>
+      <link>http://damien.co/blog/2012-11-27-pods-framework-for-wordpress/</link>
+      <pubDate>Tue, 27 Nov 2012 13:31:45 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2012-11-27-pods-framework-for-wordpress/</guid>
+      <description>WordPress is one of the most flexible web apps to customise for your needs. Creating custom post types in WordPress is also quite easy and Pods Framework looks like a plugin that will make it easier still.
+I&amp;rsquo;m going to give it a try!</description>
+    </item>
+    
+    <item>
+      <title>WordPress pre-update checklist to help avoid any problems</title>
+      <link>http://damien.co/blog/2012-06-18-wordpress-pre-update-checklist-to-help-avoid-any-problems/</link>
+      <pubDate>Mon, 18 Jun 2012 17:12:09 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2012-06-18-wordpress-pre-update-checklist-to-help-avoid-any-problems/</guid>
+      <description>WordPress gets a major update about twice a year. If you&amp;rsquo;re responsible for doing the upgrade here&amp;rsquo;s a pre-update checklist for WordPress to help you identify any bugs that will get in the way of a flawless update.
+The main point of the checklist is to reduce risk of failure by helping you identifying potential issues and roadblocks and give you confidence in a fast update process.
+A second point to remember is the cost of not running the update - staying on an older version of WordPress can expose you to security issues which are fixed in the new update and also make it harder at a later time to run an update.</description>
+    </item>
+    
+    <item>
+      <title>HOW TO: View your WordPress Website on iPhone or Android Mobiles</title>
+      <link>http://damien.co/blog/2012-06-17-how-to-view-your-wordpress-website-on-iphone-or-android-2/</link>
+      <pubDate>Sun, 17 Jun 2012 16:00:27 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2012-06-17-how-to-view-your-wordpress-website-on-iphone-or-android-2/</guid>
+      <description>WordPress is a very comprehensive all-round tool for websites - and its not just for blogs. If you&amp;rsquo;re starting out with WordPress and need your site to look smooth on a mobile phone like the iPhone or iPad or any Android mobile then you&amp;rsquo;ll need a plugin for this.
+The best plugin for WordPress that handles any mobile device is easily WPtouch iPhone Theme. Once the plugin is installed and activated its working for you straight away.</description>
+    </item>
+    
+    <item>
+      <title>19 of the best WordPress Plugins to use with your Multisite Network (or What Plugins Im Using)</title>
+      <link>http://damien.co/blog/2012-06-15-19-best-wordpress-plugins-use-multisite-network-or-what-plugins-im-using/</link>
+      <pubDate>Fri, 15 Jun 2012 16:37:59 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2012-06-15-19-best-wordpress-plugins-use-multisite-network-or-what-plugins-im-using/</guid>
+      <description>I&amp;rsquo;ve been running WordPress as a multisite network and I often get asked about what are the best plugins for WordPress. Everyone has their opinion. I&amp;rsquo;ve listed the plugins which are network activated and grouped them in some meaningful manner for web marketers and development people.
+WordPress is one of the worlds&amp;rsquo; most popular website and blogging tools and it&amp;rsquo;s latest version makes it easier to manage the look of your website.</description>
+    </item>
+    
+    <item>
+      <title>WordPress: 9 Plugins for any new install</title>
+      <link>http://damien.co/blog/2011-12-28-wordpress-top-9-plugins-for-any-new-install-2/</link>
+      <pubDate>Wed, 28 Dec 2011 21:07:41 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2011-12-28-wordpress-top-9-plugins-for-any-new-install-2/</guid>
+      <description>WordPress is one of the World&amp;rsquo;s most used web and blog tools - it has 1000&amp;rsquo;s of plugins that add functionality to your website. Here then is a short list of essential WordPress Plugins from WordPress.org to get you started. The list covers SEO, Spam, Analytics and helps you get started with Google SERP.
+Akismet Akismet is included in every installation of WordPress, so that makes it one of the alltime popular plugins.</description>
+    </item>
+    
+    <item>
+      <title>Going Mobile - I&#39;m in your face - I&#39;m in your phone.</title>
+      <link>http://damien.co/mobile-marketing/going-mobile-im-in-your-face-im-in-your-phone-2953/</link>
+      <pubDate>Sun, 01 May 2011 13:24:41 +0000</pubDate>
+      
+      <guid>http://damien.co/mobile-marketing/going-mobile-im-in-your-face-im-in-your-phone-2953/</guid>
+      <description>Mobilising your web content and cross channel integrated marketing may sound like just a bunch of buzzwords to boost my SEO. But it&amp;rsquo;s not. So I&amp;rsquo;m helping you to understand the latest in mobile marketing, tools &amp;amp; techniques.
+You can now visit http://damien.mobi from your smartphone and have the best experience a mobile can get. If you&amp;rsquo;re a fan of the iPad then you can also save this as a web app on your phone.</description>
+    </item>
+    
+    <item>
+      <title>Getting Twitter Tools to work with MarsEdit</title>
+      <link>http://damien.co/social-media/twitter/getting-twitter-tools-to-work-with-marsedit-2870/</link>
+      <pubDate>Sun, 10 Apr 2011 20:13:30 +0000</pubDate>
+      
+      <guid>http://damien.co/social-media/twitter/getting-twitter-tools-to-work-with-marsedit-2870/</guid>
+      <description>Just wondering if this works — I&amp;rsquo;m trying to make MarsEdit work with a plugin that I love called TwitterTools
+If you know about this plugin and using external editors then let me know.</description>
+    </item>
+    
+    <item>
+      <title>Best WordPress plugins for social media marketing</title>
+      <link>http://damien.co/blog/2011-01-26-best-wordpress-plugins-for-social-media-marketing-2/</link>
+      <pubDate>Wed, 26 Jan 2011 09:20:06 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2011-01-26-best-wordpress-plugins-for-social-media-marketing-2/</guid>
+      <description>WordPress plugins there are millions(?) to choose from and they are so easy to install. I tend to be cutting edge and change my plugins often, but here are some of the best plugins to improve WordPress for social media and digital marketing.
+The point here is that writing original content can be easy - but your great works need to be found. Online or Digital Marketing is not just for selling a product or a brand - its about selling you.</description>
+    </item>
+    
+    <item>
+      <title>Best WordPress plugins for social media marketing</title>
+      <link>http://damien.co/wordpress/best-wordpress-plugins-for-social-media-marketing-2319/</link>
+      <pubDate>Wed, 26 Jan 2011 09:20:06 +0000</pubDate>
+      
+      <guid>http://damien.co/wordpress/best-wordpress-plugins-for-social-media-marketing-2319/</guid>
+      <description>Social Media Marketing plugins for WordPress - you only need a few to have a powerful integrated marketing website.
+WordPress plugins there are millions(?) to choose from and they are so easy to install. I tend to be cutting edge and change my plugins often, but here are some of the best plugins to improve WordPress for social media and digital marketing.
+The point here is that writing original content can be easy - but your great works need to be found.</description>
+    </item>
+    
+    <item>
+      <title>HOW TO export posts from WordPress to Word Doc via PDF in Mac OSx</title>
+      <link>http://damien.co/blog/2010-07-25-how-to-export-posts-from-wordpress-to-word-doc-via-pdf-in-mac-osx/</link>
+      <pubDate>Sun, 25 Jul 2010 18:00:30 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2010-07-25-how-to-export-posts-from-wordpress-to-word-doc-via-pdf-in-mac-osx/</guid>
+      <description>WordPress is one of the best end to end solutions for building a website and it has a large selection of themes, plugins and tools to make it more than just another blog. I recommend WordPress at the start of any project - just because it typically requires less management involvement or decisions from the IT or Tech teams to get started with.Having spent a lot more time writing about Social Media lately, I wanted to collect these posts into an editable collection (maybe I should have started by writing all my posts in word you might say).</description>
+    </item>
+    
+  </channel>
+</rss>

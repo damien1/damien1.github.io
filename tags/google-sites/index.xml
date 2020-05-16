@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google Sites on Damien Saunders</title>
+    <link>http://damien.co/tags/google-sites/</link>
+    <description>Recent content in Google Sites on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 03 Nov 2010 09:42:13 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/google-sites/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ZOHO CRM just integrated with Google Sites</title>
+      <link>http://damien.co/blog/2010-11-03-zoho-crm-just-integrated-with-google-sites/</link>
+      <pubDate>Wed, 03 Nov 2010 09:42:13 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2010-11-03-zoho-crm-just-integrated-with-google-sites/</guid>
+      <description>ZOHO CRMis one of the best web based SaaS customer relationship managementweb apps around and now its gone and made it even easier to capture your leads or enquiries from your website - if you use Google Sites.Currently Social CRM is the new name for managing customers - CRM wasn&amp;rsquo;t good enough and wasn&amp;rsquo;t work for many. The new tag Social CRM refers to engaging customers online where ever they are and hopefully that&amp;rsquo;s on your website!</description>
+    </item>
+    
+  </channel>
+</rss>

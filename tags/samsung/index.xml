@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samsung on Damien Saunders</title>
+    <link>http://damien.co/tags/samsung/</link>
+    <description>Recent content in Samsung on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 30 Mar 2012 15:00:25 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/samsung/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Android 4.0 Galaxy Nexus impressive boot animation</title>
+      <link>http://damien.co/blog/2012-03-30-galaxy-nexus-impressive-boot-animation/</link>
+      <pubDate>Fri, 30 Mar 2012 15:00:25 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2012-03-30-galaxy-nexus-impressive-boot-animation/</guid>
+      <description>Have you been impressed by the startup boot animation for Android ICS - I wonder if other Android 4.0 devices have the same startup animation?</description>
+    </item>
+    
+    <item>
+      <title>I just got my Google Galaxy Nexus</title>
+      <link>http://damien.co/blog/2011-12-03-i-just-got-my-google-galaxy-nexus/</link>
+      <pubDate>Sat, 03 Dec 2011 00:03:03 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2011-12-03-i-just-got-my-google-galaxy-nexus/</guid>
+      <description>Looking forward to some Android 4.0 Ice Cream Sandwich now I got me a new phone. The Google Galaxy Nexusarrived today and all I can say is BIG SCREEN.
+I think the next year will see me managing projects involving NFC, mobile payments, banking and hoping for some great Internet of Things apps.</description>
+    </item>
+    
+  </channel>
+</rss>

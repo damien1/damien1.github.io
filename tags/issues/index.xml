@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Issues on Damien Saunders</title>
+    <link>http://damien.co/tags/issues/</link>
+    <description>Recent content in Issues on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 27 Dec 2011 12:30:23 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/issues/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HOW TO fix the Fatal Error: Allowed Memory Size in WordPress</title>
+      <link>http://damien.co/blog/2011-12-27-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-2/</link>
+      <pubDate>Tue, 27 Dec 2011 12:30:23 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2011-12-27-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-2/</guid>
+      <description>WordPress offers lots of plugins to choose from and if you add to many you will soon come across this Fatal Error message. You can easily fix the problem (and then go back to adding more plugins).
+This out of memory error doesn&amp;rsquo;t mean you have to go buy more RAM — just have to amend a line of text in a wordpress settings file.
+ Fix the Fatal Error: Allowed Memory Size When you installed WordPress you either uploaded it using FTP yourself or went to an admin cpanel and installed it.</description>
+    </item>
+    
+    <item>
+      <title>Redmine for Issues &amp;#038; Bug track - things I learned</title>
+      <link>http://damien.co/marketing-consultant-2/redmine-for-issues-bug-track-things-i-learned-3058/</link>
+      <pubDate>Sun, 15 May 2011 17:45:38 +0000</pubDate>
+      
+      <guid>http://damien.co/marketing-consultant-2/redmine-for-issues-bug-track-things-i-learned-3058/</guid>
+      <description>Redmine is described as a flexible project management web application SaaS. I&amp;rsquo;ve been using it for the past 5 months within a mobile marketing agency - where its used for testing, operations, work orders, issue management and its wiki is used for documentation.
+Redmine can not be compared to other bug track, issues or fault management systems like JIRA or CRM platforms with helpdesk tools. It&amp;rsquo;s flexible, but that comes with a price.</description>
+    </item>
+    
+  </channel>
+</rss>

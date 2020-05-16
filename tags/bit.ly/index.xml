@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bit.ly on Damien Saunders</title>
+    <link>http://damien.co/tags/bit.ly/</link>
+    <description>Recent content in bit.ly on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 10 Oct 2012 15:13:57 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/bit.ly/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Twitter URLs right with Bit.ly Shortlinks by Yoast</title>
+      <link>http://damien.co/blog/2012-10-10-getting-twitter-urls-right-with-bit-ly/</link>
+      <pubDate>Wed, 10 Oct 2012 15:13:57 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2012-10-10-getting-twitter-urls-right-with-bit-ly/</guid>
+      <description>Integrating Twitter with WordPress is pretty easy to do without a plugin. With a few lines of code you can have a nice tweet this or follow me button on every post or page of your WordPress website.
+However, the URL that is part of the Tweet is the permalink URL and for many sites you&amp;rsquo;ll want to Tweet a shortened URL. If like me, using Bit.ly and Yoast&amp;rsquo;s Bitly Shortlink plugin, you maybe wondering how to get your short Bit.</description>
+    </item>
+    
+    <item>
+      <title>Best tools to start with Social Media Marketing - 2011 re-cap (where are they now)</title>
+      <link>http://damien.co/social-media-marketing-2/best-tools-to-start-with-social-media-marketing-2011-re-cap-where-are-they-now-7192/</link>
+      <pubDate>Tue, 19 Jun 2012 14:29:49 +0000</pubDate>
+      
+      <guid>http://damien.co/social-media-marketing-2/best-tools-to-start-with-social-media-marketing-2011-re-cap-where-are-they-now-7192/</guid>
+      <description>[typography font=”Special Elite” size=”25″ size_format=”px”]If you&amp;rsquo;re just getting started with Social Media marketing then you need at least 1 web based tool to help you.[/typography]
+__In 2011, I wrote a great article on the best tools to start with Social Media Marketing. A year later, things have changed, so I wanted to look back at my 2011 suggestions to see where they are now.
+Keep track of your social media status and influence, albeit using Klout&amp;rsquo;s own scoring.</description>
+    </item>
+    
+    <item>
+      <title>damiens.ws - A new look to Twitter via Bit.ly Pro</title>
+      <link>http://damien.co/blog/damiens-ws-a-new-look-to-twitter-via-bit-ly-pro-2909/</link>
+      <pubDate>Sun, 24 Apr 2011 13:02:56 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/damiens-ws-a-new-look-to-twitter-via-bit-ly-pro-2909/</guid>
+      <description>I&amp;rsquo;ve made a change to my Bit.ly Pro setup and switched to the domain damiens.ws for my URL shortener.
+This will benefit me and you - the new domain damiens.ws is registered for 10 years. You&amp;rsquo;ll continue to get the same great news and views from yours truly if you follow me on Twitter @damiensaunders
+You&amp;rsquo;ll see more changes like this to come - I suggest a single name brand might be one &amp;lsquo;strategy&amp;rsquo; that I&amp;rsquo;m going to follow.</description>
+    </item>
+    
+    <item>
+      <title>Bit.ly Making offline marketing work for social media with URL shortener</title>
+      <link>http://damien.co/blog/2010-09-03-bit-ly-making-offline-marketing-work-for-social-media-with-url-shortener/</link>
+      <pubDate>Fri, 03 Sep 2010 10:00:13 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2010-09-03-bit-ly-making-offline-marketing-work-for-social-media-with-url-shortener/</guid>
+      <description>Engagement metrics and CPE are going to become more popular this year and next year, and so how do you take the offline world online? Or how can you start track the value of that billboard you just spent 10,000,000 dollars on?
+Well that looks obvious! So how are you tracking offline to online engagement?
+At the moment Bit.ly Pro offers free service - you provide a customer domain or sub domain and it does the rest.</description>
+    </item>
+    
+  </channel>
+</rss>

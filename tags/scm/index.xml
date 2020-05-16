@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SCM on Damien Saunders</title>
+    <link>http://damien.co/tags/scm/</link>
+    <description>Recent content in SCM on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 22 Jan 2013 20:43:49 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/scm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Managing a WordPress plugin with SVN and Git</title>
+      <link>http://damien.co/blog/2013-01-22-managing-a-wordpress-plugin-with-svn-and-git/</link>
+      <pubDate>Tue, 22 Jan 2013 20:43:49 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2013-01-22-managing-a-wordpress-plugin-with-svn-and-git/</guid>
+      <description>I&amp;rsquo;m not trying to torture myself — which is why for the past 18 months managing my plugins in the WordPress SVN repository has been separated from my development work which is all saved in Git (Bitbucket to be totally honest).
+The time has come to find out just what &amp;lsquo;git svn&amp;rsquo; is all about and see if I can make it work! I&amp;rsquo;ve yet to become a master or ninja of Git .</description>
+    </item>
+    
+  </channel>
+</rss>

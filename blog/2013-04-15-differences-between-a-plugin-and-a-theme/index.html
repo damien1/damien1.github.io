@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en-gb"><head>
+  <!-- Basic Page Needs -->
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  
+  <meta name="description" content="Damien Saunders | management consultant">
+  <meta name="author" content="Damien Saunders">
+  <meta name="generator" content="Hugo 0.70.0" />
+  
+  <!-- Mobile Specific Metas -->
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Differences between a plugin and a theme</title>
+  <link rel="icon" href="http://damien.co/images/favicon.ico">
+
+  <!-- Twitter Bootstrs CSS -->
+  <link rel="stylesheet" href="http://damien.co/plugins/bootstrap/bootstrap.min.css">
+  <!-- Ionicons Fonts Css -->
+  <link rel="stylesheet" href="http://damien.co/plugins/ionicons/ionicons.min.css">
+  <!-- animate css -->
+  <link rel="stylesheet" href="http://damien.co/plugins/animate-css/animate.css">
+  <!-- Hero area slider css-->
+  <link rel="stylesheet" href="http://damien.co/plugins/slider/slider.css">
+  <!-- slick slider -->
+  <link rel="stylesheet" href="http://damien.co/plugins/slick/slick.css">
+  <!-- Fancybox -->
+  <link rel="stylesheet" href="http://damien.co/plugins/facncybox/jquery.fancybox.css">
+  <!-- hover -->
+  <link rel="stylesheet" href="http://damien.co/plugins/hover/hover-min.css">
+  <!-- template main css file -->
+  
+  <link rel="stylesheet" href="http://damien.co/css/style.min.css" integrity="" media="screen">
+</head><body><section class="top-bar animated-header">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<nav class="navbar navbar-expand-lg navbar-light bg-light">
+					<a class="navbar-brand" href="http://damien.co">
+						<img src="http://damien.co/damiensaunders.png" alt="Damien Saunders">
+					</a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+						aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+
+					<div class="collapse navbar-collapse" id="navigation">
+						<ul class="navbar-nav ml-auto">
+							<li class="nav-item">
+								<a class="nav-link" href="http://damien.co">Home</a>
+							</li>
+							
+							<li class="nav-item">
+								<a class="nav-link" href="http://damien.co/blog">Blog</a>
+							</li>
+							
+					</div>
+				</nav>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="global-page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h2>Differences between a plugin and a theme</h2>
+                    <div class="portfolio-meta">
+                        <span>Monday, Apr 15, 2013</span>|
+                        <span> Tags:
+                            development, plugins, theme, website, WordPress
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="single-post">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                
+                <div class="post-img">
+                    <img class="img-fluid" alt="" src="http://damien.co/images/WordPress.png">
+                </div>
+                
+                <div class="post-content">
+                    <p>In <strong>WordPress</strong>, as with many things, there are two ways to <strong>add features and customise your website</strong>, either with <em>themes</em> (php template files) or <em>plugins.</em>  There are multiple threads about what&rsquo;s the difference between a theme and a plugin. A plugin &lsquo;should not&rsquo; change your website design / look and feel … But a theme can do everything a plugin does (including installing other plugins). </p>
+<h2 id="difference-between-a-plugin-and-a-theme">Difference between a plugin and a theme</h2>
+<p>To make things sound simple … Primarily, a plugin gives you the user, fine control via the shortcode as to when my plugin function is activated, and of course you can just turn off the plugin at any time.  You can&rsquo;t do that with a theme.</p>
+<h2 id="so-what-is-a-plugin-that-includes-design--html-elements">So what is a plugin that includes design &amp; HTML elements?</h2>
+<p>My WordPress plugins fall into what I&rsquo;d like to call a &lsquo;middle ground&rsquo; … I don&rsquo;t create plugins that mean you need to add code to your theme and page templates.  … But I do include jQuery, HTML &amp; CSS in my plugins. I deliberately wanted to make plugins that add to your site without the need to change your theme. For many people I speak too, they love their theme, they just want added features.</p>
+<p>It is possible, to develop a plugin which moves page templates from the plugin into your theme folder - but it does become difficult to maintain these - what happens if you tried to change your theme? The plugin would break 🙁</p>
+<h2 id="heading"> </h2>
+<h2 id="wordpress-themes-that-include-plugins">WordPress themes that include plugins</h2>
+<p>A few WordPress theme developers are now including default plugins which get installed when the theme gets installed. This sounds like a good idea, because</p>
+<ol>
+<li>
+<p>The developer can add more features without coding by using existing plugins</p>
+</li>
+<li>
+<p>The user should be able to turn off plugins they don&rsquo;t want</p>
+</li>
+<li>
+<p>The developer can separate the design from the &lsquo;code&rsquo;</p>
+</li>
+</ol>
+<p>Actually, the last point is not true at all … the Developer wants to install plugins to include their functionality in the theme they are designing. So in away, the developer is just adding prerequisites before the theme can be used.</p>
+<p> </p>
+<h2 id="wordpress-plugins-are-not-dependent-on-any-theme">WordPress plugins are not dependent on any theme</h2>
+<p>The key benefit of a plugin, is building something independent, which can run on any number of themes. In my experience, you have the potential of getting all WordPress users to use your plugin (Hello Dolly, anyone?) - but you&rsquo;re less likely to convince someone to change their theme as easily.</p>
+<p>Aside from that, WordPress plugins can be just 2 files in a folder - the main plugin.php and its readme.txt file … a theme is likely to have 20 - 30 files. This also gives a bit of an indication about testing and a plugin vs testing a theme.</p>
+<p> </p>
+<p>So i&rsquo;ll carry making plugins for now 🙂</p>
+<p> </p>
+<p> </p>
+<p> </p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<!-- Footer Section Start -->
+<footer id="footer">
+    <div class="container">
+        <div class="row content-justify-between">
+            <div class="col-md-8 col-12 text-center text-lg-left text-md-left">
+                <p class="copyright">Copyright &copy;  2004 - 
+                    <span>
+                        <script>document.write(new Date().getFullYear())</script>
+                    </span>  Damien Saunders.
+                    <br> Theme design and developed by
+                    <a href="http://www.Themefisher.com" target="_blank">Themefisher</a>.
+                    
+                </p>
+            </div>
+            <div class="col-md-4 col-12">
+                <!-- Social Media -->
+                <ul class="social text-center text-md-right text-lg-right">
+                    
+                    <li><a href="https://linkedin.com/in/damiensaunders"><i class="ion-social-linkedin"></i></a></li>
+                    
+                    <li><a href="https://www.instagram.com/3496dasa/"><i class="ion-social-instagram"></i></a></li>
+                    
+                    <li><a href="https://twitter.com/damiensaunders"><i class="ion-social-twitter"></i></a></li>
+                    
+                    <li><a href="mailto:hello@damiensaunders.com"><i class="ion-email"></i></a></li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- footer section end -->
+
+<!-- jquery -->
+<script src="http://damien.co/plugins/jQurey/jquery.min.js"></script>
+<!-- Form Validation -->
+<script src="http://damien.co/plugins/form-validation/jquery.form.js"></script>
+<script src="http://damien.co/plugins/form-validation/jquery.validate.min.js"></script>
+<!-- slick slider -->
+<script src="http://damien.co/plugins/slick/slick.min.js"></script>
+<!-- bootstrap js -->
+<script src="http://damien.co/plugins/bootstrap/bootstrap.min.js"></script>
+<!-- wow js -->
+<script src="http://damien.co/plugins/wow-js/wow.min.js"></script>
+<!-- slider js -->
+<script src="http://damien.co/plugins/slider/slider.js"></script>
+<!-- Fancybox -->
+<script src="http://damien.co/plugins/facncybox/jquery.fancybox.js"></script>
+<!-- template main js -->
+
+<script src="http://damien.co/js/script.min.js"></script>
+<!-- google analitycs -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-12356173-11', 'auto');
+    ga('send', 'pageview');
+</script>
+</body>
+</html>

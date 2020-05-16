@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MNO on Damien Saunders</title>
+    <link>http://damien.co/tags/mno/</link>
+    <description>Recent content in MNO on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 24 Sep 2009 09:57:34 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/mno/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New UK MVNO before Christmas - Giffgaff to offer free calls</title>
+      <link>http://damien.co/general/new-uk-mvno-before-christmas-giffgaff-to-offer-free-calls-310/</link>
+      <pubDate>Thu, 24 Sep 2009 09:57:34 +0000</pubDate>
+      
+      <guid>http://damien.co/general/new-uk-mvno-before-christmas-giffgaff-to-offer-free-calls-310/</guid>
+      <description>Giffgaff will reward subscribers with cash rebates when they distribute its SIMs, help other members via its forums and suggest ideas which are then implemented by the company.
+source: http://www.nma.co.uk/</description>
+    </item>
+    
+  </channel>
+</rss>

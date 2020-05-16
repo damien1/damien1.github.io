@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>post format on Damien Saunders</title>
+    <link>http://damien.co/tags/post-format/</link>
+    <description>Recent content in post format on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 17 Jul 2012 11:41:36 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/post-format/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pros and Cons of Post Formats vs. WordPress Multisite</title>
+      <link>http://damien.co/blog/2012-07-17-pros-and-cons-of-post-types-vs-multiple-blogs/</link>
+      <pubDate>Tue, 17 Jul 2012 11:41:36 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2012-07-17-pros-and-cons-of-post-types-vs-multiple-blogs/</guid>
+      <description>WordPress is a flexible solution for web publishing. Post Formats were introduced a couple of years back to help users and developers to create content in one WYSIWYG Editorbut show it differently on the site. I&amp;rsquo;ll start by saying that there is quite a bit of press about why there is a general lack of support by theme developers for post formats(see one example below).
+  If you have a theme which doesn&amp;rsquo;t support post formats (most don&amp;rsquo;t) then you can&amp;rsquo;t start this way.</description>
+    </item>
+    
+  </channel>
+</rss>

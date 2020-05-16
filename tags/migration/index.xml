@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Migration on Damien Saunders</title>
+    <link>http://damien.co/tags/migration/</link>
+    <description>Recent content in Migration on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 08 Mar 2010 22:54:54 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/migration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Migrating your company website to WordPress Self Hosted</title>
+      <link>http://damien.co/blog/2010-03-08-migrating-your-company-website-to-wordpress-self-hosted-2/</link>
+      <pubDate>Mon, 08 Mar 2010 22:54:54 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2010-03-08-migrating-your-company-website-to-wordpress-self-hosted-2/</guid>
+      <description>WordPressis one of the most popular solutions for blogging. What people don&amp;rsquo;t know is that WordPress self hosted is the best solution for building a standalone SOHO / SME company website. We recently finished the migration of the mmCHANNEL company websitefrom an in-house developed website (using PHP, etc) to single install, self hosted WordPress installaton.There has been some times when I felt that maybe WordPress wasn&amp;rsquo;t right, but overall it&amp;rsquo;s going great and the results are visible!</description>
+    </item>
+    
+  </channel>
+</rss>

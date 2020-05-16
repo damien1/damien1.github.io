@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How To on Damien Saunders</title>
+    <link>http://damien.co/tags/how-to/</link>
+    <description>Recent content in How To on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 18 Dec 2012 13:56:15 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HOW TO: Install Jenkins-CI on a Mac OS X with Git &amp;#038; Bitbucket</title>
+      <link>http://damien.co/development/how-to-install-jenkins-ci-on-a-mac-os-x-with-git-bitbucket-8072/</link>
+      <pubDate>Tue, 18 Dec 2012 13:56:15 +0000</pubDate>
+      
+      <guid>http://damien.co/development/how-to-install-jenkins-ci-on-a-mac-os-x-with-git-bitbucket-8072/</guid>
+      <description>A few notes on getting Jenkins-CI installed on your Mac and setup with Git and Bitbucket for source code management. I&amp;rsquo;ve been using Git for some time but I had problems / major issues with Jenkins and could never seem to get this working.
+Issues with setting up Jenkins and Git on a Mac Here are the issues I was having … the biggest issue was the Error (unable to clone) which showed up when I created a job and added the path to the Bitbucket repo — even after I had added the SSH Key to Bitbucket.</description>
+    </item>
+    
+    <item>
+      <title>HOW TO: Install Selenium 2 for Mac OS X / Python</title>
+      <link>http://damien.co/resources/how-to-install-selenium-2-mac-os-x-python-7391/</link>
+      <pubDate>Sat, 23 Jun 2012 21:54:10 +0000</pubDate>
+      
+      <guid>http://damien.co/resources/how-to-install-selenium-2-mac-os-x-python-7391/</guid>
+      <description>If you own a Mac and want to get started with Selenium for Automated Testing of your web apps, then you&amp;rsquo;re already most of the way there.
+The Mac operating system already offers a number of baked in solutions and command line tools like Python, Ruby and Java.
+How To Install Selenium on your Mac OSx Mac already has Python and a package manager called easy_install, so open Terminal and type</description>
+    </item>
+    
+    <item>
+      <title>Web server performance - usage and load</title>
+      <link>http://damien.co/blog/web-server-performance-usage-and-load-5987/</link>
+      <pubDate>Tue, 17 Jan 2012 22:00:03 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/web-server-performance-usage-and-load-5987/</guid>
+      <description>Web Application Development can seem easy if you&amp;rsquo;re used to a shared host and WordPress running out of the box. Moving into the world of unmanaged VPS can be daunting at first - or really easy if you&amp;rsquo;re insane.
+If you&amp;rsquo;ve got access to a terminal or CLI - command line interface then you have here a number of options for checking your website performance. Here&amp;rsquo;s a few choice one&amp;rsquo;s I&amp;rsquo;ve been using lately.</description>
+    </item>
+    
+    <item>
+      <title>HOW TO fix the Fatal Error: Allowed Memory Size in WordPress</title>
+      <link>http://damien.co/blog/2011-12-27-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-2/</link>
+      <pubDate>Tue, 27 Dec 2011 12:30:23 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2011-12-27-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-2/</guid>
+      <description>WordPress offers lots of plugins to choose from and if you add to many you will soon come across this Fatal Error message. You can easily fix the problem (and then go back to adding more plugins).
+This out of memory error doesn&amp;rsquo;t mean you have to go buy more RAM — just have to amend a line of text in a wordpress settings file.
+ Fix the Fatal Error: Allowed Memory Size When you installed WordPress you either uploaded it using FTP yourself or went to an admin cpanel and installed it.</description>
+    </item>
+    
+    <item>
+      <title>HOWTO: Fix no mobile internet after Cyanogenmod install</title>
+      <link>http://damien.co/blog/android/howto-fix-no-mobile-internet-after-cyanogenmod-install-2822/</link>
+      <pubDate>Sun, 03 Apr 2011 21:04:20 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/android/howto-fix-no-mobile-internet-after-cyanogenmod-install-2822/</guid>
+      <description>Here&amp;rsquo;s a simple fix to problems of no Mobile Internet after installing Cyanogenmod rom on your Android. If you&amp;rsquo;re new to rooting your Android or just forgotten how complicated it can be to get online with your mobile phone - you might think this is a really useful tip.
+ Check your APN Settings After you root your phone and install CyanogenMod you can find your have no wifi and no wireless internet connection.</description>
+    </item>
+    
+    <item>
+      <title>Slideshare Featured presentation of the day – get started with Foursquare</title>
+      <link>http://damien.co/resources/slideshare-featured-presentation-of-the-day-get-started-with-foursquare-1938/</link>
+      <pubDate>Tue, 16 Nov 2010 11:51:33 +0000</pubDate>
+      
+      <guid>http://damien.co/resources/slideshare-featured-presentation-of-the-day-get-started-with-foursquare-1938/</guid>
+      <description>Here&amp;rsquo;s my newest Guide to getting started with Foursquareand it was selected by Slideshareas featured presentation on their homepage and on their business marketing section.The cat was definitely out of the bag on this … it&amp;rsquo;s had more than 460nearly 1000 views in one dayand a number of new favourites
+Thanks to everyone for liking it!</description>
+    </item>
+    
+  </channel>
+</rss>

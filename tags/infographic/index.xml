@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>infographic on Damien Saunders</title>
+    <link>http://damien.co/tags/infographic/</link>
+    <description>Recent content in infographic on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 20 Nov 2010 10:37:31 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/infographic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Saturday Funny - a guide to the internet</title>
+      <link>http://damien.co/general/saturday-funny-a-guide-to-the-internet-1875/</link>
+      <pubDate>Sat, 20 Nov 2010 10:37:31 +0000</pubDate>
+      
+      <guid>http://damien.co/general/saturday-funny-a-guide-to-the-internet-1875/</guid>
+      <description>So how would you explain the internet to a 19th century Dickensian street urchin. Can you make it through the flowchart without being killed?
+Source: FastCompany</description>
+    </item>
+    
+  </channel>
+</rss>

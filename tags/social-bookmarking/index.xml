@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Bookmarking on Damien Saunders</title>
+    <link>http://damien.co/tags/social-bookmarking/</link>
+    <description>Recent content in Social Bookmarking on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 01 Jun 2011 11:38:14 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/social-bookmarking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Delicious finally updates its Firefox Extension</title>
+      <link>http://damien.co/social-media/delicious-finally-updates-its-firefox-extension-3515/</link>
+      <pubDate>Wed, 01 Jun 2011 11:38:14 +0000</pubDate>
+      
+      <guid>http://damien.co/social-media/delicious-finally-updates-its-firefox-extension-3515/</guid>
+      <description>Delicious, that’s delicious.com or del.icio.us for those old enough - has finally updated its Firefox extension - though it is still a beta version, the updated extension is available in the Mozilla Add-ons applet-store
+If you gave up on Delicious for syncing bookmarks cause browsers added their own tools like Google Bookmarks or Firefox Sync then maybe this isn&amp;rsquo;t for you.
+If you’re still in love with the idea of social bookmarking - tagging and sharing your bookmarks … then this is something for you.</description>
+    </item>
+    
+    <item>
+      <title>Delicious - I still love you</title>
+      <link>http://damien.co/social-media/delicious-i-still-love-you-3517/</link>
+      <pubDate>Tue, 31 May 2011 11:04:55 +0000</pubDate>
+      
+      <guid>http://damien.co/social-media/delicious-i-still-love-you-3517/</guid>
+      <description>Delicious, that’s delicious.com or del.icio.us for those who can remember it - is one of the original web 2.0 social media services that specialised in social-bookmarking. We should learn to love Delicious again now that they’ve got new owners.
+Delicious is the original web 2.0 service we still love A few years back when something called web 2.0 was really a fluffy concept, Del.icio.us was the easy to understand social-bookmarking website.</description>
+    </item>
+    
+  </channel>
+</rss>

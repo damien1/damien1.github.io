@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>windows 7 on Damien Saunders</title>
+    <link>http://damien.co/tags/windows-7/</link>
+    <description>Recent content in windows 7 on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 26 Jun 2010 14:16:25 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/windows-7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HOW TO Can’t Install Windows 7 upgrade with Virtualbox</title>
+      <link>http://damien.co/general/how-to-cant-install-windows-7-upgrade-with-virtualbox-1088/</link>
+      <pubDate>Sat, 26 Jun 2010 14:16:25 +0000</pubDate>
+      
+      <guid>http://damien.co/general/how-to-cant-install-windows-7-upgrade-with-virtualbox-1088/</guid>
+      <description>This is an extremely short guide to a major problem with Windows 7 using Virtualbox. Many users come to this site looking to find the answer - which is - Windows 7 Home Upgrade is sold in Europe and elsewhere as a full install version.
+The problem is that installation via Virtualbox will complete but the user will not be able to &amp;lsquo;register&amp;rsquo; their copy Windows 7.
+The only way to install Windows 7 Upgrade using Virtualbox is to first install Windows XP and then run the Windows 7 Upgrade disc.</description>
+    </item>
+    
+    <item>
+      <title>15 minute guide to Virtualbox Windows 7 RC1 and your Mac</title>
+      <link>http://damien.co/general/15-minute-guide-to-running-windows-7-rc1-on-a-mac-180/</link>
+      <pubDate>Sun, 17 May 2009 20:05:38 +0000</pubDate>
+      
+      <guid>http://damien.co/general/15-minute-guide-to-running-windows-7-rc1-on-a-mac-180/</guid>
+      <description>So this follows an earlier post of mine about Virtualbox and running Windows XP on a Macbook Pro. Virtualbox is a great piece of software for running virtual operating systems on another machine (like runing Windows 7 on a Mac OSX).Today&amp;rsquo;s guide shows that you can be up n running with Windows 7 RC in about 15 minutes … thats got to be good ??
+So Grab your Windows 7 RC1 ISO file from the Windows website, grab a copy of Virtualbox for Mac and get going.</description>
+    </item>
+    
+  </channel>
+</rss>

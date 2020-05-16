@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inbound Marketing on Damien Saunders</title>
+    <link>http://damien.co/tags/inbound-marketing/</link>
+    <description>Recent content in Inbound Marketing on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 16 Nov 2011 23:04:49 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/inbound-marketing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Migrating your company website to WordPress Self Hosted</title>
+      <link>http://damien.co/wordpress/migrating-your-company-website-to-wordpress-self-hosted-697/</link>
+      <pubDate>Wed, 16 Nov 2011 23:04:49 +0000</pubDate>
+      
+      <guid>http://damien.co/wordpress/migrating-your-company-website-to-wordpress-self-hosted-697/</guid>
+      <description>WordPressis one of the most popular solutions for blogging. What people don&amp;rsquo;t know is that WordPress self hosted is the best solution for building a standalone B2B or SME company website. We recently finished the migration of the mmCHANNEL company website from an in-house developed website (using PHP, etc) to single install, self hosted WordPress installation.
+There were a few times when I felt that maybe WordPress wasn&amp;rsquo;t right, but overall it&amp;rsquo;s going great and the results are visible!</description>
+    </item>
+    
+    <item>
+      <title>Best WordPress plugins for social media marketing</title>
+      <link>http://damien.co/wordpress/best-wordpress-plugins-for-social-media-marketing-2319/</link>
+      <pubDate>Wed, 26 Jan 2011 09:20:06 +0000</pubDate>
+      
+      <guid>http://damien.co/wordpress/best-wordpress-plugins-for-social-media-marketing-2319/</guid>
+      <description>Social Media Marketing plugins for WordPress - you only need a few to have a powerful integrated marketing website.
+WordPress plugins there are millions(?) to choose from and they are so easy to install. I tend to be cutting edge and change my plugins often, but here are some of the best plugins to improve WordPress for social media and digital marketing.
+The point here is that writing original content can be easy - but your great works need to be found.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2x2 Grid on Damien Saunders</title>
+    <link>http://damien.co/tags/2x2-grid/</link>
+    <description>Recent content in 2x2 Grid on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 23 Mar 2011 09:10:33 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/2x2-grid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Every Important Stat can be drawn in a 2&amp;#215;2 Grid</title>
+      <link>http://damien.co/blog/insights-blog/every-important-stat-can-be-drawn-in-a-2x2-grid-2800/</link>
+      <pubDate>Wed, 23 Mar 2011 09:10:33 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/insights-blog/every-important-stat-can-be-drawn-in-a-2x2-grid-2800/</guid>
+      <description>Nolan Chart - XKCD
+Just to prove a point - the 2×2 grid is the best way to show-off pretty much interesting statistic or insight</description>
+    </item>
+    
+  </channel>
+</rss>

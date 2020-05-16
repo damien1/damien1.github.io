@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invoicing on Damien Saunders</title>
+    <link>http://damien.co/tags/invoicing/</link>
+    <description>Recent content in Invoicing on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 08 Apr 2010 16:09:06 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/invoicing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to send an invoice with ZOHO CRM free edition &amp;#038; ZOHO Invoice</title>
+      <link>http://damien.co/blog/2010-04-08-how-to-send-an-invoice-with-zoho-crm-free-edition-zoho-invoice/</link>
+      <pubDate>Thu, 08 Apr 2010 16:09:06 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2010-04-08-how-to-send-an-invoice-with-zoho-crm-free-edition-zoho-invoice/</guid>
+      <description>ZOHO CRM is one of the best web based (SaaS) solutions for day to day contact and customer relationship management. ZOHO CRM free edition doesn&amp;rsquo;t include features like creating a quote or invoice - don&amp;rsquo;t worry ZOHO Invoice is the perfect product for this. ZOHO Invoicefree edition allows you to create up to 5 quotes, estimates or invoices every month.How to login to ZOHO Invoice from ZOHO CRM If you are already using ZOHO CRM just go to the homepage for ZOHO Invoice  You&amp;rsquo;ll have to complete some basic details and then you can create your first quote or invoice.</description>
+    </item>
+    
+  </channel>
+</rss>

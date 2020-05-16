@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Woocommerce on Damien Saunders</title>
+    <link>http://damien.co/tags/woocommerce/</link>
+    <description>Recent content in Woocommerce on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 18 Jul 2012 15:59:04 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/woocommerce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>8 points to help you choose the right WordPress e-Commerce solution</title>
+      <link>http://damien.co/blog/2012-07-18-choose-the-right-wordpress-e-commerce-solution-for-you/</link>
+      <pubDate>Wed, 18 Jul 2012 15:59:04 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2012-07-18-choose-the-right-wordpress-e-commerce-solution-for-you/</guid>
+      <description>WordPress is a very versatile solution for e-commerce. There are many ways you can integrate or setup e-commerce with WordPress allowing you to sell goods and services at the same time as blogging or promoting them.
+Most of the available options are just plugins, a quick scan of the WordPress plugin repo will show there are plenty of options from donation buttons for PayPal to integrations with Magento.
+What WordPress E-Commerce Solutions are there?</description>
+    </item>
+    
+  </channel>
+</rss>

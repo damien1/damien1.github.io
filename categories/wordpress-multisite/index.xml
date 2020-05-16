@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WordPress Multisite on Damien Saunders</title>
+    <link>http://damien.co/categories/wordpress-multisite/</link>
+    <description>Recent content in WordPress Multisite on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 29 Apr 2013 12:00:56 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/categories/wordpress-multisite/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HOW TO Get Started with WordPress Multisite - build it in 5 minutes</title>
+      <link>http://damien.co/blog/2013-04-29-get-started-with-wordpress-multisite-build-it-in-5-minutes/</link>
+      <pubDate>Mon, 29 Apr 2013 12:00:56 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2013-04-29-get-started-with-wordpress-multisite-build-it-in-5-minutes/</guid>
+      <description>WordPress Multisite or WordPress Network or WPMU - any of these refer to WordPress when it has been setup as a network of blogs or websites.
+I&amp;rsquo;ve been using WordPress Multisite for about 3 years now - many more famous WordPress people have written about setting up WordPress Multisite, but this is my take on it.
+I want to show you that it is easy to get started with WordPress Multisite in fact you can have your network of WordPress sites up in under 5 minutes (supposing you already have WordPress installed).</description>
+    </item>
+    
+  </channel>
+</rss>

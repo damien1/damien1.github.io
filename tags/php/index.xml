@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PHP on Damien Saunders</title>
+    <link>http://damien.co/tags/php/</link>
+    <description>Recent content in PHP on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 21 Apr 2013 16:03:10 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mac OSx replacing MAMP  - install and configure MySQL, PHP, Apache</title>
+      <link>http://damien.co/blog/2013-04-21-mac-osx-replacing-mamp-install-and-configure-mysql-php-apache/</link>
+      <pubDate>Sun, 21 Apr 2013 16:03:10 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2013-04-21-mac-osx-replacing-mamp-install-and-configure-mysql-php-apache/</guid>
+      <description>MAMP (Mac, Apache, MySQL, PHP) is the first go to solution for anyone developing anything web based on your Mac. Even more so as Apple removed the easy controls to enable &amp;lsquo;web sharing&amp;rsquo; as it was called in 10.8 Mountain Lion. I had wanted to use WP-CLI - which is a set of command line tools for WordPress, only that they don&amp;rsquo;t install / like MAMP. Which means, now is the time to replace MAMP with my own stack.</description>
+    </item>
+    
+  </channel>
+</rss>

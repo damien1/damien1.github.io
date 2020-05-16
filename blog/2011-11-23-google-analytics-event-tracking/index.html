@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en-gb"><head>
+  <!-- Basic Page Needs -->
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  
+  <meta name="description" content="Damien Saunders | management consultant">
+  <meta name="author" content="Damien Saunders">
+  <meta name="generator" content="Hugo 0.70.0" />
+  
+  <!-- Mobile Specific Metas -->
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Google Analytics &amp;#038; Event Tracking</title>
+  <link rel="icon" href="http://damien.co/images/favicon.ico">
+
+  <!-- Twitter Bootstrs CSS -->
+  <link rel="stylesheet" href="http://damien.co/plugins/bootstrap/bootstrap.min.css">
+  <!-- Ionicons Fonts Css -->
+  <link rel="stylesheet" href="http://damien.co/plugins/ionicons/ionicons.min.css">
+  <!-- animate css -->
+  <link rel="stylesheet" href="http://damien.co/plugins/animate-css/animate.css">
+  <!-- Hero area slider css-->
+  <link rel="stylesheet" href="http://damien.co/plugins/slider/slider.css">
+  <!-- slick slider -->
+  <link rel="stylesheet" href="http://damien.co/plugins/slick/slick.css">
+  <!-- Fancybox -->
+  <link rel="stylesheet" href="http://damien.co/plugins/facncybox/jquery.fancybox.css">
+  <!-- hover -->
+  <link rel="stylesheet" href="http://damien.co/plugins/hover/hover-min.css">
+  <!-- template main css file -->
+  
+  <link rel="stylesheet" href="http://damien.co/css/style.min.css" integrity="" media="screen">
+</head><body><section class="top-bar animated-header">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<nav class="navbar navbar-expand-lg navbar-light bg-light">
+					<a class="navbar-brand" href="http://damien.co">
+						<img src="http://damien.co/damiensaunders.png" alt="Damien Saunders">
+					</a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+						aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+
+					<div class="collapse navbar-collapse" id="navigation">
+						<ul class="navbar-nav ml-auto">
+							<li class="nav-item">
+								<a class="nav-link" href="http://damien.co">Home</a>
+							</li>
+							
+							<li class="nav-item">
+								<a class="nav-link" href="http://damien.co/blog">Blog</a>
+							</li>
+							
+					</div>
+				</nav>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="global-page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h2>Google Analytics &amp;#038; Event Tracking</h2>
+                    <div class="portfolio-meta">
+                        <span>Wednesday, Nov 23, 2011</span>|
+                        <span> Tags:
+                            Analytics, Events, Google Analytics
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="single-post">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                
+                <div class="post-content">
+                    <p><strong>Google Analytics</strong> provides a number of extra tools for the adventurous to improve tracking and provide valuable insights. There are two types of tracking you can have - event tracking is used to help analyse visitor behaviour onsite. It’s not complicated to do this - but it’s time consuming and complex.</p>
+<p>Google Analytics is one of the web’s most popular tools for reporting on activity and trends for just about any website. Your online and offline marketing activities need meaningful analytics data which creates actionable insights. In summary, website analytics has benefits for sales, marketing and product development - in fact most areas of your business.</p>
+<h2 id="why-event-tracking">Why event tracking?</h2>
+<p>This is where ROI counts Website analytics need to focus on meaningful things - targets that are relevant to your business. Page views and unique visitors don’t translate into meaningful numbers for your finance and sales reports. Event tracking allows you to better manage and monitor your ROI.</p>
+<h3 id="tracking-web-to-sales-leads--onsite-conversions-example">Tracking Web to Sales Leads &amp; Onsite Conversions [example]</h3>
+<p>Your business is generating sales leads from the website, with event tracking you could include in your reports the page and the day when a new lead was generated. This means your sales pipeline and CRM tools are closer to the customer experience.</p>
+<h3 id="playing-a-video-or-viewing-a-presentation-example">Playing a Video or Viewing a Presentation [example]</h3>
+<p>If you publish videos to your website, your analytics reports can only tell you how many people viewed that page. Event tracking would allow you capture every time someone clicks Play on a video and keeps a cumulative count.</p>
+<h2 id="why-not-just-use-campaign-tracking">Why not just use campaign tracking?</h2>
+<p>I believe that campaign tracking should only be used for incoming visitors so you can determine the source of the referral and analyse your other online marketing activity. Don’t go overboard and give everything a campaign tracking URL.</p>
+<h2 id="anatomy-of-event-tracking">Anatomy of Event Tracking</h2>
+<p>[This is taken from Google Analytics Help] …The Event Tracking model has the following components which map directly to elements in the Analytics Reports interface:</p>
+<ul>
+<li>categories</li>
+<li>actions</li>
+<li>labels</li>
+<li>values</li>
+<li>implicit count</li>
+<li>Ignore event</li>
+</ul>
+<p>Basically …  Event Tracking looks like this
+[php]onClick=&quot;gaq.push([&lsquo;trackEvent&rsquo;, &lsquo;Videos&rsquo;, &lsquo;Play&rsquo;, &lsquo;Baby&rsquo;s First Birthday&rsquo;]);&quot;[/php]</p>
+<h2 id="google-analytics--event-tracking-is-simple">Google Analytics &amp; Event Tracking is simple</h2>
+<p>Event tracking starts with a link that you want to track a click so you just add this onClick code snippet to any anchor tag like</p>
+<!-- raw HTML omitted -->
+<p>Again .. Don’t go overboard and tag everything or you’ll be lost with all the noise. I’ve seen companies who tag everything and forget to add event tracking to more important banners or buttons.</p>
+<p>Event Tracking is visible in Google Analytics near-realtime, so you can add the code and test it immediately on your website.</p>
+<h2 id="get-started-with-event-tracking">Get Started with Event Tracking</h2>
+<p>I’m deliberately wanting to track Visitors and Customers - these are the people who do stuff on your website that shows they are interested in your business or what you’ve got to say. This is important when thinking about Customer Engagement and your user experience.</p>
+<h2 id="event-tracking-spreadsheet">Event Tracking Spreadsheet</h2>
+<p>I use a spreadsheet which I then share with developers or other people who are going to add the event tracking to your web site.</p>
+<p>Create a new spreadsheet in Excel with the following column headings -</p>
+<ul>
+<li>URL</li>
+<li>Categories</li>
+<li>Actions</li>
+<li>Labels</li>
+</ul>
+<p>And here is a short explanation of what to enter:</p>
+<p>URL - will be the page or button or banner to track you need to be specific</p>
+<p>Categories - keep these to a few - like Support, Visitor Exits, Lead Generation</p>
+<p>Actions could be - Play Video, Download PDF, Submit Form</p>
+<p>Labels - Use the page name or widget name to identify exactly the source of the Event</p>
+<pre><code>&lt;a onclick=&quot;gaq.push(['trackEvent', 'Videos', 'Play', 'Baby's First Birthday']);&quot;&gt;
+</code></pre><p>How are you using <!-- raw HTML omitted -->Event Tracking<!-- raw HTML omitted -->? If you <!-- raw HTML omitted --><a href="/contact">need assistance to implement Event Tracking</a> get in contact.</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<!-- Footer Section Start -->
+<footer id="footer">
+    <div class="container">
+        <div class="row content-justify-between">
+            <div class="col-md-8 col-12 text-center text-lg-left text-md-left">
+                <p class="copyright">Copyright &copy;  2004 - 
+                    <span>
+                        <script>document.write(new Date().getFullYear())</script>
+                    </span>  Damien Saunders.
+                    <br> Theme design and developed by
+                    <a href="http://www.Themefisher.com" target="_blank">Themefisher</a>.
+                    
+                </p>
+            </div>
+            <div class="col-md-4 col-12">
+                <!-- Social Media -->
+                <ul class="social text-center text-md-right text-lg-right">
+                    
+                    <li><a href="https://linkedin.com/in/damiensaunders"><i class="ion-social-linkedin"></i></a></li>
+                    
+                    <li><a href="https://www.instagram.com/3496dasa/"><i class="ion-social-instagram"></i></a></li>
+                    
+                    <li><a href="https://twitter.com/damiensaunders"><i class="ion-social-twitter"></i></a></li>
+                    
+                    <li><a href="mailto:hello@damiensaunders.com"><i class="ion-email"></i></a></li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- footer section end -->
+
+<!-- jquery -->
+<script src="http://damien.co/plugins/jQurey/jquery.min.js"></script>
+<!-- Form Validation -->
+<script src="http://damien.co/plugins/form-validation/jquery.form.js"></script>
+<script src="http://damien.co/plugins/form-validation/jquery.validate.min.js"></script>
+<!-- slick slider -->
+<script src="http://damien.co/plugins/slick/slick.min.js"></script>
+<!-- bootstrap js -->
+<script src="http://damien.co/plugins/bootstrap/bootstrap.min.js"></script>
+<!-- wow js -->
+<script src="http://damien.co/plugins/wow-js/wow.min.js"></script>
+<!-- slider js -->
+<script src="http://damien.co/plugins/slider/slider.js"></script>
+<!-- Fancybox -->
+<script src="http://damien.co/plugins/facncybox/jquery.fancybox.js"></script>
+<!-- template main js -->
+
+<script src="http://damien.co/js/script.min.js"></script>
+<!-- google analitycs -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-12356173-11', 'auto');
+    ga('send', 'pageview');
+</script>
+</body>
+</html>

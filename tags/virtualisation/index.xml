@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>virtualisation on Damien Saunders</title>
+    <link>http://damien.co/tags/virtualisation/</link>
+    <description>Recent content in virtualisation on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 26 Jun 2010 14:16:25 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/virtualisation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HOW TO Can’t Install Windows 7 upgrade with Virtualbox</title>
+      <link>http://damien.co/general/how-to-cant-install-windows-7-upgrade-with-virtualbox-1088/</link>
+      <pubDate>Sat, 26 Jun 2010 14:16:25 +0000</pubDate>
+      
+      <guid>http://damien.co/general/how-to-cant-install-windows-7-upgrade-with-virtualbox-1088/</guid>
+      <description>This is an extremely short guide to a major problem with Windows 7 using Virtualbox. Many users come to this site looking to find the answer - which is - Windows 7 Home Upgrade is sold in Europe and elsewhere as a full install version.
+The problem is that installation via Virtualbox will complete but the user will not be able to &amp;lsquo;register&amp;rsquo; their copy Windows 7.
+The only way to install Windows 7 Upgrade using Virtualbox is to first install Windows XP and then run the Windows 7 Upgrade disc.</description>
+    </item>
+    
+    <item>
+      <title>HOW-TO install Ubuntu using Virtualbox on a Mac</title>
+      <link>http://damien.co/general/how-to-install-ubuntu-using-virtualbox-on-a-mac-2-712/</link>
+      <pubDate>Tue, 09 Mar 2010 23:27:29 +0000</pubDate>
+      
+      <guid>http://damien.co/general/how-to-install-ubuntu-using-virtualbox-on-a-mac-2-712/</guid>
+      <description>How easy is it to install Ubuntu on your Mac- this quick visual guide will have Ubuntu running within your Mac os X in under 20mins.If you&amp;rsquo;re really keen - maybe you want to use my guide on Virtualbox &amp;amp; install Windows XP on your MacGetting Started  Follow my instructions to download and install Virtualbox on your Macor Grab a copy of Virtualbox from virtualbox.org  Virtualbox Main Screen  Launch Virtualbox and click on New  Virtualbox Create New Virtual Machine for Ubuntu  Give your new virtual machine a name like Ubuntu Select Linux and Ubuntu from the drop downs  Virtualbox Set Memory  Set base memory to at least 1Gb.</description>
+    </item>
+    
+    <item>
+      <title>How to install Virtualbox on a Mac</title>
+      <link>http://damien.co/blog/2010-02-28-how-to-install-virtualbox-on-a-mac/</link>
+      <pubDate>Sun, 28 Feb 2010 14:48:23 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2010-02-28-how-to-install-virtualbox-on-a-mac/</guid>
+      <description>This is 2 minute guide covering how to get Virtualbox and install it on your Mac. You would choose to use Virtualbox for 2 reasons
+ Virtualbox is freeware in comparison to Fusion for Mac Virtualbox runs inside your Mac so you don&amp;rsquo;t have to reboot like Bootcamp  It&amp;rsquo;s been some time since I visited my favorite topic, which is using my Mac OSx Snow Leopard to run virtual operating systems like Tiny XP, Windows 7RC or Ubunutu.</description>
+    </item>
+    
+    <item>
+      <title>Upgrading to Virtualbox 3.0 and Mac OSx hosts</title>
+      <link>http://damien.co/general/upgrading-to-virtualbox-3-0-and-mac-osx-hosts-222/</link>
+      <pubDate>Fri, 10 Jul 2009 14:45:06 +0000</pubDate>
+      
+      <guid>http://damien.co/general/upgrading-to-virtualbox-3-0-and-mac-osx-hosts-222/</guid>
+      <description>Assuming you have been using Virtualbox before, then the upgrade process to Virtualbox 3 is going to be easy and smooth sailing.
+For first time users of Virtualbox or in fact virtualisation who are using a Mac OSx then you should read my earlier posts on how to get going. These are:
+  15 minute guide to running Windows 7 RC on a Mac and
+  How to install Virtualbox on a Mac using Windows TinyXP</description>
+    </item>
+    
+    <item>
+      <title>15 minute guide to Virtualbox Windows 7 RC1 and your Mac</title>
+      <link>http://damien.co/general/15-minute-guide-to-running-windows-7-rc1-on-a-mac-180/</link>
+      <pubDate>Sun, 17 May 2009 20:05:38 +0000</pubDate>
+      
+      <guid>http://damien.co/general/15-minute-guide-to-running-windows-7-rc1-on-a-mac-180/</guid>
+      <description>So this follows an earlier post of mine about Virtualbox and running Windows XP on a Macbook Pro. Virtualbox is a great piece of software for running virtual operating systems on another machine (like runing Windows 7 on a Mac OSX).Today&amp;rsquo;s guide shows that you can be up n running with Windows 7 RC in about 15 minutes … thats got to be good ??
+So Grab your Windows 7 RC1 ISO file from the Windows website, grab a copy of Virtualbox for Mac and get going.</description>
+    </item>
+    
+    <item>
+      <title>HOW TO install Virtualbox on Mac osx host &amp;amp; WinXp guest using TinyXP rev</title>
+      <link>http://damien.co/blog/2009-04-10-how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2009-04-10-how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09/</guid>
+      <description>Virtualbox is a dream freeware solution for anyone - novice to geek - who wants to run different computers inside their computer - virtual so to speak. Today I&amp;rsquo;ve been tinkering with getting Virtualbox working on a Mac laptop running WinXP.
+this is a very old post whats contained below has not been checked since 2012
+Virtualbox from Oracle Sunis a freeware, open source virtualisation application .. it comes in a number of flavours - I&amp;rsquo;ve previously used it to run WinXP guests inside WinXP hosts for testing and at work it was the only way to install things without having to go to the IT helpdesk.</description>
+    </item>
+    
+  </channel>
+</rss>

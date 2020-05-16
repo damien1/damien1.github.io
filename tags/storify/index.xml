@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Storify on Damien Saunders</title>
+    <link>http://damien.co/tags/storify/</link>
+    <description>Recent content in Storify on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 20 May 2012 11:08:15 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/storify/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>App Design: Storify - too many windows</title>
+      <link>http://damien.co/apps-2/app-design-storify-too-many-windows-7077/</link>
+      <pubDate>Sun, 20 May 2012 11:08:15 +0000</pubDate>
+      
+      <guid>http://damien.co/apps-2/app-design-storify-too-many-windows-7077/</guid>
+      <description>Have you tried Storify? Is it just a little too busy? a little too complicated to get started with?
+I&amp;rsquo;ve read some great stuff about how to use Storify to archive events (weddings for example). Using Storify you can collect all the tweets, Facebook messages, Flickr pictures into a &amp;lsquo;story&amp;rsquo;. Sounds good so far.
+But what if you&amp;rsquo;re creative and not a creative writer? What if you just don&amp;rsquo;t have enough going on in your life?</description>
+    </item>
+    
+  </channel>
+</rss>

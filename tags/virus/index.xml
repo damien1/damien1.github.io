@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virus on Damien Saunders</title>
+    <link>http://damien.co/tags/virus/</link>
+    <description>Recent content in Virus on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 09 Sep 2012 15:19:27 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/virus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why You Don’t Need Mac Anti-Virus Software - Plus What You Do Need</title>
+      <link>http://damien.co/blog/why-you-dont-need-mac-anti-virus-software-plus-what-you-do-need-7777/</link>
+      <pubDate>Sun, 09 Sep 2012 15:19:27 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/why-you-dont-need-mac-anti-virus-software-plus-what-you-do-need-7777/</guid>
+      <description>I&amp;rsquo;ve been using Apple Macbook Pro as my primary work horse since 2008. I&amp;rsquo;ve always had ClamXav installed as a &amp;lsquo;heuristic&amp;rsquo; solution to monitor apps and downloads for virus and malware.
+I&amp;rsquo;m a fan of sandbox for apps, but as I do develop a whole heap of different things, just installing from the Mac App Store is not an option for me.
+Now I&amp;rsquo;m going to look for other software ….</description>
+    </item>
+    
+  </channel>
+</rss>

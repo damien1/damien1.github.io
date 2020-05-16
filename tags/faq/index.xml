@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAQ on Damien Saunders</title>
+    <link>http://damien.co/tags/faq/</link>
+    <description>Recent content in FAQ on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 29 Apr 2013 12:00:56 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/faq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HOW TO Get Started with WordPress Multisite - build it in 5 minutes</title>
+      <link>http://damien.co/blog/2013-04-29-get-started-with-wordpress-multisite-build-it-in-5-minutes/</link>
+      <pubDate>Mon, 29 Apr 2013 12:00:56 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2013-04-29-get-started-with-wordpress-multisite-build-it-in-5-minutes/</guid>
+      <description>WordPress Multisite or WordPress Network or WPMU - any of these refer to WordPress when it has been setup as a network of blogs or websites.
+I&amp;rsquo;ve been using WordPress Multisite for about 3 years now - many more famous WordPress people have written about setting up WordPress Multisite, but this is my take on it.
+I want to show you that it is easy to get started with WordPress Multisite in fact you can have your network of WordPress sites up in under 5 minutes (supposing you already have WordPress installed).</description>
+    </item>
+    
+    <item>
+      <title>HOW TO A WordPress update created a fatal error and now I can&#39;t login</title>
+      <link>http://damien.co/blog/2012-07-30-how-to-a-wordpress-update-created-a-fatal-and-now-i-cant-login/</link>
+      <pubDate>Mon, 30 Jul 2012 15:00:18 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2012-07-30-how-to-a-wordpress-update-created-a-fatal-and-now-i-cant-login/</guid>
+      <description>You just updated your plugins or theme in WordPress and now you can&amp;rsquo;t visit wp-admin or visit your website. Everything is broken, what you&amp;rsquo;re looking at is the White Screen of Death.
+It’s easy to recover from the 2 most common errors that kill your WordPress website. Fix the issue in 3 simple steps.
+When something goes wrong WordPress the most common cause is a plugin conflict or a problem with your theme.</description>
+    </item>
+    
+    <item>
+      <title>How to Show more Posts</title>
+      <link>http://damien.co/blog/2012-01-13-how-to-show-more-posts/</link>
+      <pubDate>Fri, 13 Jan 2012 16:13:06 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2012-01-13-how-to-show-more-posts/</guid>
+      <description>It&amp;rsquo;s very easy to show more posts when browsing WordPress.
+Make sure you first View All Posts, then Select Screen Options from the top right of the Toolbar; and finally Change the value (eg 200 in the example picture)</description>
+    </item>
+    
+    <item>
+      <title>How to De-clutter Create Edit Posts</title>
+      <link>http://damien.co/blog/2012-01-13-how-to-de-clutter-create-edit-posts/</link>
+      <pubDate>Fri, 13 Jan 2012 16:11:28 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2012-01-13-how-to-de-clutter-create-edit-posts/</guid>
+      <description>The title field and the big Post Editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box.
+Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen.</description>
+    </item>
+    
+    <item>
+      <title>HOW-TO: Are fonts locked?  Can you prevent the wrong ones appearing?</title>
+      <link>http://damien.co/blog/2012-01-13-are-fonts-locked-how-to-prevent-the-wrong-ones-appearing/</link>
+      <pubDate>Fri, 13 Jan 2012 16:06:50 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2012-01-13-are-fonts-locked-how-to-prevent-the-wrong-ones-appearing/</guid>
+      <description>No – font’s are not locked in WordPress, but it&amp;rsquo;s easy to switch to the HTML Editor – where cut paste will only paste plain text.
+Alternatively, If you&amp;rsquo;re in the Visual Editor then … Click the W icon and paste there first.
+tip: You can also switch to the HTML Editor to check if there is formatting you don’t want</description>
+    </item>
+    
+    <item>
+      <title>HOW TO fix the Fatal Error: Allowed Memory Size in WordPress</title>
+      <link>http://damien.co/blog/2011-12-27-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-2/</link>
+      <pubDate>Tue, 27 Dec 2011 12:30:23 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2011-12-27-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-2/</guid>
+      <description>WordPress offers lots of plugins to choose from and if you add to many you will soon come across this Fatal Error message. You can easily fix the problem (and then go back to adding more plugins).
+This out of memory error doesn&amp;rsquo;t mean you have to go buy more RAM — just have to amend a line of text in a wordpress settings file.
+ Fix the Fatal Error: Allowed Memory Size When you installed WordPress you either uploaded it using FTP yourself or went to an admin cpanel and installed it.</description>
+    </item>
+    
+    <item>
+      <title>HOW TO: Stop WordPress Comment Spam instantly</title>
+      <link>http://damien.co/blog/2011-07-05-how-to-stop-wordpress-comment-spam-instantly/</link>
+      <pubDate>Tue, 05 Jul 2011 11:06:21 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2011-07-05-how-to-stop-wordpress-comment-spam-instantly/</guid>
+      <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme&amp;rsquo;s functions.php. This is one of my favourite WordPress functions and I use it on all my setups.
+This code snippet works by blocking comments from being added offsite or indirectly and not from the comment box on your webpage.
+Just to prove this works … take a look at your spam comments now and mentally calculate your daily average of new spam comments.</description>
+    </item>
+    
+    <item>
+      <title>HOW TO fix the Fatal Error: Allowed Memory Size in WordPress</title>
+      <link>http://damien.co/blog/2010-03-11-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress/</link>
+      <pubDate>Thu, 11 Mar 2010 21:12:23 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2010-03-11-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress/</guid>
+      <description>WordPress offers lots of plugins to choose from and if you add to many you will soon come across this Fatal Error message. You can easily fix the problem (and then go back to adding more plugins).
+This out of memory error doesn&amp;rsquo;t mean you have to go buy more RAM — just have to amend a line of text in a wordpress settings file.
+Fix the Fatal Error: Allowed Memory Size   When you installed WordPress you either uploaded it using FTP yourself or went to an admin cpanel and installed it.</description>
+    </item>
+    
+  </channel>
+</rss>

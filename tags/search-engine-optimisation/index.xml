@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Search Engine Optimisation on Damien Saunders</title>
+    <link>http://damien.co/tags/search-engine-optimisation/</link>
+    <description>Recent content in Search Engine Optimisation on Damien Saunders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 15 Jun 2012 16:37:59 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/search-engine-optimisation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>19 of the best WordPress Plugins to use with your Multisite Network (or What Plugins Im Using)</title>
+      <link>http://damien.co/blog/2012-06-15-19-best-wordpress-plugins-use-multisite-network-or-what-plugins-im-using/</link>
+      <pubDate>Fri, 15 Jun 2012 16:37:59 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2012-06-15-19-best-wordpress-plugins-use-multisite-network-or-what-plugins-im-using/</guid>
+      <description>I&amp;rsquo;ve been running WordPress as a multisite network and I often get asked about what are the best plugins for WordPress. Everyone has their opinion. I&amp;rsquo;ve listed the plugins which are network activated and grouped them in some meaningful manner for web marketers and development people.
+WordPress is one of the worlds&amp;rsquo; most popular website and blogging tools and it&amp;rsquo;s latest version makes it easier to manage the look of your website.</description>
+    </item>
+    
+    <item>
+      <title>SEO best practice for using &amp;lt;strong&amp;gt; and &amp;lt;em&amp;gt;</title>
+      <link>http://damien.co/social-media/seo-best-practice-for-using-strong-and-em-2695/</link>
+      <pubDate>Mon, 14 Feb 2011 09:42:31 +0000</pubDate>
+      
+      <guid>http://damien.co/social-media/seo-best-practice-for-using-strong-and-em-2695/</guid>
+      <description>As more people become aware of HTML5 it&amp;rsquo;s time to review how tagging written content will impact search engine optimisation. Tags like and are redundant - instead and have been in use for a few years by many blogging and web developer tools. Now the HTML5 standard recognises that and should only be used for visual style.
+You can do more with CSS styles If you remember writing HTML back in the 90&amp;rsquo;s you might be more comfortable using and .</description>
+    </item>
+    
+    <item>
+      <title>How to not impact your SEO and website traffic when changing WordPress Permalinks</title>
+      <link>http://damien.co/blog/2010-01-19-how-to-not-impact-your-seo-and-website-traffic-when-changing-wordpress-permalinks-2/</link>
+      <pubDate>Tue, 19 Jan 2010 17:54:21 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2010-01-19-how-to-not-impact-your-seo-and-website-traffic-when-changing-wordpress-permalinks-2/</guid>
+      <description>Having made some changes to your wordpress permalinks, you can easily protect your web site traffic, SEO and search results from Google. This means you and your visitors get no 404 not found error.
+This wordpress plug-in looks at the incoming link URL structure and then redirects on the fly to the correct post with the new permalink structure.
+This didn&amp;rsquo;t make my list of Top 9 WordPress pluginsfor a new install - but if you are migrating a website this is critical.</description>
+    </item>
+    
+  </channel>
+</rss>

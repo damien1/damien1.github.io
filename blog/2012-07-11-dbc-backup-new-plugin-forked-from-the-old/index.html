@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en-gb"><head>
+  <!-- Basic Page Needs -->
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  
+  <meta name="description" content="Damien Saunders | management consultant">
+  <meta name="author" content="Damien Saunders">
+  <meta name="generator" content="Hugo 0.70.0" />
+  
+  <!-- Mobile Specific Metas -->
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WordPress database backup plugin launched - DBC Backup 2</title>
+  <link rel="icon" href="http://damien.co/images/favicon.ico">
+
+  <!-- Twitter Bootstrs CSS -->
+  <link rel="stylesheet" href="http://damien.co/plugins/bootstrap/bootstrap.min.css">
+  <!-- Ionicons Fonts Css -->
+  <link rel="stylesheet" href="http://damien.co/plugins/ionicons/ionicons.min.css">
+  <!-- animate css -->
+  <link rel="stylesheet" href="http://damien.co/plugins/animate-css/animate.css">
+  <!-- Hero area slider css-->
+  <link rel="stylesheet" href="http://damien.co/plugins/slider/slider.css">
+  <!-- slick slider -->
+  <link rel="stylesheet" href="http://damien.co/plugins/slick/slick.css">
+  <!-- Fancybox -->
+  <link rel="stylesheet" href="http://damien.co/plugins/facncybox/jquery.fancybox.css">
+  <!-- hover -->
+  <link rel="stylesheet" href="http://damien.co/plugins/hover/hover-min.css">
+  <!-- template main css file -->
+  
+  <link rel="stylesheet" href="http://damien.co/css/style.min.css" integrity="" media="screen">
+</head><body><section class="top-bar animated-header">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<nav class="navbar navbar-expand-lg navbar-light bg-light">
+					<a class="navbar-brand" href="http://damien.co">
+						<img src="http://damien.co/damiensaunders.png" alt="Damien Saunders">
+					</a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+						aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+
+					<div class="collapse navbar-collapse" id="navigation">
+						<ul class="navbar-nav ml-auto">
+							<li class="nav-item">
+								<a class="nav-link" href="http://damien.co">Home</a>
+							</li>
+							
+							<li class="nav-item">
+								<a class="nav-link" href="http://damien.co/blog">Blog</a>
+							</li>
+							
+					</div>
+				</nav>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="global-page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h2>WordPress database backup plugin launched - DBC Backup 2</h2>
+                    <div class="portfolio-meta">
+                        <span>Wednesday, Jul 11, 2012</span>|
+                        <span> Tags:
+                            Backup, database, DBC Backup 2, SQL
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="single-post">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                
+                <div class="post-img">
+                    <img class="img-fluid" alt="" src="http://damien.co/images/dbc-back-up-2.png">
+                </div>
+                
+                <div class="post-content">
+                    <p>Announcing <a href="http://wordpress.org/extend/plugins/dbc-backup-2/">DBC Backup 2</a>, a <strong>WordPress plugin</strong> to <em>backup your WordPress SQL database</em> is now available from WordPress Plugins.</p>
+<p>DBC Backup 2 creates a SQL export and saves a compressed file to your web host server. Many web hosts provide large amounts of free space for storing your data so it makes sense to use this free space to safely store your database.</p>
+<h2 id="key-features">Key Features</h2>
+<ul>
+<li>Save time - set a Batch Job to run daily, weekly, monthly</li>
+<li>User Control - User defined path to store backups</li>
+<li>Compact - Compression of SQL exports (Gzip or Tar) saves space</li>
+<li>Safe - the export folder is &lsquo;protected&rsquo; from prying eyes or direct downloads</li>
+<li>Save money - Uses web host to store export backups</li>
+</ul>
+<h2 id="revival-of-dbc-backup">Revival of DBC Backup</h2>
+<p>The plugin is a revival of a much older plugin that I have used for a couple of years now. If the original developer gets in contact, I&rsquo;d be happy to share the SVN repo keys.</p>
+<h2 id="installation">Installation</h2>
+<ol>
+<li>Upload the plugin dbcbackup to the `/wp-content/plugins/` directory</li>
+<li>Activate the plugin through the &lsquo;Plugins&rsquo; menu in WordPress</li>
+<li>Go to the Settings page &lsquo;DB Cron Backup&rsquo; from the main men.</li>
+<li>Configure the plugin settings and you are ready. You&rsquo;ll need to know your server path to a folder you want the backup saved.</li>
+</ol>
+<ul>
+<li>If the plugin can&rsquo;t create the export directory you will have to do it manually and don&rsquo;t forget to chmod 777 it.</li>
+<li>If you are upgrading, deactivate the plugin first and remove all old files, before starting.</li>
+</ul>
+<h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
+<h3 id="why-create-a-server-based-back-up">Why create a server based back-up?</h3>
+<p>It makes sense to me to keep the SQL database backup where you will most likely need it if something goes wrong. Many web hosts provide a large amount of free space for you to store files. So rather than having to pay someone else for storing your database backup you can use the free space you already have.</p>
+<h3 id="arent-server-based-back-ups-insecure">Aren&rsquo;t server based back-ups insecure?</h3>
+<p>Not really, server based back-ups are only unsafe if your server is prone to fail or poorly protected from hacking.</p>
+<h3 id="i-want-to-make-my-backup-more-secure">I want to make my backup more secure</h3>
+<p>That&rsquo;s easy, the plugin creates a .htaccess file in the backup folder. You can open this file and add to this code. The backup folder is protected against browsing or direct file access.</p>
+<h3 id="does-the-plugin-takes-a-backup-whenever-i-setup-a-specific-cron-job">Does The plugin takes a backup whenever I setup a specific cron job</h3>
+<p>If the time of the cron is before the current time the wp cron system is adding the cron job to run at the next page view, despite how long ago it is set.</p>
+<h3 id="why-dont-any-compression-formats-appear">Why don&rsquo;t any compression formats appear?</h3>
+<p>Because Gzip and Bzip2 are not installed on your server.</p>
+<h3 id="does-this-work-for-multisite">Does this work for multisite?</h3>
+<p>Yes if you are site admin then each site can run its own version of the plugin and backups of the SQL database can be created.</p>
+<h3 id="linkage">Linkage</h3>
+<p><a href="http://wordpress.org/extend/plugins/dbc-backup-2/">WordPress.Org DBC Backup 2</a></p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<!-- Footer Section Start -->
+<footer id="footer">
+    <div class="container">
+        <div class="row content-justify-between">
+            <div class="col-md-8 col-12 text-center text-lg-left text-md-left">
+                <p class="copyright">Copyright &copy;  2004 - 
+                    <span>
+                        <script>document.write(new Date().getFullYear())</script>
+                    </span>  Damien Saunders.
+                    <br> Theme design and developed by
+                    <a href="http://www.Themefisher.com" target="_blank">Themefisher</a>.
+                    
+                </p>
+            </div>
+            <div class="col-md-4 col-12">
+                <!-- Social Media -->
+                <ul class="social text-center text-md-right text-lg-right">
+                    
+                    <li><a href="https://linkedin.com/in/damiensaunders"><i class="ion-social-linkedin"></i></a></li>
+                    
+                    <li><a href="https://www.instagram.com/3496dasa/"><i class="ion-social-instagram"></i></a></li>
+                    
+                    <li><a href="https://twitter.com/damiensaunders"><i class="ion-social-twitter"></i></a></li>
+                    
+                    <li><a href="mailto:hello@damiensaunders.com"><i class="ion-email"></i></a></li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- footer section end -->
+
+<!-- jquery -->
+<script src="http://damien.co/plugins/jQurey/jquery.min.js"></script>
+<!-- Form Validation -->
+<script src="http://damien.co/plugins/form-validation/jquery.form.js"></script>
+<script src="http://damien.co/plugins/form-validation/jquery.validate.min.js"></script>
+<!-- slick slider -->
+<script src="http://damien.co/plugins/slick/slick.min.js"></script>
+<!-- bootstrap js -->
+<script src="http://damien.co/plugins/bootstrap/bootstrap.min.js"></script>
+<!-- wow js -->
+<script src="http://damien.co/plugins/wow-js/wow.min.js"></script>
+<!-- slider js -->
+<script src="http://damien.co/plugins/slider/slider.js"></script>
+<!-- Fancybox -->
+<script src="http://damien.co/plugins/facncybox/jquery.fancybox.js"></script>
+<!-- template main js -->
+
+<script src="http://damien.co/js/script.min.js"></script>
+<!-- google analitycs -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-12356173-11', 'auto');
+    ga('send', 'pageview');
+</script>
+</body>
+</html>
