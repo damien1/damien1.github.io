@@ -17,8 +17,8 @@
       <pubDate>Sat, 18 Jan 2014 23:36:48 +0000</pubDate>
       
       <guid>http://damien.co/blog/2014-01-18-using-netgear-n600-dgnd3700v1-extend-home-network/</guid>
-      <description>I’ve brought a brand new Asus RT-AC66U modem/router and decided that to use my old Netgear N600 ADSL modem/router DGND3700v1 to extend my home network and expand my wireless network.
-I’ve put the Netgear in a room where there was poor wifi signal strength and used a powerline (ethernet over power) adapter to connect back to the new main connection.
+      <description>I&amp;rsquo;ve brought a brand new Asus RT-AC66U modem/router and decided that to use my old Netgear N600 ADSL modem/router DGND3700v1 to extend my home network and expand my wireless network.
+I&amp;rsquo;ve put the Netgear in a room where there was poor wifi signal strength and used a powerline (ethernet over power) adapter to connect back to the new main connection.
 To get the Netgear to behave like a wireless Access Point and extend my existing network should have been easy.</description>
     </item>
     
@@ -28,9 +28,9 @@ To get the Netgear to behave like a wireless Access Point and extend my existing
       <pubDate>Mon, 11 Jun 2012 13:39:31 +0000</pubDate>
       
       <guid>http://damien.co/apps-2/app-design-make-sure-your-saves-settings-mobilerss-7230/</guid>
-      <description>Have you ever used an app, thought you saved the settings and then you check and nothing changes … It happens all the time with MobileRSS. This has been bugging me for awhile now. Usually I think I’m not the only one who spots these things …
+      <description>Have you ever used an app, thought you saved the settings and then you check and nothing changes … It happens all the time with MobileRSS. This has been bugging me for awhile now. Usually I think I&amp;rsquo;m not the only one who spots these things …
 The funny thing is, a preference change needs to be done in 3 parts
- the visual UI/UE cue to let you know something changed (like a tick or a save button changes text) the backend data / prefs change is stored the app ‘reloads’ with the new settings  So what goes wrong with saving state changes?</description>
+ the visual UI/UE cue to let you know something changed (like a tick or a save button changes text) the backend data / prefs change is stored the app &amp;lsquo;reloads&amp;rsquo; with the new settings  So what goes wrong with saving state changes?</description>
     </item>
     
   </channel>

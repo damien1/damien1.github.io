@@ -87,11 +87,11 @@
                 <div class="post-content">
                     <p>Welcome and say hello to <!-- raw HTML omitted -->empty<!-- raw HTML omitted -->. <strong>empty</strong> is a bunch of <strong>ANT Build Tasks</strong> for <strong>WordPress plugin developers</strong> that help automate the build thanks to <strong><!-- raw HTML omitted -->Apache Ant<!-- raw HTML omitted -->.</strong></p>
 <h2 id="why-ant-not-phing">Why ANT not PHING?</h2>
-<p>Go ask Google that … there are plenty of conversations elsewhere on ANT vs PHING. It’s really a personal choice.</p>
-<p>Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular tool, free and widely used. It’s commonly used for Java but can fit in with other code and projects.</p>
+<p>Go ask Google that … there are plenty of conversations elsewhere on ANT vs PHING. It&rsquo;s really a personal choice.</p>
+<p>Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular tool, free and widely used. It&rsquo;s commonly used for Java but can fit in with other code and projects.</p>
 <h2 id="why-not-gruntjs">Why not Grunt.js?</h2>
-<p>Well yes, experimentation is good … Grunt.js may fit in there somewhere if ANT tasks for minify aren’t simple.</p>
-<h2 id="what8217s-in-empty">What’s in empty</h2>
+<p>Well yes, experimentation is good … Grunt.js may fit in there somewhere if ANT tasks for minify aren&rsquo;t simple.</p>
+<h2 id="whats-in-empty">What&rsquo;s in empty</h2>
 <p>empty supports a number of commonly needed task features like</p>
 <ul>
 <li>create a compressed .zip of all your project files</li>
@@ -108,7 +108,7 @@ Make sure you have Java and Apache Ant installed 🙂</p>
 <p>Start by editing build.properties and enter the name of your plugin.</p>
 <p>Then open Terminal or your CLI editor .. and type</p>
 <p>ant</p>
-<p>If it’s going well .. you’ll see this …</p>
+<p>If it&rsquo;s going well .. you&rsquo;ll see this …</p>
 <pre><code>Damiens-MacBook-Pro:empty damien$ ant
 Buildfile: /wp-content/plugins/empty/build.xml
 
@@ -117,13 +117,15 @@ Total time: 1 second
 Damiens-MacBook-Pro:empty damien$
 </code></pre><h2 id="build-your-plugin-compress-zip">Build your plugin compress .zip</h2>
 <p>This will ..</p>
-<p>– delete the temp build folders
-– make the build directories
-– copy all the required project files to a new folder
-– zip the finished project</p>
+<ul>
+<li>delete the temp build folders</li>
+<li>make the build directories</li>
+<li>copy all the required project files to a new folder</li>
+<li>zip the finished project</li>
+</ul>
 <p>Type</p>
 <pre><code>ant make
-</code></pre><p>and you’ll see</p>
+</code></pre><p>and you&rsquo;ll see</p>
 <pre><code>Damiens-MacBook-Pro:empty damien$ ant make
 Buildfile: /Volumes/Proust/Sites/dev/wp-content/plugins/empty/build.xml
 

@@ -85,20 +85,20 @@
             <div class="col-md-12">
                 
                 <div class="post-content">
-                    <p>It is easy to stop most <strong>WordPress</strong> <strong>comment spam</strong> instantly with one small change to your theme’s <em>functions.php</em>. This is one of my <em>favourite WordPress functions</em> and I use it on all my setups.</p>
-<p>This code snippet works by blocking comments from being added offsite or indirectly and not from the comment box on your webpage. Most spammers try to automate their ‘workload’ and try to exploit WordPress functions that allow you to manage comments or add posts via the WordPress API’s.</p>
-<p>Just to prove this works … take a look at your spam comments now and mentally calculate your daily average of new spam comments. Then after adding this code to your functions.php file wait for 24 hours … if your spam comments are not down or close to zero you’ve done something wrong.</p>
+                    <p>It is easy to stop most <strong>WordPress</strong> <strong>comment spam</strong> instantly with one small change to your theme&rsquo;s <em>functions.php</em>. This is one of my <em>favourite WordPress functions</em> and I use it on all my setups.</p>
+<p>This code snippet works by blocking comments from being added offsite or indirectly and not from the comment box on your webpage. Most spammers try to automate their &lsquo;workload&rsquo; and try to exploit WordPress functions that allow you to manage comments or add posts via the WordPress API&rsquo;s.</p>
+<p>Just to prove this works … take a look at your spam comments now and mentally calculate your daily average of new spam comments. Then after adding this code to your functions.php file wait for 24 hours … if your spam comments are not down or close to zero you&rsquo;ve done something wrong.</p>
 <h2 id="the-role-of-wordpress-functionsphp">The role of WordPress Functions.php</h2>
-<p>Your functions.php file is the place to add snippets of code just like this. It’s found inside your theme folder and the code here runs before your site starts to load. Remember to keep a copy incase you update or replace your theme, this is because the functions.php file is unique to the active theme.</p>
+<p>Your functions.php file is the place to add snippets of code just like this. It&rsquo;s found inside your theme folder and the code here runs before your site starts to load. Remember to keep a copy incase you update or replace your theme, this is because the functions.php file is unique to the active theme.</p>
 <h2 id="stop-wordpress-comment-spam">Stop WordPress Comment Spam</h2>
 <p>Go to your theme folder and open functions.php and insert this code</p>
 <pre><code>//Block Referal URL exploit for Comments
 function verify\_comment\_referer() {
 if (!wp\_get\_referer()) {
-wp\_die( \__(&amp;#8216;You cannot post comment at this time, may be you need to enable referrers in your browser.&amp;#8217;) );
+wp\_die( \__('You cannot post comment at this time, may be you need to enable referrers in your browser.') );
 }
 }
-add\_action(&amp;#8216;check\_comment\_flood&amp;#8217;, &amp;#8216;verify\_comment_referer&amp;#8217;);
+add\_action('check\_comment\_flood', 'verify\_comment_referer');
 </code></pre><p>Do you like this? Did this work for you?</p>
 
                 </div>

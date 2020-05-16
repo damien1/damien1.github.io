@@ -17,17 +17,17 @@
       <pubDate>Tue, 18 Dec 2012 13:56:15 +0000</pubDate>
       
       <guid>http://damien.co/development/how-to-install-jenkins-ci-on-a-mac-os-x-with-git-bitbucket-8072/</guid>
-      <description>A few notes on getting Jenkins-CI installed on your Mac and setup with Git and Bitbucket for source code management. I’ve been using Git for some time but I had problems / major issues with Jenkins and could never seem to get this working.
+      <description>A few notes on getting Jenkins-CI installed on your Mac and setup with Git and Bitbucket for source code management. I&amp;rsquo;ve been using Git for some time but I had problems / major issues with Jenkins and could never seem to get this working.
 Issues with setting up Jenkins and Git on a Mac Here are the issues I was having … the biggest issue was the Error (unable to clone) which showed up when I created a job and added the path to the Bitbucket repo — even after I had added the SSH Key to Bitbucket.</description>
     </item>
     
     <item>
-      <title>HOW TO: Start, Stop, Restart or Reload Jenkins &amp;#8211; Mac OSx</title>
+      <title>HOW TO: Start, Stop, Restart or Reload Jenkins - Mac OSx</title>
       <link>http://damien.co/general/how-to-start-stop-restart-or-reload-jenkins-mac-osx-8022/</link>
       <pubDate>Wed, 28 Nov 2012 13:36:07 +0000</pubDate>
       
       <guid>http://damien.co/general/how-to-start-stop-restart-or-reload-jenkins-mac-osx-8022/</guid>
-      <description>I’ve just started to use Jenkins as part of a continuous integration setup that I’m building. Mostly I’m doing this to learn and then apply this to something bigger. At home, I’m using Jenkins as a CI server to manage testing of my PHP WordPress plugins. I know it could be overkill, but as a one man band, automating testing is something that saves me time and increases my confidence that the development feature is tested and ready to deploy!</description>
+      <description>I&amp;rsquo;ve just started to use Jenkins as part of a continuous integration setup that I&amp;rsquo;m building. Mostly I&amp;rsquo;m doing this to learn and then apply this to something bigger. At home, I&amp;rsquo;m using Jenkins as a CI server to manage testing of my PHP WordPress plugins. I know it could be overkill, but as a one man band, automating testing is something that saves me time and increases my confidence that the development feature is tested and ready to deploy!</description>
     </item>
     
   </channel>

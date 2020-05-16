@@ -17,7 +17,7 @@
       <pubDate>Mon, 23 Jul 2012 15:30:41 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-07-23-how-to-fix-htaccess-permalinks-not-working-in-wordpress/</guid>
-      <description>If you’re setting up WordPress on a new server you may find that your custom permalinks don’t work and worse changes you make to your .htaccess file are ignored or have no effect. It sounds like you need to modify your VHOST configuration file on your web server.
+      <description>If you&amp;rsquo;re setting up WordPress on a new server you may find that your custom permalinks don&amp;rsquo;t work and worse changes you make to your .htaccess file are ignored or have no effect. It sounds like you need to modify your VHOST configuration file on your web server.
 Modify VHOST to AllowOverride By default AllowOverride is disabled, this means .htaccess files and files like php.ini are ignored. Even if you enable mod_rewrite using sudo a2enmod rewrite your .</description>
     </item>
     

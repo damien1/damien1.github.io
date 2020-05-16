@@ -17,33 +17,33 @@
       <pubDate>Mon, 23 Jul 2012 15:30:41 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-07-23-how-to-fix-htaccess-permalinks-not-working-in-wordpress/</guid>
-      <description>If you’re setting up WordPress on a new server you may find that your custom permalinks don’t work and worse changes you make to your .htaccess file are ignored or have no effect. It sounds like you need to modify your VHOST configuration file on your web server.
+      <description>If you&amp;rsquo;re setting up WordPress on a new server you may find that your custom permalinks don&amp;rsquo;t work and worse changes you make to your .htaccess file are ignored or have no effect. It sounds like you need to modify your VHOST configuration file on your web server.
 Modify VHOST to AllowOverride By default AllowOverride is disabled, this means .htaccess files and files like php.ini are ignored. Even if you enable mod_rewrite using sudo a2enmod rewrite your .</description>
     </item>
     
     <item>
-      <title>Web Application testing &amp;#8211; install Siege on Linux (or Mac OSx)</title>
+      <title>Web Application testing - install Siege on Linux (or Mac OSx)</title>
       <link>http://damien.co/blog/2012-05-22-web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx/</link>
       <pubDate>Tue, 22 May 2012 13:38:58 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-05-22-web-application-testing-install-siege-on-linux-ubuntu-or-mac-osx/</guid>
-      <description>Siegeis a great tool for performance and load testing your web application. I’ve been using it for the past 6 months to test WordPress websites along with other web apps that we’ve been building.
-Use it to straighten out any kinks with applications like WordPress, learn if you’re server and database is flakey or prove that your CDN is super.
-Siege testing vs Apache Benchmark If you’ve used Apache Benchmark in Mac OSx or Linux then you’ll already have an idea what Siege can do.</description>
+      <description>Siegeis a great tool for performance and load testing your web application. I&amp;rsquo;ve been using it for the past 6 months to test WordPress websites along with other web apps that we&amp;rsquo;ve been building.
+Use it to straighten out any kinks with applications like WordPress, learn if you&amp;rsquo;re server and database is flakey or prove that your CDN is super.
+Siege testing vs Apache Benchmark If you&amp;rsquo;ve used Apache Benchmark in Mac OSx or Linux then you&amp;rsquo;ll already have an idea what Siege can do.</description>
     </item>
     
     <item>
-      <title>Web server performance &amp;#8211; usage and load</title>
+      <title>Web server performance - usage and load</title>
       <link>http://damien.co/blog/web-server-performance-usage-and-load-5987/</link>
       <pubDate>Tue, 17 Jan 2012 22:00:03 +0000</pubDate>
       
       <guid>http://damien.co/blog/web-server-performance-usage-and-load-5987/</guid>
-      <description>Web Application Development can seem easy if you’re used to a shared host and WordPress running out of the box. Moving into the world of unmanaged VPS can be daunting at first – or really easy if you’re insane.
-If you’ve got access to a terminal or CLI – command line interface then you have here a number of options for checking your website performance. Here’s a few choice one’s I’ve been using lately.</description>
+      <description>Web Application Development can seem easy if you&amp;rsquo;re used to a shared host and WordPress running out of the box. Moving into the world of unmanaged VPS can be daunting at first - or really easy if you&amp;rsquo;re insane.
+If you&amp;rsquo;ve got access to a terminal or CLI - command line interface then you have here a number of options for checking your website performance. Here&amp;rsquo;s a few choice one&amp;rsquo;s I&amp;rsquo;ve been using lately.</description>
     </item>
     
     <item>
-      <title>Rackspace &amp;#8211; you wish for simplicity &amp;#8211; what you get is simply choice</title>
+      <title>Rackspace - you wish for simplicity - what you get is simply choice</title>
       <link>http://damien.co/blog/insights-blog/rackspace-you-wish-for-simplicity-what-you-get-is-simply-choice-5258/</link>
       <pubDate>Sat, 17 Dec 2011 09:11:49 +0000</pubDate>
       

@@ -17,8 +17,8 @@
       
       <guid>http://damien.co/blog/2013-04-30-introducing-empty-apache-ant-build-for-wordpress/</guid>
       <description>Welcome and say hello to empty. empty is a bunch of ANT Build Tasks for WordPress plugin developers that help automate the build thanks to Apache Ant.
-Why ANT not PHING? Go ask Google that … there are plenty of conversations elsewhere on ANT vs PHING. It’s really a personal choice.
-Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular tool, free and widely used. It’s commonly used for Java but can fit in with other code and projects.</description>
+Why ANT not PHING? Go ask Google that … there are plenty of conversations elsewhere on ANT vs PHING. It&amp;rsquo;s really a personal choice.
+Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular tool, free and widely used. It&amp;rsquo;s commonly used for Java but can fit in with other code and projects.</description>
     </item>
     
   </channel>

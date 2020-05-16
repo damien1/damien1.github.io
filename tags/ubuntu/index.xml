@@ -17,7 +17,7 @@
       <pubDate>Mon, 23 Jul 2012 15:30:41 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-07-23-how-to-fix-htaccess-permalinks-not-working-in-wordpress/</guid>
-      <description>If you’re setting up WordPress on a new server you may find that your custom permalinks don’t work and worse changes you make to your .htaccess file are ignored or have no effect. It sounds like you need to modify your VHOST configuration file on your web server.
+      <description>If you&amp;rsquo;re setting up WordPress on a new server you may find that your custom permalinks don&amp;rsquo;t work and worse changes you make to your .htaccess file are ignored or have no effect. It sounds like you need to modify your VHOST configuration file on your web server.
 Modify VHOST to AllowOverride By default AllowOverride is disabled, this means .htaccess files and files like php.ini are ignored. Even if you enable mod_rewrite using sudo a2enmod rewrite your .</description>
     </item>
     
@@ -27,7 +27,7 @@ Modify VHOST to AllowOverride By default AllowOverride is disabled, this means .
       <pubDate>Tue, 09 Mar 2010 23:27:29 +0000</pubDate>
       
       <guid>http://damien.co/general/how-to-install-ubuntu-using-virtualbox-on-a-mac-2-712/</guid>
-      <description>How easy is it to install Ubuntu on your Mac– this quick visual guide will have Ubuntu running within your Mac os X in under 20mins.If you’re really keen – maybe you want to use my guide on Virtualbox &amp;amp; install Windows XP on your MacGetting Started  Follow my instructions to download and install Virtualbox on your Macor Grab a copy of Virtualbox from virtualbox.org  Virtualbox Main Screen  Launch Virtualbox and click on New  Virtualbox Create New Virtual Machine for Ubuntu  Give your new virtual machine a name like Ubuntu Select Linux and Ubuntu from the drop downs  Virtualbox Set Memory  Set base memory to at least 1Gb.</description>
+      <description>How easy is it to install Ubuntu on your Mac- this quick visual guide will have Ubuntu running within your Mac os X in under 20mins.If you&amp;rsquo;re really keen - maybe you want to use my guide on Virtualbox &amp;amp; install Windows XP on your MacGetting Started  Follow my instructions to download and install Virtualbox on your Macor Grab a copy of Virtualbox from virtualbox.org  Virtualbox Main Screen  Launch Virtualbox and click on New  Virtualbox Create New Virtual Machine for Ubuntu  Give your new virtual machine a name like Ubuntu Select Linux and Ubuntu from the drop downs  Virtualbox Set Memory  Set base memory to at least 1Gb.</description>
     </item>
     
   </channel>

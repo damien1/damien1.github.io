@@ -89,21 +89,21 @@
                 </div>
                 
                 <div class="post-content">
-                    <p><strong>WordPress</strong> is under going an <!-- raw HTML omitted -->attack by a swarm of Zombies<!-- raw HTML omitted --> – and they are after any site with an <em>Admin</em> user account. Securing WordPress is easy and you can do two things to protect your website and yourself.</p>
+                    <p><strong>WordPress</strong> is under going an <!-- raw HTML omitted -->attack by a swarm of Zombies<!-- raw HTML omitted --> - and they are after any site with an <em>Admin</em> user account. Securing WordPress is easy and you can do two things to protect your website and yourself.</p>
 <ol>
 <li>
-<p>Change and then delete your Admin account (if you haven’t already)</p>
+<p>Change and then delete your Admin account (if you haven&rsquo;t already)</p>
 </li>
 <li>
 <p>Only allow access to WordPress /wp-admin by your IP address</p>
 </li>
 </ol>
-<p>Of course, you should also have a backup strategy — and so why not setup my plugin DBC Backup 2 to do the hard work. It’s free and can run on a schedule.</p>
-<p>I originally installed a plugin called Limit Login Attempts – which is grand. IP addresses automatically get blocked, but as you can see … it’s not stopping the brute force attacks. This is why your .htaccess is your shield and best protection.</p>
+<p>Of course, you should also have a backup strategy — and so why not setup my plugin DBC Backup 2 to do the hard work. It&rsquo;s free and can run on a schedule.</p>
+<p>I originally installed a plugin called Limit Login Attempts - which is grand. IP addresses automatically get blocked, but as you can see … it&rsquo;s not stopping the brute force attacks. This is why your .htaccess is your shield and best protection.</p>
 <p><img src="../../wp-content/Limit-Login-Attempts-Damien-Saunders-WordPress.png" alt="Limit Logins"></p>
-<p>Think of your WordPress website as a little application .. in a big, bad, ugly world … and your .htaccess file is your Hero and Knight .. who’ll go out and take on anyone.</p>
+<p>Think of your WordPress website as a little application .. in a big, bad, ugly world … and your .htaccess file is your Hero and Knight .. who&rsquo;ll go out and take on anyone.</p>
 <h2 id="restrict-access-to-wp-admin-to-only-your-ip">Restrict access to WP-Admin to only your IP</h2>
-<p>As you’ve probably figured out, if you’re not logged in to WordPress, then you only need  to go to <a href="http://yourdomain.com/wp-admin">http://yourdomain.com/wp-admin</a> to login.  Once logged in, your Admin pages all get accessed from here. So protecting your /wp-admin directory is excellent</p>
+<p>As you&rsquo;ve probably figured out, if you&rsquo;re not logged in to WordPress, then you only need  to go to <a href="http://yourdomain.com/wp-admin">http://yourdomain.com/wp-admin</a> to login.  Once logged in, your Admin pages all get accessed from here. So protecting your /wp-admin directory is excellent</p>
 <p>Doing this will also stop brute force hackers as their IP address will get blocked … by the server!</p>
 <pre><code>\# Limit logins and admin by IP
 \# this goes in the /admin folder NOT root folder .htaccess
@@ -113,7 +113,7 @@ deny from all
 allow from 12.34.56.78
 &lt;/Limit&gt;
 </code></pre><h2 id="allow-users-to-access-ajax">Allow users to access Ajax</h2>
-<p>If you’re running an ecommerce site, or your themes or plugins are using Ajax, chances are that you’re using admin-ajax.php, a file in the /wp-admin folder. You need to allow everyone to access this file.</p>
+<p>If you&rsquo;re running an ecommerce site, or your themes or plugins are using Ajax, chances are that you&rsquo;re using admin-ajax.php, a file in the /wp-admin folder. You need to allow everyone to access this file.</p>
 <p>So here is the full content for your .htaccess file that allows only you to login and everyone can still use the Ajax.</p>
 <pre><code>\# Limit logins and admin by IP
 \# this goes in the /admin folder NOT root folder .htaccess
@@ -127,8 +127,8 @@ Order allow,deny
 Allow from all
 Satisfy any
 &lt;/Files&gt;
-</code></pre><p>Hints … iPad’s &amp; Smartphones
-You usually cant control your IP address on your mobile phone and some iOS / Android apps won’t work if you have restriction to IP Address in place. But then, what’s the price of security??</p>
+</code></pre><p>Hints … iPad&rsquo;s &amp; Smartphones
+You usually cant control your IP address on your mobile phone and some iOS / Android apps won&rsquo;t work if you have restriction to IP Address in place. But then, what&rsquo;s the price of security??</p>
 
                 </div>
             </div>

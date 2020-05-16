@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Web Application &amp;#038; Automated Testing &amp;#8211; Firefox &amp;#038; Selenium IDE</title>
+      <title>Web Application &amp;#038; Automated Testing - Firefox &amp;#038; Selenium IDE</title>
       <link>http://damien.co/resources/web-application-automated-testing-firefox-selenium-ide-6979/</link>
       <pubDate>Fri, 18 May 2012 09:56:53 +0000</pubDate>
       
       <guid>http://damien.co/resources/web-application-automated-testing-firefox-selenium-ide-6979/</guid>
-      <description>I’ve just getting started automated testing with Selenium for a number of web appprojects that we’ve been developing lately. My background has been all about managing the project, test plans and manual test execution, so the learning curve is a bit steep.
+      <description>I&amp;rsquo;ve just getting started automated testing with Selenium for a number of web appprojects that we&amp;rsquo;ve been developing lately. My background has been all about managing the project, test plans and manual test execution, so the learning curve is a bit steep.
 Automated testing fits in well with Agile and Scrum project management. Using Selenium IDE you can first create the test case, try it out manually and then when development is finished, you just run the automated test.</description>
     </item>
     

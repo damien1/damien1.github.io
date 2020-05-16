@@ -17,9 +17,9 @@
       <pubDate>Mon, 23 Apr 2012 11:45:02 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-04-23-wordpress-3-3-2/</guid>
-      <description>WordPress 3.3.2 is here … and it’s not to be confused with the 3.4 beta releases. Being a point release, you shouldn’t expect significant changes.
-WordPress 3.3.2 is a security release, which means it’s critical that you update your site. The release notefor this
- Media Upload – the Flash Uploader and the newer Plupload have been updated Vulnerability where a site administrator could deactivate network-wide plugins Cross-site scripting vulnerability when making URLs clickable and in redirects after posting comments in older browsers, and when filtering URLs.</description>
+      <description>WordPress 3.3.2 is here … and it&amp;rsquo;s not to be confused with the 3.4 beta releases. Being a point release, you shouldn&amp;rsquo;t expect significant changes.
+WordPress 3.3.2 is a security release, which means it&amp;rsquo;s critical that you update your site. The release notefor this
+ Media Upload - the Flash Uploader and the newer Plupload have been updated Vulnerability where a site administrator could deactivate network-wide plugins Cross-site scripting vulnerability when making URLs clickable and in redirects after posting comments in older browsers, and when filtering URLs.</description>
     </item>
     
     <item>
@@ -34,7 +34,7 @@ What’s in this release?Source: WordPress Codex</description>
     </item>
     
     <item>
-      <title>WordPress updated to 3.1.4 &amp;#8211; security update</title>
+      <title>WordPress updated to 3.1.4 - security update</title>
       <link>http://damien.co/blog/2011-07-01-wordpress-updated-to-3-1-4-security-update/</link>
       <pubDate>Fri, 01 Jul 2011 09:02:47 +0000</pubDate>
       
@@ -43,7 +43,7 @@ What’s in this release?Source: WordPress Codex</description>
     </item>
     
     <item>
-      <title>WordPress Updates to 3.1.3 &amp;#8211; time to update</title>
+      <title>WordPress Updates to 3.1.3 - time to update</title>
       <link>http://damien.co/wordpress/wordpress-updates-to-3-1-3-time-to-update-3489/</link>
       <pubDate>Thu, 26 May 2011 18:03:58 +0000</pubDate>
       

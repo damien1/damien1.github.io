@@ -3,8 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://damien.co/categories/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://damien.co/</loc>
-    <lastmod>2020-05-12T22:10:00+01:00</lastmod>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/tags/dbc-backup/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/tags/dbc-backup-2/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/tags/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/categories/wordpress/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/categories/wordpress-plugin/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/blog/2020-05-15-wordpress-plugin-archive-dbc-backup-2/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/categories/wordpress-plugins/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -25,16 +65,6 @@
   <url>
     <loc>http://damien.co/tags/reading/</loc>
     <lastmod>2020-05-12T22:10:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/</loc>
-    <lastmod>2020-05-12T22:10:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/categories/</loc>
-    <lastmod>2020-05-11T23:02:24+01:00</lastmod>
   </url>
   
   <url>
@@ -228,22 +258,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/tags/dbc-backup/</loc>
-    <lastmod>2014-03-05T13:18:37+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://damien.co/blog/2014-03-05-dbc-backup-2-gets-significant-re-write-support-mysqli-connector/</loc>
-    <lastmod>2014-03-05T13:18:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/categories/wordpress/</loc>
-    <lastmod>2014-03-05T13:18:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/categories/wordpress-plugin/</loc>
     <lastmod>2014-03-05T13:18:37+00:00</lastmod>
   </url>
   
@@ -254,11 +269,6 @@
   
   <url>
     <loc>http://damien.co/blog/2014-03-04-isotope-visual-layouts-pro-caching-improvements/</loc>
-    <lastmod>2014-03-04T22:11:44+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/categories/wordpress-plugins/</loc>
     <lastmod>2014-03-04T22:11:44+00:00</lastmod>
   </url>
   
@@ -300,11 +310,6 @@
   <url>
     <loc>http://damien.co/blog/2014-01-18-using-netgear-n600-dgnd3700v1-extend-home-network/</loc>
     <lastmod>2014-01-18T23:36:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/dbc-backup-2/</loc>
-    <lastmod>2014-01-05T16:08:07+00:00</lastmod>
   </url>
   
   <url>
@@ -1413,16 +1418,6 @@
   </url>
   
   <url>
-    <loc>http://damien.co/tags/error/</loc>
-    <lastmod>2012-07-30T15:00:18+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/fatal/</loc>
-    <lastmod>2012-07-30T15:00:18+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://damien.co/blog/2012-07-30-how-to-a-wordpress-update-created-a-fatal-and-now-i-cant-login/</loc>
     <lastmod>2012-07-30T15:00:18+00:00</lastmod>
   </url>
@@ -1598,7 +1593,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/rule-1-social-media-marketing-dont-leave-pr-intern-7352/</loc>
+    <loc>http://damien.co/blog/2012-06-20-rule-1-social-media-marketing-dont-leave-pr-intern/</loc>
     <lastmod>2012-06-20T14:30:58+00:00</lastmod>
   </url>
   
@@ -1903,7 +1898,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/apps-2/app-design-review-of-evernotes-first-time-user-guide-7098/</loc>
+    <loc>http://damien.co/blog/2012-05-21-app-design-review-of-evernotes-first-time-user-guide/</loc>
     <lastmod>2012-05-21T19:39:24+00:00</lastmod>
   </url>
   
@@ -3233,12 +3228,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/mobile-marketing/how-to-make-your-website-mobile-3772/</loc>
-    <lastmod>2011-06-10T11:05:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/mobile-web/</loc>
+    <loc>http://damien.co/blog/2011-06-10-how-to-make-your-website-mobile/</loc>
     <lastmod>2011-06-10T11:05:00+00:00</lastmod>
   </url>
   
@@ -3588,38 +3578,8 @@
   </url>
   
   <url>
-    <loc>http://damien.co/news-releases/linkage-todays-social-media-news-updates-for-2011-05-05-2969/</loc>
-    <lastmod>2011-05-05T21:44:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/categories/news-releases/</loc>
-    <lastmod>2011-05-05T21:44:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/news-releases/linkage-todays-social-media-news-updates-for-2011-05-04-2968/</loc>
-    <lastmod>2011-05-04T21:44:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/news-releases/linkage-todays-social-media-news-updates-for-2011-05-03-2967/</loc>
-    <lastmod>2011-05-03T21:44:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/news-releases/linkage-todays-social-media-news-updates-for-2011-05-02-2966/</loc>
-    <lastmod>2011-05-02T21:44:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://damien.co/wordpress/how-to-enable-wordpress-maintenance-mode-2964/</loc>
     <lastmod>2011-05-02T15:36:55+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/news-releases/linkage-todays-social-media-news-updates-for-2011-05-01-2956/</loc>
-    <lastmod>2011-05-01T21:44:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3638,18 +3598,13 @@
   </url>
   
   <url>
-    <loc>http://damien.co/news-releases/twitter-weekly-social-media-news-for-2011-05-01-linkage-2951/</loc>
+    <loc>http://damien.co/categories/news-releases/</loc>
     <lastmod>2011-05-01T09:44:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://damien.co/news-releases/linkage-todays-social-media-news-updates-for-2011-04-30-2948/</loc>
-    <lastmod>2011-04-30T21:44:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/blog/android/linkage-todays-social-media-news-updates-for-2011-04-29-2922/</loc>
-    <lastmod>2011-04-29T21:44:00+00:00</lastmod>
+    <loc>http://damien.co/news-releases/twitter-weekly-social-media-news-for-2011-05-01-linkage-2951/</loc>
+    <lastmod>2011-05-01T09:44:00+00:00</lastmod>
   </url>
   
   <url>
@@ -5098,7 +5053,7 @@
   </url>
   
   <url>
-    <loc>http://damien.co/social-media/start-a-social-media-marketing-plan-dont-leave-it-to-the-pr-person-1108/</loc>
+    <loc>http://damien.co/blog/2010-06-30-start-a-social-media-marketing-plan-dont-leave-it-to-the-pr-person/</loc>
     <lastmod>2010-06-30T09:00:33+00:00</lastmod>
   </url>
   
@@ -5763,7 +5718,12 @@
   </url>
   
   <url>
-    <loc>http://damien.co/general/app-of-the-day-balsamiq-wireframing-and-user-experience-design-328/</loc>
+    <loc>http://damien.co/blog/2009-09-30-app-of-the-day-balsamiq-wireframing-and-user-experience-design/</loc>
+    <lastmod>2009-09-30T13:48:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/categories/user-experience/</loc>
     <lastmod>2009-09-30T13:48:49+00:00</lastmod>
   </url>
   
@@ -6095,21 +6055,6 @@
   <url>
     <loc>http://damien.co/general/tips-on-changing-settings-for-virtualbox-on-a-mac-laptop-159/</loc>
     <lastmod>2009-04-13T20:12:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/blog/2009-04-10-how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09/</loc>
-    <lastmod>2009-04-10T23:50:53+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/tinyxp/</loc>
-    <lastmod>2009-04-10T23:50:53+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damien.co/tags/winxp/</loc>
-    <lastmod>2009-04-10T23:50:53+00:00</lastmod>
   </url>
   
   <url>
@@ -6518,6 +6463,18 @@
   
   <url>
     <loc>http://damien.co/blog/2012-08-19-how-to-get-started-with-wordpress-stack-exchange-or-how-i-got-to-1000-rep-in-4-weeks/</loc>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/blog/2009-04-10-how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09/</loc>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/tags/tinyxp/</loc>
+  </url>
+  
+  <url>
+    <loc>http://damien.co/tags/winxp/</loc>
   </url>
   
 </urlset>

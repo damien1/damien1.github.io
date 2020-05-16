@@ -17,9 +17,9 @@
       <pubDate>Mon, 11 Jun 2012 13:39:31 +0000</pubDate>
       
       <guid>http://damien.co/apps-2/app-design-make-sure-your-saves-settings-mobilerss-7230/</guid>
-      <description>Have you ever used an app, thought you saved the settings and then you check and nothing changes … It happens all the time with MobileRSS. This has been bugging me for awhile now. Usually I think I’m not the only one who spots these things …
+      <description>Have you ever used an app, thought you saved the settings and then you check and nothing changes … It happens all the time with MobileRSS. This has been bugging me for awhile now. Usually I think I&amp;rsquo;m not the only one who spots these things …
 The funny thing is, a preference change needs to be done in 3 parts
- the visual UI/UE cue to let you know something changed (like a tick or a save button changes text) the backend data / prefs change is stored the app ‘reloads’ with the new settings  So what goes wrong with saving state changes?</description>
+ the visual UI/UE cue to let you know something changed (like a tick or a save button changes text) the backend data / prefs change is stored the app &amp;lsquo;reloads&amp;rsquo; with the new settings  So what goes wrong with saving state changes?</description>
     </item>
     
     <item>
@@ -28,52 +28,52 @@ The funny thing is, a preference change needs to be done in 3 parts
       <pubDate>Fri, 25 May 2012 17:42:23 +0000</pubDate>
       
       <guid>http://damien.co/apps-2/app-design-design-museum-clean-layout-how-to-deal-with-scrolling-7148/</guid>
-      <description>I’m a member of the Design Museum here in Londonand so it was nice to see they have a free app with collection of the best pieces. It does remind me of the Phaidon Design Classics book-as-an-app (which still has not been changed since the first iPad).
-I like this application and I was researching text overflow and scrolling. Since iPad no longer shows scrollbars then it’s up to the user to figure what is scrolling or not.</description>
+      <description>I&amp;rsquo;m a member of the Design Museum here in Londonand so it was nice to see they have a free app with collection of the best pieces. It does remind me of the Phaidon Design Classics book-as-an-app (which still has not been changed since the first iPad).
+I like this application and I was researching text overflow and scrolling. Since iPad no longer shows scrollbars then it&amp;rsquo;s up to the user to figure what is scrolling or not.</description>
     </item>
     
     <item>
-      <title>App Design: Review of Evernote&amp;#8217;s First Time User Guide</title>
-      <link>http://damien.co/apps-2/app-design-review-of-evernotes-first-time-user-guide-7098/</link>
+      <title>App Design Review of Evernote&#39;s First Time User Guide</title>
+      <link>http://damien.co/blog/2012-05-21-app-design-review-of-evernotes-first-time-user-guide/</link>
       <pubDate>Mon, 21 May 2012 19:39:24 +0000</pubDate>
       
-      <guid>http://damien.co/apps-2/app-design-review-of-evernotes-first-time-user-guide-7098/</guid>
-      <description>It’s not often that we (as app user or developers) stop to consider how important the First Time User experience or the Getting Started Guide is.
+      <guid>http://damien.co/blog/2012-05-21-app-design-review-of-evernotes-first-time-user-guide/</guid>
+      <description>It&amp;rsquo;s not often that we (as app user or developers) stop to consider how important the First Time User experience or the Getting Started Guide is.
 If you had never heard of Evernote (or many other apps) then you rely on this introduction to do a lot of things. To sum it up, the first time user experience has to do two things:
- sell the customer that the app will do what the user thinks it will do (they’ve already installed it but app store descriptions can be misleading), and; tell the customer how to use it  Ultimately, large multi-platform applications have many, many, more features then there is time for a Quick Start Guide or First Time User experience.</description>
+ sell the customer that the app will do what the user thinks it will do (they&amp;rsquo;ve already installed it but app store descriptions can be misleading), and; tell the customer how to use it  Ultimately, large multi-platform applications have many, many, more features then there is time for a Quick Start Guide or First Time User experience.</description>
     </item>
     
     <item>
-      <title>App Design: Storify &amp;#8211; too many windows</title>
+      <title>App Design: Storify - too many windows</title>
       <link>http://damien.co/apps-2/app-design-storify-too-many-windows-7077/</link>
       <pubDate>Sun, 20 May 2012 11:08:15 +0000</pubDate>
       
       <guid>http://damien.co/apps-2/app-design-storify-too-many-windows-7077/</guid>
       <description>Have you tried Storify? Is it just a little too busy? a little too complicated to get started with?
-I’ve read some great stuff about how to use Storify to archive events (weddings for example). Using Storify you can collect all the tweets, Facebook messages, Flickr pictures into a ‘story’. Sounds good so far.
-But what if you’re creative and not a creative writer? What if you just don’t have enough going on in your life?</description>
+I&amp;rsquo;ve read some great stuff about how to use Storify to archive events (weddings for example). Using Storify you can collect all the tweets, Facebook messages, Flickr pictures into a &amp;lsquo;story&amp;rsquo;. Sounds good so far.
+But what if you&amp;rsquo;re creative and not a creative writer? What if you just don&amp;rsquo;t have enough going on in your life?</description>
     </item>
     
     <item>
-      <title>App Design: Google&#43; updates app for iOS  &amp;#8211; result is impressive</title>
+      <title>App Design: Google&#43; updates app for iOS  - result is impressive</title>
       <link>http://damien.co/blog/2012-05-17-app-design-google-updates-app-for-ios-result-is-impressive/</link>
       <pubDate>Thu, 17 May 2012 17:30:11 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-05-17-app-design-google-updates-app-for-ios-result-is-impressive/</guid>
-      <description>Google+ has updated it’s app for iPhones –
-Even though the app is not universal – you can see Google+ has high-res / retina display assets and so it renders quite ‘crisp’ even at 2x zoom on the iPad.
+      <description>Google+ has updated it&amp;rsquo;s app for iPhones -
+Even though the app is not universal - you can see Google+ has high-res / retina display assets and so it renders quite &amp;lsquo;crisp&amp;rsquo; even at 2x zoom on the iPad.
 This is great job using fonts and HTML elements so the overall effect is impressive.</description>
     </item>
     
     <item>
-      <title>Mobile App Design &amp;#8211; when simple is beautiful</title>
+      <title>Mobile App Design - when simple is beautiful</title>
       <link>http://damien.co/apps-2/mobile-app-design-when-simple-is-beautiful-5857/</link>
       <pubDate>Mon, 09 Jan 2012 15:51:35 +0000</pubDate>
       
       <guid>http://damien.co/apps-2/mobile-app-design-when-simple-is-beautiful-5857/</guid>
-      <description>I’ve decided that designers and creative types like to bundle mobile apps with features that can be near impossible to bring to life. I know I’m going to lose a few ‘friends’ here .. but bare with me a minute.
-When developing your first app for your brand or client – it’s more important to engage customers and get usage through having the right features and a flawless function.
-Mobile Apps need to be beautiful in form &amp;amp; flawless in function Would you rather an app that is a ‘Thing of Beauty’ or an App that delivers on its function?</description>
+      <description>I&amp;rsquo;ve decided that designers and creative types like to bundle mobile apps with features that can be near impossible to bring to life. I know I&amp;rsquo;m going to lose a few &amp;lsquo;friends&amp;rsquo; here .. but bare with me a minute.
+When developing your first app for your brand or client - it&amp;rsquo;s more important to engage customers and get usage through having the right features and a flawless function.
+Mobile Apps need to be beautiful in form &amp;amp; flawless in function Would you rather an app that is a &amp;lsquo;Thing of Beauty&amp;rsquo; or an App that delivers on its function?</description>
     </item>
     
   </channel>

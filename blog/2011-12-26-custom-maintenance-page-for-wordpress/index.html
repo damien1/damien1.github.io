@@ -89,20 +89,20 @@
                 </div>
                 
                 <div class="post-content">
-                    <p><strong>[WordPress]</strong> is a great tool. It has its own way of <em>managing updates</em> to your website – and will switch to <strong>maintenance mode</strong> automatically.  Sometimes this is called an HTTP Status 503 Service Unavailable.</p>
-<p>For the <em>best user experience</em> you can setup your own custom maintenance page – where you can show your brand, making it clear that this is planned maintenance and give your visitor some where else to go.</p>
+                    <p><strong>[WordPress]</strong> is a great tool. It has its own way of <em>managing updates</em> to your website - and will switch to <strong>maintenance mode</strong> automatically.  Sometimes this is called an HTTP Status 503 Service Unavailable.</p>
+<p>For the <em>best user experience</em> you can setup your own custom maintenance page - where you can show your brand, making it clear that this is planned maintenance and give your visitor some where else to go.</p>
 <p><img src="../../wp-content/uploads/2011/12/maintenance-php.jpg" alt="Maintenance PHP"></p>
-<h2 id="get-some-control-8211-enable-wordpress-maintenance-mode-the-right-way">Get some control – enable WordPress Maintenance Mode the right way.</h2>
+<h2 id="get-some-control---enable-wordpress-maintenance-mode-the-right-way">Get some control - enable WordPress Maintenance Mode the right way.</h2>
 <p>Earlier this year I wrote about <a href="/2011/07/how-to-enable-wordpress-maintenance-mode/">enabling WordPress Maintenance</a> mode and how you can customise this yourself.</p>
 <h2 id="create-your-own-maintenance-page">Create your own Maintenance Page</h2>
-<p>As you can already tell – a maintenance page is just a PHP file with HTML. Start your favourite editor (I use Coda) and create a file called maintenance.php.</p>
+<p>As you can already tell - a maintenance page is just a PHP file with HTML. Start your favourite editor (I use Coda) and create a file called maintenance.php.</p>
 <p>You need to have a bit of code at the top and the bottom of the page like this …</p>
 <pre><code>&lt;?php
 $protocol = $\_SERVER[&quot;SERVER\_PROTOCOL&quot;];
-if ( &amp;#8216;HTTP/1.1&amp;#8217; != $protocol &amp;&amp; &amp;#8216;HTTP/1.0&amp;#8217; != $protocol )
-$protocol = &amp;#8216;HTTP/1.0&amp;#8217;;
+if ( 'HTTP/1.1' != $protocol &amp;&amp; 'HTTP/1.0' != $protocol )
+$protocol = 'HTTP/1.0';
 header( &quot;$protocol 503 Service Unavailable&quot;, true, 503 );
-header( &amp;#8216;Content-Type: text/html; charset=utf-8&amp;#8217; );
+header( 'Content-Type: text/html; charset=utf-8' );
 ?&gt;
 &lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
 &lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
@@ -122,7 +122,7 @@ header( &amp;#8216;Content-Type: text/html; charset=utf-8&amp;#8217; );
 <li>Link to your mail list subscribe form (Promote deeper engagement)</li>
 <li>Make your 503 Http status page visual</li>
 </ul>
-<p>If you’d like some help to set this up in WordPress, please consider hiring me and I can add this to your site.</p>
+<p>If you&rsquo;d like some help to set this up in WordPress, please consider hiring me and I can add this to your site.</p>
 
                 </div>
             </div>

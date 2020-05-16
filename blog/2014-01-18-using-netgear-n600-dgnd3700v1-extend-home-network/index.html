@@ -89,18 +89,18 @@
                 </div>
                 
                 <div class="post-content">
-                    <p>I’ve brought a brand new Asus RT-AC66U modem/router and decided that to use my old Netgear N600 ADSL modem/router DGND3700v1 to extend my home network and expand my wireless network.</p>
-<p>I’ve put the Netgear in a room where there was poor wifi signal strength and used a powerline (ethernet over power) adapter to connect back to the new main connection.</p>
-<p>To get the Netgear to behave like a wireless Access Point and extend my existing network should have been easy. I’d successfully trialled it first with the Asus model.</p>
-<p>After I reset the Netgear to factory default its ‘smart setup’ detected that a DHCP client existed yet it still proceeded to enable DHCP and dish out IP addresses to all connected devices. More annoyingly it didn’t pickup that IP addressed assigned it by the master DHCP and insisted on being accessed from the 192.168.0.1 IP address.</p>
-<p>I also discovered that you can’t just plugin a LAN cable on the WAN port 🙁 it had to go into the port 4.</p>
+                    <p>I&rsquo;ve brought a brand new Asus RT-AC66U modem/router and decided that to use my old Netgear N600 ADSL modem/router DGND3700v1 to extend my home network and expand my wireless network.</p>
+<p>I&rsquo;ve put the Netgear in a room where there was poor wifi signal strength and used a powerline (ethernet over power) adapter to connect back to the new main connection.</p>
+<p>To get the Netgear to behave like a wireless Access Point and extend my existing network should have been easy. I&rsquo;d successfully trialled it first with the Asus model.</p>
+<p>After I reset the Netgear to factory default its &lsquo;smart setup&rsquo; detected that a DHCP client existed yet it still proceeded to enable DHCP and dish out IP addresses to all connected devices. More annoyingly it didn&rsquo;t pickup that IP addressed assigned it by the master DHCP and insisted on being accessed from the 192.168.0.1 IP address.</p>
+<p>I also discovered that you can&rsquo;t just plugin a LAN cable on the WAN port 🙁 it had to go into the port 4.</p>
 <p>So here are the settings that work for me</p>
 <ol>
 <li>Connect LAN cable from master router modem on port 4 of the Netgear</li>
 <li>Manually assign IP address to your computer of 192.168.0.2</li>
 <li>Access the Netgear from the IP address 192.168.0.1</li>
 <li>From the Basic Settings page change
-‘Does your Internet connection require a login?’ to NO
+&lsquo;Does your Internet connection require a login?&rsquo; to NO
 Disable NAT
 Disable Firewall</li>
 <li>Save settings .. reboot and login via the 192.168.0.1</li>

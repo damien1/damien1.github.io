@@ -17,8 +17,8 @@
       <pubDate>Sat, 26 Jun 2010 14:16:25 +0000</pubDate>
       
       <guid>http://damien.co/general/how-to-cant-install-windows-7-upgrade-with-virtualbox-1088/</guid>
-      <description>This is an extremely short guide to a major problem with Windows 7 using Virtualbox. Many users come to this site looking to find the answer – which is – Windows 7 Home Upgrade is sold in Europe and elsewhere as a full install version.
-The problem is that installation via Virtualbox will complete but the user will not be able to ‘register’ their copy Windows 7.
+      <description>This is an extremely short guide to a major problem with Windows 7 using Virtualbox. Many users come to this site looking to find the answer - which is - Windows 7 Home Upgrade is sold in Europe and elsewhere as a full install version.
+The problem is that installation via Virtualbox will complete but the user will not be able to &amp;lsquo;register&amp;rsquo; their copy Windows 7.
 The only way to install Windows 7 Upgrade using Virtualbox is to first install Windows XP and then run the Windows 7 Upgrade disc.</description>
     </item>
     

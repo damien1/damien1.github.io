@@ -12,13 +12,13 @@
     
     
     <item>
-      <title>How to fix your WordPress when read / write doesn&amp;#8217;t work</title>
+      <title>How to fix your WordPress when read / write doesn&#39;t work</title>
       <link>http://damien.co/blog/2012-04-27-how-to-fix-your-wordpress-when-read-write-doesnt-work/</link>
       <pubDate>Fri, 27 Apr 2012 15:33:20 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-04-27-how-to-fix-your-wordpress-when-read-write-doesnt-work/</guid>
-      <description>Do you have problems with read / write permissions with WordPress? Are you stuck and can’t upload or change files? If you’ve tried to change the CHMOD values and failed, it might be time to go to the command-line.
-Working Alone – Single WordPress site Run these commands from terminal (command line interface) or ask your web host provider to do this. This will set all files to read/write for the owner and read only for everything else.</description>
+      <description>Do you have problems with read / write permissions with WordPress? Are you stuck and can&amp;rsquo;t upload or change files? If you&amp;rsquo;ve tried to change the CHMOD values and failed, it might be time to go to the command-line.
+Working Alone - Single WordPress site Run these commands from terminal (command line interface) or ask your web host provider to do this. This will set all files to read/write for the owner and read only for everything else.</description>
     </item>
     
     <item>

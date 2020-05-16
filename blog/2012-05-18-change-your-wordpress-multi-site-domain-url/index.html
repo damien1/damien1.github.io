@@ -85,22 +85,22 @@
             <div class="col-md-12">
                 
                 <div class="post-content">
-                    <p>I’ve just finished <strong>changing my domain name</strong> URL for my <strong>WordPress multisite</strong>. After running <strong>WordPress as a network</strong> for nearly 2 years and managing a number of other WordPress sites, domain changes should be easy to do (but over time things get more complicated).</p>
-<p>WordPress multisite adds a layer of complications – if you just want to update the domain URL for one of your blogs, then check out Domain Mapping plugins.</p>
-<p>It’s fairly easily to modify the domain names for a WordPress single stand-alone install. Just go look at your WordPress settings.</p>
+                    <p>I&rsquo;ve just finished <strong>changing my domain name</strong> URL for my <strong>WordPress multisite</strong>. After running <strong>WordPress as a network</strong> for nearly 2 years and managing a number of other WordPress sites, domain changes should be easy to do (but over time things get more complicated).</p>
+<p>WordPress multisite adds a layer of complications - if you just want to update the domain URL for one of your blogs, then check out Domain Mapping plugins.</p>
+<p>It&rsquo;s fairly easily to modify the domain names for a WordPress single stand-alone install. Just go look at your WordPress settings.</p>
 <h2 id="before-you-change-your-wordpress-network-url">Before you change your WordPress Network URL</h2>
 <p>Changing the website domain can be complicated and you need access to DNS domain management tools as well as feel comfortable with using PHPMyAdmin and editing SQL tables.</p>
-<p>If this makes you squeamish, then you’ll probably be better of setting up a new instance of WordPress with the new domain and importing / starting from a clean install.</p>
+<p>If this makes you squeamish, then you&rsquo;ll probably be better of setting up a new instance of WordPress with the new domain and importing / starting from a clean install.</p>
 <h3 id="sql">SQL</h3>
 <ol>
 <li>Always make an <a href="http://wordpress.damien.co/dbc-backup-2/" title="DBC Backup 2">EXPORT of your SQL database using DBC Backup 2 BEFORE</a> you do any of this or you will break your website. Yes, break your website as in 404, 503, database connection errors, redirects and worse search engine errors!</li>
-<li>You’ll need to use a MySQL editor like sequelpro or SQLyog. Editing with PHPMyAdmin can take too long.</li>
+<li>You&rsquo;ll need to use a MySQL editor like sequelpro or SQLyog. Editing with PHPMyAdmin can take too long.</li>
 </ol>
 <h3 id="dns-records">DNS Records</h3>
 <ol>
-<li>Remember to update your Domain Registration and remove any redirects or unpark the new domain you’ll want to use.</li>
+<li>Remember to update your Domain Registration and remove any redirects or unpark the new domain you&rsquo;ll want to use.</li>
 <li>Add the * wildcard sub-domain redirect for your new URL.</li>
-<li>Do delay by a day or do this on a slow traffic day if your DNS records take time to ‘flush’.</li>
+<li>Do delay by a day or do this on a slow traffic day if your DNS records take time to &lsquo;flush&rsquo;.</li>
 </ol>
 <h3 id="isp-host">ISP Host</h3>
 <!-- raw HTML omitted -->
@@ -109,13 +109,13 @@
 <!-- raw HTML omitted -->
 <!-- raw HTML omitted -->
 <!-- raw HTML omitted -->
-<h2 id="let8217s-go-change-your-multi-site-network-wordpress-site-url">Let’s Go Change your Multi-Site Network WordPress Site URL</h2>
+<h2 id="lets-go-change-your-multi-site-network-wordpress-site-url">Let&rsquo;s Go Change your Multi-Site Network WordPress Site URL</h2>
 <h3 id="wp-configphp">wp-config.php</h3>
 <p>You only make one change here the value of</p>
 <!-- raw HTML omitted -->
 <p>from oldsite.com to newsite.com</p>
-<p>[php] define( ‘DOMAIN_CURRENT_SITE’, ‘damiensaunders.com’ ); [/php]</p>
-<p>Note … adding the hack in wp-config for SiteURL or HomeURL doesn’t seem to do anything here.</p>
+<p>[php] define( &lsquo;DOMAIN_CURRENT_SITE&rsquo;, &lsquo;damiensaunders.com&rsquo; ); [/php]</p>
+<p>Note … adding the hack in wp-config for SiteURL or HomeURL doesn&rsquo;t seem to do anything here.</p>
 <h3 id="wp_options">wp_options</h3>
 <p>You make 2 changes here</p>
 <!-- raw HTML omitted -->
@@ -123,26 +123,26 @@
 <!-- raw HTML omitted -->
 <p>from oldsite.com to newsite.com</p>
 <h3 id="wp_blogs">wp_blogs</h3>
-<p>WP standalone doesn’t have this table. You need to change the domain value for every single one of your blogs. I’m lucky, I’ve only got 10 blogs to change.</p>
+<p>WP standalone doesn&rsquo;t have this table. You need to change the domain value for every single one of your blogs. I&rsquo;m lucky, I&rsquo;ve only got 10 blogs to change.</p>
 <p>You need to look for and change</p>
 <!-- raw HTML omitted -->
 <!-- raw HTML omitted -->
 <p>for each of your sub-blogs.</p>
 <h2 id="images-guids-and-other-things">Images, Guids and other things</h2>
-<p>Once you can login – Install Search and Replace plugin and do a ‘sweep’ of your website for references to your old site name.</p>
+<p>Once you can login - Install Search and Replace plugin and do a &lsquo;sweep&rsquo; of your website for references to your old site name.</p>
 <p>Be very careful with you Search and Replace ….</p>
-<p><!-- raw HTML omitted -->don’t<!-- raw HTML omitted --> just replace <a href="http://oldsite.com">http://oldsite.com</a> with http://newsite.com  because your manual changes should have done this.</p>
-<p><!-- raw HTML omitted -->don’t<!-- raw HTML omitted --> replace oldsite.com with newsite.com as you’ll break folder paths etc.  e.g. if your folder path is public_html/oldsite.com/wordpress then you can’t do a search &amp; replace.</p>
-<p><!-- raw HTML omitted -->don’t<!-- raw HTML omitted --> change the GUIDs unless you know what you are doing!</p>
+<p><!-- raw HTML omitted -->don&rsquo;t<!-- raw HTML omitted --> just replace <a href="http://oldsite.com">http://oldsite.com</a> with http://newsite.com  because your manual changes should have done this.</p>
+<p><!-- raw HTML omitted -->don&rsquo;t<!-- raw HTML omitted --> replace oldsite.com with newsite.com as you&rsquo;ll break folder paths etc.  e.g. if your folder path is public_html/oldsite.com/wordpress then you can&rsquo;t do a search &amp; replace.</p>
+<p><!-- raw HTML omitted -->don&rsquo;t<!-- raw HTML omitted --> change the GUIDs unless you know what you are doing!</p>
 <h2 id="heading"></h2>
 <h2 id="google-analytics--adsense-adwords-feedburner">Google Analytics &amp; Adsense, Adwords, Feedburner</h2>
-<p>Once you’ve changed your domain name you need to update your Google Analytics and other web-tracker accounts. If you run Adwords you probably have 1/2 a day before Google will recognise and disapprove your ads.</p>
+<p>Once you&rsquo;ve changed your domain name you need to update your Google Analytics and other web-tracker accounts. If you run Adwords you probably have 1/2 a day before Google will recognise and disapprove your ads.</p>
 <h2 id="serp-seo--google-webmaster-tools">SERP, SEO &amp; Google Webmaster Tools</h2>
-<p>Now’s the time to read-up on 301 redirects and .htaccess rewrite rules. Afterwards, submit your new site map via Google Webmaster Tools and also follow the options to migrate your old URL to the new URL.</p>
-<h2 id="help-8211-it8217s-all-broken">HELP – it’s all broken</h2>
-<p>Well no – it’s not all broken. You just have to figure out where things were changed that stop stuff working. In the first place, check your database options and look for the changes you made – maybe you overwrote URL’s in too many places.</p>
+<p>Now&rsquo;s the time to read-up on 301 redirects and .htaccess rewrite rules. Afterwards, submit your new site map via Google Webmaster Tools and also follow the options to migrate your old URL to the new URL.</p>
+<h2 id="help---its-all-broken">HELP - it&rsquo;s all broken</h2>
+<p>Well no - it&rsquo;s not all broken. You just have to figure out where things were changed that stop stuff working. In the first place, check your database options and look for the changes you made - maybe you overwrote URL&rsquo;s in too many places.</p>
 <h3 id="links">LINKS</h3>
-<p><!-- raw HTML omitted -->Change the Site URL – multisite<!-- raw HTML omitted --></p>
+<p><!-- raw HTML omitted -->Change the Site URL - multisite<!-- raw HTML omitted --></p>
 
                 </div>
             </div>

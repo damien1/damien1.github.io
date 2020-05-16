@@ -12,23 +12,23 @@
     
     
     <item>
-      <title>HOW TO: A WordPress update created a fatal error and now I can&amp;#8217;t login</title>
-      <link>http://damien.co/blog/2012-07-30-how-to-a-wordpress-update-created-a-fatal-and-now-i-cant-login/</link>
-      <pubDate>Mon, 30 Jul 2012 15:00:18 +0000</pubDate>
+      <title>How to make your website mobile</title>
+      <link>http://damien.co/blog/2011-06-10-how-to-make-your-website-mobile/</link>
+      <pubDate>Fri, 10 Jun 2011 11:05:00 +0000</pubDate>
       
-      <guid>http://damien.co/blog/2012-07-30-how-to-a-wordpress-update-created-a-fatal-and-now-i-cant-login/</guid>
-      <description>You just updated your plugins or theme in WordPress and now you can’t visit wp-admin or visit your website. Everything is broken, what you’re looking at is the White Screen of Death.
-It’s easy to recover from the 2 most common errors that kill your WordPress website. Fix the issue in 3 simple steps.
-When something goes wrong WordPress the most common cause is a plugin conflict or a problem with your theme.</description>
+      <guid>http://damien.co/blog/2011-06-10-how-to-make-your-website-mobile/</guid>
+      <description>Smart phones are driving the usage of mobile internet and that’s not just the growth in mobile apps. Having a mobile version of your website or a mobile web app is becoming critical as your customers and potential new business use mobile search to hunt for any business.
+There are 3 easy steps to get your website ready for the mobile internet:
+ Make your website mobile now Assess your mobile customer’s needs Improve your mobile customer experience to generate leads  Make your website mobile today It’s easy for any brand or business to enable a mobile version of your website.</description>
     </item>
     
     <item>
-      <title>WP Supercache &amp;#8211; were you seeing Garbage</title>
+      <title>WP Supercache - were you seeing Garbage</title>
       <link>http://damien.co/wordpress/wp-supercache-were-you-seeing-garbage-1482/</link>
       <pubDate>Sat, 11 Sep 2010 11:00:03 +0000</pubDate>
       
       <guid>http://damien.co/wordpress/wp-supercache-were-you-seeing-garbage-1482/</guid>
-      <description>Sorry … I didn’t realise … my site has been having problems for a couple of weeks now. It turns out the WP Supercache a [ id=”693″ type=”post”]favourite WordPress[/] plugin was corrupting my site due to a conflict with my server compression.My Google Analytics bounce rate reports were quite high for the past couple of weeks and I didnt see anything was wrong until someone told me they were seeing garbadge on my website.</description>
+      <description>Sorry … I didn&amp;rsquo;t realise … my site has been having problems for a couple of weeks now. It turns out the WP Supercache a [ id=”693″ type=”post”]favourite WordPress[/] plugin was corrupting my site due to a conflict with my server compression.My Google Analytics bounce rate reports were quite high for the past couple of weeks and I didnt see anything was wrong until someone told me they were seeing garbadge on my website.</description>
     </item>
     
   </channel>

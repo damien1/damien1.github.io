@@ -12,13 +12,13 @@
     
     
     <item>
-      <title>Death of Google Reader &amp;#8211; It&amp;#8217;s offline caching that makes RSS so good for me</title>
+      <title>Death of Google Reader - It&#39;s offline caching that makes RSS so good for me</title>
       <link>http://damien.co/general/death-of-google-reader-its-offline-caching-that-makes-rss-so-good-for-me-8448/</link>
       <pubDate>Sat, 23 Mar 2013 16:44:08 +0000</pubDate>
       
       <guid>http://damien.co/general/death-of-google-reader-its-offline-caching-that-makes-rss-so-good-for-me-8448/</guid>
-      <description>It’s what’s on the inside that counts! For me, what makes RSS a success has been mobile apps with offline caching. I don’t sit at home with my browser pointed to reader.google.com … I use mobile apps. Specifically, as I spend a lot of time on London Tube and trains where there is no wifi or mobile coverage, I need an RSS Feed Reader with a Cache!
-It’s been great over the years to have Google Reader there for me as a bit of a research index, record keeper and generally more reliable than Delicious or pretty much any social bookmarking service.</description>
+      <description>It&amp;rsquo;s what&amp;rsquo;s on the inside that counts! For me, what makes RSS a success has been mobile apps with offline caching. I don&amp;rsquo;t sit at home with my browser pointed to reader.google.com … I use mobile apps. Specifically, as I spend a lot of time on London Tube and trains where there is no wifi or mobile coverage, I need an RSS Feed Reader with a Cache!
+It&amp;rsquo;s been great over the years to have Google Reader there for me as a bit of a research index, record keeper and generally more reliable than Delicious or pretty much any social bookmarking service.</description>
     </item>
     
     <item>
@@ -27,8 +27,8 @@ It’s been great over the years to have Google Reader there for me as a bit of 
       <pubDate>Tue, 08 May 2012 12:37:49 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-05-08-whats-the-rss-feed-for-a-custom-post-type/</guid>
-      <description>WordPress introduced custom post types allowing creative and technical types to do more then just write pages and posts. Your websites main RSS feed doesn’t include custom post types — but custom posts do have their own unique RSS feeds which you can use.
-What’s the RSS feed for custom posts? The custom post rss feed looks like this
+      <description>WordPress introduced custom post types allowing creative and technical types to do more then just write pages and posts. Your websites main RSS feed doesn&amp;rsquo;t include custom post types — but custom posts do have their own unique RSS feeds which you can use.
+What&amp;rsquo;s the RSS feed for custom posts? The custom post rss feed looks like this
 So a link to my Presentations would look like this
  &amp;lt;a href=&amp;quot;http://damien.</description>
     </item>

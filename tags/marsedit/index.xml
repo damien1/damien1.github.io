@@ -12,14 +12,14 @@
     
     
     <item>
-      <title>WordPress &amp;#038; MarsEdit &amp;#8211; schedule the future date of publishing bug</title>
+      <title>WordPress &amp;#038; MarsEdit - schedule the future date of publishing bug</title>
       <link>http://damien.co/blog/2013-04-14-wordpress-marsedit-schedule-the-future-date-of-publishing-bug/</link>
       <pubDate>Sun, 14 Apr 2013 15:00:22 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-14-wordpress-marsedit-schedule-the-future-date-of-publishing-bug/</guid>
-      <description>I’ve been using MarsEdit for years and really like its features … recently I reformatted my Mac and now find that all my WordPress posts are being published immediately. Even after I set the date for ‘tomorrow’ for example.
-By the way .. I’d love it if MarsEdit would add a text editor toolbar to make it easier to apply formatting styles like lists, headers or font styles.
- Small Bug – Set post date gets overwritten when you change post status I was getting annoyed and found that if I set the blog post date to ‘tomorrow’, then set the post status to published .</description>
+      <description>I&amp;rsquo;ve been using MarsEdit for years and really like its features … recently I reformatted my Mac and now find that all my WordPress posts are being published immediately. Even after I set the date for &amp;lsquo;tomorrow&amp;rsquo; for example.
+By the way .. I&amp;rsquo;d love it if MarsEdit would add a text editor toolbar to make it easier to apply formatting styles like lists, headers or font styles.
+ Small Bug - Set post date gets overwritten when you change post status I was getting annoyed and found that if I set the blog post date to &amp;lsquo;tomorrow&amp;rsquo;, then set the post status to published .</description>
     </item>
     
     <item>
@@ -29,7 +29,7 @@ By the way .. I’d love it if MarsEdit would add a text editor toolbar to make 
       
       <guid>http://damien.co/blog/2011-12-01-marsedit-updates-to-3-4/</guid>
       <description>MarsEditthe preferred desktop and offline blogging application for WordPress and Apple Macusers has updated.This is mostly a bug-fix release and the update will automatically install for most users.
-What’s in this release? The release notehighlights a few good things for WordPress users such as:
+What&amp;rsquo;s in this release? The release notehighlights a few good things for WordPress users such as:
  Media management improvements  iPhoto Faces browsing support Lightroom photo collection set support   Flickr browser improvements  Now supports “Medium 640″ size Only shows image sizes that are available for the selected image   External Editing improvements  Now supports Byword in default editor list   Bug Fixes  Prevent a crash when selecting SVG format images Disable width/height fields for non-image files in Upload Utility Fix a bug where post IDs were sometimes not saved for posts and pages    MarsEdit brings desktop blog editing to your Mac I’ve been using MarsEdit for about 12 months now.</description>
     </item>
     
@@ -40,18 +40,18 @@ What’s in this release? The release notehighlights a few good things for WordP
       
       <guid>http://damien.co/blog/2011-07-03-marsedit-updates-e28093-best-desktop-blogging-app-for-wordpress-mac/</guid>
       <description>MarsEdit the preferred desktop and offline blogging application for WordPress and Apple Macusers has updated.This is mostly a bug-fix release and the update will automatically install for most users.
-What’s in this release? The release note highlights a few good things for WordPress users such as:
+What&amp;rsquo;s in this release? The release note highlights a few good things for WordPress users such as:
  Media Manager now remembers and restores last-selected folder across launches Fix a bug that prevented custom text and background color preferences from working in rich text mode Add protections to avoid crashing on some malformed server responses Fix a bug where only the first paragraph was styled with e.</description>
     </item>
     
     <item>
-      <title>MarsEdit updates &amp;#8211; best desktop blogging app for WordPress &amp;amp; Mac</title>
+      <title>MarsEdit updates - best desktop blogging app for WordPress &amp;amp; Mac</title>
       <link>http://damien.co/blog/2011-07-03-marsedit-updates-best-desktop-blogging-app-for-wordpress-mac/</link>
       <pubDate>Sun, 03 Jul 2011 14:58:04 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-07-03-marsedit-updates-best-desktop-blogging-app-for-wordpress-mac/</guid>
       <description>MarsEditthe preferred desktop and offline blogging application for WordPress and Apple Macusers has updated.This is mostly a bug-fix release and the update will automatically install for most users.
-What’s in this release? The release notehighlights a few good things for WordPress users such as:
+What&amp;rsquo;s in this release? The release notehighlights a few good things for WordPress users such as:
  Media Manager now remembers and restores last-selected folder across launches Fix a bug that prevented custom text and background color preferences from working in rich text mode Add protections to avoid crashing on some malformed server responses Fix a bug where only the first paragraph was styled with e.</description>
     </item>
     
@@ -61,7 +61,7 @@ What’s in this release? The release notehighlights a few good things for WordP
       <pubDate>Sun, 10 Apr 2011 20:13:30 +0000</pubDate>
       
       <guid>http://damien.co/social-media/twitter/getting-twitter-tools-to-work-with-marsedit-2870/</guid>
-      <description>Just wondering if this works — I’m trying to make MarsEdit work with a plugin that I love called TwitterTools
+      <description>Just wondering if this works — I&amp;rsquo;m trying to make MarsEdit work with a plugin that I love called TwitterTools
 If you know about this plugin and using external editors then let me know.</description>
     </item>
     

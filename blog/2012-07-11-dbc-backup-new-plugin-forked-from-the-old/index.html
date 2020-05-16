@@ -93,35 +93,35 @@
 <p>DBC Backup 2 creates a SQL export and saves a compressed file to your web host server. Many web hosts provide large amounts of free space for storing your data so it makes sense to use this free space to safely store your database.</p>
 <h2 id="key-features">Key Features</h2>
 <ul>
-<li>Save time – set a Batch Job to run daily, weekly, monthly</li>
-<li>User Control – User defined path to store backups</li>
-<li>Compact – Compression of SQL exports (Gzip or Tar) saves space</li>
-<li>Safe – the export folder is ‘protected’ from prying eyes or direct downloads</li>
-<li>Save money – Uses web host to store export backups</li>
+<li>Save time - set a Batch Job to run daily, weekly, monthly</li>
+<li>User Control - User defined path to store backups</li>
+<li>Compact - Compression of SQL exports (Gzip or Tar) saves space</li>
+<li>Safe - the export folder is &lsquo;protected&rsquo; from prying eyes or direct downloads</li>
+<li>Save money - Uses web host to store export backups</li>
 </ul>
 <h2 id="revival-of-dbc-backup">Revival of DBC Backup</h2>
-<p>The plugin is a revival of a much older plugin that I have used for a couple of years now. If the original developer gets in contact, I’d be happy to share the SVN repo keys.</p>
+<p>The plugin is a revival of a much older plugin that I have used for a couple of years now. If the original developer gets in contact, I&rsquo;d be happy to share the SVN repo keys.</p>
 <h2 id="installation">Installation</h2>
 <ol>
 <li>Upload the plugin dbcbackup to the `/wp-content/plugins/` directory</li>
-<li>Activate the plugin through the ‘Plugins’ menu in WordPress</li>
-<li>Go to the Settings page ‘DB Cron Backup’ from the main men.</li>
-<li>Configure the plugin settings and you are ready. You’ll need to know your server path to a folder you want the backup saved.</li>
+<li>Activate the plugin through the &lsquo;Plugins&rsquo; menu in WordPress</li>
+<li>Go to the Settings page &lsquo;DB Cron Backup&rsquo; from the main men.</li>
+<li>Configure the plugin settings and you are ready. You&rsquo;ll need to know your server path to a folder you want the backup saved.</li>
 </ol>
 <ul>
-<li>If the plugin can’t create the export directory you will have to do it manually and don’t forget to chmod 777 it.</li>
+<li>If the plugin can&rsquo;t create the export directory you will have to do it manually and don&rsquo;t forget to chmod 777 it.</li>
 <li>If you are upgrading, deactivate the plugin first and remove all old files, before starting.</li>
 </ul>
 <h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
 <h3 id="why-create-a-server-based-back-up">Why create a server based back-up?</h3>
 <p>It makes sense to me to keep the SQL database backup where you will most likely need it if something goes wrong. Many web hosts provide a large amount of free space for you to store files. So rather than having to pay someone else for storing your database backup you can use the free space you already have.</p>
-<h3 id="aren8217t-server-based-back-ups-insecure">Aren’t server based back-ups insecure?</h3>
+<h3 id="arent-server-based-back-ups-insecure">Aren&rsquo;t server based back-ups insecure?</h3>
 <p>Not really, server based back-ups are only unsafe if your server is prone to fail or poorly protected from hacking.</p>
 <h3 id="i-want-to-make-my-backup-more-secure">I want to make my backup more secure</h3>
-<p>That’s easy, the plugin creates a .htaccess file in the backup folder. You can open this file and add to this code. The backup folder is protected against browsing or direct file access.</p>
+<p>That&rsquo;s easy, the plugin creates a .htaccess file in the backup folder. You can open this file and add to this code. The backup folder is protected against browsing or direct file access.</p>
 <h3 id="does-the-plugin-takes-a-backup-whenever-i-setup-a-specific-cron-job">Does The plugin takes a backup whenever I setup a specific cron job</h3>
 <p>If the time of the cron is before the current time the wp cron system is adding the cron job to run at the next page view, despite how long ago it is set.</p>
-<h3 id="why-don8217t-any-compression-formats-appear">Why don’t any compression formats appear?</h3>
+<h3 id="why-dont-any-compression-formats-appear">Why don&rsquo;t any compression formats appear?</h3>
 <p>Because Gzip and Bzip2 are not installed on your server.</p>
 <h3 id="does-this-work-for-multisite">Does this work for multisite?</h3>
 <p>Yes if you are site admin then each site can run its own version of the plugin and backups of the SQL database can be created.</p>

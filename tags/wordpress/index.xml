@@ -12,23 +12,23 @@
     
     
     <item>
-      <title>Messing with your Head &amp;#8211; when to use WordPress template parts vs JavaScript</title>
+      <title>Messing with your Head - when to use WordPress template parts vs JavaScript</title>
       <link>http://damien.co/blog/2013-09-26-messing-with-your-head-when-to-use-wordpress-template-parts-vs-javascript/</link>
       <pubDate>Thu, 26 Sep 2013 12:05:33 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-09-26-messing-with-your-head-when-to-use-wordpress-template-parts-vs-javascript/</guid>
       <description>Here I am … I&amp;rsquo;m messing with your head. I wanted to see how easy it is to get my Isotope Visual Layouts plugin for WordPress to change your your homepage. Actually it was too easy and the result is destruction and chaos.
-No-No – I&amp;rsquo;m Never Going to Mess with your Head First thing to note – Never do anything with a plugin that &amp;lsquo;you&amp;rsquo; the User doesn&amp;rsquo;t expect. That&amp;rsquo;s bad bad karma.</description>
+No-No - I&amp;rsquo;m Never Going to Mess with your Head First thing to note - Never do anything with a plugin that &amp;lsquo;you&amp;rsquo; the User doesn&amp;rsquo;t expect. That&amp;rsquo;s bad bad karma.</description>
     </item>
     
     <item>
-      <title>HOW TO Get Started with WordPress Multisite &amp;#8211; build it in 5 minutes</title>
+      <title>HOW TO Get Started with WordPress Multisite - build it in 5 minutes</title>
       <link>http://damien.co/blog/2013-04-29-get-started-with-wordpress-multisite-build-it-in-5-minutes/</link>
       <pubDate>Mon, 29 Apr 2013 12:00:56 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-29-get-started-with-wordpress-multisite-build-it-in-5-minutes/</guid>
-      <description>WordPress Multisite or WordPress Network or WPMU – any of these refer to WordPress when it has been setup as a network of blogs or websites.
-I&amp;rsquo;ve been using WordPress Multisite for about 3 years now – many more famous WordPress people have written about setting up WordPress Multisite, but this is my take on it.
+      <description>WordPress Multisite or WordPress Network or WPMU - any of these refer to WordPress when it has been setup as a network of blogs or websites.
+I&amp;rsquo;ve been using WordPress Multisite for about 3 years now - many more famous WordPress people have written about setting up WordPress Multisite, but this is my take on it.
 I want to show you that it is easy to get started with WordPress Multisite in fact you can have your network of WordPress sites up in under 5 minutes (supposing you already have WordPress installed).</description>
     </item>
     
@@ -38,9 +38,9 @@ I want to show you that it is easy to get started with WordPress Multisite in fa
       <pubDate>Sun, 28 Apr 2013 12:00:13 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-28-how-to-integrate-your-own-isotope-jquery-plugin-with-your-wordpress/</guid>
-      <description>I was recently asked if it was easy to integrate Isotope jQuery plugin into a WordPress website. It’s not uncomplicated to add isotope.js to your website – it’s just not as easy as linking a script to your header.
+      <description>I was recently asked if it was easy to integrate Isotope jQuery plugin into a WordPress website. It&amp;rsquo;s not uncomplicated to add isotope.js to your website - it&amp;rsquo;s just not as easy as linking a script to your header.
 2 Ways to add Isotope jQuery Plugin to WordPress As always, there are (at least) 2 ways to achieve this
- Create a page template for the purpose – with all the code you want Add the code to your themes function.</description>
+ Create a page template for the purpose - with all the code you want Add the code to your themes function.</description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@ I want to show you that it is easy to get started with WordPress Multisite in fa
       <pubDate>Mon, 15 Apr 2013 13:58:34 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-15-differences-between-a-plugin-and-a-theme/</guid>
-      <description>In WordPress, as with many things, there are two ways to add features and customise your website, either with themes (php template files) or plugins. There are multiple threads about what’s the difference between a theme and a plugin. A plugin ‘should not’ change your website design / look and feel … But a theme can do everything a plugin does (including installing other plugins). Difference between a plugin and a theme To make things sound simple … Primarily, a plugin gives you the user, fine control via the shortcode as to when my plugin function is activated, and of course you can just turn off the plugin at any time.</description>
+      <description>In WordPress, as with many things, there are two ways to add features and customise your website, either with themes (php template files) or plugins. There are multiple threads about what&amp;rsquo;s the difference between a theme and a plugin. A plugin &amp;lsquo;should not&amp;rsquo; change your website design / look and feel … But a theme can do everything a plugin does (including installing other plugins). Difference between a plugin and a theme To make things sound simple … Primarily, a plugin gives you the user, fine control via the shortcode as to when my plugin function is activated, and of course you can just turn off the plugin at any time.</description>
     </item>
     
     <item>
@@ -59,7 +59,7 @@ I want to show you that it is easy to get started with WordPress Multisite in fa
       
       <guid>http://damien.co/blog/2013-04-13-how-to-disable-jetpack-plugins/</guid>
       <description>Enabling and Disabling Jetpack for WordPress individual plugins presented a bit of a challenge recently. Not having used Jetpack before, I thought it time to try out this collection of plugins developed and maintained by Automattic over the past 4 weeks.
-I’ve discovered that Jetpack is a feature rich collection of plugins but I seriously doubled-up on plugins doing the same job. I didn’t need Google Analytics as well as WordPress Stats.</description>
+I&amp;rsquo;ve discovered that Jetpack is a feature rich collection of plugins but I seriously doubled-up on plugins doing the same job. I didn&amp;rsquo;t need Google Analytics as well as WordPress Stats.</description>
     </item>
     
     <item>
@@ -68,7 +68,7 @@ I’ve discovered that Jetpack is a feature rich collection of plugins but I ser
       <pubDate>Sun, 07 Apr 2013 21:08:35 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</guid>
-      <description>I’m no regular WordPress Plugin Developer – I spend most of my day managing projects or other stuff. So when I do develop, I want a trusted, reliable, repeatable workflow setup that is always testing, always building and always telling me whats going on. That’s why I believe in Continuous Integration … and why I’ve turned to Jenkins as my CI Tool and use Apache Ant and Selenium for testing. A bit of background on Continuous Integration and Tools Continuous Integration Continuous Integration is a fundamentally different approach to software development where the project team work to continuously test as you build software.</description>
+      <description>I&amp;rsquo;m no regular WordPress Plugin Developer - I spend most of my day managing projects or other stuff. So when I do develop, I want a trusted, reliable, repeatable workflow setup that is always testing, always building and always telling me whats going on. That&amp;rsquo;s why I believe in Continuous Integration … and why I&amp;rsquo;ve turned to Jenkins as my CI Tool and use Apache Ant and Selenium for testing. A bit of background on Continuous Integration and Tools Continuous Integration Continuous Integration is a fundamentally different approach to software development where the project team work to continuously test as you build software.</description>
     </item>
     
     <item>
@@ -77,10 +77,10 @@ I’ve discovered that Jetpack is a feature rich collection of plugins but I ser
       <pubDate>Mon, 03 Dec 2012 22:09:14 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-12-03-open-letter-to-users-of-dbc-backup-the-old-plugin/</guid>
-      <description>So I noticed recently that Google has an index of everyone who has installed my plugin but hasn’t locked down their website. Which led me to wonder ‘If I could find these insecure sites via Google, should I warn them?’.
+      <description>So I noticed recently that Google has an index of everyone who has installed my plugin but hasn&amp;rsquo;t locked down their website. Which led me to wonder &amp;lsquo;If I could find these insecure sites via Google, should I warn them?&#39;.
 And so I did …
- I’m a WordPress developer in the UK and I look after a plugin called DBC-Backup-2.
-I’ve always loved DBC-Backup ( a plugin you are are using on your website ), so when I found out that no one was maintaining it, I decided to ‘adopt’ DBC-Backup.</description>
+ I&amp;rsquo;m a WordPress developer in the UK and I look after a plugin called DBC-Backup-2.
+I&amp;rsquo;ve always loved DBC-Backup ( a plugin you are are using on your website ), so when I found out that no one was maintaining it, I decided to &amp;lsquo;adopt&amp;rsquo; DBC-Backup.</description>
     </item>
     
     <item>
@@ -90,7 +90,7 @@ I’ve always loved DBC-Backup ( a plugin you are are using on your website ), s
       
       <guid>http://damien.co/blog/2012-11-27-pods-framework-for-wordpress/</guid>
       <description>WordPress is one of the most flexible web apps to customise for your needs. Creating custom post types in WordPress is also quite easy and Pods Framework looks like a plugin that will make it easier still.
-I’m going to give it a try!</description>
+I&amp;rsquo;m going to give it a try!</description>
     </item>
     
     <item>
@@ -99,7 +99,7 @@ I’m going to give it a try!</description>
       <pubDate>Thu, 25 Oct 2012 13:27:55 +0000</pubDate>
       
       <guid>http://damien.co/resources/can-i-get-at-wordpress-code-from-inside-a-selenium-test-7973/</guid>
-      <description>There are many ways to skin a cat and trying to use Selenium with WordPress CLI is new to me. Essentially, WordPress is ‘just’ a dynamic website using a SQL database with some themes and plugin files behind it.
+      <description>There are many ways to skin a cat and trying to use Selenium with WordPress CLI is new to me. Essentially, WordPress is &amp;lsquo;just&amp;rsquo; a dynamic website using a SQL database with some themes and plugin files behind it.
 Selenium is designed as a frontend browser test tool so keep that in mind for a minute and I assume you mean Selenium IDE. The result would be very brittle test cases if you built something up with Selenium IDE + WordPress CLI.</description>
     </item>
     
@@ -109,19 +109,19 @@ Selenium is designed as a frontend browser test tool so keep that in mind for a 
       <pubDate>Fri, 15 Jun 2012 16:37:59 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-06-15-19-best-wordpress-plugins-use-multisite-network-or-what-plugins-im-using/</guid>
-      <description>I’ve been running WordPress as a multisite network and I often get asked about what are the best plugins for WordPress. Everyone has their opinion. I’ve listed the plugins which are network activated and grouped them in some meaningful manner for web marketers and development people.
-WordPress is one of the worlds’ most popular website and blogging tools and it’s latest version makes it easier to manage the look of your website.</description>
+      <description>I&amp;rsquo;ve been running WordPress as a multisite network and I often get asked about what are the best plugins for WordPress. Everyone has their opinion. I&amp;rsquo;ve listed the plugins which are network activated and grouped them in some meaningful manner for web marketers and development people.
+WordPress is one of the worlds&amp;rsquo; most popular website and blogging tools and it&amp;rsquo;s latest version makes it easier to manage the look of your website.</description>
     </item>
     
     <item>
-      <title>UPDATE TIME &amp;#8211; WordPress 3.3.1 released</title>
+      <title>UPDATE TIME - WordPress 3.3.1 released</title>
       <link>http://damien.co/blog/2012-01-03-update-time-wordpress-3-3-1-released/</link>
       <pubDate>Tue, 03 Jan 2012 22:41:19 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-01-03-update-time-wordpress-3-3-1-released/</guid>
-      <description>Welcome to 2012, it’s ‘barely’ the first day of work and the WordPress team have released WordPress 3.3.1. This is a security and bug fix release which means it’s time to update as this is a mandatory update for us all.
-What’s in this release?
-This release is just 2 weeks after the big update to 3.3 so don’t be expecting anything new. Release 3.3.1 addresses a security issue with ‘cross site scripting’ and 15 other maintenance fixes.</description>
+      <description>Welcome to 2012, it&amp;rsquo;s &amp;lsquo;barely&amp;rsquo; the first day of work and the WordPress team have released WordPress 3.3.1. This is a security and bug fix release which means it&amp;rsquo;s time to update as this is a mandatory update for us all.
+What&amp;rsquo;s in this release?
+This release is just 2 weeks after the big update to 3.3 so don&amp;rsquo;t be expecting anything new. Release 3.3.1 addresses a security issue with &amp;lsquo;cross site scripting&amp;rsquo; and 15 other maintenance fixes.</description>
     </item>
     
     <item>
@@ -130,10 +130,10 @@ This release is just 2 weeks after the big update to 3.3 so don’t be expecting
       <pubDate>Sat, 10 Dec 2011 15:26:34 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-12-10-getting-started-with-isotope-wordpress/</guid>
-      <description>If you’re interested in customising WordPress then consider building a fluid grid design with a layout that automatically responds as the page is resized.
-I’m using Isotope with the latest version of WordPress 3.3 release candidate.
-Isotope – An exquisite jQuery Plugin for magical layouts With a few days to spare do check out Isotope from David Desandro. This example uses the periodic table
-Have a look as well at Desandro’s examples – click a few of the buttons on the Filter.</description>
+      <description>If you&amp;rsquo;re interested in customising WordPress then consider building a fluid grid design with a layout that automatically responds as the page is resized.
+I&amp;rsquo;m using Isotope with the latest version of WordPress 3.3 release candidate.
+Isotope - An exquisite jQuery Plugin for magical layouts With a few days to spare do check out Isotope from David Desandro. This example uses the periodic table
+Have a look as well at Desandro&amp;rsquo;s examples - click a few of the buttons on the Filter.</description>
     </item>
     
     <item>
@@ -143,7 +143,7 @@ Have a look as well at Desandro’s examples – click a few of the buttons on t
       
       <guid>http://damien.co/blog/2011-12-01-marsedit-updates-to-3-4/</guid>
       <description>MarsEditthe preferred desktop and offline blogging application for WordPress and Apple Macusers has updated.This is mostly a bug-fix release and the update will automatically install for most users.
-What’s in this release? The release notehighlights a few good things for WordPress users such as:
+What&amp;rsquo;s in this release? The release notehighlights a few good things for WordPress users such as:
  Media management improvements  iPhoto Faces browsing support Lightroom photo collection set support   Flickr browser improvements  Now supports “Medium 640″ size Only shows image sizes that are available for the selected image   External Editing improvements  Now supports Byword in default editor list   Bug Fixes  Prevent a crash when selecting SVG format images Disable width/height fields for non-image files in Upload Utility Fix a bug where post IDs were sometimes not saved for posts and pages    MarsEdit brings desktop blog editing to your Mac I’ve been using MarsEdit for about 12 months now.</description>
     </item>
     
@@ -153,8 +153,8 @@ What’s in this release? The release notehighlights a few good things for WordP
       <pubDate>Wed, 16 Nov 2011 23:04:49 +0000</pubDate>
       
       <guid>http://damien.co/wordpress/migrating-your-company-website-to-wordpress-self-hosted-697/</guid>
-      <description>WordPressis one of the most popular solutions for blogging. What people don’t know is that WordPress self hosted is the best solution for building a standalone B2B or SME company website. We recently finished the migration of the mmCHANNEL company website from an in-house developed website (using PHP, etc) to single install, self hosted WordPress installation.
-There were a few times when I felt that maybe WordPress wasn’t right, but overall it’s going great and the results are visible!</description>
+      <description>WordPressis one of the most popular solutions for blogging. What people don&amp;rsquo;t know is that WordPress self hosted is the best solution for building a standalone B2B or SME company website. We recently finished the migration of the mmCHANNEL company website from an in-house developed website (using PHP, etc) to single install, self hosted WordPress installation.
+There were a few times when I felt that maybe WordPress wasn&amp;rsquo;t right, but overall it&amp;rsquo;s going great and the results are visible!</description>
     </item>
     
     <item>
@@ -163,9 +163,9 @@ There were a few times when I felt that maybe WordPress wasn’t right, but over
       <pubDate>Tue, 15 Nov 2011 09:21:28 +0000</pubDate>
       
       <guid>http://damien.co/mobile-marketing/remember-your-mobile-browser-detection-for-ipad-smartphones-2589/</guid>
-      <description>So you’ve built a great website for your clients and they’re happy to see its getting lots of good traffic. Now your client wants to know how to make their website mobile.
-Depending on the CMS you used to build the website – WordPressor Drupal for example, be sure to setup a mobile browser plugin that renders your website smartphone and mobile friendly.
-For anyone building a website from scratch – mobile browser detection is done in the same was as detecting say IE6.</description>
+      <description>So you&amp;rsquo;ve built a great website for your clients and they&amp;rsquo;re happy to see its getting lots of good traffic. Now your client wants to know how to make their website mobile.
+Depending on the CMS you used to build the website - WordPressor Drupal for example, be sure to setup a mobile browser plugin that renders your website smartphone and mobile friendly.
+For anyone building a website from scratch - mobile browser detection is done in the same was as detecting say IE6.</description>
     </item>
     
     <item>
@@ -174,7 +174,7 @@ For anyone building a website from scratch – mobile browser detection is done 
       <pubDate>Mon, 31 Oct 2011 11:00:36 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-10-31-make-an-impact-using-integrated-marketing-use-these-best-wordpress-plugins/</guid>
-      <description>Integrated marketing with WordPress is easy – you only need a few plugins to have a powerful website at the heart of your digital marketing.
+      <description>Integrated marketing with WordPress is easy - you only need a few plugins to have a powerful website at the heart of your digital marketing.
 WordPress plugins there are thousands to choose from and they are so easy to install. I tend to be cutting edge and try new plugins a lot , but here are some of the best plugins to improve WordPress for social media and digital marketing.</description>
     </item>
     
@@ -194,13 +194,13 @@ How to Enable Maintenance Mode without a Plugin - method 1 Activating maintenanc
       <pubDate>Mon, 04 Jul 2011 15:02:18 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-07-04-social-media-marketing-with-wordpress-needs-a-good-theme/</guid>
-      <description>Get a good theme – it’s all about the instant appeal that any visitor has when they first land on your site. WordPress has many themes suited for social media marketing with a magazine layout, a featured panel and ready to go marketing plugins.
+      <description>Get a good theme - it&amp;rsquo;s all about the instant appeal that any visitor has when they first land on your site. WordPress has many themes suited for social media marketing with a magazine layout, a featured panel and ready to go marketing plugins.
 Why WordPress? WordPress is one of the world’s most popular solutions for blogging
-If you’re reading and researching Why WordPress – you’ll probably see many articles focus on three words – Free, Simple &amp;amp; Easy.</description>
+If you’re reading and researching Why WordPress - you’ll probably see many articles focus on three words - Free, Simple &amp;amp; Easy.</description>
     </item>
     
     <item>
-      <title>WordPress updated to 3.1.4 &amp;#8211; security update</title>
+      <title>WordPress updated to 3.1.4 - security update</title>
       <link>http://damien.co/blog/2011-07-01-wordpress-updated-to-3-1-4-security-update/</link>
       <pubDate>Fri, 01 Jul 2011 09:02:47 +0000</pubDate>
       
@@ -214,8 +214,8 @@ If you’re reading and researching Why WordPress – you’ll probably see many
       <pubDate>Mon, 27 Jun 2011 19:10:10 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-06-27-wordpress-3-2-release-candidate-is-here-2/</guid>
-      <description>The second release candidate for the next version of WordPress 3.2 is here. If you haven’t started testing 3.2, now is the time. Previous experience would make this the final RC before the real deal.
- Should I update to this release candidate? As this is a release candidate you shouldn’t use this on a really important live site – but it does mean it’s pretty stable and useful. You should find that most popular plugins and themes have no issues as developers have been working since RC1.</description>
+      <description>The second release candidate for the next version of WordPress 3.2 is here. If you haven&amp;rsquo;t started testing 3.2, now is the time. Previous experience would make this the final RC before the real deal.
+ Should I update to this release candidate? As this is a release candidate you shouldn&amp;rsquo;t use this on a really important live site - but it does mean it&amp;rsquo;s pretty stable and useful. You should find that most popular plugins and themes have no issues as developers have been working since RC1.</description>
     </item>
     
     <item>
@@ -225,7 +225,7 @@ If you’re reading and researching Why WordPress – you’ll probably see many
       
       <guid>http://damien.co/wordpress/wordpress-3-2-release-candidate-is-here-3961/</guid>
       <description>The first release candidate for the next version of WordPress 3.2 is here.
-Should I update to this release candidate? As this is a release candidate you shouldn’t use this on a really important live site – but it does mean it’s pretty stable and useful. You may find that you have issues with plugins and themes as developers work to support this RC.
+Should I update to this release candidate? As this is a release candidate you shouldn&amp;rsquo;t use this on a really important live site - but it does mean it&amp;rsquo;s pretty stable and useful. You may find that you have issues with plugins and themes as developers work to support this RC.
  WordPress 3.2 what you can expect WordPress 3.</description>
     </item>
     
@@ -235,17 +235,17 @@ Should I update to this release candidate? As this is a release candidate you sh
       <pubDate>Wed, 15 Jun 2011 15:14:17 +0000</pubDate>
       
       <guid>http://damien.co/wordpress/10-very-useful-wordpress-resources-for-you-3950/</guid>
-      <description>Now that summer is really here (really) … it’s time to catchup on missed reading. So here is a collection of 10 of the best WordPress articles for you to re-read.
+      <description>Now that summer is really here (really) … it&amp;rsquo;s time to catchup on missed reading. So here is a collection of 10 of the best WordPress articles for you to re-read.
 [related_posts limit=”10″]
 PS .. this is showing off a new shortcode from WooThemes to automatically create a list of related posts.</description>
     </item>
     
     <item>
       <title>How to make your website mobile</title>
-      <link>http://damien.co/mobile-marketing/how-to-make-your-website-mobile-3772/</link>
+      <link>http://damien.co/blog/2011-06-10-how-to-make-your-website-mobile/</link>
       <pubDate>Fri, 10 Jun 2011 11:05:00 +0000</pubDate>
       
-      <guid>http://damien.co/mobile-marketing/how-to-make-your-website-mobile-3772/</guid>
+      <guid>http://damien.co/blog/2011-06-10-how-to-make-your-website-mobile/</guid>
       <description>Smart phones are driving the usage of mobile internet and that’s not just the growth in mobile apps. Having a mobile version of your website or a mobile web app is becoming critical as your customers and potential new business use mobile search to hunt for any business.
 There are 3 easy steps to get your website ready for the mobile internet:
  Make your website mobile now Assess your mobile customer’s needs Improve your mobile customer experience to generate leads  Make your website mobile today It’s easy for any brand or business to enable a mobile version of your website.</description>
@@ -257,8 +257,8 @@ There are 3 easy steps to get your website ready for the mobile internet:
       <pubDate>Wed, 08 Jun 2011 10:52:09 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-06-08-comment-is-free-again-thanks-to-facebook/</guid>
-      <description>Recently I moaned about the state of comments and spam – and I hinted that comments would be enabled across my website again.
-My interests in social media do extend to ‘the Facebook’ – but my expertise is definitely not with that network. Given a limited number of hours in each day, I have enough social media stuff to do.
+      <description>Recently I moaned about the state of comments and spam - and I hinted that comments would be enabled across my website again.
+My interests in social media do extend to &amp;lsquo;the Facebook&amp;rsquo; - but my expertise is definitely not with that network. Given a limited number of hours in each day, I have enough social media stuff to do.
 Facebook Comments Only a few months back, Facebook launched their own comments system allowing external websites an easy way to integrate with Facebooks own commenting system.</description>
     </item>
     
@@ -269,7 +269,7 @@ Facebook Comments Only a few months back, Facebook launched their own comments s
       
       <guid>http://damien.co/blog/insights-blog/comments-are-free-3585/</guid>
       <description>With any successful blog, Comments and Spam are juxtaposed at opposite ends of the spectrum. We all want to engage and generate conversations. The change in SEO practices means spam is being replaced by inbound link baiting.
-Akismet the only rubber you need In WordPress – part of the battle is won by using the free Akismet plugin which is developed and maintained by Automattic (the ‘commercial arm’ of WordPress.com etc).</description>
+Akismet the only rubber you need In WordPress - part of the battle is won by using the free Akismet plugin which is developed and maintained by Automattic (the ‘commercial arm’ of WordPress.com etc).</description>
     </item>
     
     <item>
@@ -278,14 +278,14 @@ Akismet the only rubber you need In WordPress – part of the battle is won by u
       <pubDate>Fri, 03 Jun 2011 11:27:33 +0000</pubDate>
       
       <guid>http://damien.co/wordpress/5-reasons-why-i-choose-to-use-wordpress-3554/</guid>
-      <description>If you’re reading and researching Why WordPress – you’ll probably see many articles focus on three words – Free, Simple &amp;amp; Easy. These words tell you nothing about WordPress and so I started writing this to help you decide to choose WordPress.
+      <description>If you’re reading and researching Why WordPress - you’ll probably see many articles focus on three words - Free, Simple &amp;amp; Easy. These words tell you nothing about WordPress and so I started writing this to help you decide to choose WordPress.
 I started using WordPress in 2003 and I still have my hosted account London.WordPress.com. I switched to self-hosted in 2009.
 For me, I’ve chosen WordPress because
- WordPress is something I use everyday I recommend WordPress to clients and friends WordPress integrates in a social media marketing strategy WordPress can morph from a blog to a website or a CMS Getting started is hassle-free   WordPress is right to use everydayWordPress, it’s mobile app, plugins and 3rdparty tools are improving – this makes WordPress something I enjoy using every day.</description>
+ WordPress is something I use everyday I recommend WordPress to clients and friends WordPress integrates in a social media marketing strategy WordPress can morph from a blog to a website or a CMS Getting started is hassle-free   WordPress is right to use everydayWordPress, it’s mobile app, plugins and 3rdparty tools are improving - this makes WordPress something I enjoy using every day.</description>
     </item>
     
     <item>
-      <title>WordPress Updates to 3.1.3 &amp;#8211; time to update</title>
+      <title>WordPress Updates to 3.1.3 - time to update</title>
       <link>http://damien.co/wordpress/wordpress-updates-to-3-1-3-time-to-update-3489/</link>
       <pubDate>Thu, 26 May 2011 18:03:58 +0000</pubDate>
       
@@ -295,12 +295,12 @@ For me, I’ve chosen WordPress because
     </item>
     
     <item>
-      <title>Special Offer &amp;#8211; WordPress setup &amp;#038; hosting packages from £125</title>
+      <title>Special Offer - WordPress setup &amp;#038; hosting packages from £125</title>
       <link>http://damien.co/promo/special-offer-wordpress-setup-hosting-packages-from-125-3084/</link>
       <pubDate>Wed, 18 May 2011 11:51:56 +0000</pubDate>
       
       <guid>http://damien.co/promo/special-offer-wordpress-setup-hosting-packages-from-125-3084/</guid>
-      <description>WordPressis one of the best solutions for social media marketingand possibly the world’s best solution for blogging and websites.If you’re looking to get started with WordPress – or need a new website tomorrow– then this offer is hard to miss:Next day Setup &amp;amp; Install WordPress £125.00 one-off setup fee.this offer includes: 12 Months Hosting Install the latest version of WordPress Using your own domain name Choose from one of the best WordPress themes via WooThemes Install 9 plugins for Forms, Spam, Database backup, Google Analytics, SEO, Social Media sharing &amp;amp; integrated marketing.</description>
+      <description>WordPressis one of the best solutions for social media marketingand possibly the world&amp;rsquo;s best solution for blogging and websites.If you&amp;rsquo;re looking to get started with WordPress - or need a new website tomorrow- then this offer is hard to miss:Next day Setup &amp;amp; Install WordPress £125.00 one-off setup fee.this offer includes: 12 Months Hosting Install the latest version of WordPress Using your own domain name Choose from one of the best WordPress themes via WooThemes Install 9 plugins for Forms, Spam, Database backup, Google Analytics, SEO, Social Media sharing &amp;amp; integrated marketing.</description>
     </item>
     
     <item>
@@ -309,18 +309,18 @@ For me, I’ve chosen WordPress because
       <pubDate>Mon, 02 May 2011 15:36:55 +0000</pubDate>
       
       <guid>http://damien.co/wordpress/how-to-enable-wordpress-maintenance-mode-2964/</guid>
-      <description>WordPress is a great tool. It has its own way of managing updates to your website – and will switch to maintenance mode automatically. For the best user experience you should enable maintenance mode yourself.
-How to Enable Maintenance Mode without a Plugin – method 1 Activating maintenance mode without a plugin is easy. First, open your FTP program and then navigate to the root folder of you WordPress install.</description>
+      <description>WordPress is a great tool. It has its own way of managing updates to your website - and will switch to maintenance mode automatically. For the best user experience you should enable maintenance mode yourself.
+How to Enable Maintenance Mode without a Plugin - method 1 Activating maintenance mode without a plugin is easy. First, open your FTP program and then navigate to the root folder of you WordPress install.</description>
     </item>
     
     <item>
-      <title>Going Mobile &amp;#8211; I&amp;#8217;m in your face &amp;#8211; I&amp;#8217;m in your phone.</title>
+      <title>Going Mobile - I&#39;m in your face - I&#39;m in your phone.</title>
       <link>http://damien.co/mobile-marketing/going-mobile-im-in-your-face-im-in-your-phone-2953/</link>
       <pubDate>Sun, 01 May 2011 13:24:41 +0000</pubDate>
       
       <guid>http://damien.co/mobile-marketing/going-mobile-im-in-your-face-im-in-your-phone-2953/</guid>
-      <description>Mobilising your web content and cross channel integrated marketing may sound like just a bunch of buzzwords to boost my SEO. But it’s not. So I’m helping you to understand the latest in mobile marketing, tools &amp;amp; techniques.
-You can now visit http://damien.mobi from your smartphone and have the best experience a mobile can get. If you’re a fan of the iPad then you can also save this as a web app on your phone.</description>
+      <description>Mobilising your web content and cross channel integrated marketing may sound like just a bunch of buzzwords to boost my SEO. But it&amp;rsquo;s not. So I&amp;rsquo;m helping you to understand the latest in mobile marketing, tools &amp;amp; techniques.
+You can now visit http://damien.mobi from your smartphone and have the best experience a mobile can get. If you&amp;rsquo;re a fan of the iPad then you can also save this as a web app on your phone.</description>
     </item>
     
     <item>
@@ -329,8 +329,8 @@ You can now visit http://damien.mobi from your smartphone and have the best expe
       <pubDate>Sun, 24 Apr 2011 12:28:13 +0000</pubDate>
       
       <guid>http://damien.co/wordpress/switching-to-scrivener-for-wordpress-blogging-2901/</guid>
-      <description>I’ve just made the switch – or as we speak, I’m starting to learn about this ‘new’ tool for writers called Scrivener. Described as the app for writers, journalists and anyone that needs to write short or long stories, Scrivener collects together scraps of articles, research material and helps to draft your writing.
-To me, the biggest problem with regular blogging is the interface. If you blog on the go then you already know that the WordPress admin suite is not very accessible when you’re in a plane, train or automobile.</description>
+      <description>I&amp;rsquo;ve just made the switch - or as we speak, I&amp;rsquo;m starting to learn about this &amp;lsquo;new&amp;rsquo; tool for writers called Scrivener. Described as the app for writers, journalists and anyone that needs to write short or long stories, Scrivener collects together scraps of articles, research material and helps to draft your writing.
+To me, the biggest problem with regular blogging is the interface. If you blog on the go then you already know that the WordPress admin suite is not very accessible when you&amp;rsquo;re in a plane, train or automobile.</description>
     </item>
     
     <item>
@@ -339,18 +339,18 @@ To me, the biggest problem with regular blogging is the interface. If you blog o
       <pubDate>Sat, 23 Apr 2011 22:11:45 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-04-23-6-magazine-wordpress-themes-special-from-woothemes-get-it-before-easters-over/</guid>
-      <description>Here is a special offer on WordPress themes you can’t beat – Woothemes is offering 5 for the price of 1 this Easter long weekend.
-To make it even more generous – I’m selecting 6 themes for you to make your decision even easier. One of these a is a great free WordPress theme suited for any blogger
-Woothemes could be one of the best WordPress theme clubs – or it could be a great bunch of committed WordPress designers.</description>
+      <description>Here is a special offer on WordPress themes you can&amp;rsquo;t beat - Woothemes is offering 5 for the price of 1 this Easter long weekend.
+To make it even more generous - I&amp;rsquo;m selecting 6 themes for you to make your decision even easier. One of these a is a great free WordPress theme suited for any blogger
+Woothemes could be one of the best WordPress theme clubs - or it could be a great bunch of committed WordPress designers.</description>
     </item>
     
     <item>
-      <title>WordPress Catchable Fatal Error &amp;#8211; resolved</title>
+      <title>WordPress Catchable Fatal Error - resolved</title>
       <link>http://damien.co/blog/wordpress-catchable-fatal-error-2751/</link>
       <pubDate>Sat, 19 Feb 2011 18:38:30 +0000</pubDate>
       
       <guid>http://damien.co/blog/wordpress-catchable-fatal-error-2751/</guid>
-      <description>If you’re reading this you would have noticed I’m having problems with my WordPress and I had a Catchable Fatal Error. It’s now on the path to recovery. The issue has been rectified – but not resolved. The problem started after I relied too much on Softaculous which is used by my hosting provider to update all my WordPress sites.
+      <description>If you&amp;rsquo;re reading this you would have noticed I&amp;rsquo;m having problems with my WordPress and I had a Catchable Fatal Error. It&amp;rsquo;s now on the path to recovery. The issue has been rectified - but not resolved. The problem started after I relied too much on Softaculous which is used by my hosting provider to update all my WordPress sites.
 So always keep a backup and a backup of that backup … it makes life easier to recover from.</description>
     </item>
     
@@ -360,8 +360,8 @@ So always keep a backup and a backup of that backup … it makes life easier to 
       <pubDate>Sat, 01 Jan 2011 10:19:27 +0000</pubDate>
       
       <guid>http://damien.co/blog/welcome-2011-time-for-a-spring-clean-2428/</guid>
-      <description>Hello 2011 — long may you last! If you’re new to my site … then Hello to you too. It’s time for a spring clean and over the next few days, I’ll be tearing everything apart on the website.
-In the first stage, I have taken down the old WordPress website and replaced it with a WordPress Network or Multisite – which means I can make a network of blogs or websites … or more likely microsites for social media marketing campaigns and promotions.</description>
+      <description>Hello 2011 — long may you last! If you&amp;rsquo;re new to my site … then Hello to you too. It&amp;rsquo;s time for a spring clean and over the next few days, I&amp;rsquo;ll be tearing everything apart on the website.
+In the first stage, I have taken down the old WordPress website and replaced it with a WordPress Network or Multisite - which means I can make a network of blogs or websites … or more likely microsites for social media marketing campaigns and promotions.</description>
     </item>
     
     <item>
@@ -382,18 +382,18 @@ This was the first update in nearly 6 months so it was a surprise that barely a 
       <pubDate>Tue, 28 Dec 2010 10:16:17 +0000</pubDate>
       
       <guid>http://damien.co/wordpress/cleanadmin-just-the-best-wordpress-plugin-by-a-mile-2368/</guid>
-      <description>CleanAdmin delivers a much need style change to your WordPress admin section. WordPress is (just about) the world’s favourite blog and web publishing platform, yet changes to the overall design and usability have been ignored in favour of delivering new tools and functions for bloggers and blog readers.
+      <description>CleanAdmin delivers a much need style change to your WordPress admin section. WordPress is (just about) the world&amp;rsquo;s favourite blog and web publishing platform, yet changes to the overall design and usability have been ignored in favour of delivering new tools and functions for bloggers and blog readers.
 Freshen your WordPress look n feel with just one plugin Enter CleanAdmin the plugin to clean up the backend of WordPress. Ironically, this plugin is just like changing a theme.</description>
     </item>
     
     <item>
-      <title>WordPress Theme &amp;#8211; Continuum via Woothemes</title>
+      <title>WordPress Theme - Continuum via Woothemes</title>
       <link>http://damien.co/wordpress/wordpress-theme-continuum-via-woothemes-1762/</link>
       <pubDate>Sat, 30 Oct 2010 08:30:29 +0000</pubDate>
       
       <guid>http://damien.co/wordpress/wordpress-theme-continuum-via-woothemes-1762/</guid>
       <description>Some days I think a spring cleanis just as good for you as taking a holiday. Out with the old and give yourself some more space to create a mess.
-Take for example this website – its built using WordPress and being very critical about the quality of my work or ‘portfolio’, I always want to be tweaking and changing my website and lookg at ways to make things better. So thankfully, today Woothemes(who I use with all my projects) came out with a new magazine layout that I’ve installed already.</description>
+Take for example this website - its built using WordPress and being very critical about the quality of my work or &amp;lsquo;portfolio&amp;rsquo;, I always want to be tweaking and changing my website and lookg at ways to make things better. So thankfully, today Woothemes(who I use with all my projects) came out with a new magazine layout that I&amp;rsquo;ve installed already.</description>
     </item>
     
     <item>
@@ -402,7 +402,7 @@ Take for example this website – its built using WordPress and being very criti
       <pubDate>Mon, 26 Jul 2010 16:00:27 +0000</pubDate>
       
       <guid>http://damien.co/blog/2010-07-26-how-to-view-your-wordpress-website-on-iphone-or-android/</guid>
-      <description>WordPressis a very comprehensive all-round tool for websites – and its not just for blogs. If you’re starting out with WordPress and need your site to look smooth on a mobile phone like the iPhone or any big screen Androidmobile then you’ll need a plugin for this.The best plugin for WordPress that handles any mobile device is easily WPtouch iPhone Theme. Once the plugin is installed and activated its working for you straight away.</description>
+      <description>WordPressis a very comprehensive all-round tool for websites - and its not just for blogs. If you&amp;rsquo;re starting out with WordPress and need your site to look smooth on a mobile phone like the iPhone or any big screen Androidmobile then you&amp;rsquo;ll need a plugin for this.The best plugin for WordPress that handles any mobile device is easily WPtouch iPhone Theme. Once the plugin is installed and activated its working for you straight away.</description>
     </item>
     
     <item>
@@ -411,10 +411,10 @@ Take for example this website – its built using WordPress and being very criti
       <pubDate>Tue, 15 Jun 2010 09:00:44 +0000</pubDate>
       
       <guid>http://damien.co/blog/2010-06-15-startup-guide-to-building-a-website-with-wordpress/</guid>
-      <description>So your new business needs a website – and someone told you to build it using WordPress. Cool .. this collection of resources on WordPress for your new venture will help you:
-How to migrate your website to WordPress– from experience and using a real life case study
-9 essential plugins for WordPress– here’s my recommendations on WordPress plugins to get you started.
-How to make a landing page template in WordPress– landing pages or static pages are great to promote a new product or service and its easy to add a landing page to WordPress</description>
+      <description>So your new business needs a website - and someone told you to build it using WordPress. Cool .. this collection of resources on WordPress for your new venture will help you:
+How to migrate your website to WordPress- from experience and using a real life case study
+9 essential plugins for WordPress- here&amp;rsquo;s my recommendations on WordPress plugins to get you started.
+How to make a landing page template in WordPress- landing pages or static pages are great to promote a new product or service and its easy to add a landing page to WordPress</description>
     </item>
     
     <item>
@@ -424,7 +424,7 @@ How to make a landing page template in WordPress– landing pages or static page
       
       <guid>http://damien.co/blog/2010-03-14-wordpress-use-a-custom-design-for-landing-pages/</guid>
       <description>WordPress may just be one ofthe best solution for building a web and mobile site. One feature is that a user can create static pages that integrate or fit in with the theme of the site. Here is the easy and quick solution for how to create a custom template and have a fresh new look for landing pages or static pages.
-In fact WordPress has a lot of features that make it easy to use as a CMS – content management system and static pages are important.</description>
+In fact WordPress has a lot of features that make it easy to use as a CMS - content management system and static pages are important.</description>
     </item>
     
     <item>
@@ -433,7 +433,7 @@ In fact WordPress has a lot of features that make it easy to use as a CMS – co
       <pubDate>Mon, 08 Mar 2010 22:54:54 +0000</pubDate>
       
       <guid>http://damien.co/blog/2010-03-08-migrating-your-company-website-to-wordpress-self-hosted-2/</guid>
-      <description>WordPressis one of the most popular solutions for blogging. What people don’t know is that WordPress self hosted is the best solution for building a standalone SOHO / SME company website. We recently finished the migration of the mmCHANNEL company websitefrom an in-house developed website (using PHP, etc) to single install, self hosted WordPress installaton.There has been some times when I felt that maybe WordPress wasn’t right, but overall it’s going great and the results are visible!</description>
+      <description>WordPressis one of the most popular solutions for blogging. What people don&amp;rsquo;t know is that WordPress self hosted is the best solution for building a standalone SOHO / SME company website. We recently finished the migration of the mmCHANNEL company websitefrom an in-house developed website (using PHP, etc) to single install, self hosted WordPress installaton.There has been some times when I felt that maybe WordPress wasn&amp;rsquo;t right, but overall it&amp;rsquo;s going great and the results are visible!</description>
     </item>
     
     <item>
@@ -442,7 +442,7 @@ In fact WordPress has a lot of features that make it easy to use as a CMS – co
       <pubDate>Mon, 08 Mar 2010 21:07:41 +0000</pubDate>
       
       <guid>http://damien.co/blog/2010-03-08-wordpress-top-9-plugins-for-any-new-install/</guid>
-      <description>WordPress provides a great tool to build and run your own website – it has 1000’s of plugins that add functionality to your website. Here then is a short list of essential plugins to get you started.Akismet Akismet is included in every installation of WordPress and so it make it one of the most popular plugins. There are better spam protectors, this doesn’t stop spam comments. You need a wordpress.com user name so that the plugin can sync over the internet.</description>
+      <description>WordPress provides a great tool to build and run your own website - it has 1000&amp;rsquo;s of plugins that add functionality to your website. Here then is a short list of essential plugins to get you started.Akismet Akismet is included in every installation of WordPress and so it make it one of the most popular plugins. There are better spam protectors, this doesn&amp;rsquo;t stop spam comments. You need a wordpress.com user name so that the plugin can sync over the internet.</description>
     </item>
     
     <item>
@@ -453,7 +453,7 @@ In fact WordPress has a lot of features that make it easy to use as a CMS – co
       <guid>http://damien.co/blog/2010-01-19-how-to-not-impact-your-seo-and-website-traffic-when-changing-wordpress-permalinks/</guid>
       <description>Having made some changes to your wordpress permalinks, you can easily protect your web site traffic, SEO and search results from Google. This means you and your visitors get no 404 not found error.
 This wordpress plug-in looks at the incoming link URL structure and then redirects on the fly to the correct post with the new permalink structure.
-This didn’t make my list of Top 9 WordPress pluginsfor a new install – but if you are migrating a website this is critical.</description>
+This didn&amp;rsquo;t make my list of Top 9 WordPress pluginsfor a new install - but if you are migrating a website this is critical.</description>
     </item>
     
   </channel>

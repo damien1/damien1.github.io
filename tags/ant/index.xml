@@ -18,8 +18,8 @@
       
       <guid>http://damien.co/blog/2013-04-30-introducing-empty-apache-ant-build-for-wordpress/</guid>
       <description>Welcome and say hello to empty. empty is a bunch of ANT Build Tasks for WordPress plugin developers that help automate the build thanks to Apache Ant.
-Why ANT not PHING? Go ask Google that … there are plenty of conversations elsewhere on ANT vs PHING. It’s really a personal choice.
-Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular tool, free and widely used. It’s commonly used for Java but can fit in with other code and projects.</description>
+Why ANT not PHING? Go ask Google that … there are plenty of conversations elsewhere on ANT vs PHING. It&amp;rsquo;s really a personal choice.
+Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular tool, free and widely used. It&amp;rsquo;s commonly used for Java but can fit in with other code and projects.</description>
     </item>
     
     <item>
@@ -28,7 +28,7 @@ Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular 
       <pubDate>Sun, 07 Apr 2013 21:08:35 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</guid>
-      <description>I’m no regular WordPress Plugin Developer – I spend most of my day managing projects or other stuff. So when I do develop, I want a trusted, reliable, repeatable workflow setup that is always testing, always building and always telling me whats going on. That’s why I believe in Continuous Integration … and why I’ve turned to Jenkins as my CI Tool and use Apache Ant and Selenium for testing. A bit of background on Continuous Integration and Tools Continuous Integration Continuous Integration is a fundamentally different approach to software development where the project team work to continuously test as you build software.</description>
+      <description>I&amp;rsquo;m no regular WordPress Plugin Developer - I spend most of my day managing projects or other stuff. So when I do develop, I want a trusted, reliable, repeatable workflow setup that is always testing, always building and always telling me whats going on. That&amp;rsquo;s why I believe in Continuous Integration … and why I&amp;rsquo;ve turned to Jenkins as my CI Tool and use Apache Ant and Selenium for testing. A bit of background on Continuous Integration and Tools Continuous Integration Continuous Integration is a fundamentally different approach to software development where the project team work to continuously test as you build software.</description>
     </item>
     
   </channel>

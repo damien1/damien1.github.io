@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 12 May 2020 22:10:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://damien.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DBC Backup</title>
+      <link>http://damien.co/tags/dbc-backup/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/dbc-backup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DBC Backup 2</title>
+      <link>http://damien.co/tags/dbc-backup-2/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/dbc-backup-2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PR</title>
@@ -129,15 +147,6 @@
     </item>
     
     <item>
-      <title>DBC Backup</title>
-      <link>http://damien.co/tags/dbc-backup/</link>
-      <pubDate>Wed, 05 Mar 2014 13:18:37 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/dbc-backup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Isotope</title>
       <link>http://damien.co/tags/isotope/</link>
       <pubDate>Tue, 04 Mar 2014 22:11:44 +0000</pubDate>
@@ -188,15 +197,6 @@
       <pubDate>Sat, 18 Jan 2014 23:36:48 +0000</pubDate>
       
       <guid>http://damien.co/tags/settings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DBC Backup 2</title>
-      <link>http://damien.co/tags/dbc-backup-2/</link>
-      <pubDate>Sun, 05 Jan 2014 16:08:07 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/dbc-backup-2/</guid>
       <description></description>
     </item>
     
@@ -1250,24 +1250,6 @@
       <pubDate>Mon, 27 Aug 2012 15:34:23 +0000</pubDate>
       
       <guid>http://damien.co/tags/popular-posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Error</title>
-      <link>http://damien.co/tags/error/</link>
-      <pubDate>Mon, 30 Jul 2012 15:00:18 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/error/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fatal</title>
-      <link>http://damien.co/tags/fatal/</link>
-      <pubDate>Mon, 30 Jul 2012 15:00:18 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/fatal/</guid>
       <description></description>
     </item>
     
@@ -2726,15 +2708,6 @@
       <pubDate>Mon, 13 Jun 2011 17:50:46 +0000</pubDate>
       
       <guid>http://damien.co/tags/social-crm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mobile web</title>
-      <link>http://damien.co/tags/mobile-web/</link>
-      <pubDate>Fri, 10 Jun 2011 11:05:00 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/mobile-web/</guid>
       <description></description>
     </item>
     
@@ -4908,24 +4881,6 @@
     </item>
     
     <item>
-      <title>tinyxp</title>
-      <link>http://damien.co/tags/tinyxp/</link>
-      <pubDate>Fri, 10 Apr 2009 23:50:53 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/tinyxp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>winxp</title>
-      <link>http://damien.co/tags/winxp/</link>
-      <pubDate>Fri, 10 Apr 2009 23:50:53 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/winxp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Datz</title>
       <link>http://damien.co/tags/datz/</link>
       <pubDate>Fri, 31 Oct 2008 10:36:36 +0000</pubDate>
@@ -5102,6 +5057,24 @@
       <pubDate>Fri, 14 Oct 2005 11:57:00 +0000</pubDate>
       
       <guid>http://damien.co/tags/prague/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tinyxp</title>
+      <link>http://damien.co/tags/tinyxp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/tinyxp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>winxp</title>
+      <link>http://damien.co/tags/winxp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/winxp/</guid>
       <description></description>
     </item>
     

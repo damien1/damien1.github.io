@@ -11,7 +11,7 @@
   <!-- Mobile Specific Metas -->
   <meta name="format-detection" content="telephone=no">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>How to fix your WordPress when read / write doesn&amp;#8217;t work</title>
+  <title>How to fix your WordPress when read / write doesn&#39;t work</title>
   <link rel="icon" href="http://damien.co/images/favicon.ico">
 
   <!-- Twitter Bootstrs CSS -->
@@ -66,7 +66,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="block">
-                    <h2>How to fix your WordPress when read / write doesn&amp;#8217;t work</h2>
+                    <h2>How to fix your WordPress when read / write doesn&#39;t work</h2>
                     <div class="portfolio-meta">
                         <span>Friday, Apr 27, 2012</span>|
                         <span> Tags:
@@ -85,15 +85,15 @@
             <div class="col-md-12">
                 
                 <div class="post-content">
-                    <p>Do you have problems with <em>read / write permissions</em> with <strong>WordPress</strong>? Are you stuck and can’t upload or change files? If you’ve tried to change the <strong>CHMOD</strong> values and failed, it might be time to go to the <strong>command-line</strong>.</p>
-<h2 id="working-alone-8211-single-wordpress-site">Working Alone – Single WordPress site</h2>
+                    <p>Do you have problems with <em>read / write permissions</em> with <strong>WordPress</strong>? Are you stuck and can&rsquo;t upload or change files? If you&rsquo;ve tried to change the <strong>CHMOD</strong> values and failed, it might be time to go to the <strong>command-line</strong>.</p>
+<h2 id="working-alone---single-wordpress-site">Working Alone - Single WordPress site</h2>
 <p>Run these commands from terminal (command line interface) or ask your web host provider to do this. This will set all files to read/write for the owner and read only for everything else.</p>
 <p>[php]<br>
 sudo find . -type d -exec chmod 755 {} ;</p>
 <p>sudo find . -type f -exec chmod 644 {} ;<br>
 [/php]</p>
 <p>Run this from inside your WordPress wp-content folder as the . means it will run in on every folder or sub-folder from that . (point).</p>
-<h2 id="working-as-part-of-a-team-8211-shared-readwritepermissions">Working as part of a team – Shared Read/WritePermissions</h2>
+<h2 id="working-as-part-of-a-team---shared-readwritepermissions">Working as part of a team - Shared Read/WritePermissions</h2>
 <p>So that your fellow developers can always help you out it makes sense to have files and folders as group-writable.</p>
 <p>Run these commands from terminal (command line interface) or ask your web host provider to do this.</p>
 <p>[php]<br>
@@ -101,9 +101,9 @@ sudo find . -type d -exec chmod 775 {} ;</p>
 <p>sudo find . -type f -exec chmod 664 {} ;<br>
 [/php]</p>
 <p>Now all you have to do is make sure your team and Apache are all members of the same Server Group.</p>
-<p>If you’re trying to update other peoples files you’ll want to run them as Sudo</p>
+<p>If you&rsquo;re trying to update other peoples files you&rsquo;ll want to run them as Sudo</p>
 <h3 id="links">Links</h3>
-<p><!-- raw HTML omitted -->WordPress.org – Changing File Permissions<!-- raw HTML omitted --></p>
+<p><!-- raw HTML omitted -->WordPress.org - Changing File Permissions<!-- raw HTML omitted --></p>
 
                 </div>
             </div>

@@ -6,10 +6,37 @@
     <description>Recent content in Categories on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 11 May 2020 23:02:24 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://damien.co/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>WordPress</title>
+      <link>http://damien.co/categories/wordpress/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WordPress Plugin</title>
+      <link>http://damien.co/categories/wordpress-plugin/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/wordpress-plugin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WordPress Plugins</title>
+      <link>http://damien.co/categories/wordpress-plugins/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/wordpress-plugins/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>General</title>
@@ -62,33 +89,6 @@
       <pubDate>Fri, 11 Apr 2014 13:53:26 +0000</pubDate>
       
       <guid>http://damien.co/categories/website/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WordPress</title>
-      <link>http://damien.co/categories/wordpress/</link>
-      <pubDate>Wed, 05 Mar 2014 13:18:37 +0000</pubDate>
-      
-      <guid>http://damien.co/categories/wordpress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WordPress Plugin</title>
-      <link>http://damien.co/categories/wordpress-plugin/</link>
-      <pubDate>Wed, 05 Mar 2014 13:18:37 +0000</pubDate>
-      
-      <guid>http://damien.co/categories/wordpress-plugin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WordPress Plugins</title>
-      <link>http://damien.co/categories/wordpress-plugins/</link>
-      <pubDate>Tue, 04 Mar 2014 22:11:44 +0000</pubDate>
-      
-      <guid>http://damien.co/categories/wordpress-plugins/</guid>
       <description></description>
     </item>
     
@@ -356,7 +356,7 @@
     <item>
       <title>News Releases</title>
       <link>http://damien.co/categories/news-releases/</link>
-      <pubDate>Thu, 05 May 2011 21:44:00 +0000</pubDate>
+      <pubDate>Sun, 01 May 2011 09:44:00 +0000</pubDate>
       
       <guid>http://damien.co/categories/news-releases/</guid>
       <description></description>
@@ -386,6 +386,15 @@
       <pubDate>Sun, 13 Jun 2010 18:18:10 +0000</pubDate>
       
       <guid>http://damien.co/categories/london-startup-weekend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Experience</title>
+      <link>http://damien.co/categories/user-experience/</link>
+      <pubDate>Wed, 30 Sep 2009 13:48:49 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/user-experience/</guid>
       <description></description>
     </item>
     

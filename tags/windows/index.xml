@@ -17,19 +17,19 @@
       <pubDate>Tue, 29 Sep 2009 15:18:03 +0000</pubDate>
       
       <guid>http://damien.co/general/tip-of-the-day-windows-vista-sp2-wont-install-on-a-partitioned-drive-320/</guid>
-      <description>Tip of the day: Windows Vista clean install doesn’t work on a partitioned drive AND if you then partition the drive after installing Vista, the SP2 will not install as well.
-Effectively this means you should keep your primary drive as 1 partition … or wait til after you’ve installed Vista and all the service packs.
+      <description>Tip of the day: Windows Vista clean install doesn&amp;rsquo;t work on a partitioned drive AND if you then partition the drive after installing Vista, the SP2 will not install as well.
+Effectively this means you should keep your primary drive as 1 partition … or wait til after you&amp;rsquo;ve installed Vista and all the service packs.
 There is a short microsoft kb on this ….
 Will this affect installing Windows 7 for the same reason … I think so.</description>
     </item>
     
     <item>
-      <title>Mac OSx Convert &amp;#8211; Office tip move between documents</title>
+      <title>Mac OSx Convert - Office tip move between documents</title>
       <link>http://damien.co/general/mac-osx-convert-office-tip-move-between-documents-308/</link>
       <pubDate>Wed, 23 Sep 2009 23:47:29 +0000</pubDate>
       
       <guid>http://damien.co/general/mac-osx-convert-office-tip-move-between-documents-308/</guid>
-      <description>Here’s a quick one for you … how do you switch between a number of open documents in Word or Excel?
+      <description>Here&amp;rsquo;s a quick one for you … how do you switch between a number of open documents in Word or Excel?
 The quick Mac way is CMD + `
 The Windows Office way was Pressing F6
 If you still want to do this … on the Mac then you have to press FN + Shift + F6</description>
@@ -42,18 +42,8 @@ If you still want to do this … on the Mac then you have to press FN + Shift + 
       
       <guid>http://damien.co/general/virtualbox-3-0-4-mac-osx-how-to-share-folders-274/</guid>
       <description>Virtualbox 3.0.4 is a new update released earlier this month. After updating to this new version file sharing between mac os and the guest windows vista has stopped working.
-Something wonderful has happened and there is a new feature that has been added … Under the Devices Menu there is a new entry for “Sharing Folders” – you can now create shared folders in realtime
+Something wonderful has happened and there is a new feature that has been added … Under the Devices Menu there is a new entry for “Sharing Folders” - you can now create shared folders in realtime
 However to make the shared folders work you still must use the old method of mapping a network drive and remember to type your shared folder name as</description>
-    </item>
-    
-    <item>
-      <title>HOW TO install Virtualbox on Mac osx host &amp;amp; WinXp guest using TinyXP rev 09</title>
-      <link>http://damien.co/blog/2009-04-10-how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09/</link>
-      <pubDate>Fri, 10 Apr 2009 23:50:53 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2009-04-10-how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09/</guid>
-      <description>Virtualbox is a dream freeware solution for anyone – novice to geek – who wants to run different computers inside their computer … virtual so to speak. Today I’ve been tinkering with getting Virtualbox working on a Mac laptop running WinXP.
-Virtualbox from Oracle Sunis a freeware, open source virtualisation application .. it comes in a number of flavours – I’ve previously used it to run WinXP guests inside WinXP hosts for testing and at work it was the only way to install things without having to go to the IT helpdesk.</description>
     </item>
     
     <item>
@@ -72,10 +62,21 @@ The Amarok 1 client which most Linux users had to use (it was the best option) r
       <pubDate>Sun, 03 Aug 2008 20:18:39 +0000</pubDate>
       
       <guid>http://damien.co/general/whats-your-media-player-88/</guid>
-      <description>I’m starting a reader survey on Media Players – as there are a few assumptions I wanted to prove or understand.
+      <description>I&amp;rsquo;m starting a reader survey on Media Players - as there are a few assumptions I wanted to prove or understand.
   If you have an iPod, iPhone or iTouch you use iTunes
-  You use Winamp casue you don’t want to use iTunes or WMP
+  You use Winamp casue you don&amp;rsquo;t want to use iTunes or WMP
   you use windows media player as its the only thing you know or its the only one on your PC / Laptop</description>
+    </item>
+    
+    <item>
+      <title>HOW TO install Virtualbox on Mac osx host &amp;amp; WinXp guest using TinyXP rev</title>
+      <link>http://damien.co/blog/2009-04-10-how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2009-04-10-how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09/</guid>
+      <description>Virtualbox is a dream freeware solution for anyone - novice to geek - who wants to run different computers inside their computer - virtual so to speak. Today I&amp;rsquo;ve been tinkering with getting Virtualbox working on a Mac laptop running WinXP.
+this is a very old post whats contained below has not been checked since 2012
+Virtualbox from Oracle Sunis a freeware, open source virtualisation application .. it comes in a number of flavours - I&amp;rsquo;ve previously used it to run WinXP guests inside WinXP hosts for testing and at work it was the only way to install things without having to go to the IT helpdesk.</description>
     </item>
     
   </channel>

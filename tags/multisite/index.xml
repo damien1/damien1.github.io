@@ -12,13 +12,13 @@
     
     
     <item>
-      <title>HOW TO Get Started with WordPress Multisite &amp;#8211; build it in 5 minutes</title>
+      <title>HOW TO Get Started with WordPress Multisite - build it in 5 minutes</title>
       <link>http://damien.co/blog/2013-04-29-get-started-with-wordpress-multisite-build-it-in-5-minutes/</link>
       <pubDate>Mon, 29 Apr 2013 12:00:56 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-29-get-started-with-wordpress-multisite-build-it-in-5-minutes/</guid>
-      <description>WordPress Multisite or WordPress Network or WPMU – any of these refer to WordPress when it has been setup as a network of blogs or websites.
-I&amp;rsquo;ve been using WordPress Multisite for about 3 years now – many more famous WordPress people have written about setting up WordPress Multisite, but this is my take on it.
+      <description>WordPress Multisite or WordPress Network or WPMU - any of these refer to WordPress when it has been setup as a network of blogs or websites.
+I&amp;rsquo;ve been using WordPress Multisite for about 3 years now - many more famous WordPress people have written about setting up WordPress Multisite, but this is my take on it.
 I want to show you that it is easy to get started with WordPress Multisite in fact you can have your network of WordPress sites up in under 5 minutes (supposing you already have WordPress installed).</description>
     </item>
     
@@ -28,8 +28,8 @@ I want to show you that it is easy to get started with WordPress Multisite in fa
       <pubDate>Tue, 17 Jul 2012 11:41:36 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-07-17-pros-and-cons-of-post-types-vs-multiple-blogs/</guid>
-      <description>WordPress is a flexible solution for web publishing. Post Formats were introduced a couple of years back to help users and developers to create content in one WYSIWYG Editorbut show it differently on the site. I’ll start by saying that there is quite a bit of press about why there is a general lack of support by theme developers for post formats(see one example below).
-– If you have a theme which doesn’t support post formats (most don’t) then you can’t start this way.</description>
+      <description>WordPress is a flexible solution for web publishing. Post Formats were introduced a couple of years back to help users and developers to create content in one WYSIWYG Editorbut show it differently on the site. I&amp;rsquo;ll start by saying that there is quite a bit of press about why there is a general lack of support by theme developers for post formats(see one example below).
+  If you have a theme which doesn&amp;rsquo;t support post formats (most don&amp;rsquo;t) then you can&amp;rsquo;t start this way.</description>
     </item>
     
     <item>
@@ -38,8 +38,8 @@ I want to show you that it is easy to get started with WordPress Multisite in fa
       <pubDate>Fri, 18 May 2012 15:33:31 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-05-18-change-your-wordpress-multi-site-domain-url/</guid>
-      <description>I’ve just finished changing my domain name URL for my WordPress multisite. After running WordPress as a network for nearly 2 years and managing a number of other WordPress sites, domain changes should be easy to do (but over time things get more complicated).
-WordPress multisite adds a layer of complications – if you just want to update the domain URL for one of your blogs, then check out Domain Mapping plugins.</description>
+      <description>I&amp;rsquo;ve just finished changing my domain name URL for my WordPress multisite. After running WordPress as a network for nearly 2 years and managing a number of other WordPress sites, domain changes should be easy to do (but over time things get more complicated).
+WordPress multisite adds a layer of complications - if you just want to update the domain URL for one of your blogs, then check out Domain Mapping plugins.</description>
     </item>
     
   </channel>

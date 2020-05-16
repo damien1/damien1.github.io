@@ -94,7 +94,7 @@
 <h2 id="how-to-enable-maintenance-mode-without-a-plugin---method-1">How to Enable Maintenance Mode without a Plugin - method 1</h2>
 <p>Activating maintenance mode without a plugin is easy. First, open your FTP program and then navigate to the root folder of you WordPress install.</p>
 <p>Then create a new file and change the name to .maintenance - WordPress looks for this file and automatically maintenance mode has been turned on.</p>
-<p>Once you’re done, you just need to rename or delete the .maintenance file</p>
+<p>Once you&rsquo;re done, you just need to rename or delete the .maintenance file</p>
 <h2 id="enable-maintenance-mode--allow-access-to-wp-admin---method-2">Enable Maintenance mode &amp; allow access to WP-Admin - method 2</h2>
 <p>The preferred option for maintenance is a bit more graceful. Any visitors to your site will see a short message and any logged in or Admin users will still have access.</p>
 <p>This is probably the best solution - giving the most control to you the web developer.</p>
@@ -102,12 +102,12 @@
 <pre><code class="language-<?php" data-lang="<?php">function is\_user\_logged_in() {
 $loggedin = false;
 foreach ( (array) $_COOKIE as $cookie =&gt; $value ) {
-if ( stristr($cookie, &amp;#8216;wordpress\_logged\_in_&amp;#8217;) )
+if ( stristr($cookie, 'wordpress\_logged\_in_') )
 $loggedin = true;
 }
 return $loggedin;
 }
-if ( ! stristr($\_SERVER[&amp;#8216;REQUEST\_URI&amp;#8217;], &amp;#8216;/wp-admin&amp;#8217;) &amp;&amp; ! stristr($\_SERVER[&amp;#8216;REQUEST\_URI&amp;#8217;], &amp;#8216;/wp-login.php&amp;#8217;) &amp;&amp; ! is\_user\_logged_in() )
+if ( ! stristr($\_SERVER['REQUEST\_URI'], '/wp-admin') &amp;&amp; ! stristr($\_SERVER['REQUEST\_URI'], '/wp-login.php') &amp;&amp; ! is\_user\_logged_in() )
 $upgrading = time();
 ?&gt;
 </code></pre><p>Then just save the file and rename it to  .maintenance as and when you need it.  You&rsquo;ll have a great tool now that can protect your website while you tinker under the hood.</p>

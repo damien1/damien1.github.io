@@ -32,8 +32,8 @@ sudo launchctl unload -w /System/Library/LaunchDaemons/org.apache.httpd.plist</d
       
       <guid>http://damien.co/blog/2013-04-30-introducing-empty-apache-ant-build-for-wordpress/</guid>
       <description>Welcome and say hello to empty. empty is a bunch of ANT Build Tasks for WordPress plugin developers that help automate the build thanks to Apache Ant.
-Why ANT not PHING? Go ask Google that … there are plenty of conversations elsewhere on ANT vs PHING. It’s really a personal choice.
-Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular tool, free and widely used. It’s commonly used for Java but can fit in with other code and projects.</description>
+Why ANT not PHING? Go ask Google that … there are plenty of conversations elsewhere on ANT vs PHING. It&amp;rsquo;s really a personal choice.
+Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular tool, free and widely used. It&amp;rsquo;s commonly used for Java but can fit in with other code and projects.</description>
     </item>
     
     <item>
@@ -42,7 +42,7 @@ Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular 
       <pubDate>Sun, 21 Apr 2013 16:03:10 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-21-mac-osx-replacing-mamp-install-and-configure-mysql-php-apache/</guid>
-      <description>MAMP (Mac, Apache, MySQL, PHP) is the first go to solution for anyone developing anything web based on your Mac. Even more so as Apple removed the easy controls to enable ‘web sharing‘ as it was called in 10.8 Mountain Lion. I had wanted to use WP-CLI - which is a set of command line tools for WordPress, only that they don&amp;rsquo;t install / like MAMP. Which means, now is the time to replace MAMP with my own stack.</description>
+      <description>MAMP (Mac, Apache, MySQL, PHP) is the first go to solution for anyone developing anything web based on your Mac. Even more so as Apple removed the easy controls to enable &amp;lsquo;web sharing&amp;rsquo; as it was called in 10.8 Mountain Lion. I had wanted to use WP-CLI - which is a set of command line tools for WordPress, only that they don&amp;rsquo;t install / like MAMP. Which means, now is the time to replace MAMP with my own stack.</description>
     </item>
     
     <item>
@@ -51,7 +51,7 @@ Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular 
       <pubDate>Sun, 07 Apr 2013 21:08:35 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</guid>
-      <description>I’m no regular WordPress Plugin Developer – I spend most of my day managing projects or other stuff. So when I do develop, I want a trusted, reliable, repeatable workflow setup that is always testing, always building and always telling me whats going on. That’s why I believe in Continuous Integration … and why I’ve turned to Jenkins as my CI Tool and use Apache Ant and Selenium for testing. A bit of background on Continuous Integration and Tools Continuous Integration Continuous Integration is a fundamentally different approach to software development where the project team work to continuously test as you build software.</description>
+      <description>I&amp;rsquo;m no regular WordPress Plugin Developer - I spend most of my day managing projects or other stuff. So when I do develop, I want a trusted, reliable, repeatable workflow setup that is always testing, always building and always telling me whats going on. That&amp;rsquo;s why I believe in Continuous Integration … and why I&amp;rsquo;ve turned to Jenkins as my CI Tool and use Apache Ant and Selenium for testing. A bit of background on Continuous Integration and Tools Continuous Integration Continuous Integration is a fundamentally different approach to software development where the project team work to continuously test as you build software.</description>
     </item>
     
     <item>
@@ -60,7 +60,7 @@ Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular 
       <pubDate>Mon, 23 Jul 2012 15:30:41 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-07-23-how-to-fix-htaccess-permalinks-not-working-in-wordpress/</guid>
-      <description>If you’re setting up WordPress on a new server you may find that your custom permalinks don’t work and worse changes you make to your .htaccess file are ignored or have no effect. It sounds like you need to modify your VHOST configuration file on your web server.
+      <description>If you&amp;rsquo;re setting up WordPress on a new server you may find that your custom permalinks don&amp;rsquo;t work and worse changes you make to your .htaccess file are ignored or have no effect. It sounds like you need to modify your VHOST configuration file on your web server.
 Modify VHOST to AllowOverride By default AllowOverride is disabled, this means .htaccess files and files like php.ini are ignored. Even if you enable mod_rewrite using sudo a2enmod rewrite your .</description>
     </item>
     

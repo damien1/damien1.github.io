@@ -6,10 +6,20 @@
     <description>Recent content in WordPress Plugins on Damien Saunders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 04 Mar 2014 22:11:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://damien.co/categories/wordpress-plugins/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>WordPress Plugin Archive - DBC Backup 2</title>
+      <link>http://damien.co/blog/2020-05-15-wordpress-plugin-archive-dbc-backup-2/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2020-05-15-wordpress-plugin-archive-dbc-backup-2/</guid>
+      <description>DBC Backup 2 was a WordPress plugin to safely back-up your database. I stopped developing it in 2013 primarily due to changes in MySQL and WordPress &amp;hellip; plus there were other free options which had serious developer teams looking after them.
+DBC Backup 2 created its own file and exported this to the users desktop. The original idea was not my own - I took on an &amp;lsquo;orphaned&amp;rsquo; plugin. So it was something of a passion project.</description>
+    </item>
     
     <item>
       <title>Isotope Visual Layouts Pro - caching improvements</title>
@@ -28,7 +38,7 @@ Isotope Visual Layouts Pro will shortly get a version bump and include a Transie
       
       <guid>http://damien.co/blog/2014-02-04-isotope-visual-layouts-lite/</guid>
       <description>Isotope Visual Layouts lite, my free WordPress plugin which adds animated grid layouts to your website has been updated.
-What’s New in Version 3.0  Introduces Metro UI CSS to replace my own custom code Updates Isotope jQuery to latest version  </description>
+What&amp;rsquo;s New in Version 3.0  Introduces Metro UI CSS to replace my own custom code Updates Isotope jQuery to latest version  </description>
     </item>
     
     <item>
@@ -87,10 +97,10 @@ DBC Backup 2 is the WordPress plugin that you want behind the scenes - it safely
       <pubDate>Fri, 09 Aug 2013 23:28:47 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-08-09-isotope-visual-layouts-with-infinite-scroll/</guid>
-      <description>Isotope Visual Layouts Pro is getting an update … and it’s one that a few of you have been asking for.
+      <description>Isotope Visual Layouts Pro is getting an update … and it&amp;rsquo;s one that a few of you have been asking for.
 Isotope Visual Layouts Pro 1.9 is currently in testing and it will include a shortcode for Infinite Scroll.
-I’m also making it safe to use on any page or post so you can really have different layouts (like one with infinite scroll and one with filtrify)
-This will be the ‘last’ update for Isotope Visual Layouts Pro … I’m working on something hotter with sorting and drag n drop.</description>
+I&amp;rsquo;m also making it safe to use on any page or post so you can really have different layouts (like one with infinite scroll and one with filtrify)
+This will be the &amp;lsquo;last&amp;rsquo; update for Isotope Visual Layouts Pro … I&amp;rsquo;m working on something hotter with sorting and drag n drop.</description>
     </item>
     
     <item>
@@ -112,7 +122,7 @@ TESTED - on WordPress 3.6</description>
       
       <guid>http://damien.co/blog/2013-04-13-how-to-disable-jetpack-plugins/</guid>
       <description>Enabling and Disabling Jetpack for WordPress individual plugins presented a bit of a challenge recently. Not having used Jetpack before, I thought it time to try out this collection of plugins developed and maintained by Automattic over the past 4 weeks.
-I’ve discovered that Jetpack is a feature rich collection of plugins but I seriously doubled-up on plugins doing the same job. I didn’t need Google Analytics as well as WordPress Stats.</description>
+I&amp;rsquo;ve discovered that Jetpack is a feature rich collection of plugins but I seriously doubled-up on plugins doing the same job. I didn&amp;rsquo;t need Google Analytics as well as WordPress Stats.</description>
     </item>
     
     <item>
@@ -121,9 +131,9 @@ I’ve discovered that Jetpack is a feature rich collection of plugins but I ser
       <pubDate>Tue, 09 Apr 2013 11:27:00 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-09-visual-layouts-pro/</guid>
-      <description>I’ve just finished work on the first release of my WordPress plugin Visual Layouts Pro — this features the awesome Freetile jQuery plugin for a responsive visual grid layout.
-Visual Layouts Pro, like my other plugins, offers the best features for creating a grid layout framework for your WordPress site – without needing to change your theme!
-Key Features Visual Layouts WordPress plugin  Uses Twitter Bootstrap CSS and grid framework Shortcode for including the excerpt Pagination Works on any post, page or custom post type Options to include featured images – image and text, or text only.</description>
+      <description>I&amp;rsquo;ve just finished work on the first release of my WordPress plugin Visual Layouts Pro — this features the awesome Freetile jQuery plugin for a responsive visual grid layout.
+Visual Layouts Pro, like my other plugins, offers the best features for creating a grid layout framework for your WordPress site - without needing to change your theme!
+Key Features Visual Layouts WordPress plugin  Uses Twitter Bootstrap CSS and grid framework Shortcode for including the excerpt Pagination Works on any post, page or custom post type Options to include featured images - image and text, or text only.</description>
     </item>
     
     <item>
@@ -133,7 +143,7 @@ Key Features Visual Layouts WordPress plugin  Uses Twitter Bootstrap CSS and gri
       
       <guid>http://damien.co/blog/2013-03-07-isotope-visual-layouts-jquery-toggleclass/</guid>
       <description>Isotope Visual Layouts Pro plugin introduces a click to enlarge feature for box items that are part of the grid layout. This uses a cool jQuery element that changes the CSS class and refreshes the layout of the page.
-It took me a bit to learn how to do this – only cause I’m not a frontend developer. But if you’d like to add toggleClass to your Isotope WordPress project, then you might like this.</description>
+It took me a bit to learn how to do this - only cause I&amp;rsquo;m not a frontend developer. But if you&amp;rsquo;d like to add toggleClass to your Isotope WordPress project, then you might like this.</description>
     </item>
     
     <item>
@@ -161,9 +171,9 @@ Key Features of Isotope Visual Layouts for WordPress  Isotope for stunning visua
       <pubDate>Sun, 03 Mar 2013 15:45:46 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-03-03-visual-layouts-for-wordpress-turns-pro-and-gets-twitter-bootstrap/</guid>
-      <description>Visual Layouts is the alternative, responsive, animated, grid layout WordPress plugin. It’s similar to adding isotope and masonry jQuery. Visual Layouts for WordPress is another way that you can change your website without changing your theme.
-Now Visual Layouts is turning Pro and the first feature I’ll show off is integration with Twitter Bootstrap CSS.
-I think that Twitter Bootstrapis an awesome solution for anyone wanting to use good web design concepts – of course, the internet might be pretty ‘bland’ if we all used this framework.</description>
+      <description>Visual Layouts is the alternative, responsive, animated, grid layout WordPress plugin. It&amp;rsquo;s similar to adding isotope and masonry jQuery. Visual Layouts for WordPress is another way that you can change your website without changing your theme.
+Now Visual Layouts is turning Pro and the first feature I&amp;rsquo;ll show off is integration with Twitter Bootstrap CSS.
+I think that Twitter Bootstrapis an awesome solution for anyone wanting to use good web design concepts - of course, the internet might be pretty &amp;lsquo;bland&amp;rsquo; if we all used this framework.</description>
     </item>
     
     <item>
@@ -183,7 +193,7 @@ Earlier this week, I started sending out the updated plugin to my email subscrib
       
       <guid>http://damien.co/blog/2012-11-27-pods-framework-for-wordpress/</guid>
       <description>WordPress is one of the most flexible web apps to customise for your needs. Creating custom post types in WordPress is also quite easy and Pods Framework looks like a plugin that will make it easier still.
-I’m going to give it a try!</description>
+I&amp;rsquo;m going to give it a try!</description>
     </item>
     
     <item>
@@ -192,30 +202,30 @@ I’m going to give it a try!</description>
       <pubDate>Mon, 26 Nov 2012 13:55:53 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-11-26-isotope-visual-layouts-plugin-for-wordpress-v1-is-finally-being-tested/</guid>
-      <description>The next version of my Isotope Visual Layouts Plugin for WordPress is finally in testing. That’s to say, today I have finished all the development work I want to do for version 1.0.
-There have been more than 500 downloads of the current version (which is great!) and so I’m excited to be sharing the news about the next release.
- What’s in Version 1.0? The 2 key features in this next version are:</description>
+      <description>The next version of my Isotope Visual Layouts Plugin for WordPress is finally in testing. That&amp;rsquo;s to say, today I have finished all the development work I want to do for version 1.0.
+There have been more than 500 downloads of the current version (which is great!) and so I&amp;rsquo;m excited to be sharing the news about the next release.
+ What&amp;rsquo;s in Version 1.0? The 2 key features in this next version are:</description>
     </item>
     
     <item>
-      <title>DBC Backup 2 updated to 2.1.1 it&amp;#8217;s a little bit harder Update Now</title>
+      <title>DBC Backup 2 updated to 2.1.1 it&#39;s a little bit harder Update Now</title>
       <link>http://damien.co/blog/2012-10-25-dbc-backup-2-updated-to-2-1-1-its-a-little-bit-harder-update-now/</link>
       <pubDate>Thu, 25 Oct 2012 23:09:44 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-10-25-dbc-backup-2-updated-to-2-1-1-its-a-little-bit-harder-update-now/</guid>
-      <description>A new version of DBC Backup 2 has been released. I’m doing this to make life just a little bit harder. You should update to v2.1.1 as soon as possible please.
-What’s in this release? This release looks to address a common security issue with WordPress and browsing folders like /wp-content etc. I also recommend all users of my plugin and WordPress to check that their .htaccess file includes this 1 line (well 2 lines):</description>
+      <description>A new version of DBC Backup 2 has been released. I&amp;rsquo;m doing this to make life just a little bit harder. You should update to v2.1.1 as soon as possible please.
+What&amp;rsquo;s in this release? This release looks to address a common security issue with WordPress and browsing folders like /wp-content etc. I also recommend all users of my plugin and WordPress to check that their .htaccess file includes this 1 line (well 2 lines):</description>
     </item>
     
     <item>
-      <title>WP to Buffer (Twitter Sharing) &amp;#8211; WordPress Plugins</title>
+      <title>WP to Buffer (Twitter Sharing) - WordPress Plugins</title>
       <link>http://damien.co/blog/2012-10-24-wp-to-buffer-twitter-sharing-wordpress-plugins/</link>
       <pubDate>Wed, 24 Oct 2012 13:17:09 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-10-24-wp-to-buffer-twitter-sharing-wordpress-plugins/</guid>
       <description>“WP to Buffer is a plugin for WordPress that sends updates to your Buffer (bufferapp.com) account for scheduled publishing to social networks when you publish and/or update WordPress Pages, Posts and/or Custom Post Types.”
-— Now I like Buffer a lot … I use it mostly via Twitter to ‘Buffer’ my tweets at different times of the day.
-If you don’t already have a plugin to send your scheduled posts to Twitter then here’s a plugin to try that will send them to your Buffer queue.</description>
+— Now I like Buffer a lot … I use it mostly via Twitter to &amp;lsquo;Buffer&amp;rsquo; my tweets at different times of the day.
+If you don&amp;rsquo;t already have a plugin to send your scheduled posts to Twitter then here&amp;rsquo;s a plugin to try that will send them to your Buffer queue.</description>
     </item>
     
     <item>
@@ -224,8 +234,8 @@ If you don’t already have a plugin to send your scheduled posts to Twitter the
       <pubDate>Mon, 17 Sep 2012 19:56:18 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-09-17-isotope-visual-post-layout-plugin-for-wordpress-download-here/</guid>
-      <description>Unfortunately the team at WordPress have decided they can’t host my plugin anymore. This is because the isotope javascript file is not compatible with their GPL requirements.
-So for now … here is the link to the file you’ll be looking for. Just sign-up for my WordPres e-mail update (no more 1 per week) which will keep you informed about my plugin developments.</description>
+      <description>Unfortunately the team at WordPress have decided they can&amp;rsquo;t host my plugin anymore. This is because the isotope javascript file is not compatible with their GPL requirements.
+So for now … here is the link to the file you&amp;rsquo;ll be looking for. Just sign-up for my WordPres e-mail update (no more 1 per week) which will keep you informed about my plugin developments.</description>
     </item>
     
     <item>
@@ -234,8 +244,8 @@ So for now … here is the link to the file you’ll be looking for. Just sign-u
       <pubDate>Mon, 17 Sep 2012 09:36:21 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-09-17-thank-you-2000-downloads-of-dbc-backup-2-for-wordpress/</guid>
-      <description>I want to say ‘Thank You’ to all of you who have downloaded and installed DBC Backup 2. Over the weekend, plugin downloads rose above 2000.
-DBC Backup 2 makes it easy to safely backup your WordPress SQL database to a folder on your web server. It’s a unique solution which also includes regular, scheduled backups so that you can have a daily, weekly or monthly backup.</description>
+      <description>I want to say &amp;lsquo;Thank You&amp;rsquo; to all of you who have downloaded and installed DBC Backup 2. Over the weekend, plugin downloads rose above 2000.
+DBC Backup 2 makes it easy to safely backup your WordPress SQL database to a folder on your web server. It&amp;rsquo;s a unique solution which also includes regular, scheduled backups so that you can have a daily, weekly or monthly backup.</description>
     </item>
     
     <item>
@@ -244,8 +254,8 @@ DBC Backup 2 makes it easy to safely backup your WordPress SQL database to a fol
       <pubDate>Tue, 11 Sep 2012 22:39:11 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-09-11-freetile-visual-post-layouts-a-plugin-wordpress/</guid>
-      <description>Today I’ve been reading up on Freetilea jQuery project by Yannisfor visual layouts similar to what I’ve done with Isotope Visual Post Layouts.
- Freetile is a plugin for jQuery that enables the organization of webpage content in an efficient, dynamic and responsive layout. It can be applied to a container element and it will attempt to arrange it’s children in a layout that makes optimal use of screen space, by “packing” them in a tight arrangement.</description>
+      <description>Today I&amp;rsquo;ve been reading up on Freetilea jQuery project by Yannisfor visual layouts similar to what I&amp;rsquo;ve done with Isotope Visual Post Layouts.
+ Freetile is a plugin for jQuery that enables the organization of webpage content in an efficient, dynamic and responsive layout. It can be applied to a container element and it will attempt to arrange it&amp;rsquo;s children in a layout that makes optimal use of screen space, by “packing” them in a tight arrangement.</description>
     </item>
     
     <item>
@@ -254,8 +264,8 @@ DBC Backup 2 makes it easy to safely backup your WordPress SQL database to a fol
       <pubDate>Fri, 15 Jun 2012 16:37:59 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-06-15-19-best-wordpress-plugins-use-multisite-network-or-what-plugins-im-using/</guid>
-      <description>I’ve been running WordPress as a multisite network and I often get asked about what are the best plugins for WordPress. Everyone has their opinion. I’ve listed the plugins which are network activated and grouped them in some meaningful manner for web marketers and development people.
-WordPress is one of the worlds’ most popular website and blogging tools and it’s latest version makes it easier to manage the look of your website.</description>
+      <description>I&amp;rsquo;ve been running WordPress as a multisite network and I often get asked about what are the best plugins for WordPress. Everyone has their opinion. I&amp;rsquo;ve listed the plugins which are network activated and grouped them in some meaningful manner for web marketers and development people.
+WordPress is one of the worlds&amp;rsquo; most popular website and blogging tools and it&amp;rsquo;s latest version makes it easier to manage the look of your website.</description>
     </item>
     
   </channel>

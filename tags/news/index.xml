@@ -18,7 +18,7 @@
       
       <guid>http://damien.co/blog/2014-02-04-isotope-visual-layouts-lite/</guid>
       <description>Isotope Visual Layouts lite, my free WordPress plugin which adds animated grid layouts to your website has been updated.
-What’s New in Version 3.0  Introduces Metro UI CSS to replace my own custom code Updates Isotope jQuery to latest version  </description>
+What&amp;rsquo;s New in Version 3.0  Introduces Metro UI CSS to replace my own custom code Updates Isotope jQuery to latest version  </description>
     </item>
     
     <item>
@@ -28,12 +28,12 @@ What’s New in Version 3.0  Introduces Metro UI CSS to replace my own custom co
       
       <guid>http://damien.co/blog/2013-04-30-introducing-empty-apache-ant-build-for-wordpress/</guid>
       <description>Welcome and say hello to empty. empty is a bunch of ANT Build Tasks for WordPress plugin developers that help automate the build thanks to Apache Ant.
-Why ANT not PHING? Go ask Google that … there are plenty of conversations elsewhere on ANT vs PHING. It’s really a personal choice.
-Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular tool, free and widely used. It’s commonly used for Java but can fit in with other code and projects.</description>
+Why ANT not PHING? Go ask Google that … there are plenty of conversations elsewhere on ANT vs PHING. It&amp;rsquo;s really a personal choice.
+Ant, Phing, Grunt.js, make are all build tools for developers. Ant is a popular tool, free and widely used. It&amp;rsquo;s commonly used for Java but can fit in with other code and projects.</description>
     </item>
     
     <item>
-      <title>Teaser &amp;#8211; Visual Layouts Pro (freetile)</title>
+      <title>Teaser - Visual Layouts Pro (freetile)</title>
       <link>http://damien.co/blog/2013-04-22-teaser-visual-layouts-pro-freetile/</link>
       <pubDate>Mon, 22 Apr 2013 12:11:05 +0000</pubDate>
       
@@ -44,24 +44,24 @@ Key Features of Visual Layouts Pro  Tags &amp;amp; Category based filters Show /
     </item>
     
     <item>
-      <title>Pro Plugin &amp;#8211; New User Guides &amp;amp; Support tools</title>
+      <title>Pro Plugin - New User Guides &amp;amp; Support tools</title>
       <link>http://damien.co/blog/2013-04-05-pro-plugin-new-user-guides-support-tools/</link>
       <pubDate>Fri, 05 Apr 2013 09:52:37 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-05-pro-plugin-new-user-guides-support-tools/</guid>
-      <description>Until a few days ago, I’d been relying on e-mail to manage your support requests. During the past 3 months I’ve looked at different options to provide support and also publish user guides and support material – beyond what’s in the readme files.
+      <description>Until a few days ago, I&amp;rsquo;d been relying on e-mail to manage your support requests. During the past 3 months I&amp;rsquo;ve looked at different options to provide support and also publish user guides and support material - beyond what&amp;rsquo;s in the readme files.
 Announcing Help &amp;amp; User Guides for Pro Plugins Anyone who has brought a Pro plugin from me, will now get access to Help
 Key features of the new site include:</description>
     </item>
     
     <item>
-      <title>Isotope Visual Layouts lite &amp;#8211; gets an update &amp;amp; a new name</title>
+      <title>Isotope Visual Layouts lite - gets an update &amp;amp; a new name</title>
       <link>http://damien.co/blog/2013-02-22-isotope-visual-layouts-lite-gets-an-update-a-new-name/</link>
       <pubDate>Fri, 22 Feb 2013 11:00:42 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-02-22-isotope-visual-layouts-lite-gets-an-update-a-new-name/</guid>
       <description>WordPress is a great tool for Websites, Blogs, Ecommerce and pretty much anything else … Which is why Isotope Visual Layouts is such a great plugin. Now you can easily change your website without changing your theme.
-How to Update / Upgrade Isotope Visual Layouts lite – slightly newer name – has just had an update to v2 and if you already have it installed, you can get an update / upgrade from your Admin Plugin page (see image below).</description>
+How to Update / Upgrade Isotope Visual Layouts lite - slightly newer name - has just had an update to v2 and if you already have it installed, you can get an update / upgrade from your Admin Plugin page (see image below).</description>
     </item>
     
     <item>
@@ -78,13 +78,13 @@ What does Visual Layouts Filtrify do?   Add drop-down menus and filtering to you
     </item>
     
     <item>
-      <title>WordPress 3.5 &amp;#8211; Welcome! My plugins are tested and working.</title>
+      <title>WordPress 3.5 - Welcome! My plugins are tested and working.</title>
       <link>http://damien.co/blog/2012-12-12-wordpress-3-5-welcome-my-plugins-are-tested-and-working/</link>
       <pubDate>Wed, 12 Dec 2012 19:33:24 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-12-12-wordpress-3-5-welcome-my-plugins-are-tested-and-working/</guid>
-      <description>In case you hadn’t noticed — WordPress 3.5is here. This release has one great new feature – the replacement for the media library and the drag n drop uploader has changed.
-My Plugins Tested are ready to go  DBC Backup 2 Isotope Visual Post Layouts Visual Post Layouts  I’ve been testing and checking my pluginsover the past few months and they are all fine and ready to use 🙂</description>
+      <description>In case you hadn&amp;rsquo;t noticed — WordPress 3.5is here. This release has one great new feature - the replacement for the media library and the drag n drop uploader has changed.
+My Plugins Tested are ready to go  DBC Backup 2 Isotope Visual Post Layouts Visual Post Layouts  I&amp;rsquo;ve been testing and checking my pluginsover the past few months and they are all fine and ready to use 🙂</description>
     </item>
     
     <item>
@@ -93,23 +93,23 @@ My Plugins Tested are ready to go  DBC Backup 2 Isotope Visual Post Layouts Visu
       <pubDate>Wed, 17 Oct 2012 14:03:33 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-10-17-isotope-visual-layouts-v1-0-is-coming/</guid>
-      <description>Isotope Visual Layouts my plugin for WordPress will soon be updated to version 1. This is a big milestone for me and from my perspective, the plugin will be ‘out of beta’.
-I think, I have been talking about this for some time … but it’s been a bit harder for me to finish as I started a new job and need to commute out of London every day. I have also been working on another plugin and wanted to re-use what I have learnt / built from that project.</description>
+      <description>Isotope Visual Layouts my plugin for WordPress will soon be updated to version 1. This is a big milestone for me and from my perspective, the plugin will be &amp;lsquo;out of beta&amp;rsquo;.
+I think, I have been talking about this for some time … but it&amp;rsquo;s been a bit harder for me to finish as I started a new job and need to commute out of London every day. I have also been working on another plugin and wanted to re-use what I have learnt / built from that project.</description>
     </item>
     
     <item>
-      <title>Isotope Visual Layouts for WordPress plugin &amp;#8211; v1.0 is coming</title>
+      <title>Isotope Visual Layouts for WordPress plugin - v1.0 is coming</title>
       <link>http://damien.co/blog/2012-09-29-isotope-visual-layouts-for-wordpress-plugin-v1-0-is-coming/</link>
       <pubDate>Sat, 29 Sep 2012 12:17:27 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-09-29-isotope-visual-layouts-for-wordpress-plugin-v1-0-is-coming/</guid>
-      <description>First — thanks for your ‘patience’ Isotope Visual Layouts for WordPress will soon be turning 1.0 🙂
-What’s coming up in v1.0 There are 3 big features in v1.0
+      <description>First — thanks for your &amp;lsquo;patience&amp;rsquo; Isotope Visual Layouts for WordPress will soon be turning 1.0 🙂
+What&amp;rsquo;s coming up in v1.0 There are 3 big features in v1.0
  Custom update / upgrade notification (as the plugin is no longer hosted by WordPress) A variety of colour options for the Sticky Note Visual Layouts Changed the WP-Query so that it is smoother ( and faster ).  Want 50% off the Pro Licence?</description>
     </item>
     
     <item>
-      <title>DBC Backup 2 &amp;#8211; WordPress database backup &amp;#8211; Here comes version 2.1</title>
+      <title>DBC Backup 2 - WordPress database backup - Here comes version 2.1</title>
       <link>http://damien.co/blog/2012-07-27-dbc-backup-2-wordpress-database-backup-here-comes-version-2-1/</link>
       <pubDate>Fri, 27 Jul 2012 16:30:12 +0000</pubDate>
       
@@ -125,18 +125,18 @@ What is in the new release? The new release includes:
       <pubDate>Sat, 19 May 2012 22:35:14 +0000</pubDate>
       
       <guid>http://damien.co/social-media/google-still-not-as-interesting-as-pinterest-7073/</guid>
-      <description>Comment – Seems to me that ‘everyone’ wants to find a fault with Google+ and many maybe ‘wishing’ it to fail. It’s hard to get traction with social networks as we are likely to be regular users of a few social networks. It’s harder still to get people to change their primary social network of choice when your online social network all still use The Facebook.
+      <description>Comment - Seems to me that &amp;lsquo;everyone&amp;rsquo; wants to find a fault with Google+ and many maybe &amp;lsquo;wishing&amp;rsquo; it to fail. It&amp;rsquo;s hard to get traction with social networks as we are likely to be regular users of a few social networks. It&amp;rsquo;s harder still to get people to change their primary social network of choice when your online social network all still use The Facebook.
 Source: Google+: still not as interesting as Pinterest, new study finds: ”</description>
     </item>
     
     <item>
-      <title>I&amp;#8217;m moving &amp;#8211; migrating to a new domain (some glitches)</title>
+      <title>I&#39;m moving - migrating to a new domain (some glitches)</title>
       <link>http://damien.co/blog/im-moving-migrating-to-a-new-domain-some-glitches-6809/</link>
       <pubDate>Sun, 22 Apr 2012 13:16:15 +0000</pubDate>
       
       <guid>http://damien.co/blog/im-moving-migrating-to-a-new-domain-some-glitches-6809/</guid>
-      <description>Well it had to happen … I’ve found a better domain damien.co and I’ve completed the biggest hurdle to migrate from damiensaunders.com to damien.co
-There are a flew glitches which I’m trying to sort out today.
+      <description>Well it had to happen … I&amp;rsquo;ve found a better domain damien.co and I&amp;rsquo;ve completed the biggest hurdle to migrate from damiensaunders.com to damien.co
+There are a flew glitches which I&amp;rsquo;m trying to sort out today.
 The most obvious one is that sub-domains are not redirecting
 so to get to wordpress.damiensaunders.com you need to go to wordpress.damien.co</description>
     </item>
@@ -147,31 +147,31 @@ so to get to wordpress.damiensaunders.com you need to go to wordpress.damien.co<
       <pubDate>Fri, 24 Feb 2012 20:40:44 +0000</pubDate>
       
       <guid>http://damien.co/promo/remember-to-add-my-google-page-2-5397/</guid>
-      <description>Now Google+ has launched pages for business … so if you’re using Google+ then please add Damien’s Google+ page.
+      <description>Now Google+ has launched pages for business … so if you&amp;rsquo;re using Google+ then please add Damien&amp;rsquo;s Google+ page.
 
-I’ll be sharing the latest presentations and other news and marketing stuff only on my Google+ page.</description>
+I&amp;rsquo;ll be sharing the latest presentations and other news and marketing stuff only on my Google+ page.</description>
     </item>
     
     <item>
-      <title>Thank You &amp;#8211; 47% growth YOY &amp;#8211; 31,000 visitors and 14,000 presentation views</title>
+      <title>Thank You - 47% growth YOY - 31,000 visitors and 14,000 presentation views</title>
       <link>http://damien.co/general/thank-you-47-growth-yoy-31000-visitors-and-14000-presentation-views-5859/</link>
       <pubDate>Sat, 07 Jan 2012 22:16:56 +0000</pubDate>
       
       <guid>http://damien.co/general/thank-you-47-growth-yoy-31000-visitors-and-14000-presentation-views-5859/</guid>
       <description>What a year 2011 was … over 31,000 people visited my site which is a growth of about 47% year on year.
 So thank you to all of you who came, read and left … and to the few of you who do come back again and again.
-Google Analytics Web Trends I’ve been using Google Analytics since I moved to stand-alone WordPress in 2009. I support agencies and brands to develop complex reporting and engagement insights using Google Analytics.</description>
+Google Analytics Web Trends I&amp;rsquo;ve been using Google Analytics since I moved to stand-alone WordPress in 2009. I support agencies and brands to develop complex reporting and engagement insights using Google Analytics.</description>
     </item>
     
     <item>
-      <title>WordPress 3.3 RC3 &amp;#8211; This has to be it</title>
+      <title>WordPress 3.3 RC3 - This has to be it</title>
       <link>http://damien.co/blog/2011-12-12-wordpress-3-3-rc3-this-has-to-be-it/</link>
       <pubDate>Mon, 12 Dec 2011 09:03:57 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-12-12-wordpress-3-3-rc3-this-has-to-be-it/</guid>
       <description>The third and final release candidate of WordPress 3.3 is here. AND … now we know that hopefully next week the real WordPress 3.3 will be here.
 The release note hints that everything is ready. This version RC3 WordPress 3.3 has a few last minute bug fixes and tidy up.
-If you haven’t started testing WordPress 3.3, then now is the time to check plugins, themes and familiarise yourself.
+If you haven&amp;rsquo;t started testing WordPress 3.3, then now is the time to check plugins, themes and familiarise yourself.
  WordPress 3.</description>
     </item>
     
@@ -181,9 +181,9 @@ If you haven’t started testing WordPress 3.3, then now is the time to check pl
       <pubDate>Thu, 17 Nov 2011 10:55:41 +0000</pubDate>
       
       <guid>http://damien.co/promo/please-add-my-google-page-promo-4809/</guid>
-      <description>Now Google+ has launched pages for business … so if you’re using Google+ then please add the new page for White T-Shirt Digital
+      <description>Now Google+ has launched pages for business … so if you&amp;rsquo;re using Google+ then please add the new page for White T-Shirt Digital
 
-I’ll be sharing the latest presentations and other news and marketing stuff only on my Google+ page.</description>
+I&amp;rsquo;ll be sharing the latest presentations and other news and marketing stuff only on my Google+ page.</description>
     </item>
     
     <item>
@@ -196,26 +196,26 @@ I’ll be sharing the latest presentations and other news and marketing stuff on
     </item>
     
     <item>
-      <title>Back from holidays &amp;#8211; what projects do you need help with?</title>
+      <title>Back from holidays - what projects do you need help with?</title>
       <link>http://damien.co/blog/back-from-holidays-what-projects-do-you-need-help-with-4068/</link>
       <pubDate>Mon, 27 Jun 2011 11:33:08 +0000</pubDate>
       
       <guid>http://damien.co/blog/back-from-holidays-what-projects-do-you-need-help-with-4068/</guid>
-      <description>So after a several weeks holiday … as of now, I’m a free agent looking for new work and a new project to get stuck into.
- Are you looking for a consultant or marketing manager to help out? If you’re in need of a new product manager, marketing consultant or someone to start pulling together a marketing strategy then get in contact.
+      <description>So after a several weeks holiday … as of now, I&amp;rsquo;m a free agent looking for new work and a new project to get stuck into.
+ Are you looking for a consultant or marketing manager to help out? If you&amp;rsquo;re in need of a new product manager, marketing consultant or someone to start pulling together a marketing strategy then get in contact.
  </description>
     </item>
     
     <item>
-      <title>On holiday &amp;#8211; back next week</title>
+      <title>On holiday - back next week</title>
       <link>http://damien.co/blog/on-holiday-back-next-week-3988/</link>
       <pubDate>Fri, 24 Jun 2011 11:34:35 +0000</pubDate>
       
       <guid>http://damien.co/blog/on-holiday-back-next-week-3988/</guid>
-      <description>Hi everyone … I hope your June is going well? I’ve been away on holiday for the past week taking some time to visit colleagues and friends in Madrid.
- While I’ve been away, I’ve been researching and taking notes for a range of new features on social media, marketing strategy and mobile consulting.
+      <description>Hi everyone … I hope your June is going well? I&amp;rsquo;ve been away on holiday for the past week taking some time to visit colleagues and friends in Madrid.
+ While I&amp;rsquo;ve been away, I&amp;rsquo;ve been researching and taking notes for a range of new features on social media, marketing strategy and mobile consulting.
  Watch-out from Monday!
- And I hope you’re enjoying your summer / winter
+ And I hope you&amp;rsquo;re enjoying your summer / winter
  Cheers</description>
     </item>
     
@@ -225,9 +225,9 @@ I’ll be sharing the latest presentations and other news and marketing stuff on
       <pubDate>Thu, 24 Feb 2011 20:39:02 +0000</pubDate>
       
       <guid>http://damien.co/general/remember-to-add-my-google-page-5395/</guid>
-      <description>Now Google+ has launched pages for business … so if you’re using Google+ then please add Damien’s Google+ page.
+      <description>Now Google+ has launched pages for business … so if you&amp;rsquo;re using Google+ then please add Damien&amp;rsquo;s Google+ page.
 
-I’ll be sharing the latest presentations and other news and marketing stuff only on my Google+ page.</description>
+I&amp;rsquo;ll be sharing the latest presentations and other news and marketing stuff only on my Google+ page.</description>
     </item>
     
     <item>
@@ -245,9 +245,9 @@ I’ll be sharing the latest presentations and other news and marketing stuff on
       <pubDate>Mon, 22 Nov 2010 09:29:27 +0000</pubDate>
       
       <guid>http://damien.co/blog/2010-11-22-20000-visitors-so-far-this-year/</guid>
-      <description>So its mid-November and I’m just looking at the Google Analytics report to see how I’m getting on. Data visualisation is a big thing but raw numbers are also pretty good.20,000 visitors so far this year generated 50,000 page views.
-That’s pretty good for a one man marketing guy and his machine.
-Alexa’s Web Information also seems interesting – and if you don’t know what Alexa says about your site .</description>
+      <description>So its mid-November and I&amp;rsquo;m just looking at the Google Analytics report to see how I&amp;rsquo;m getting on. Data visualisation is a big thing but raw numbers are also pretty good.20,000 visitors so far this year generated 50,000 page views.
+That&amp;rsquo;s pretty good for a one man marketing guy and his machine.
+Alexa&amp;rsquo;s Web Information also seems interesting - and if you don&amp;rsquo;t know what Alexa says about your site .</description>
     </item>
     
     <item>
@@ -260,12 +260,12 @@ Alexa’s Web Information also seems interesting – and if you don’t know wha
     </item>
     
     <item>
-      <title>Announcing Cambridge Startup Weekend December 10 &amp;#8211; 12</title>
+      <title>Announcing Cambridge Startup Weekend December 10 - 12</title>
       <link>http://damien.co/startup/announcing-cambridge-startup-weekend-december-10-12-1798/</link>
       <pubDate>Sun, 31 Oct 2010 19:22:52 +0000</pubDate>
       
       <guid>http://damien.co/startup/announcing-cambridge-startup-weekend-december-10-12-1798/</guid>
-      <description>Cambridge Startup Weekend (http://cambridge.startupweekend.org) will take place December 10 – 11 – 12 2010 in just over 6 weeks at the Hauser Forum in Cambridge.Startup Weekend is the place to come for anyone with a new idea that they want to see brought to life. Over the weekend teams work together to take the ideas and create real new ventures. Anyone with an idea or interest in being an entrepreneur is welcome.</description>
+      <description>Cambridge Startup Weekend (http://cambridge.startupweekend.org) will take place December 10 – 11 - 12 2010 in just over 6 weeks at the Hauser Forum in Cambridge.Startup Weekend is the place to come for anyone with a new idea that they want to see brought to life. Over the weekend teams work together to take the ideas and create real new ventures. Anyone with an idea or interest in being an entrepreneur is welcome.</description>
     </item>
     
     <item>

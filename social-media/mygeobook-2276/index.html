@@ -86,7 +86,7 @@
                 
                 <div class="post-content">
                     <p><strong><!-- raw HTML omitted -->myGeoBook is about geolocation &amp; <!-- raw HTML omitted -->social media<!-- raw HTML omitted -->,  with a set of tools for any website developer to use. Maps maybe sexy to some people and yes everyone is talking about mobile location services right now ([ id=”232″ type=”category”]Foursquare[/] anyone).<!-- raw HTML omitted --></strong></p>
-<p>Here’s a very short guide on how to add a map to WordPress using myGeoBook — but first, here’s an example. This map is based on the Frommers best restaurants in Europe.</p>
+<p>Here&rsquo;s a very short guide on how to add a map to WordPress using myGeoBook — but first, here&rsquo;s an example. This map is based on the Frommers best restaurants in Europe.</p>
 <h2 id="code-sample">Code Sample</h2>
 <p><code>&lt;iframe src=&quot;http://mgbembeddedmap.mygeobook.com/Map.aspx?profileId=1162&amp;amp;showSearch=true&amp;amp;autoZoomAndCenter=false&amp;amp;zoom=2&amp;amp;mapStyle=aerial border=&quot;0&quot; width=&quot;565&quot; height=&quot;420&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;</code></p>
 <p>You just need to remember to wrap your URL in an iFrame tag</p>
@@ -94,42 +94,42 @@
 <p>Parameters you can use</p>
 <ul>
 <li>
-<p><strong>profileId</strong> – the id of the profile to be loaded on the map. You can also specify a list of profiles separating the ids by comas. Examples: profileId=1069 or profileId=1069,1082</p>
+<p><strong>profileId</strong> - the id of the profile to be loaded on the map. You can also specify a list of profiles separating the ids by comas. Examples: profileId=1069 or profileId=1069,1082</p>
 </li>
 <li>
-<p><strong>mapStyle</strong> – represents the style of the map. Only applies when the Bing map engine is used. Valid values are: road, aerial and hybrid (aerial including labels). Default value is road.</p>
+<p><strong>mapStyle</strong> - represents the style of the map. Only applies when the Bing map engine is used. Valid values are: road, aerial and hybrid (aerial including labels). Default value is road.</p>
 </li>
 </ul>
-<h2 id="code-sample-8211-mapstyleroad">Code Sample – mapStyle=road</h2>
+<h2 id="code-sample---mapstyleroad">Code Sample - mapStyle=road</h2>
 <p><code>&lt;iframe src=&quot;http://mgbembeddedmap.mygeobook.com/Map.aspx?profileId=1162&amp;amp;showSearch=true&amp;amp;autoZoomAndCenter=true&amp;amp;zoom=2&amp;amp;mapStyle=road border=&quot;0&quot; width=&quot;565&quot; height=&quot;420&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;</code></p>
 <ul>
 <li>
-<p><strong>autoZoomAndCenter</strong> – boolean flag (allows only the true or false values) which specifies if the embedded map should auto center and zoom on the displayed profiles. Default value is true.</p>
+<p><strong>autoZoomAndCenter</strong> - boolean flag (allows only the true or false values) which specifies if the embedded map should auto center and zoom on the displayed profiles. Default value is true.</p>
 </li>
 <li>
-<p><strong>zoom</strong> – the zoom level to be used by the map. The value is dependent on the map engine. For Bing maps the zoom values must be integers from 1 (max zoom out) to 19 (max zoom in). To prevent the embedded map from rezooming when loading the profiles, set the autoZoomAndCenter to false.</p>
+<p><strong>zoom</strong> - the zoom level to be used by the map. The value is dependent on the map engine. For Bing maps the zoom values must be integers from 1 (max zoom out) to 19 (max zoom in). To prevent the embedded map from rezooming when loading the profiles, set the autoZoomAndCenter to false.</p>
 </li>
 </ul>
-<h2 id="code-sample-8211-autozoomandcentertruezoom5">Code Sample – autoZoomAndCenter=true&amp;zoom=5</h2>
+<h2 id="code-sample---autozoomandcentertruezoom5">Code Sample - autoZoomAndCenter=true&amp;zoom=5</h2>
 <p><code>&lt;iframe src=&quot;http://mgbembeddedmap.mygeobook.com/Map.aspx?profileId=1162&amp;amp;showSearch=true&amp;amp;autoZoomAndCenter=true&amp;amp;zoom=5&amp;amp;mapStyle=road border=&quot;0&quot; width=&quot;565&quot; height=&quot;420&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;</code></p>
 <ul>
 <li>
-<p><strong>centerLat and centerLon</strong> – the GPS coordinates for the point where you want to center the map. You supply either both values, either none. To prevent the embedded map from applying automatic zoom and center behavior, set the autoZoomAndCenter parameter to false. Examples: centerLat=51.4¢erLon=0&amp;autoZoomAndCenter=false&amp;zoom=8</p>
+<p><strong>centerLat and centerLon</strong> - the GPS coordinates for the point where you want to center the map. You supply either both values, either none. To prevent the embedded map from applying automatic zoom and center behavior, set the autoZoomAndCenter parameter to false. Examples: centerLat=51.4¢erLon=0&amp;autoZoomAndCenter=false&amp;zoom=8</p>
 </li>
 <li>
-<p><strong>centerPoiId</strong> – the id of the MGB Point of Interest on which to center the map. To prevent the embedded map from applying automatic zoom and center behavior, set the autoZoomAndCenter parameter to false. Examples:centerPoiId=481&amp;profileId=1085&amp;autoZoomAndCenter=false&amp;zoom=6</p>
+<p><strong>centerPoiId</strong> - the id of the MGB Point of Interest on which to center the map. To prevent the embedded map from applying automatic zoom and center behavior, set the autoZoomAndCenter parameter to false. Examples:centerPoiId=481&amp;profileId=1085&amp;autoZoomAndCenter=false&amp;zoom=6</p>
 </li>
 <li>
-<p><strong>showSearch</strong> – displays the search control for performing full text search on the map POIs. The default value is false. Example: showSearch=true</p>
+<p><strong>showSearch</strong> - displays the search control for performing full text search on the map POIs. The default value is false. Example: showSearch=true</p>
 </li>
 <li>
-<p><strong>centerByIp</strong> – if set to true the embedded map will be centered on the location given by the user’s current IP address. The default value is false. If this parameter is set to true, the following parameters will be ignored: autoZoomAndCenter, centerLat, centerLon. Example: centerByIp=true</p>
+<p><strong>centerByIp</strong> - if set to true the embedded map will be centered on the location given by the user&rsquo;s current IP address. The default value is false. If this parameter is set to true, the following parameters will be ignored: autoZoomAndCenter, centerLat, centerLon. Example: centerByIp=true</p>
 </li>
 <li>
-<p><strong>mgbStyle</strong> – posible values: map, list. Allows the user to choose the way points of interest are displayed. In map mode, the points are displayed on a map, in list mode they are displayed inside a paginated list. Default value: map.</p>
+<p><strong>mgbStyle</strong> - posible values: map, list. Allows the user to choose the way points of interest are displayed. In map mode, the points are displayed on a map, in list mode they are displayed inside a paginated list. Default value: map.</p>
 </li>
 <li>
-<p><strong>showListLink</strong> – if true, a link to the list view mode of the map will be displayed. If the control is in list mode, a link to the map view mode will be displayed. Default value: false.</p>
+<p><strong>showListLink</strong> - if true, a link to the list view mode of the map will be displayed. If the control is in list mode, a link to the map view mode will be displayed. Default value: false.</p>
 </li>
 </ul>
 

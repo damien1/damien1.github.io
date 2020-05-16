@@ -85,30 +85,30 @@
             <div class="col-md-12">
                 
                 <div class="post-content">
-                    <p>I was recently asked if it was easy to <strong>integrate Isotope jQuery plugin into a WordPress</strong> website. It’s not uncomplicated to add <em>isotope.js</em> to your website – it’s just not as easy as linking a script to your header.</p>
+                    <p>I was recently asked if it was easy to <strong>integrate Isotope jQuery plugin into a WordPress</strong> website. It&rsquo;s not uncomplicated to add <em>isotope.js</em> to your website - it&rsquo;s just not as easy as linking a script to your header.</p>
 <h2 id="2-ways-to-add-isotope-jquery-plugin-to-wordpress">2 Ways to add Isotope jQuery Plugin to WordPress</h2>
 <p>As always, there are (at least) 2 ways to achieve this</p>
 <ol>
-<li>Create a page template for the purpose – with all the code you want</li>
+<li>Create a page template for the purpose - with all the code you want</li>
 <li>Add the code to your themes function.php file and then create a page template</li>
 </ol>
 <h2 id="how-to-integrate-isotope-jquery-with-wordpress">How to integrate Isotope jQuery with WordPress</h2>
-<p>There’s probably hundreds of tuts on the topic of integrating Isotope with WordPress and this is ‘kind of’ mine. In mid 2012 I launched my first Isotope jQuery plugin for WordPress … well it wasn’t a plugin. It was a page template you had to copy into your theme folder.</p>
+<p>There&rsquo;s probably hundreds of tuts on the topic of integrating Isotope with WordPress and this is &lsquo;kind of&rsquo; mine. In mid 2012 I launched my first Isotope jQuery plugin for WordPress … well it wasn&rsquo;t a plugin. It was a page template you had to copy into your theme folder.</p>
 <h2 id="isotope-jquery-for-wordpress-page-template">Isotope jQuery for WordPress page template</h2>
 <p>The page template and the instructions for it are still on my website … A lot of developers frown on the page template approach as novice coders will hardcode the js and CSS into the page template. Worse, the page template is stuck with your theme … so if you delete your theme, your isotope page will stop working as soon as you delete that theme folder.</p>
 <h2 id="isotope-jquery-for-wordpress-plugin">Isotope jQuery for WordPress plugin</h2>
 <p>Towards the end of 2012, I launched my first <a href="http://wordpress.damien.co/isotope">WordPress plugin for Isotope</a> — which was promptly pulled from WordPress plugin repo because the Isotope jQuery is not open source. So, if you are doing this at home, then be honest and go pay David / Metafizzy for his hard work and get a licence.</p>
-<p>… and so the best approach is the function.php fileIf you open your theme folder then edit the file functions.php … It’s probably a blank file or includes code from whomever wrote your theme</p>
+<p>… and so the best approach is the function.php fileIf you open your theme folder then edit the file functions.php … It&rsquo;s probably a blank file or includes code from whomever wrote your theme</p>
 <p>You could then start to move code from my dbc_isotope.php file into the functions.php.</p>
 <h3 id="functions-you-need-to-have-are-8230">Functions you need to have are …</h3>
 <ol>
 <li>function to register and enqueue the isotope.js</li>
 <li>function to register and enqueue the twitter bootstrap CSS (if you want) …</li>
-<li>You’d then create your own script / function to hook the CSS attributes to the isotope.js</li>
-<li>You’d then have to add a conditional function to determine what page templates will get the isotope treatment      … Look up WordPress conditionals like is_home or is_archive</li>
-<li>Now you could view your website to check that isotope.js is being called and view source to check that the js script is being printed in the footer not header .. Isotope.js like a lot of jQuery can’t be called in your header.php page template.</li>
+<li>You&rsquo;d then create your own script / function to hook the CSS attributes to the isotope.js</li>
+<li>You&rsquo;d then have to add a conditional function to determine what page templates will get the isotope treatment      … Look up WordPress conditionals like is_home or is_archive</li>
+<li>Now you could view your website to check that isotope.js is being called and view source to check that the js script is being printed in the footer not header .. Isotope.js like a lot of jQuery can&rsquo;t be called in your header.php page template.</li>
 </ol>
-<p>Finally then, you’d modify your existing theme templates or create a new page template to make it all work the way you want.</p>
+<p>Finally then, you&rsquo;d modify your existing theme templates or create a new page template to make it all work the way you want.</p>
 
                 </div>
             </div>

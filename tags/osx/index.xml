@@ -18,7 +18,7 @@
       
       <guid>http://damien.co/blog/2010-02-28-how-to-install-virtualbox-on-a-mac/</guid>
       <description>This is 2 minute guide covering how to get Virtualbox and install it on your Mac. You would choose to use Virtualbox for 2 reasons
- Virtualbox is freeware in comparison to Fusion for Mac Virtualbox runs inside your Mac so you don’t have to reboot like Bootcamp  It’s been some time since I visited my favorite topic, which is using my Mac OSx Snow Leopard to run virtual operating systems like Tiny XP, Windows 7RC or Ubunutu.</description>
+ Virtualbox is freeware in comparison to Fusion for Mac Virtualbox runs inside your Mac so you don&amp;rsquo;t have to reboot like Bootcamp  It&amp;rsquo;s been some time since I visited my favorite topic, which is using my Mac OSx Snow Leopard to run virtual operating systems like Tiny XP, Windows 7RC or Ubunutu.</description>
     </item>
     
     <item>
@@ -29,7 +29,7 @@
       <guid>http://damien.co/general/macosx-converts-xnjb-get-your-creative-audio-player-to-charge-on-a-mac-331/</guid>
       <description>XNJB: is the app of the day for people who have used MP3 players from Creative technology. Moving to a Mac I was at a lose as to how to copy music to my Creative Zen and how to charge my Creative on my Mac.
 This is where XNJB comes to the rescue and lets you copy music or charge your Creative while running Mac OSX 10.6 Snow Leopard.
-XNJB should be bundled with Creative Media Players … after all these years and all the marketing hype around the Mac not having official support for Mac is sometimes a death knell or ‘dirge’ for any brand.</description>
+XNJB should be bundled with Creative Media Players … after all these years and all the marketing hype around the Mac not having official support for Mac is sometimes a death knell or &amp;lsquo;dirge&amp;rsquo; for any brand.</description>
     </item>
     
     <item>
@@ -42,13 +42,13 @@ XNJB should be bundled with Creative Media Players … after all these years and
     </item>
     
     <item>
-      <title>Mac OSx Convert Tip of the Day &amp;#8211; keyboard shortcuts</title>
+      <title>Mac OSx Convert Tip of the Day - keyboard shortcuts</title>
       <link>http://damien.co/general/mac-osx-convert-tip-of-the-day-keyboard-shortcuts-287/</link>
       <pubDate>Sun, 20 Sep 2009 19:26:51 +0000</pubDate>
       
       <guid>http://damien.co/general/mac-osx-convert-tip-of-the-day-keyboard-shortcuts-287/</guid>
-      <description>The Mac OSx Convert has been reading up various selections of 101 of the best (or worst) OSx tips. Many of these tips don’t address the Keyboard shortcuts … on the newer Macbooks first tip is always press the Fn key to access function keys in the top row.
-Best tip of the day … here’s a long list from Apple of the Keyboard Shortcuts
+      <description>The Mac OSx Convert has been reading up various selections of 101 of the best (or worst) OSx tips. Many of these tips don&amp;rsquo;t address the Keyboard shortcuts … on the newer Macbooks first tip is always press the Fn key to access function keys in the top row.
+Best tip of the day … here&amp;rsquo;s a long list from Apple of the Keyboard Shortcuts
 http://support.apple.com/kb/HT1343</description>
     </item>
     
@@ -59,17 +59,17 @@ http://support.apple.com/kb/HT1343</description>
       
       <guid>http://damien.co/general/virtualbox-3-0-4-mac-osx-how-to-share-folders-274/</guid>
       <description>Virtualbox 3.0.4 is a new update released earlier this month. After updating to this new version file sharing between mac os and the guest windows vista has stopped working.
-Something wonderful has happened and there is a new feature that has been added … Under the Devices Menu there is a new entry for “Sharing Folders” – you can now create shared folders in realtime
+Something wonderful has happened and there is a new feature that has been added … Under the Devices Menu there is a new entry for “Sharing Folders” - you can now create shared folders in realtime
 However to make the shared folders work you still must use the old method of mapping a network drive and remember to type your shared folder name as</description>
     </item>
     
     <item>
-      <title>Tip from a Windows Convert: Office for Mac &amp;#8211; Excel Keyboard Shortcut</title>
+      <title>Tip from a Windows Convert: Office for Mac - Excel Keyboard Shortcut</title>
       <link>http://damien.co/general/tip-from-a-windows-convert-office-for-mac-excel-keyboard-shortcut-269/</link>
       <pubDate>Thu, 20 Aug 2009 12:12:26 +0000</pubDate>
       
       <guid>http://damien.co/general/tip-from-a-windows-convert-office-for-mac-excel-keyboard-shortcut-269/</guid>
-      <description>I’ve been using keyboard shortcuts for Microsoft Office on Windows for years. So here I am now using Mac Office on a Macbook Pro and still trying to figure out how to get around the keyboard.Tip of the Day – Windows Excel Alt+Enter and in Mac Office Excel keyboard shortcut is Fn+Ctrl+Alt
+      <description>I&amp;rsquo;ve been using keyboard shortcuts for Microsoft Office on Windows for years. So here I am now using Mac Office on a Macbook Pro and still trying to figure out how to get around the keyboard.Tip of the Day - Windows Excel Alt+Enter and in Mac Office Excel keyboard shortcut is Fn+Ctrl+Alt
 This adds a carriage return within the current cell and its great for doing long text entry in 1 cell.</description>
     </item>
     
@@ -91,18 +91,19 @@ For first time users of Virtualbox or in fact virtualisation who are using a Mac
       <pubDate>Sun, 17 May 2009 20:05:38 +0000</pubDate>
       
       <guid>http://damien.co/general/15-minute-guide-to-running-windows-7-rc1-on-a-mac-180/</guid>
-      <description>So this follows an earlier post of mine about Virtualbox and running Windows XP on a Macbook Pro. Virtualbox is a great piece of software for running virtual operating systems on another machine (like runing Windows 7 on a Mac OSX).Today’s guide shows that you can be up n running with Windows 7 RC in about 15 minutes … thats got to be good ??
+      <description>So this follows an earlier post of mine about Virtualbox and running Windows XP on a Macbook Pro. Virtualbox is a great piece of software for running virtual operating systems on another machine (like runing Windows 7 on a Mac OSX).Today&amp;rsquo;s guide shows that you can be up n running with Windows 7 RC in about 15 minutes … thats got to be good ??
 So Grab your Windows 7 RC1 ISO file from the Windows website, grab a copy of Virtualbox for Mac and get going.</description>
     </item>
     
     <item>
-      <title>HOW TO install Virtualbox on Mac osx host &amp;amp; WinXp guest using TinyXP rev 09</title>
+      <title>HOW TO install Virtualbox on Mac osx host &amp;amp; WinXp guest using TinyXP rev</title>
       <link>http://damien.co/blog/2009-04-10-how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09/</link>
-      <pubDate>Fri, 10 Apr 2009 23:50:53 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://damien.co/blog/2009-04-10-how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09/</guid>
-      <description>Virtualbox is a dream freeware solution for anyone – novice to geek – who wants to run different computers inside their computer … virtual so to speak. Today I’ve been tinkering with getting Virtualbox working on a Mac laptop running WinXP.
-Virtualbox from Oracle Sunis a freeware, open source virtualisation application .. it comes in a number of flavours – I’ve previously used it to run WinXP guests inside WinXP hosts for testing and at work it was the only way to install things without having to go to the IT helpdesk.</description>
+      <description>Virtualbox is a dream freeware solution for anyone - novice to geek - who wants to run different computers inside their computer - virtual so to speak. Today I&amp;rsquo;ve been tinkering with getting Virtualbox working on a Mac laptop running WinXP.
+this is a very old post whats contained below has not been checked since 2012
+Virtualbox from Oracle Sunis a freeware, open source virtualisation application .. it comes in a number of flavours - I&amp;rsquo;ve previously used it to run WinXP guests inside WinXP hosts for testing and at work it was the only way to install things without having to go to the IT helpdesk.</description>
     </item>
     
   </channel>

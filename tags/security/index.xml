@@ -17,8 +17,8 @@
       <pubDate>Thu, 18 Apr 2013 21:55:23 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-18-wordpress-security-protect-your-wp-admin-with-this-quick-htaccess-trick/</guid>
-      <description>WordPress is under going an attack by a swarm of Zombies– and they are after any site with an Admin user account. Securing WordPress is easy and you can do two things to protect your website and yourself.
-  Change and then delete your Admin account (if you haven’t already)
+      <description>WordPress is under going an attack by a swarm of Zombies- and they are after any site with an Admin user account. Securing WordPress is easy and you can do two things to protect your website and yourself.
+  Change and then delete your Admin account (if you haven&amp;rsquo;t already)
   Only allow access to WordPress /wp-admin by your IP address
   Of course, you should also have a backup strategy — and so why not setup my plugin DBC Backup 2 to do the hard work.</description>
     </item>
@@ -29,10 +29,10 @@
       <pubDate>Mon, 03 Dec 2012 22:09:14 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-12-03-open-letter-to-users-of-dbc-backup-the-old-plugin/</guid>
-      <description>So I noticed recently that Google has an index of everyone who has installed my plugin but hasn’t locked down their website. Which led me to wonder ‘If I could find these insecure sites via Google, should I warn them?’.
+      <description>So I noticed recently that Google has an index of everyone who has installed my plugin but hasn&amp;rsquo;t locked down their website. Which led me to wonder &amp;lsquo;If I could find these insecure sites via Google, should I warn them?&#39;.
 And so I did …
- I’m a WordPress developer in the UK and I look after a plugin called DBC-Backup-2.
-I’ve always loved DBC-Backup ( a plugin you are are using on your website ), so when I found out that no one was maintaining it, I decided to ‘adopt’ DBC-Backup.</description>
+ I&amp;rsquo;m a WordPress developer in the UK and I look after a plugin called DBC-Backup-2.
+I&amp;rsquo;ve always loved DBC-Backup ( a plugin you are are using on your website ), so when I found out that no one was maintaining it, I decided to &amp;lsquo;adopt&amp;rsquo; DBC-Backup.</description>
     </item>
     
     <item>
@@ -41,19 +41,19 @@ I’ve always loved DBC-Backup ( a plugin you are are using on your website ), s
       <pubDate>Mon, 08 Oct 2012 14:56:41 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-10-08-how-to-stop-most-automated-comment-spam/</guid>
-      <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme’s functions.php. This is one of my favourite WordPress functions and I use it on all my setups.
-This code snippet works by blocking comments from being added offsite or indirectly and not from the comment box on your webpage. Most spammers try to automate their ‘workload’ and try to exploit WordPress functions that allow you to manage comments or add posts via the WordPress API’s.</description>
+      <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme&amp;rsquo;s functions.php. This is one of my favourite WordPress functions and I use it on all my setups.
+This code snippet works by blocking comments from being added offsite or indirectly and not from the comment box on your webpage. Most spammers try to automate their &amp;lsquo;workload&amp;rsquo; and try to exploit WordPress functions that allow you to manage comments or add posts via the WordPress API&amp;rsquo;s.</description>
     </item>
     
     <item>
-      <title>Why You Don’t Need Mac Anti-Virus Software &amp;#8211; Plus What You Do Need</title>
+      <title>Why You Don’t Need Mac Anti-Virus Software - Plus What You Do Need</title>
       <link>http://damien.co/blog/why-you-dont-need-mac-anti-virus-software-plus-what-you-do-need-7777/</link>
       <pubDate>Sun, 09 Sep 2012 15:19:27 +0000</pubDate>
       
       <guid>http://damien.co/blog/why-you-dont-need-mac-anti-virus-software-plus-what-you-do-need-7777/</guid>
-      <description>I’ve been using Apple Macbook Pro as my primary work horse since 2008. I’ve always had ClamXav installed as a ‘heuristic’ solution to monitor apps and downloads for virus and malware.
-I’m a fan of sandbox for apps, but as I do develop a whole heap of different things, just installing from the Mac App Store is not an option for me.
-Now I’m going to look for other software ….</description>
+      <description>I&amp;rsquo;ve been using Apple Macbook Pro as my primary work horse since 2008. I&amp;rsquo;ve always had ClamXav installed as a &amp;lsquo;heuristic&amp;rsquo; solution to monitor apps and downloads for virus and malware.
+I&amp;rsquo;m a fan of sandbox for apps, but as I do develop a whole heap of different things, just installing from the Mac App Store is not an option for me.
+Now I&amp;rsquo;m going to look for other software ….</description>
     </item>
     
     <item>
@@ -62,9 +62,9 @@ Now I’m going to look for other software ….</description>
       <pubDate>Mon, 18 Jun 2012 17:12:09 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-06-18-wordpress-pre-update-checklist-to-help-avoid-any-problems/</guid>
-      <description>WordPress gets a major update about twice a year. If you’re responsible for doing the upgrade here’s a pre-update checklist for WordPress to help you identify any bugs that will get in the way of a flawless update.
+      <description>WordPress gets a major update about twice a year. If you&amp;rsquo;re responsible for doing the upgrade here&amp;rsquo;s a pre-update checklist for WordPress to help you identify any bugs that will get in the way of a flawless update.
 The main point of the checklist is to reduce risk of failure by helping you identifying potential issues and roadblocks and give you confidence in a fast update process.
-A second point to remember is the cost of not running the update – staying on an older version of WordPress can expose you to security issues which are fixed in the new update and also make it harder at a later time to run an update.</description>
+A second point to remember is the cost of not running the update - staying on an older version of WordPress can expose you to security issues which are fixed in the new update and also make it harder at a later time to run an update.</description>
     </item>
     
     <item>
@@ -73,18 +73,18 @@ A second point to remember is the cost of not running the update – staying on 
       <pubDate>Sun, 10 Jun 2012 16:12:48 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-06-10-wordpress-security-5g-blacklist-htaccess/</guid>
-      <description>If you’re into WordPress Security (which you should be) … then you’ve probably already played around with your .htaccess file to block comment spam. For a number of years now, Perishable Press has been working on a blacklist to help kills spam and other un-welcomes! Now in its 5th Generation the Blacklist is very powerful.
+      <description>If you&amp;rsquo;re into WordPress Security (which you should be) … then you&amp;rsquo;ve probably already played around with your .htaccess file to block comment spam. For a number of years now, Perishable Press has been working on a blacklist to help kills spam and other un-welcomes! Now in its 5th Generation the Blacklist is very powerful.
 Perishable Press is a great source of information on .htaccess and URL rewrite rules … but I wanted to just highlight a couple of things (perhaps for my own memory).</description>
     </item>
     
     <item>
-      <title>How to fix your WordPress when read / write doesn&amp;#8217;t work</title>
+      <title>How to fix your WordPress when read / write doesn&#39;t work</title>
       <link>http://damien.co/blog/2012-04-27-how-to-fix-your-wordpress-when-read-write-doesnt-work/</link>
       <pubDate>Fri, 27 Apr 2012 15:33:20 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-04-27-how-to-fix-your-wordpress-when-read-write-doesnt-work/</guid>
-      <description>Do you have problems with read / write permissions with WordPress? Are you stuck and can’t upload or change files? If you’ve tried to change the CHMOD values and failed, it might be time to go to the command-line.
-Working Alone – Single WordPress site Run these commands from terminal (command line interface) or ask your web host provider to do this. This will set all files to read/write for the owner and read only for everything else.</description>
+      <description>Do you have problems with read / write permissions with WordPress? Are you stuck and can&amp;rsquo;t upload or change files? If you&amp;rsquo;ve tried to change the CHMOD values and failed, it might be time to go to the command-line.
+Working Alone - Single WordPress site Run these commands from terminal (command line interface) or ask your web host provider to do this. This will set all files to read/write for the owner and read only for everything else.</description>
     </item>
     
     <item>

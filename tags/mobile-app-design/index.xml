@@ -17,9 +17,9 @@
       <pubDate>Mon, 11 Jun 2012 13:39:31 +0000</pubDate>
       
       <guid>http://damien.co/apps-2/app-design-make-sure-your-saves-settings-mobilerss-7230/</guid>
-      <description>Have you ever used an app, thought you saved the settings and then you check and nothing changes … It happens all the time with MobileRSS. This has been bugging me for awhile now. Usually I think I’m not the only one who spots these things …
+      <description>Have you ever used an app, thought you saved the settings and then you check and nothing changes … It happens all the time with MobileRSS. This has been bugging me for awhile now. Usually I think I&amp;rsquo;m not the only one who spots these things …
 The funny thing is, a preference change needs to be done in 3 parts
- the visual UI/UE cue to let you know something changed (like a tick or a save button changes text) the backend data / prefs change is stored the app ‘reloads’ with the new settings  So what goes wrong with saving state changes?</description>
+ the visual UI/UE cue to let you know something changed (like a tick or a save button changes text) the backend data / prefs change is stored the app &amp;lsquo;reloads&amp;rsquo; with the new settings  So what goes wrong with saving state changes?</description>
     </item>
     
     <item>
@@ -29,7 +29,7 @@ The funny thing is, a preference change needs to be done in 3 parts
       
       <guid>http://damien.co/blog/android/android-apps-run-full-screen-on-honeycomb-tablets-3482/</guid>
       <description>Google recently announced some exciting new features for Android 3.0 Honeycomb. Most notably, Android 3.0 sees tablets and mobile devices merge to the same code base. This is kind of like having one OS for all devices. There are interface design considerations that need to be understood before launching your app on the big screen.
-Android Apps run full screen – Interface Design The key point to note is that Android apps run in full screen on tablets.</description>
+Android Apps run full screen - Interface Design The key point to note is that Android apps run in full screen on tablets.</description>
     </item>
     
     <item>
@@ -38,9 +38,9 @@ Android Apps run full screen – Interface Design The key point to note is that 
       <pubDate>Fri, 08 Apr 2011 20:39:18 +0000</pubDate>
       
       <guid>http://damien.co/blog/android/last-fm-android-live-wallpaper-2832/</guid>
-      <description>I’ve just discovered the (not official) Last.fm live wallpaper for Android. It’s a brilliant change to my boring background on my HTC Desire.
-Last.fm is still there tracking my music listening habits – and doing a good job of that. This live wallpaper has a number of options and the free version allows you to create a wallpaper of your favourite artists for example.
-The idea for this (app) is also brilliant – it needs no real user interface – and for a small price you get a premium wallpaper with options for weekly charts.</description>
+      <description>I&amp;rsquo;ve just discovered the (not official) Last.fm live wallpaper for Android. It&amp;rsquo;s a brilliant change to my boring background on my HTC Desire.
+Last.fm is still there tracking my music listening habits - and doing a good job of that. This live wallpaper has a number of options and the free version allows you to create a wallpaper of your favourite artists for example.
+The idea for this (app) is also brilliant - it needs no real user interface - and for a small price you get a premium wallpaper with options for weekly charts.</description>
     </item>
     
   </channel>

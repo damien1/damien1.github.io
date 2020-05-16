@@ -17,8 +17,8 @@
       <pubDate>Thu, 28 Jun 2012 14:29:43 +0000</pubDate>
       
       <guid>http://damien.co/resources/how-to-install-chromedriver-mac-os-x-selenium-python-7406/</guid>
-      <description>Selenium is great for automated testing of web-apps and I’ve been using the Firefox extension Selenium IDE for a few months now.
-For completeness of automated testing for web apps you need to do this in a number of different browsers which Selenium IDE doesn’t do. So you’ll need to download and install Selenium on your Mac.
+      <description>Selenium is great for automated testing of web-apps and I&amp;rsquo;ve been using the Firefox extension Selenium IDE for a few months now.
+For completeness of automated testing for web apps you need to do this in a number of different browsers which Selenium IDE doesn&amp;rsquo;t do. So you&amp;rsquo;ll need to download and install Selenium on your Mac.
 Download Chromedriver to your Mac Head over to the Chromedriver Project page and download the latest package.</description>
     </item>
     
