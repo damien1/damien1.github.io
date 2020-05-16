@@ -8,7 +8,7 @@ jobs:
     steps:
     - name: Check for broken links
       id: link-report
-      uses: celinekurpershoek/github-actions-link-checker
+      uses: celinekurpershoek/github-actions-link-checker@{version}
       with:
         # Required:
         url: 'http://damien.co'
