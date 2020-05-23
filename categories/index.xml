@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>WordPress</title>
+      <link>http://damien.co/categories/wordpress/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>WordPress Plugins</title>
       <link>http://damien.co/categories/wordpress-plugins/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
@@ -111,24 +120,6 @@
     </item>
     
     <item>
-      <title>WordPress</title>
-      <link>http://damien.co/categories/wordpress/</link>
-      <pubDate>Sun, 23 Jun 2013 16:20:17 +0000</pubDate>
-      
-      <guid>http://damien.co/categories/wordpress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CI/CD</title>
-      <link>http://damien.co/categories/ci/cd/</link>
-      <pubDate>Tue, 30 Apr 2013 11:00:49 +0000</pubDate>
-      
-      <guid>http://damien.co/categories/ci/cd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>WordPress Multisite</title>
       <link>http://damien.co/categories/wordpress-multisite/</link>
       <pubDate>Mon, 29 Apr 2013 12:00:56 +0000</pubDate>
@@ -170,6 +161,15 @@
       <pubDate>Mon, 10 Sep 2012 14:06:15 +0000</pubDate>
       
       <guid>http://damien.co/categories/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile</title>
+      <link>http://damien.co/categories/mobile/</link>
+      <pubDate>Mon, 03 Sep 2012 13:21:09 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/mobile/</guid>
       <description></description>
     </item>
     
@@ -345,15 +345,6 @@
     </item>
     
     <item>
-      <title>Mobile</title>
-      <link>http://damien.co/categories/mobile/</link>
-      <pubDate>Sun, 24 Jan 2010 14:33:03 +0000</pubDate>
-      
-      <guid>http://damien.co/categories/mobile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>User Experience</title>
       <link>http://damien.co/categories/user-experience/</link>
       <pubDate>Wed, 30 Sep 2009 13:48:49 +0000</pubDate>
@@ -386,6 +377,15 @@
       <pubDate>Sun, 01 Aug 2004 17:20:52 +0000</pubDate>
       
       <guid>http://damien.co/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI/CD</title>
+      <link>http://damien.co/categories/ci/cd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/ci/cd/</guid>
       <description></description>
     </item>
     

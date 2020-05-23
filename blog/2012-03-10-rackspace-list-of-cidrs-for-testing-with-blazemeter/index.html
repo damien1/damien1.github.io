@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="Damien Saunders | Management Marketing Consultant">
   <meta name="author" content="Damien Saunders">
-  <meta name="generator" content="Hugo 0.60.0" />
+  <meta name="generator" content="Hugo 0.71.0" />
 
   <!-- plugins -->
   
@@ -115,10 +115,10 @@
               <span class="ml-3">-</span>
               <span class="date">Saturday, Mar 10, 2012</span>
             </div>
-            <div class="content"><p>I've just finished a <strong>WordPress multi-server</strong> development project which required a <strong>scalable deployment</strong> setup. We also needed to test the setup under load and ended up using <em>Blazemeter</em> (basically <em>jmeter</em> in the cloud).</p>
-<p>If you're setup in <em>Rackspace</em> has a load balancer, you know you need to allow a number of IP's by modifying the Access Control. Annoyingly there was no 1 list of the CIDR's to allow. <a href="http://community.blazemeter.com/knowledgebase/articles/42736-cidrs" target="_blank">Blazemeter keeps a list of CIDR's</a> but this couldn't be cut n paste into Rackspace.</p>
-<p>Alternatively .. you may need to just add these CIDR's to your .htaccess file to allow Blazemeter to hit your site.</p>
-<p>My list of the CIDR's (USA East Virginia &amp; EU Ireland) are:</p>
+            <div class="content"><p>I&rsquo;ve just finished a <strong>WordPress multi-server</strong> development project which required a <strong>scalable deployment</strong> setup. We also needed to test the setup under load and ended up using <em>Blazemeter</em> (basically <em>jmeter</em> in the cloud).</p>
+<p>If you&rsquo;re setup in <em>Rackspace</em> has a load balancer, you know you need to allow a number of IP&rsquo;s by modifying the Access Control. Annoyingly there was no 1 list of the CIDR&rsquo;s to allow. <a href="http://community.blazemeter.com/knowledgebase/articles/42736-cidrs" target="_blank">Blazemeter keeps a list of CIDR&rsquo;s</a> but this couldn&rsquo;t be cut n paste into Rackspace.</p>
+<p>Alternatively .. you may need to just add these CIDR&rsquo;s to your .htaccess file to allow Blazemeter to hit your site.</p>
+<p>My list of the CIDR&rsquo;s (USA East Virginia &amp; EU Ireland) are:</p>
 <p><code>72.44.32.0/19 67.202.0.0/18 75.101.128.0/17 174.129.0.0/16 204.236.192.0/18 184.73.0.0/16 184.72.128.0/17 184.72.64.0/18 50.16.0.0/15 50.19.0.0/16 107.20.0.0/15 107.22.0.0/16 23.20.0.0/14 79.125.0.0/17 46.51.128.0/18 46.51.192.0/20 46.137.0.0/17 46.137.128.0/18 176.34.128.0/17 176.34.64.0/18</code></p>
 <p>You can then just cut &lsquo;n&rsquo; paste this into your Rackspace Access Control window:</p>
 </div>

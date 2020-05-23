@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="Damien Saunders | Management Marketing Consultant">
   <meta name="author" content="Damien Saunders">
-  <meta name="generator" content="Hugo 0.60.0" />
+  <meta name="generator" content="Hugo 0.71.0" />
 
   <!-- plugins -->
   
@@ -113,9 +113,9 @@
               <span class="ml-3">-</span>
               <span class="date">Tuesday, Jan 17, 2012</span>
             </div>
-            <div class="content"><p>Web Application Development can seem easy if you're used to a shared host and WordPress running out of the box. Moving into the world of unmanaged VPS can be daunting at first - or really easy if you're insane.</p>
-<p>If you've got access to a terminal or CLI - command line interface then you have here a number of options for checking your website performance. Here's a few choice one's I've been using lately.</p>
-<h2 id="ubuntu--linux--login-information">Ubuntu / Linux - Login Information</h2>
+            <div class="content"><p>Web Application Development can seem easy if you&rsquo;re used to a shared host and WordPress running out of the box. Moving into the world of unmanaged VPS can be daunting at first - or really easy if you&rsquo;re insane.</p>
+<p>If you&rsquo;ve got access to a terminal or CLI - command line interface then you have here a number of options for checking your website performance. Here&rsquo;s a few choice one&rsquo;s I&rsquo;ve been using lately.</p>
+<h2 id="ubuntu--linux---login-information">Ubuntu / Linux - Login Information</h2>
 <p>The most basic is to open your Terminal and login to the server. This will show you something like this:</p>
 <pre>Welcome to Ubuntu 11.10 (GNU/Linux 3.0.0-12-virtual x86_64)
 * Documentation: https://help.ubuntu.com/
@@ -124,17 +124,17 @@ System load: 0.0 Processes: 86
  Usage of /: 4.0% of 74.81GB Users logged in: 0
  Memory usage: 44% IP address for eth0: 11.222.333.444
  Swap usage: 0% IP address for eth1: 12.345.678.901</pre>
-<h2 id="ubuntu--linux--w">Ubuntu / Linux - W</h2>
+<h2 id="ubuntu--linux---w">Ubuntu / Linux - W</h2>
 <p>If the most basic System info has gone from your terminal, try W.  Just type w and press enter. This will show you something like this:</p>
 <pre>21:31:20 up 2:59, 1 user, load average: 0.00, 0.01, 0.05
 USER TTY FROM LOGIN@ IDLE JCPU PCPU WHAT
 damien pts/0 11-22-33-44.zo 20:57 0.00s 0.54s 0.00s w</pre>
-<p>You're most interested in the <span style="text-decoration: underline;">load average</span> on the first line which shows the status for the past 1, 5 and 15 minutes.</p>
+<p>You&rsquo;re most interested in the <span style="text-decoration: underline;">load average</span> on the first line which shows the status for the past 1, 5 and 15 minutes.</p>
 <div>
 </div>
-<h2 id="ubuntu--linux--top-command">Ubuntu / Linux - Top Command</h2>
+<h2 id="ubuntu--linux---top-command">Ubuntu / Linux - Top Command</h2>
 <p>Type Top and press enter will load your page and refresh every few seconds with stats on everything that is running.</p>
-<p>Again -  You're interested in the load average on the first line which shows the status for the past 1, 5 and 15 minutes.</p>
+<p>Again -  You&rsquo;re interested in the load average on the first line which shows the status for the past 1, 5 and 15 minutes.</p>
 <pre>top - 21:13:28 up 2:41, 1 user, load average: 0.00, 0.05, 0.07
 Tasks: 84 total, 1 running, 83 sleeping, 0 stopped, 0 zombie
 Cpu(s): 0.3%us, 0.1%sy, 0.0%ni, 99.4%id, 0.2%wa, 0.0%hi, 0.0%si, 0.0%st
@@ -151,7 +151,7 @@ PID USER PR NI VIRT RES SHR S %CPU %MEM TIME+ COMMAND
  8 root 20 0 0 0 0 S 0 0.0 0:00.00 kworker/1:0 
  9 root 20 0 0 0 0 S 0 0.0 0:00.14 ksoftirqd/1 
  10 root RT 0 0 0 0 S 0 0.0 0:00.00 migration/2</pre>
-<h2 id="top--continuous-load-average">Top - Continuous Load Average</h2>
+<h2 id="top---continuous-load-average">Top - Continuous Load Average</h2>
 <p>A better version of this is command is</p>
 <pre>top -b | grep "load average"</pre>
 <p>Left running for a few minutes and your screen will fill up like this:</p>

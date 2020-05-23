@@ -6,7 +6,6 @@
     <description>Recent content in UX/UI on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 02 Apr 2012 13:33:25 +0000</lastBuildDate>
     
 	<atom:link href="http://damien.co/tags/ux/ui/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +16,7 @@
       <pubDate>Mon, 02 Apr 2012 13:33:25 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-04-02-axure-responsive-layout-browser-width/</guid>
-      <description>I&#39;ve been playing around with scroll spy and re-creating this effect in Axure.</description>
+      <description>I&amp;rsquo;ve been playing around with scroll spy and re-creating this effect in Axure.</description>
     </item>
     
     <item>

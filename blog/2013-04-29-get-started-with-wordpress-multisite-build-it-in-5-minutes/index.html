@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="Damien Saunders | Management Marketing Consultant">
   <meta name="author" content="Damien Saunders">
-  <meta name="generator" content="Hugo 0.60.0" />
+  <meta name="generator" content="Hugo 0.71.0" />
 
   <!-- plugins -->
   
@@ -114,19 +114,19 @@
               <span class="date">Monday, Apr 29, 2013</span>
             </div>
             <div class="content"><p><strong>WordPress Multisite</strong> or <strong>WordPress Network</strong> or WPMU - any of these refer to WordPress when it has been setup as a network of blogs or websites.</p>
-<p>I've been using WordPress Multisite for about 3 years now - many more famous WordPress people have written about setting up WordPress Multisite, but this is my take on it.</p>
+<p>I&rsquo;ve been using WordPress Multisite for about 3 years now - many more famous WordPress people have written about setting up WordPress Multisite, but this is my take on it.</p>
 <p>I want to show you that it is easy to get started with WordPress Multisite in fact you can have your network of WordPress sites up in under 5 minutes (supposing you already have WordPress installed).</p>
 <p> </p>
 <h2 id="how-to-enable-wordpress-multisite">How to Enable WordPress Multisite</h2>
-<h2 id="wpconfig--enable-multisite">WP-Config - Enable Multisite</h2>
+<h2 id="wp-config---enable-multisite">WP-Config - Enable Multisite</h2>
 <p>Open your favorite editor and then open wp-config.php which is in the root of your WordPress directory.</p>
 <p>Insert these 2 lines in your wp-config.php file, save the file.</p>
 <pre><code>define('WP_ALLOW_MULTISITE', true); //or true
-</code></pre><h2 id="wordpress-admin--network-settings">WordPress Admin - Network Settings</h2>
+</code></pre><h2 id="wordpress-admin---network-settings">WordPress Admin - Network Settings</h2>
 <p>Login to WordPress Admin and turn off all your plugins first … then go to the link for Network Setup.</p>
 <p>Follow the instructions carefully and edit your wp-config.php again - and also edit your .htaccess file.</p>
-<p>Then you're all done.</p>
-<h2 id="wpconfig--additional-settings">WP-Config - Additional Settings</h2>
+<p>Then you&rsquo;re all done.</p>
+<h2 id="wp-config---additional-settings">WP-Config - Additional Settings</h2>
 <p>Add these extra changes to wp-config.php</p>
 <pre><code>define('MULTISITE', true);
 define('SUBDOMAIN_INSTALL', true);
@@ -135,8 +135,8 @@ define('PATH\_CURRENT\_SITE', '/');
 define('SITE\_ID\_CURRENT_SITE', 1);
 define('BLOG\_ID\_CURRENT_SITE', 1);
 </code></pre><p>If you wanted, you can delete the 2 lines you added before - but this will hide the Network Settings menu links.</p>
-<h2 id="htaccess--multisite-rewrite-rules">.htaccess - Multisite Rewrite Rules</h2>
-<p>Add these to your .htaccess file, replacing all the existing WordPress rules. If you can't save the .htaccess file, or you can't access wp-admin after making these changes, then check your permissions on the file or check with your ISP that Permissions are set properly including Allow Overrides=On for your virtualhost file.</p>
+<h2 id="htaccess---multisite-rewrite-rules">.htaccess - Multisite Rewrite Rules</h2>
+<p>Add these to your .htaccess file, replacing all the existing WordPress rules. If you can&rsquo;t save the .htaccess file, or you can&rsquo;t access wp-admin after making these changes, then check your permissions on the file or check with your ISP that Permissions are set properly including Allow Overrides=On for your virtualhost file.</p>
 <pre><code>RewriteEngine On
 RewriteBase /
 RewriteRule ^index.php$ - [L]
@@ -154,8 +154,8 @@ RewriteRule ^(wp-(content|admin|includes).*) $1 [L]
 RewriteRule ^(.*.php)$ $1 [L]
 RewriteRule . index.php [L]
 </code></pre><h2 id="finished">Finished</h2>
-<p>Once you've saved both the WP-Config.php and .htaccess files - then click the link to Log back in.</p>
-<p>You're all done here - Now you can go to the Network Settings Admin page and setup your new WordPress Multisite.</p>
+<p>Once you&rsquo;ve saved both the WP-Config.php and .htaccess files - then click the link to Log back in.</p>
+<p>You&rsquo;re all done here - Now you can go to the Network Settings Admin page and setup your new WordPress Multisite.</p>
 </div>
             <div class="share mt-4">
               <ul class="list-inline">

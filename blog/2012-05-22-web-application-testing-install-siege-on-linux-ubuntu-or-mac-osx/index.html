@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="Damien Saunders | Management Marketing Consultant">
   <meta name="author" content="Damien Saunders">
-  <meta name="generator" content="Hugo 0.60.0" />
+  <meta name="generator" content="Hugo 0.71.0" />
 
   <!-- plugins -->
   
@@ -115,15 +115,15 @@
               <span class="ml-3">-</span>
               <span class="date">Tuesday, May 22, 2012</span>
             </div>
-            <div class="content"><p><a href="http://www.joedog.org/siege-home/" target="_blank">Siege</a> is a great tool for <strong>performance</strong> and <strong>load testing your web application</strong>. I've been using it for the past 6 months to test WordPress websites along with other web apps that we've been building.</p>
-<p>Use it to straighten out any kinks with applications like WordPress, learn if you're server and database is flakey or prove that your CDN is super.</p>
+            <div class="content"><p><a href="http://www.joedog.org/siege-home/" target="_blank">Siege</a> is a great tool for <strong>performance</strong> and <strong>load testing your web application</strong>. I&rsquo;ve been using it for the past 6 months to test WordPress websites along with other web apps that we&rsquo;ve been building.</p>
+<p>Use it to straighten out any kinks with applications like WordPress, learn if you&rsquo;re server and database is flakey or prove that your CDN is super.</p>
 <h2 id="siege-testing-vs-apache-benchmark">Siege testing vs Apache Benchmark</h2>
-<p>If you've used Apache Benchmark in Mac OSx or Linux then you'll already have an idea what Siege can do. Siege is better then AB as you can create a user journey for it to follow or give it a list of pages on your website to randomly hit. The configuration file gives you a lot lot lot more then AB.</p>
+<p>If you&rsquo;ve used Apache Benchmark in Mac OSx or Linux then you&rsquo;ll already have an idea what Siege can do. Siege is better then AB as you can create a user journey for it to follow or give it a list of pages on your website to randomly hit. The configuration file gives you a lot lot lot more then AB.</p>
 <h2 id="siege-testing-is-not-load-testing">Siege testing is not load testing</h2>
-<p>Nothing beats a good Siege - but in reality if you really want to put your site under stress then you'll need to switch to your own server setup with jMeter or checkout <a title="Web server performance – usage and load" href="http://damien.co/blog/web-server-performance-usage-and-load-5987" target="_blank">Blazemeter</a>.</p>
+<p>Nothing beats a good Siege - but in reality if you really want to put your site under stress then you&rsquo;ll need to switch to your own server setup with jMeter or checkout <a title="Web server performance – usage and load" href="http://damien.co/blog/web-server-performance-usage-and-load-5987" target="_blank">Blazemeter</a>.</p>
 <p>Finally .. you might as well give up on performance testing with Siege or Apache benchmark if you Siege server and Web App are on the same internal network / IP address range / co-located in the same data-centre.</p>
 <h2 id="running-siege">Running Siege</h2>
-<p>Once you've started using Siege you won't look back. It's quite verbose and it's great to watch it running through its test.</p>
+<p>Once you&rsquo;ve started using Siege you won&rsquo;t look back. It&rsquo;s quite verbose and it&rsquo;s great to watch it running through its test.</p>
 <pre><code>DAMIEN-RED:~ damien$ siege -c 10 http://damien.co&lt;br /&gt;
 ** SIEGE 2.70&lt;br /&gt;
 ** Preparing 10 concurrent users for battle.&lt;br /&gt;
@@ -151,15 +151,15 @@ Longest transaction: 29.90
 Shortest transaction: 0.05
 </code></pre><h2 id="how-to-install-siege">How to Install Siege</h2>
 <h3 id="centos">Centos</h3>
-<p>If you're on the latest Centos with yum install you need to type</p>
+<p>If you&rsquo;re on the latest Centos with yum install you need to type</p>
 <pre>sudo yum install siege</pre>
 <h3 id="ubuntu">Ubuntu</h3>
-<p>If you're on the latest Centos with yum install you need to type</p>
+<p>If you&rsquo;re on the latest Centos with yum install you need to type</p>
 <pre>sudo apt-get install siege</pre>
 <h2 id="get-started-with-siege">Get started with Siege</h2>
-<p>From your CLI / Terminal you'll want to generate a config file</p>
+<p>From your CLI / Terminal you&rsquo;ll want to generate a config file</p>
 <pre>siege.config</pre>
-<p>this generates a hidden config settings file. Then you'll use your favourite editor to change Siege the way you like it.</p>
+<p>this generates a hidden config settings file. Then you&rsquo;ll use your favourite editor to change Siege the way you like it.</p>
 <pre>nano .siegerc</pre>
 <p>The I suggest you put something under Siege</p>
 <pre>siege -c 10 http://example.com</pre>
@@ -167,7 +167,7 @@ Shortest transaction: 0.05
 <h2 id="hints-making-things-tough">Hints: Making things tough</h2>
 <ol>
 <li>Follow the User Manual and create a urls.txt file with a list of pages on your website.</li>
-<li>Make sure you have Webmin or Munin running so you can visualise the pain you're inflicting on your poor web app.</li>
+<li>Make sure you have Webmin or Munin running so you can visualise the pain you&rsquo;re inflicting on your poor web app.</li>
 <li>Run the siege for 60 minutes with something like 20 users.</li>
 <li>Run the siege for 200, 500, 1000 consecutive users. Watch your server load average go up and your free memory disappear.</li>
 </ol>

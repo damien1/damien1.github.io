@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="Damien Saunders | Management Marketing Consultant">
   <meta name="author" content="Damien Saunders">
-  <meta name="generator" content="Hugo 0.60.0" />
+  <meta name="generator" content="Hugo 0.71.0" />
 
   <!-- plugins -->
   
@@ -112,10 +112,10 @@
               <span class="date">Sunday, Apr 21, 2013</span>
             </div>
             <div class="content"><p><strong>MAMP</strong> (Mac, Apache, MySQL, PHP) is the first go to solution for anyone developing anything web based on your Mac. Even more so as Apple removed the easy controls to enable &lsquo;<strong>web sharing</strong>&rsquo; as it was called in 10.8 Mountain Lion. </p>
-<p>I had wanted to use <a href="http://wp-cli.org/"><em>WP-CLI</em></a> - which is a set of command line tools for WordPress, only that they don't install / like MAMP. Which means, now is the time to <strong>replace MAMP with my own stack</strong>.</p>
+<p>I had wanted to use <a href="http://wp-cli.org/"><em>WP-CLI</em></a> - which is a set of command line tools for WordPress, only that they don&rsquo;t install / like MAMP. Which means, now is the time to <strong>replace MAMP with my own stack</strong>.</p>
 <p> </p>
 <h2 id="apache">Apache</h2>
-<p>Apache is installed on your Mac in 10.8 Mountain Lion - it's just probably not running.</p>
+<p>Apache is installed on your Mac in 10.8 Mountain Lion - it&rsquo;s just probably not running.</p>
 <p>Open Terminal and enter the following</p>
 <pre><code>httpd -v
 </code></pre><p>The version installed on a Mac is 2.2.22</p>
@@ -126,39 +126,39 @@
 </code></pre><p>to restart it</p>
 <pre><code>sudo apachectl restart
 </code></pre><p> </p>
-<p>After you've started it, just head to <a href="http://localhost">http://localhost</a></p>
+<p>After you&rsquo;ve started it, just head to <a href="http://localhost">http://localhost</a></p>
 <h3 id="document-root">Document Root </h3>
 <p>By default, the Apache web pages are stored in</p>
 <pre><code>/Library/WebServer/Documents
-</code></pre><p> You'll want to change this. So follow the linkage or look up Mac osX and VirtualHosts</p>
+</code></pre><p> You&rsquo;ll want to change this. So follow the linkage or look up Mac osX and VirtualHosts</p>
 <p> </p>
 <h2 id="virtualhosts-and-virtualhostx">VirtualHosts and VirtualHostX</h2>
-<p>If you want to have more than one local domain  (live wild) think about having a host for dev.local &amp; staging.local, then you'll need VirtualHosts.</p>
-<p>The easiest app to use is <a href="http://clickontyler.com/virtualhostx/">VirtualHostX</a>, then right the Setup Wizard. It's free for 15 days so that should be long enough to setup your Vhosts.</p>
+<p>If you want to have more than one local domain  (live wild) think about having a host for dev.local &amp; staging.local, then you&rsquo;ll need VirtualHosts.</p>
+<p>The easiest app to use is <a href="http://clickontyler.com/virtualhostx/">VirtualHostX</a>, then right the Setup Wizard. It&rsquo;s free for 15 days so that should be long enough to setup your Vhosts.</p>
 <p><a href="https://damien1.github.io/wp-content/uploads/2013/04/VirtualHostX.png">VirtualHostX</a></p>
-<p> After that, you can create all the VirtualHosts you want  (something you couldn't easily do with MAMP lite). </p>
+<p> After that, you can create all the VirtualHosts you want  (something you couldn&rsquo;t easily do with MAMP lite). </p>
 <p> </p>
 <h2 id="mysql">MySQL</h2>
 <p>Is a little bit harder - you need to download and install it.</p>
 <p>Head to <a href="http://dev.mysql.com/downloads/mysql/">http://dev.mysql.com/downloads/mysql/</a></p>
 <p>Download the Mac version</p>
-<p>Open the installer pkg files and run the Installer and when its done double-click on the Pref Pane to install it (In my testing, you don't need to run the Startup pkg installer if you install the Preference Pane).</p>
+<p>Open the installer pkg files and run the Installer and when its done double-click on the Pref Pane to install it (In my testing, you don&rsquo;t need to run the Startup pkg installer if you install the Preference Pane).</p>
 <p><img src="../../wp-content/uploads/2013/04/Mac-MySQL-Prefpane.png" alt="MySQL"></p>
 <p>From System Preferences, you can start MySQL and set it to run at boot … do that 🙂</p>
 <p> </p>
 <h3 id="set-root-password">Set Root Password</h3>
-<p>(or MySQL won't work)</p>
+<p>(or MySQL won&rsquo;t work)</p>
 <pre><code>/usr/local/mysql/bin/mysqladmin -u root password 'yourpasswordhere'
 </code></pre><p> </p>
 <h3 id="fix-mysql-unable-to-connect-error">Fix MySQL Unable to Connect Error</h3>
 <p>There is a bug in Mac OSx and the MySQL install location is not correctly linked.</p>
-<p>You'll confirm this, if you try to run a WordPress setup so ..</p>
+<p>You&rsquo;ll confirm this, if you try to run a WordPress setup so ..</p>
 <pre><code>sudo mkdir /var/mysql
 </code></pre><pre><code>sudo ln -s /tmp/mysql.sock /var/mysql/mysql.sock
-</code></pre><p>That's fixed — now you can go try to install / setup WordPress or whatever.</p>
+</code></pre><p>That&rsquo;s fixed — now you can go try to install / setup WordPress or whatever.</p>
 <p> </p>
 <h3 id="sequelpro">SequelPro</h3>
-<p>Now that you have MySQL running, you'll want to launch <a href="http://sequelpro.com/">SequelPro</a> and create MySQL database.</p>
+<p>Now that you have MySQL running, you&rsquo;ll want to launch <a href="http://sequelpro.com/">SequelPro</a> and create MySQL database.</p>
 <p>Remember to use the Root user and the Password you set 🙂 </p>
 <p><a href="https://damien1.github.io/wp-content/uploads/2013/04/SequelPro.png">SequelPro</a></p>
 <p> </p>

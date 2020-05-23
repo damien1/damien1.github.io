@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="Damien Saunders | Management Marketing Consultant">
   <meta name="author" content="Damien Saunders">
-  <meta name="generator" content="Hugo 0.60.0" />
+  <meta name="generator" content="Hugo 0.71.0" />
 
   <!-- plugins -->
   
@@ -113,21 +113,21 @@
               <span class="ml-3">-</span>
               <span class="date">Friday, Apr 27, 2012</span>
             </div>
-            <div class="content"><p>Do you have problems with <em>read / write permissions</em> with <strong>WordPress</strong>? Are you stuck and can't upload or change files? If you've tried to change the <strong>CHMOD</strong> values and failed, it might be time to go to the <strong>command-line</strong>.</p>
-<h2 id="working-alone--single-wordpress-site">Working Alone - Single WordPress site</h2>
+            <div class="content"><p>Do you have problems with <em>read / write permissions</em> with <strong>WordPress</strong>? Are you stuck and can&rsquo;t upload or change files? If you&rsquo;ve tried to change the <strong>CHMOD</strong> values and failed, it might be time to go to the <strong>command-line</strong>.</p>
+<h2 id="working-alone---single-wordpress-site">Working Alone - Single WordPress site</h2>
 <p>Run these commands from terminal (command line interface) or ask your web host provider to do this. This will set all files to read/write for the owner and read only for everything else.</p>
 <pre><code class="language-sudo" data-lang="sudo">
 sudo find . -type f -exec chmod 644 {} ;
 </code></pre><p>Run this from inside your WordPress wp-content folder as the . means it will run in on every folder or sub-folder from that . (point).</p>
-<h2 id="working-as-part-of-a-team--shared-readwritepermissions">Working as part of a team - Shared Read/WritePermissions</h2>
+<h2 id="working-as-part-of-a-team---shared-readwritepermissions">Working as part of a team - Shared Read/WritePermissions</h2>
 <p>So that your fellow developers can always help you out it makes sense to have files and folders as group-writable.</p>
 <p>Run these commands from terminal (command line interface) or ask your web host provider to do this.</p>
 <pre><code class="language-sudo" data-lang="sudo">
 sudo find . -type f -exec chmod 664 {} ;
 </code></pre><p>Now all you have to do is make sure your team and Apache are all members of the same Server Group.</p>
-<p>If you're trying to update other peoples files you'll want to run them as Sudo</p>
+<p>If you&rsquo;re trying to update other peoples files you&rsquo;ll want to run them as Sudo</p>
 <h3 id="links">Links</h3>
-<p>[<a href="http://codex.wordpress.org/Changing_File_Permissions">http://codex.wordpress.org/Changing_File_Permissions</a>](WordPress.org - Changing File Permissions)</p>
+<p>[http://codex.wordpress.org/Changing_File_Permissions](WordPress.org - Changing File Permissions)</p>
 </div>
             <div class="share mt-4">
               <ul class="list-inline">

@@ -6,7 +6,7 @@
     <description>Recent content in WordPress on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 23 Jun 2013 16:20:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://damien.co/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,7 @@
       <pubDate>Sun, 23 Jun 2013 16:20:17 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-06-23-wordpress-3-5-2-is-here-time-to-update-your-site/</guid>
-      <description>WordPress 3.5.2 is here - and it&#39;s not to be confused with the 3.</description>
+      <description>WordPress 3.5.2 is here - and it&amp;rsquo;s not to be confused with the 3.</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Sun, 14 Apr 2013 15:00:22 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-14-wordpress-marsedit-schedule-the-future-date-of-publishing-bug/</guid>
-      <description>I&#39;ve been using MarsEdit for years and really like its features - recently I reformatted my Mac and now find that all my WordPress posts are being published immediately.</description>
+      <description>I&amp;rsquo;ve been using MarsEdit for years and really like its features - recently I reformatted my Mac and now find that all my WordPress posts are being published immediately.</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Tue, 22 Jan 2013 20:43:49 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-01-22-managing-a-wordpress-plugin-with-svn-and-git/</guid>
-      <description>I&#39;m not trying to torture myself — which is why for the past 18 months managing my plugins in the WordPress SVN repository has been separated from my development work which is all saved in Git (Bitbucket to be totally honest).</description>
+      <description>I&amp;rsquo;m not trying to torture myself — which is why for the past 18 months managing my plugins in the WordPress SVN repository has been separated from my development work which is all saved in Git (Bitbucket to be totally honest).</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Wed, 12 Dec 2012 19:33:24 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-12-12-wordpress-3-5-welcome-my-plugins-are-tested-and-working/</guid>
-      <description>In case you hadn&#39;t noticed — WordPress 3.5 is here. This release has one great new feature - the replacement for the media library and the drag n drop uploader has changed.</description>
+      <description>In case you hadn&amp;rsquo;t noticed — WordPress 3.5 is here. This release has one great new feature - the replacement for the media library and the drag n drop uploader has changed.</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Mon, 08 Oct 2012 14:56:41 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-10-08-how-to-stop-most-automated-comment-spam/</guid>
-      <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme&#39;s functions.</description>
+      <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme&amp;rsquo;s functions.</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@
       <pubDate>Mon, 30 Jul 2012 15:00:18 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-07-30-how-to-a-wordpress-update-created-a-fatal-and-now-i-cant-login/</guid>
-      <description>You just updated your plugins or theme in WordPress and now you can&#39;t visit wp-admin or visit your website.</description>
+      <description>You just updated your plugins or theme in WordPress and now you can&amp;rsquo;t visit wp-admin or visit your website.</description>
     </item>
     
     <item>
@@ -134,7 +134,7 @@
       <pubDate>Mon, 23 Jul 2012 15:30:41 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-07-23-how-to-fix-htaccess-permalinks-not-working-in-wordpress/</guid>
-      <description>If you&#39;re setting up WordPress on a new server you may find that your custom permalinks don&#39;t work and worse changes you make to your .</description>
+      <description>If you&amp;rsquo;re setting up WordPress on a new server you may find that your custom permalinks don&amp;rsquo;t work and worse changes you make to your .</description>
     </item>
     
     <item>
@@ -161,7 +161,7 @@
       <pubDate>Mon, 18 Jun 2012 17:12:09 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-06-18-wordpress-pre-update-checklist-to-help-avoid-any-problems/</guid>
-      <description>WordPress gets a major update about twice a year. If you&#39;re responsible for doing the upgrade here&#39;s a pre-update checklist for WordPress to help you identify any bugs that will get in the way of a flawless update.</description>
+      <description>WordPress gets a major update about twice a year. If you&amp;rsquo;re responsible for doing the upgrade here&amp;rsquo;s a pre-update checklist for WordPress to help you identify any bugs that will get in the way of a flawless update.</description>
     </item>
     
     <item>
@@ -179,7 +179,7 @@
       <pubDate>Sun, 10 Jun 2012 16:12:48 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-06-10-wordpress-security-5g-blacklist-htaccess/</guid>
-      <description>If you&#39;re into WordPress Security (which you should be) - then you&#39;ve probably already played around with your .</description>
+      <description>If you&amp;rsquo;re into WordPress Security (which you should be) - then you&amp;rsquo;ve probably already played around with your .</description>
     </item>
     
     <item>
@@ -197,7 +197,7 @@
       <pubDate>Fri, 18 May 2012 15:33:31 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-05-18-change-your-wordpress-multi-site-domain-url/</guid>
-      <description>I&#39;ve just finished changing my domain name URL for my WordPress multisite.</description>
+      <description>I&amp;rsquo;ve just finished changing my domain name URL for my WordPress multisite.</description>
     </item>
     
     <item>
@@ -233,7 +233,7 @@
       <pubDate>Mon, 23 Apr 2012 11:45:02 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-04-23-wordpress-3-3-2/</guid>
-      <description>WordPress 3.3.2 is here - and it&#39;s not to be confused with the 3.</description>
+      <description>WordPress 3.3.2 is here - and it&amp;rsquo;s not to be confused with the 3.</description>
     </item>
     
     <item>
@@ -242,7 +242,7 @@
       <pubDate>Sun, 22 Apr 2012 21:31:37 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-04-22-wordpress-3-4-beta-3-is-here/</guid>
-      <description>Another week, another beta so it seem. WordPress 3.4 is on its way - it&#39;s entered public beta, which means you can download it and try it for yourself.</description>
+      <description>Another week, another beta so it seem. WordPress 3.4 is on its way - it&amp;rsquo;s entered public beta, which means you can download it and try it for yourself.</description>
     </item>
     
     <item>
@@ -251,7 +251,7 @@
       <pubDate>Sun, 08 Apr 2012 18:13:40 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-04-08-wordpress-3-4-enters-public-beta-benefits-for-themes/</guid>
-      <description>WordPress 3.4is on its way - it&#39;s entered public beta, which means you can download it and try it for yourself.</description>
+      <description>WordPress 3.4is on its way - it&amp;rsquo;s entered public beta, which means you can download it and try it for yourself.</description>
     </item>
     
     <item>
@@ -269,7 +269,7 @@
       <pubDate>Fri, 13 Jan 2012 16:13:06 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-01-13-how-to-show-more-posts/</guid>
-      <description>It&#39;s very easy to show more posts when browsing WordPress.</description>
+      <description>It&amp;rsquo;s very easy to show more posts when browsing WordPress.</description>
     </item>
     
     <item>
@@ -296,7 +296,7 @@
       <pubDate>Fri, 13 Jan 2012 16:06:50 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-01-13-are-fonts-locked-how-to-prevent-the-wrong-ones-appearing/</guid>
-      <description>No – font’s are not locked in WordPress, but it&#39;s easy to switch to the HTML Editor – where cut paste will only paste plain text.</description>
+      <description>No – font’s are not locked in WordPress, but it&amp;rsquo;s easy to switch to the HTML Editor – where cut paste will only paste plain text.</description>
     </item>
     
     <item>
@@ -323,7 +323,7 @@
       <pubDate>Tue, 03 Jan 2012 22:41:19 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-01-03-update-time-wordpress-3-3-1-released/</guid>
-      <description>Welcome to 2012, it&#39;s &amp;lsquo;barely&amp;rsquo; the first day of work and the WordPress team have released WordPress 3.</description>
+      <description>Welcome to 2012, it&amp;rsquo;s &amp;lsquo;barely&amp;rsquo; the first day of work and the WordPress team have released WordPress 3.</description>
     </item>
     
     <item>
@@ -341,7 +341,7 @@
       <pubDate>Wed, 28 Dec 2011 21:07:41 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-12-28-wordpress-top-9-plugins-for-any-new-install-2/</guid>
-      <description>WordPress is one of the World&#39;s most used web and blog tools - it has 1000&#39;s of plugins that add functionality to your website.</description>
+      <description>WordPress is one of the World&amp;rsquo;s most used web and blog tools - it has 1000&amp;rsquo;s of plugins that add functionality to your website.</description>
     </item>
     
     <item>
@@ -359,7 +359,7 @@
       <pubDate>Mon, 26 Dec 2011 15:38:28 +0000</pubDate>
       
       <guid>http://damien.co/wordpress/increase-wordpress-memory-help-for-evohosting-co-uk-users-5454/</guid>
-      <description>I&#39;ve been using EvoHosting for a good couple of years now and have always been impressed by their service and flexibility.</description>
+      <description>I&amp;rsquo;ve been using EvoHosting for a good couple of years now and have always been impressed by their service and flexibility.</description>
     </item>
     
     <item>
@@ -377,7 +377,7 @@
       <pubDate>Wed, 14 Dec 2011 09:11:54 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-12-14-wordpress-3-3-is-here-get-updating/</guid>
-      <description>WordPress 3.3 is here - I&#39;ve been a little slow in posting this as I was busying myself checking a number of websites have all updated ok.</description>
+      <description>WordPress 3.3 is here - I&amp;rsquo;ve been a little slow in posting this as I was busying myself checking a number of websites have all updated ok.</description>
     </item>
     
     <item>
@@ -431,7 +431,7 @@
       <pubDate>Wed, 16 Nov 2011 23:04:49 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-11-16-migrating-your-company-website-to-wordpress-self-hosted/</guid>
-      <description>WordPress is one of the most popular solutions for blogging. What people don&#39;t know is that WordPress self hosted is the best solution for building a standalone B2B or SME company website.</description>
+      <description>WordPress is one of the most popular solutions for blogging. What people don&amp;rsquo;t know is that WordPress self hosted is the best solution for building a standalone B2B or SME company website.</description>
     </item>
     
     <item>
@@ -449,7 +449,7 @@
       <pubDate>Sun, 30 Oct 2011 17:18:34 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-10-30-wordpress-3-3-enters-public-beta/</guid>
-      <description>WordPress 3.3 is on its way - it&#39;s entered public beta, which means you can download it and try it for yourself.</description>
+      <description>WordPress 3.3 is on its way - it&amp;rsquo;s entered public beta, which means you can download it and try it for yourself.</description>
     </item>
     
     <item>
@@ -503,7 +503,7 @@
       <pubDate>Tue, 05 Jul 2011 12:19:01 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-07-05-wordpress-3-2-is-here-e28093-time-to-update/</guid>
-      <description>The next version of WordPress is here - it&#39;s going to make the admin section look awhole lot different.</description>
+      <description>The next version of WordPress is here - it&amp;rsquo;s going to make the admin section look awhole lot different.</description>
     </item>
     
     <item>
@@ -512,7 +512,7 @@
       <pubDate>Tue, 05 Jul 2011 12:06:21 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-07-05-how-to-stop-wordpress-comment-spam-e28093-instantly/</guid>
-      <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme&#39;s functions.</description>
+      <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme&amp;rsquo;s functions.</description>
     </item>
     
     <item>
@@ -521,7 +521,7 @@
       <pubDate>Tue, 05 Jul 2011 11:19:01 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-07-05-wordpress-3-2-is-here-time-to-update/</guid>
-      <description>The next version of WordPress is here - it&#39;s going to make the admin section look awhole lot different.</description>
+      <description>The next version of WordPress is here - it&amp;rsquo;s going to make the admin section look awhole lot different.</description>
     </item>
     
     <item>
@@ -530,7 +530,7 @@
       <pubDate>Tue, 05 Jul 2011 11:06:21 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-07-05-how-to-stop-wordpress-comment-spam-instantly/</guid>
-      <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme&#39;s functions.</description>
+      <description>It is easy to stop most WordPress comment spam instantly with one small change to your theme&amp;rsquo;s functions.</description>
     </item>
     
     <item>
@@ -629,7 +629,7 @@
       <pubDate>Wed, 15 Jun 2011 15:14:17 +0000</pubDate>
       
       <guid>http://damien.co/wordpress/10-very-useful-wordpress-resources-for-you-3950/</guid>
-      <description>Now that summer is really here (really) - it&#39;s time to catchup on missed reading.</description>
+      <description>Now that summer is really here (really) - it&amp;rsquo;s time to catchup on missed reading.</description>
     </item>
     
     <item>
@@ -665,7 +665,7 @@
       <pubDate>Sun, 24 Apr 2011 12:28:13 +0000</pubDate>
       
       <guid>http://damien.co/wordpress/switching-to-scrivener-for-wordpress-blogging-2901/</guid>
-      <description>I&#39;ve just made the switch - or as we speak, I&#39;m starting to learn about this &amp;lsquo;new&amp;rsquo; tool for writers called Scrivener.</description>
+      <description>I&amp;rsquo;ve just made the switch - or as we speak, I&amp;rsquo;m starting to learn about this &amp;lsquo;new&amp;rsquo; tool for writers called Scrivener.</description>
     </item>
     
     <item>
@@ -674,7 +674,7 @@
       <pubDate>Sat, 23 Apr 2011 22:11:45 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-04-23-6-magazine-wordpress-themes-special-from-woothemes-get-it-before-easters-over/</guid>
-      <description>Here is a special offer on WordPress themes you can&#39;t beat - Woothemes is offering 5 for the price of 1 this Easter long weekend.</description>
+      <description>Here is a special offer on WordPress themes you can&amp;rsquo;t beat - Woothemes is offering 5 for the price of 1 this Easter long weekend.</description>
     </item>
     
     <item>
@@ -773,7 +773,7 @@
       <pubDate>Sat, 11 Sep 2010 11:00:03 +0000</pubDate>
       
       <guid>http://damien.co/wordpress/wp-supercache-were-you-seeing-garbage-1482/</guid>
-      <description>Sorry - I didn&#39;t realise - my site has been having problems for a couple of weeks now.</description>
+      <description>Sorry - I didn&amp;rsquo;t realise - my site has been having problems for a couple of weeks now.</description>
     </item>
     
     <item>
@@ -836,7 +836,7 @@
       <pubDate>Mon, 08 Mar 2010 22:54:54 +0000</pubDate>
       
       <guid>http://damien.co/blog/2010-03-08-migrating-your-company-website-to-wordpress-self-hosted-2/</guid>
-      <description>WordPress is one of the most popular solutions for blogging. What people don&#39;t know is that WordPress self hosted is the best solution for building a standalone SOHO / SME company website.</description>
+      <description>WordPress is one of the most popular solutions for blogging. What people don&amp;rsquo;t know is that WordPress self hosted is the best solution for building a standalone SOHO / SME company website.</description>
     </item>
     
     <item>
@@ -845,7 +845,7 @@
       <pubDate>Mon, 08 Mar 2010 21:07:41 +0000</pubDate>
       
       <guid>http://damien.co/blog/2010-03-08-wordpress-top-9-plugins-for-any-new-install/</guid>
-      <description>WordPress provides a great tool to build and run your own website - it has 1000&#39;s of plugins that add functionality to your website.</description>
+      <description>WordPress provides a great tool to build and run your own website - it has 1000&amp;rsquo;s of plugins that add functionality to your website.</description>
     </item>
     
     <item>

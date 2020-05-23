@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="Damien Saunders | Management Marketing Consultant">
   <meta name="author" content="Damien Saunders">
-  <meta name="generator" content="Hugo 0.60.0" />
+  <meta name="generator" content="Hugo 0.71.0" />
 
   <!-- plugins -->
   
@@ -115,12 +115,12 @@
               <span class="ml-3">-</span>
               <span class="date">Tuesday, Dec 18, 2012</span>
             </div>
-            <div class="content"><p>A few notes on getting <strong>Jenkins-CI</strong> installed on your <strong>Mac</strong> and <strong>setup with Git</strong> <strong>and Bitbucket</strong> for source code management. I've been using Git for some time but I had problems / major issues with Jenkins and could never seem to get this working.</p>
+            <div class="content"><p>A few notes on getting <strong>Jenkins-CI</strong> installed on your <strong>Mac</strong> and <strong>setup with Git</strong> <strong>and Bitbucket</strong> for source code management. I&rsquo;ve been using Git for some time but I had problems / major issues with Jenkins and could never seem to get this working.</p>
 <h2 id="issues-with-setting-up-jenkins-and-git-on-a-mac">Issues with setting up Jenkins and Git on a Mac</h2>
 <p>Here are the issues I was having - the biggest issue was the Error (unable to clone) which showed up when I created a job and added the path to the Bitbucket repo — even after I had added the SSH Key to Bitbucket. It was driving me mad!</p>
 <ul>
-<li>can't pbcopy the ssh-key from terminal for the jenkins user</li>
-<li>can't run the job even though you add the ssh-key to BitBucket</li>
+<li>can&rsquo;t pbcopy the ssh-key from terminal for the jenkins user</li>
+<li>can&rsquo;t run the job even though you add the ssh-key to BitBucket</li>
 <li>error message tells you can clone and is not helpful!</li>
 </ul>
 <h2 id="how-to-install-jenkins-on-a-mac-with-git">How to Install Jenkins on a Mac with Git</h2>
@@ -135,7 +135,7 @@
 <li>Run ssh-keygen</li>
 <li>Copy your SSH Key from Terminal pbcopy &lt; ~/.ssh/id_rsa.pub</li>
 <li>Paste this to Bitbucket and save.</li>
-<li>Go to your repo and copy it's ssh path</li>
+<li>Go to your repo and copy it&rsquo;s ssh path</li>
 <li>Paste this to Terminal</li>
 <li>Yes to add the SSH Host to your known list</li>
 <li>Now go to Jenkins</li>
@@ -144,7 +144,7 @@
 <li>Error is gone!</li>
 <li>Voila</li>
 </ol>
-<p>Note — the key point is that the SSH Host has to be added to the allowed hosts for the user jenkins - if the SSH Host (Bitbucket) is not added, then Jenkins can't figure out how to type Yes (step 13).</p>
+<p>Note — the key point is that the SSH Host has to be added to the allowed hosts for the user jenkins - if the SSH Host (Bitbucket) is not added, then Jenkins can&rsquo;t figure out how to type Yes (step 13).</p>
 </div>
             <div class="share mt-4">
               <ul class="list-inline">

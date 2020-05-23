@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="Damien Saunders | Management Marketing Consultant">
   <meta name="author" content="Damien Saunders">
-  <meta name="generator" content="Hugo 0.60.0" />
+  <meta name="generator" content="Hugo 0.71.0" />
 
   <!-- plugins -->
   
@@ -111,11 +111,11 @@
               <span class="ml-3">-</span>
               <span class="date">Thursday, Jun 14, 2012</span>
             </div>
-            <div class="content"><p><strong><a href="http://isotope.metafizzy.co/" target="_blank">Isotope</a></strong> is an &lsquo;exquisite jQuery plugin for magical layouts&rsquo; which basically means it works wonders on <em>responsive layouts</em>. I've created a <strong>WordPress plugin for Isotope</strong> and just updated this to add <strong>Filtering by Categories</strong>.</p>
+            <div class="content"><p><strong><a href="http://isotope.metafizzy.co/" target="_blank">Isotope</a></strong> is an &lsquo;exquisite jQuery plugin for magical layouts&rsquo; which basically means it works wonders on <em>responsive layouts</em>. I&rsquo;ve created a <strong>WordPress plugin for Isotope</strong> and just updated this to add <strong>Filtering by Categories</strong>.</p>
 <h2 id="how-do-you-add-filtering-for-isotope-to-wordpress">How do you add Filtering for Isotope to WordPress?</h2>
 <p>WordPress uses jQuery in no conflict mode. so you just need to modify the Isotope example code</p>
-<p>You'll need to create your own custom WordPress template with its own WPQuery loop</p>
-<p>Above your Loop you'll need to add your filter buttons like this</p>
+<p>You&rsquo;ll need to create your own custom WordPress template with its own WPQuery loop</p>
+<p>Above your Loop you&rsquo;ll need to add your filter buttons like this</p>
 <pre><code>&lt;ul id=&quot;options&quot;&gt;
 &lt;li&gt;&lt;a href=&quot;#&quot; data-filter=&quot;*&quot; class=&quot;current&quot;&gt;show all&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#&quot; data-filter=&quot;.web&quot; class=&quot;current&quot;&gt;web&lt;/a&gt;&lt;/li&gt;
@@ -138,7 +138,7 @@ return false;
 
 });
 &lt;/script&gt;
-</code></pre><p>Here's the original code for filtering (before I made it safe for WordPress)</p>
+</code></pre><p>Here&rsquo;s the original code for filtering (before I made it safe for WordPress)</p>
 <pre><code>// filter items when filter link is clicked
 $('#filters a').click(function(){
 var selector = $(this).attr('data-filter');
@@ -146,7 +146,7 @@ $container.isotope({ filter: selector });
 return false;
 });
 </code></pre><h3 id="linkage">Linkage</h3>
-<p><a href="https://bitbucket.org/damien1/isotope-wordpress" target="_blank">Damien's Bitbucket Project Repo</a></p>
+<p><a href="https://bitbucket.org/damien1/isotope-wordpress" target="_blank">Damien&rsquo;s Bitbucket Project Repo</a></p>
 <h3 id="notes-on-isotope-licensing">Notes on Isotope Licensing</h3>
 <p>Commercial use of Isotope requires purchase of one-time license fee per developer seat. Commercial use includes any application that makes you money — portfolio sites, premium templates, etc. Commercial licenses may be purchased at metafizzy.co.</p>
 </div>

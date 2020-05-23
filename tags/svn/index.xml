@@ -17,7 +17,7 @@
       <pubDate>Tue, 22 Jan 2013 20:43:49 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-01-22-managing-a-wordpress-plugin-with-svn-and-git/</guid>
-      <description>I&#39;m not trying to torture myself — which is why for the past 18 months managing my plugins in the WordPress SVN repository has been separated from my development work which is all saved in Git (Bitbucket to be totally honest).</description>
+      <description>I&amp;rsquo;m not trying to torture myself — which is why for the past 18 months managing my plugins in the WordPress SVN repository has been separated from my development work which is all saved in Git (Bitbucket to be totally honest).</description>
     </item>
     
   </channel>
