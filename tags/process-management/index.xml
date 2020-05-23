@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>process management on Damien Saunders</title>
+    <title>process management on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/process-management/</link>
-    <description>Recent content in process management on Damien Saunders</description>
+    <description>Recent content in process management on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 21 May 2012 13:05:05 +0000</lastBuildDate>
@@ -12,13 +12,12 @@
     
     
     <item>
-      <title>Axure - workflow for business process &amp;#038; web applications</title>
-      <link>http://damien.co/customer-experience-2/axure/axure-workflow-for-business-process-web-applications-7055/</link>
+      <title>Axure - workflow for business process - web applications</title>
+      <link>http://damien.co/blog/2012-05-21-axure-workflow-for-business-process-web-applications/</link>
       <pubDate>Mon, 21 May 2012 13:05:05 +0000</pubDate>
       
-      <guid>http://damien.co/customer-experience-2/axure/axure-workflow-for-business-process-web-applications-7055/</guid>
-      <description>It&amp;rsquo;s pretty easy to jump in the deep end with Axure and start building wireframes and hi-fi clickable prototypes. But the joy of Axure is starting low-fi (use Post-It Notes) to map a user journey and then create this process flow in Axure. Following a workflow like this means you get the customer journey mapped and you easily link your Axure wireframes to business processes.
-I&amp;rsquo;ve been using Axure for more than a year and it&amp;rsquo;s now my tool of choice for mapping customer journeys and user interaction design.</description>
+      <guid>http://damien.co/blog/2012-05-21-axure-workflow-for-business-process-web-applications/</guid>
+      <description>It&#39;s pretty easy to jump in the deep end with Axure and start building wireframes and hi-fi clickable prototypes.</description>
     </item>
     
   </channel>

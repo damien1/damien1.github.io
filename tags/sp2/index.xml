@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sp2 on Damien Saunders</title>
+    <title>sp2 on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/sp2/</link>
-    <description>Recent content in sp2 on Damien Saunders</description>
+    <description>Recent content in sp2 on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 29 Sep 2009 15:18:03 +0000</lastBuildDate>
@@ -17,10 +17,7 @@
       <pubDate>Tue, 29 Sep 2009 15:18:03 +0000</pubDate>
       
       <guid>http://damien.co/general/tip-of-the-day-windows-vista-sp2-wont-install-on-a-partitioned-drive-320/</guid>
-      <description>Tip of the day: Windows Vista clean install doesn&amp;rsquo;t work on a partitioned drive AND if you then partition the drive after installing Vista, the SP2 will not install as well.
-Effectively this means you should keep your primary drive as 1 partition … or wait til after you&amp;rsquo;ve installed Vista and all the service packs.
-There is a short microsoft kb on this ….
-Will this affect installing Windows 7 for the same reason … I think so.</description>
+      <description>Tip of the day: Windows Vista clean install doesn&#39;t work on a partitioned drive AND if you then partition the drive after installing Vista, the SP2 will not install as well.</description>
     </item>
     
   </channel>

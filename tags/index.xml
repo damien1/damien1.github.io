@@ -1,22 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Damien Saunders</title>
+    <title>Tags on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/</link>
-    <description>Recent content in Tags on Damien Saunders</description>
+    <description>Recent content in Tags on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2020 17:51:27 +0100</lastBuildDate>
     
 	<atom:link href="http://damien.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>DBC Backup</title>
-      <link>http://damien.co/tags/dbc-backup/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <title>Event Tracking</title>
+      <link>http://damien.co/tags/event-tracking/</link>
+      <pubDate>Fri, 22 May 2020 17:51:27 +0100</pubDate>
       
-      <guid>http://damien.co/tags/dbc-backup/</guid>
+      <guid>http://damien.co/tags/event-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>http://damien.co/tags/faq/</link>
+      <pubDate>Fri, 22 May 2020 17:51:27 +0100</pubDate>
+      
+      <guid>http://damien.co/tags/faq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Analytics</title>
+      <link>http://damien.co/tags/google-analytics/</link>
+      <pubDate>Fri, 22 May 2020 17:51:27 +0100</pubDate>
+      
+      <guid>http://damien.co/tags/google-analytics/</guid>
       <description></description>
     </item>
     
@@ -26,15 +44,6 @@
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
       <guid>http://damien.co/tags/dbc-backup-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PR</title>
-      <link>http://damien.co/tags/pr/</link>
-      <pubDate>Tue, 12 May 2020 22:10:00 +0100</pubDate>
-      
-      <guid>http://damien.co/tags/pr/</guid>
       <description></description>
     </item>
     
@@ -147,6 +156,15 @@
     </item>
     
     <item>
+      <title>DBC Backup</title>
+      <link>http://damien.co/tags/dbc-backup/</link>
+      <pubDate>Wed, 05 Mar 2014 13:18:37 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/dbc-backup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Isotope</title>
       <link>http://damien.co/tags/isotope/</link>
       <pubDate>Tue, 04 Mar 2014 22:11:44 +0000</pubDate>
@@ -228,15 +246,6 @@
     </item>
     
     <item>
-      <title>Word</title>
-      <link>http://damien.co/tags/word/</link>
-      <pubDate>Thu, 26 Sep 2013 12:05:33 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/word/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>WordPress</title>
       <link>http://damien.co/tags/wordpress/</link>
       <pubDate>Thu, 26 Sep 2013 12:05:33 +0000</pubDate>
@@ -255,15 +264,6 @@
     </item>
     
     <item>
-      <title>Release</title>
-      <link>http://damien.co/tags/release/</link>
-      <pubDate>Sun, 23 Jun 2013 16:20:17 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/release/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Releases</title>
       <link>http://damien.co/tags/releases/</link>
       <pubDate>Sun, 23 Jun 2013 16:20:17 +0000</pubDate>
@@ -278,15 +278,6 @@
       <pubDate>Thu, 06 Jun 2013 14:11:50 +0000</pubDate>
       
       <guid>http://damien.co/tags/analytics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>content</title>
-      <link>http://damien.co/tags/content/</link>
-      <pubDate>Thu, 06 Jun 2013 14:11:50 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/content/</guid>
       <description></description>
     </item>
     
@@ -311,7 +302,7 @@
     <item>
       <title>Apache</title>
       <link>http://damien.co/tags/apache/</link>
-      <pubDate>Mon, 13 May 2013 21:18:40 +0000</pubDate>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://damien.co/tags/apache/</guid>
       <description></description>
@@ -372,15 +363,6 @@
     </item>
     
     <item>
-      <title>FAQ</title>
-      <link>http://damien.co/tags/faq/</link>
-      <pubDate>Mon, 29 Apr 2013 12:00:56 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/faq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>multisite</title>
       <link>http://damien.co/tags/multisite/</link>
       <pubDate>Mon, 29 Apr 2013 12:00:56 +0000</pubDate>
@@ -417,29 +399,11 @@
     </item>
     
     <item>
-      <title>plugin</title>
-      <link>http://damien.co/tags/plugin/</link>
-      <pubDate>Mon, 22 Apr 2013 12:11:05 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/plugin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Plugins</title>
       <link>http://damien.co/tags/plugins/</link>
       <pubDate>Mon, 22 Apr 2013 12:11:05 +0000</pubDate>
       
       <guid>http://damien.co/tags/plugins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visual Layouts</title>
-      <link>http://damien.co/tags/visual-layouts/</link>
-      <pubDate>Mon, 22 Apr 2013 12:11:05 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/visual-layouts/</guid>
       <description></description>
     </item>
     
@@ -530,15 +494,6 @@
       <pubDate>Tue, 16 Apr 2013 20:39:24 +0000</pubDate>
       
       <guid>http://damien.co/tags/statisitics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>web</title>
-      <link>http://damien.co/tags/web/</link>
-      <pubDate>Tue, 16 Apr 2013 20:39:24 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/web/</guid>
       <description></description>
     </item>
     
@@ -660,15 +615,6 @@
     </item>
     
     <item>
-      <title>CI</title>
-      <link>http://damien.co/tags/ci/</link>
-      <pubDate>Sun, 07 Apr 2013 21:08:35 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/ci/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Continuous Integration</title>
       <link>http://damien.co/tags/continuous-integration/</link>
       <pubDate>Sun, 07 Apr 2013 21:08:35 +0000</pubDate>
@@ -777,15 +723,6 @@
     </item>
     
     <item>
-      <title>Twitter</title>
-      <link>http://damien.co/tags/twitter/</link>
-      <pubDate>Tue, 19 Mar 2013 11:31:15 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/twitter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Twitter Bootstrap</title>
       <link>http://damien.co/tags/twitter-bootstrap/</link>
       <pubDate>Tue, 19 Mar 2013 11:31:15 +0000</pubDate>
@@ -822,29 +759,11 @@
     </item>
     
     <item>
-      <title>App</title>
-      <link>http://damien.co/tags/app/</link>
-      <pubDate>Sat, 16 Mar 2013 17:33:15 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/app/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Apple</title>
       <link>http://damien.co/tags/apple/</link>
       <pubDate>Sat, 16 Mar 2013 17:33:15 +0000</pubDate>
       
       <guid>http://damien.co/tags/apple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mac</title>
-      <link>http://damien.co/tags/mac/</link>
-      <pubDate>Sat, 16 Mar 2013 17:33:15 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/mac/</guid>
       <description></description>
     </item>
     
@@ -876,24 +795,6 @@
     </item>
     
     <item>
-      <title>market</title>
-      <link>http://damien.co/tags/market/</link>
-      <pubDate>Wed, 06 Mar 2013 11:22:25 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/market/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>marketing</title>
-      <link>http://damien.co/tags/marketing/</link>
-      <pubDate>Wed, 06 Mar 2013 11:22:25 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Marketing Strategy</title>
       <link>http://damien.co/tags/marketing-strategy/</link>
       <pubDate>Wed, 06 Mar 2013 11:22:25 +0000</pubDate>
@@ -908,15 +809,6 @@
       <pubDate>Fri, 08 Feb 2013 11:06:13 +0000</pubDate>
       
       <guid>http://damien.co/tags/custom-taxonomies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>filter</title>
-      <link>http://damien.co/tags/filter/</link>
-      <pubDate>Fri, 08 Feb 2013 11:06:13 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/filter/</guid>
       <description></description>
     </item>
     
@@ -993,6 +885,15 @@
     </item>
     
     <item>
+      <title>mac</title>
+      <link>http://damien.co/tags/mac/</link>
+      <pubDate>Tue, 18 Dec 2012 13:56:15 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Shakespeare</title>
       <link>http://damien.co/tags/shakespeare/</link>
       <pubDate>Wed, 12 Dec 2012 10:11:46 +0000</pubDate>
@@ -1011,11 +912,29 @@
     </item>
     
     <item>
+      <title>CI</title>
+      <link>http://damien.co/tags/ci/</link>
+      <pubDate>Wed, 28 Nov 2012 13:36:07 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/ci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Custom Post</title>
       <link>http://damien.co/tags/custom-post/</link>
       <pubDate>Tue, 27 Nov 2012 13:31:45 +0000</pubDate>
       
       <guid>http://damien.co/tags/custom-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Layouts</title>
+      <link>http://damien.co/tags/visual-layouts/</link>
+      <pubDate>Mon, 12 Nov 2012 11:39:04 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/visual-layouts/</guid>
       <description></description>
     </item>
     
@@ -1043,6 +962,15 @@
       <pubDate>Wed, 10 Oct 2012 15:13:57 +0000</pubDate>
       
       <guid>http://damien.co/tags/bit.ly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>http://damien.co/tags/twitter/</link>
+      <pubDate>Wed, 10 Oct 2012 15:13:57 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/twitter/</guid>
       <description></description>
     </item>
     
@@ -1083,15 +1011,6 @@
     </item>
     
     <item>
-      <title>Mobile</title>
-      <link>http://damien.co/tags/mobile/</link>
-      <pubDate>Mon, 01 Oct 2012 13:20:02 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/mobile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mobile Internet</title>
       <link>http://damien.co/tags/mobile-internet/</link>
       <pubDate>Mon, 01 Oct 2012 13:20:02 +0000</pubDate>
@@ -1124,15 +1043,6 @@
       <pubDate>Wed, 26 Sep 2012 08:44:34 +0000</pubDate>
       
       <guid>http://damien.co/tags/maps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>layout</title>
-      <link>http://damien.co/tags/layout/</link>
-      <pubDate>Tue, 25 Sep 2012 22:00:40 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/layout/</guid>
       <description></description>
     </item>
     
@@ -1232,15 +1142,6 @@
       <pubDate>Mon, 03 Sep 2012 13:21:09 +0000</pubDate>
       
       <guid>http://damien.co/tags/visa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Popular</title>
-      <link>http://damien.co/tags/popular/</link>
-      <pubDate>Mon, 27 Aug 2012 15:34:23 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/popular/</guid>
       <description></description>
     </item>
     
@@ -1398,15 +1299,6 @@
     </item>
     
     <item>
-      <title>digital</title>
-      <link>http://damien.co/tags/digital/</link>
-      <pubDate>Thu, 21 Jun 2012 16:00:54 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/digital/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>digital marketing</title>
       <link>http://damien.co/tags/digital-marketing/</link>
       <pubDate>Thu, 21 Jun 2012 16:00:54 +0000</pubDate>
@@ -1515,15 +1407,6 @@
     </item>
     
     <item>
-      <title>Update</title>
-      <link>http://damien.co/tags/update/</link>
-      <pubDate>Mon, 18 Jun 2012 17:12:09 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/update/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Updates</title>
       <link>http://damien.co/tags/updates/</link>
       <pubDate>Mon, 18 Jun 2012 17:12:09 +0000</pubDate>
@@ -1556,15 +1439,6 @@
       <pubDate>Mon, 18 Jun 2012 14:22:59 +0000</pubDate>
       
       <guid>http://damien.co/tags/social-gaming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>brand</title>
-      <link>http://damien.co/tags/brand/</link>
-      <pubDate>Sun, 17 Jun 2012 18:47:42 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/brand/</guid>
       <description></description>
     </item>
     
@@ -1614,20 +1488,20 @@
     </item>
     
     <item>
+      <title>Mobile</title>
+      <link>http://damien.co/tags/mobile/</link>
+      <pubDate>Sun, 17 Jun 2012 16:00:27 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>WP Touch</title>
       <link>http://damien.co/tags/wp-touch/</link>
       <pubDate>Sun, 17 Jun 2012 16:00:27 +0000</pubDate>
       
       <guid>http://damien.co/tags/wp-touch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>search</title>
-      <link>http://damien.co/tags/search/</link>
-      <pubDate>Fri, 15 Jun 2012 16:37:59 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/search/</guid>
       <description></description>
     </item>
     
@@ -1668,6 +1542,24 @@
     </item>
     
     <item>
+      <title>filter</title>
+      <link>http://damien.co/tags/filter/</link>
+      <pubDate>Thu, 14 Jun 2012 17:27:25 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App</title>
+      <link>http://damien.co/tags/app/</link>
+      <pubDate>Mon, 11 Jun 2012 13:39:31 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mobile App Design</title>
       <link>http://damien.co/tags/mobile-app-design/</link>
       <pubDate>Mon, 11 Jun 2012 13:39:31 +0000</pubDate>
@@ -1686,11 +1578,11 @@
     </item>
     
     <item>
-      <title>Axure</title>
-      <link>http://damien.co/tags/axure/</link>
-      <pubDate>Mon, 28 May 2012 16:07:55 +0000</pubDate>
+      <title>Release</title>
+      <link>http://damien.co/tags/release/</link>
+      <pubDate>Wed, 06 Jun 2012 21:03:08 +0000</pubDate>
       
-      <guid>http://damien.co/tags/axure/</guid>
+      <guid>http://damien.co/tags/release/</guid>
       <description></description>
     </item>
     
@@ -1830,29 +1722,11 @@
     </item>
     
     <item>
-      <title>Copy</title>
-      <link>http://damien.co/tags/copy/</link>
-      <pubDate>Thu, 10 May 2012 11:12:28 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/copy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Copyright</title>
       <link>http://damien.co/tags/copyright/</link>
       <pubDate>Thu, 10 May 2012 11:12:28 +0000</pubDate>
       
       <guid>http://damien.co/tags/copyright/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Creative</title>
-      <link>http://damien.co/tags/creative/</link>
-      <pubDate>Thu, 10 May 2012 11:12:28 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/creative/</guid>
       <description></description>
     </item>
     
@@ -1929,11 +1803,20 @@
     </item>
     
     <item>
-      <title>Google Analytics</title>
-      <link>http://damien.co/tags/google-analytics/</link>
-      <pubDate>Tue, 10 Apr 2012 12:34:04 +0000</pubDate>
+      <title>Update</title>
+      <link>http://damien.co/tags/update/</link>
+      <pubDate>Mon, 23 Apr 2012 11:45:02 +0000</pubDate>
       
-      <guid>http://damien.co/tags/google-analytics/</guid>
+      <guid>http://damien.co/tags/update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marketing</title>
+      <link>http://damien.co/tags/marketing/</link>
+      <pubDate>Fri, 13 Apr 2012 12:53:32 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/marketing/</guid>
       <description></description>
     </item>
     
@@ -1956,6 +1839,15 @@
     </item>
     
     <item>
+      <title>Axure</title>
+      <link>http://damien.co/tags/axure/</link>
+      <pubDate>Tue, 10 Apr 2012 09:43:57 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/axure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>masonry</title>
       <link>http://damien.co/tags/masonry/</link>
       <pubDate>Sat, 07 Apr 2012 12:56:11 +0000</pubDate>
@@ -1970,6 +1862,15 @@
       <pubDate>Fri, 06 Apr 2012 20:23:18 +0000</pubDate>
       
       <guid>http://damien.co/tags/adhd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UX/UI</title>
+      <link>http://damien.co/tags/ux/ui/</link>
+      <pubDate>Mon, 02 Apr 2012 13:33:25 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/ux/ui/</guid>
       <description></description>
     </item>
     
@@ -2001,6 +1902,15 @@
     </item>
     
     <item>
+      <title>Sticky Nav</title>
+      <link>http://damien.co/tags/sticky-nav/</link>
+      <pubDate>Mon, 26 Mar 2012 11:00:22 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/sticky-nav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>post-it</title>
       <link>http://damien.co/tags/post-it/</link>
       <pubDate>Fri, 16 Mar 2012 22:44:34 +0000</pubDate>
@@ -2010,38 +1920,11 @@
     </item>
     
     <item>
-      <title>nav bar</title>
-      <link>http://damien.co/tags/nav-bar/</link>
-      <pubDate>Thu, 15 Mar 2012 10:09:25 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/nav-bar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>scrollspy</title>
       <link>http://damien.co/tags/scrollspy/</link>
       <pubDate>Thu, 15 Mar 2012 10:09:25 +0000</pubDate>
       
       <guid>http://damien.co/tags/scrollspy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UI</title>
-      <link>http://damien.co/tags/ui/</link>
-      <pubDate>Thu, 15 Mar 2012 10:09:25 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/ui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UX</title>
-      <link>http://damien.co/tags/ux/</link>
-      <pubDate>Thu, 15 Mar 2012 10:09:25 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/ux/</guid>
       <description></description>
     </item>
     
@@ -2100,15 +1983,6 @@
     </item>
     
     <item>
-      <title>presentation</title>
-      <link>http://damien.co/tags/presentation/</link>
-      <pubDate>Tue, 17 Jan 2012 11:30:49 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/presentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Presentations</title>
       <link>http://damien.co/tags/presentations/</link>
       <pubDate>Tue, 17 Jan 2012 11:30:49 +0000</pubDate>
@@ -2136,15 +2010,6 @@
     </item>
     
     <item>
-      <title>Paste</title>
-      <link>http://damien.co/tags/paste/</link>
-      <pubDate>Fri, 13 Jan 2012 16:09:39 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/paste/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Toolbar</title>
       <link>http://damien.co/tags/toolbar/</link>
       <pubDate>Fri, 13 Jan 2012 16:09:39 +0000</pubDate>
@@ -2154,29 +2019,20 @@
     </item>
     
     <item>
+      <title>Word</title>
+      <link>http://damien.co/tags/word/</link>
+      <pubDate>Fri, 13 Jan 2012 16:09:39 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/word/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Visual Editor</title>
       <link>http://damien.co/tags/visual-editor/</link>
       <pubDate>Fri, 13 Jan 2012 16:06:50 +0000</pubDate>
       
       <guid>http://damien.co/tags/visual-editor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Errors</title>
-      <link>http://damien.co/tags/errors/</link>
-      <pubDate>Fri, 13 Jan 2012 16:05:01 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/errors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Not Working</title>
-      <link>http://damien.co/tags/not-working/</link>
-      <pubDate>Fri, 13 Jan 2012 16:05:01 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/not-working/</guid>
       <description></description>
     </item>
     
@@ -2262,6 +2118,15 @@
     </item>
     
     <item>
+      <title>Errors</title>
+      <link>http://damien.co/tags/errors/</link>
+      <pubDate>Tue, 27 Dec 2011 12:30:23 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/errors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Issues</title>
       <link>http://damien.co/tags/issues/</link>
       <pubDate>Tue, 27 Dec 2011 12:30:23 +0000</pubDate>
@@ -2325,6 +2190,15 @@
     </item>
     
     <item>
+      <title>Popular</title>
+      <link>http://damien.co/tags/popular/</link>
+      <pubDate>Thu, 01 Dec 2011 11:26:47 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/popular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Foursquare</title>
       <link>http://damien.co/tags/foursquare/</link>
       <pubDate>Tue, 29 Nov 2011 09:00:30 +0000</pubDate>
@@ -2343,15 +2217,6 @@
     </item>
     
     <item>
-      <title>Events</title>
-      <link>http://damien.co/tags/events/</link>
-      <pubDate>Wed, 23 Nov 2011 13:53:59 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/events/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Inbound Marketing</title>
       <link>http://damien.co/tags/inbound-marketing/</link>
       <pubDate>Wed, 16 Nov 2011 23:04:49 +0000</pubDate>
@@ -2361,11 +2226,11 @@
     </item>
     
     <item>
-      <title>mmCHANNEL</title>
-      <link>http://damien.co/tags/mmchannel/</link>
+      <title>Migrating</title>
+      <link>http://damien.co/tags/migrating/</link>
       <pubDate>Wed, 16 Nov 2011 23:04:49 +0000</pubDate>
       
-      <guid>http://damien.co/tags/mmchannel/</guid>
+      <guid>http://damien.co/tags/migrating/</guid>
       <description></description>
     </item>
     
@@ -2375,15 +2240,6 @@
       <pubDate>Wed, 16 Nov 2011 23:04:49 +0000</pubDate>
       
       <guid>http://damien.co/tags/web-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Webdev</title>
-      <link>http://damien.co/tags/webdev/</link>
-      <pubDate>Wed, 16 Nov 2011 23:04:49 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/webdev/</guid>
       <description></description>
     </item>
     
@@ -2442,6 +2298,15 @@
     </item>
     
     <item>
+      <title>PR</title>
+      <link>http://damien.co/tags/pr/</link>
+      <pubDate>Mon, 14 Nov 2011 09:45:19 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/pr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>books</title>
       <link>http://damien.co/tags/books/</link>
       <pubDate>Thu, 10 Nov 2011 12:07:48 +0000</pubDate>
@@ -2456,15 +2321,6 @@
       <pubDate>Thu, 10 Nov 2011 12:07:48 +0000</pubDate>
       
       <guid>http://damien.co/tags/review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>zoho</title>
-      <link>http://damien.co/tags/zoho/</link>
-      <pubDate>Mon, 31 Oct 2011 15:08:21 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/zoho/</guid>
       <description></description>
     </item>
     
@@ -2492,6 +2348,15 @@
       <pubDate>Wed, 26 Oct 2011 10:14:49 +0000</pubDate>
       
       <guid>http://damien.co/tags/customer-relationship-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zoho</title>
+      <link>http://damien.co/tags/zoho/</link>
+      <pubDate>Wed, 26 Oct 2011 10:14:49 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/zoho/</guid>
       <description></description>
     </item>
     
@@ -2550,6 +2415,15 @@
     </item>
     
     <item>
+      <title>layout</title>
+      <link>http://damien.co/tags/layout/</link>
+      <pubDate>Tue, 04 Oct 2011 11:36:02 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/layout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>magazine</title>
       <link>http://damien.co/tags/magazine/</link>
       <pubDate>Tue, 04 Oct 2011 11:36:02 +0000</pubDate>
@@ -2600,15 +2474,6 @@
       <pubDate>Mon, 25 Jul 2011 09:14:08 +0000</pubDate>
       
       <guid>http://damien.co/tags/new-business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Startup</title>
-      <link>http://damien.co/tags/startup/</link>
-      <pubDate>Mon, 25 Jul 2011 09:14:08 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/startup/</guid>
       <description></description>
     </item>
     
@@ -2685,6 +2550,24 @@
     </item>
     
     <item>
+      <title>web</title>
+      <link>http://damien.co/tags/web/</link>
+      <pubDate>Wed, 15 Jun 2011 11:03:31 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brand</title>
+      <link>http://damien.co/tags/brand/</link>
+      <pubDate>Tue, 14 Jun 2011 14:40:23 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/brand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>e-mail</title>
       <link>http://damien.co/tags/e-mail/</link>
       <pubDate>Tue, 14 Jun 2011 14:40:23 +0000</pubDate>
@@ -2708,6 +2591,15 @@
       <pubDate>Mon, 13 Jun 2011 17:50:46 +0000</pubDate>
       
       <guid>http://damien.co/tags/social-crm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plugin</title>
+      <link>http://damien.co/tags/plugin/</link>
+      <pubDate>Fri, 10 Jun 2011 11:05:00 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/plugin/</guid>
       <description></description>
     </item>
     
@@ -3180,6 +3072,15 @@
     </item>
     
     <item>
+      <title>Startup</title>
+      <link>http://damien.co/tags/startup/</link>
+      <pubDate>Thu, 24 Feb 2011 09:50:25 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>valuation</title>
       <link>http://damien.co/tags/valuation/</link>
       <pubDate>Thu, 24 Feb 2011 09:50:25 +0000</pubDate>
@@ -3234,6 +3135,15 @@
     </item>
     
     <item>
+      <title>Webdev</title>
+      <link>http://damien.co/tags/webdev/</link>
+      <pubDate>Sat, 12 Feb 2011 16:52:24 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/webdev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>productivity</title>
       <link>http://damien.co/tags/productivity/</link>
       <pubDate>Mon, 31 Jan 2011 09:45:18 +0000</pubDate>
@@ -3266,6 +3176,15 @@
       <pubDate>Thu, 06 Jan 2011 09:29:56 +0000</pubDate>
       
       <guid>http://damien.co/tags/ideas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>presentation</title>
+      <link>http://damien.co/tags/presentation/</link>
+      <pubDate>Thu, 06 Jan 2011 09:29:56 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/presentation/</guid>
       <description></description>
     </item>
     
@@ -4053,15 +3972,6 @@
     </item>
     
     <item>
-      <title>Windows</title>
-      <link>http://damien.co/tags/windows/</link>
-      <pubDate>Sat, 26 Jun 2010 14:16:25 +0000</pubDate>
-      
-      <guid>http://damien.co/tags/windows/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>windows 7</title>
       <link>http://damien.co/tags/windows-7/</link>
       <pubDate>Sat, 26 Jun 2010 14:16:25 +0000</pubDate>
@@ -4395,6 +4305,15 @@
     </item>
     
     <item>
+      <title>search</title>
+      <link>http://damien.co/tags/search/</link>
+      <pubDate>Tue, 19 Jan 2010 17:54:21 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>South Africa</title>
       <link>http://damien.co/tags/south-africa/</link>
       <pubDate>Sat, 16 Jan 2010 18:22:32 +0000</pubDate>
@@ -4512,6 +4431,15 @@
     </item>
     
     <item>
+      <title>Creative</title>
+      <link>http://damien.co/tags/creative/</link>
+      <pubDate>Mon, 26 Oct 2009 15:05:39 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/creative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>mp3</title>
       <link>http://damien.co/tags/mp3/</link>
       <pubDate>Mon, 26 Oct 2009 15:05:39 +0000</pubDate>
@@ -4562,6 +4490,15 @@
       <pubDate>Tue, 29 Sep 2009 15:18:03 +0000</pubDate>
       
       <guid>http://damien.co/tags/vista/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>http://damien.co/tags/windows/</link>
+      <pubDate>Tue, 29 Sep 2009 15:18:03 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/windows/</guid>
       <description></description>
     </item>
     
@@ -4719,6 +4656,15 @@
     </item>
     
     <item>
+      <title>digital</title>
+      <link>http://damien.co/tags/digital/</link>
+      <pubDate>Tue, 11 Aug 2009 17:28:04 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/digital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>phone</title>
       <link>http://damien.co/tags/phone/</link>
       <pubDate>Tue, 11 Aug 2009 15:14:41 +0000</pubDate>
@@ -4728,11 +4674,29 @@
     </item>
     
     <item>
+      <title>content</title>
+      <link>http://damien.co/tags/content/</link>
+      <pubDate>Mon, 03 Aug 2009 10:27:24 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>new media</title>
       <link>http://damien.co/tags/new-media/</link>
       <pubDate>Mon, 03 Aug 2009 10:27:24 +0000</pubDate>
       
       <guid>http://damien.co/tags/new-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>market</title>
+      <link>http://damien.co/tags/market/</link>
+      <pubDate>Mon, 13 Jul 2009 15:30:05 +0000</pubDate>
+      
+      <guid>http://damien.co/tags/market/</guid>
       <description></description>
     </item>
     

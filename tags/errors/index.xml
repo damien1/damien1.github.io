@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Errors on Damien Saunders</title>
+    <title>Errors on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/errors/</link>
-    <description>Recent content in Errors on Damien Saunders</description>
+    <description>Recent content in Errors on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 13 Jan 2012 16:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Dec 2011 12:30:23 +0000</lastBuildDate>
     
 	<atom:link href="http://damien.co/tags/errors/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Site down – White Screen of Death</title>
-      <link>http://damien.co/blog/2012-01-13-site-down-white-screen-of-death/</link>
-      <pubDate>Fri, 13 Jan 2012 16:05:01 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2012-01-13-site-down-white-screen-of-death/</guid>
-      <description>If you just added a plug-in or made a change to a theme and now you can’t access either the wp-admin pages or the front end
-Open the FTP programme and navigate to wp-content/plugin and delete the plugin you just uploaded.</description>
-    </item>
     
     <item>
       <title>HOW TO fix the Fatal Error: Allowed Memory Size in WordPress</title>
@@ -27,9 +17,7 @@ Open the FTP programme and navigate to wp-content/plugin and delete the plugin y
       <pubDate>Tue, 27 Dec 2011 12:30:23 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-12-27-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-2/</guid>
-      <description>WordPress offers lots of plugins to choose from and if you add to many you will soon come across this Fatal Error message. You can easily fix the problem (and then go back to adding more plugins).
-This out of memory error doesn&amp;rsquo;t mean you have to go buy more RAM — just have to amend a line of text in a wordpress settings file.
- Fix the Fatal Error: Allowed Memory Size When you installed WordPress you either uploaded it using FTP yourself or went to an admin cpanel and installed it.</description>
+      <description>WordPress offers lots of plugins to choose from and if you add to many you will soon come across this Fatal Error message.</description>
     </item>
     
     <item>
@@ -38,8 +26,7 @@ This out of memory error doesn&amp;rsquo;t mean you have to go buy more RAM — 
       <pubDate>Mon, 26 Dec 2011 15:38:28 +0000</pubDate>
       
       <guid>http://damien.co/wordpress/increase-wordpress-memory-help-for-evohosting-co-uk-users-5454/</guid>
-      <description>I&amp;rsquo;ve been using EvoHostingfor a good couple of years now and have always been impressed by their service and flexibility. I&amp;rsquo;ve felt my site has suffered in recent months - I just feel the performance has suffered and have few options to speed-up my website.
-So sometimes you want more freedom to control your server (like Rackspace), but using a shared server gives you few choices to do this. Here is the solution for WordPress sites hosted by EvoHosting UK which you can implement now.</description>
+      <description>I&#39;ve been using EvoHosting for a good couple of years now and have always been impressed by their service and flexibility.</description>
     </item>
     
     <item>
@@ -48,9 +35,7 @@ So sometimes you want more freedom to control your server (like Rackspace), but 
       <pubDate>Sun, 10 Jul 2011 15:31:32 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-07-10-how-to-recover-from-the-most-common-wordpress-website-killers/</guid>
-      <description>It’s easy to recover from the 2 most common errors that kill your WordPress website. Fix the issue in 3 simple steps.
-When something goes wrong WordPress the most common cause is a plugin conflict or a problem with your theme. There’s nothing worse then feeling you’ve been locked out from your own website and can’t get to the wp-admin section to login.
-Today, WordPress is one of the world’s best solutions for blogging and website.</description>
+      <description>It’s easy to recover from the 2 most common errors that kill your WordPress website.</description>
     </item>
     
   </channel>

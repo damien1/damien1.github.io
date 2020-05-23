@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Marketing on Damien Saunders | Management Marketing Consultant</title>
+    <link>http://damien.co/categories/digital-marketing/</link>
+    <description>Recent content in Digital Marketing on Damien Saunders | Management Marketing Consultant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 23 Nov 2011 13:53:59 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/categories/digital-marketing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Analytics - Event Tracking</title>
+      <link>http://damien.co/blog/2011-11-23-google-analytics-event-tracking/</link>
+      <pubDate>Wed, 23 Nov 2011 13:53:59 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2011-11-23-google-analytics-event-tracking/</guid>
+      <description>Google Analytics provides a number of extra tools for the adventurous to improve tracking and provide valuable insights.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linux on Damien Saunders</title>
+    <title>Linux on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/linux/</link>
-    <description>Recent content in Linux on Damien Saunders</description>
+    <description>Recent content in Linux on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 14 Aug 2008 09:06:03 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Thu, 14 Aug 2008 09:06:03 +0000</pubDate>
       
       <guid>http://damien.co/blog/2008-08-14-ill-move-to-linux-thanks-amarok/</guid>
-      <description>Damien says, one of the biggest problems with Linux has always been a lack of strength in its media players. Amarok v2 is now in the pipe and its looking great.
-The Amarok 1 client which most Linux users had to use (it was the best option) really lacked in its options for managing artists, albums, compilations as it relied on a database driven columns view. I never found that easy to use.</description>
+      <description>Damien says, one of the biggest problems with Linux has always been a lack of strength in its media players.</description>
     </item>
     
   </channel>

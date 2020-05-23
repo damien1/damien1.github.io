@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WSOD on Damien Saunders</title>
+    <title>WSOD on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/wsod/</link>
-    <description>Recent content in WSOD on Damien Saunders</description>
+    <description>Recent content in WSOD on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 30 Jul 2012 15:00:18 +0000</lastBuildDate>
@@ -17,9 +17,7 @@
       <pubDate>Mon, 30 Jul 2012 15:00:18 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-07-30-how-to-a-wordpress-update-created-a-fatal-and-now-i-cant-login/</guid>
-      <description>You just updated your plugins or theme in WordPress and now you can&amp;rsquo;t visit wp-admin or visit your website. Everything is broken, what you&amp;rsquo;re looking at is the White Screen of Death.
-It’s easy to recover from the 2 most common errors that kill your WordPress website. Fix the issue in 3 simple steps.
-When something goes wrong WordPress the most common cause is a plugin conflict or a problem with your theme.</description>
+      <description>You just updated your plugins or theme in WordPress and now you can&#39;t visit wp-admin or visit your website.</description>
     </item>
     
     <item>
@@ -28,9 +26,7 @@ When something goes wrong WordPress the most common cause is a plugin conflict o
       <pubDate>Sun, 10 Jul 2011 15:31:32 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-07-10-how-to-recover-from-the-most-common-wordpress-website-killers/</guid>
-      <description>It’s easy to recover from the 2 most common errors that kill your WordPress website. Fix the issue in 3 simple steps.
-When something goes wrong WordPress the most common cause is a plugin conflict or a problem with your theme. There’s nothing worse then feeling you’ve been locked out from your own website and can’t get to the wp-admin section to login.
-Today, WordPress is one of the world’s best solutions for blogging and website.</description>
+      <description>It’s easy to recover from the 2 most common errors that kill your WordPress website.</description>
     </item>
     
   </channel>

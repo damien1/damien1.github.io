@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Evernote on Damien Saunders</title>
+    <title>Evernote on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/evernote/</link>
-    <description>Recent content in Evernote on Damien Saunders</description>
+    <description>Recent content in Evernote on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 21 May 2012 19:39:24 +0000</lastBuildDate>
@@ -17,9 +17,7 @@
       <pubDate>Mon, 21 May 2012 19:39:24 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-05-21-app-design-review-of-evernotes-first-time-user-guide/</guid>
-      <description>It&amp;rsquo;s not often that we (as app user or developers) stop to consider how important the First Time User experience or the Getting Started Guide is.
-If you had never heard of Evernote (or many other apps) then you rely on this introduction to do a lot of things. To sum it up, the first time user experience has to do two things:
- sell the customer that the app will do what the user thinks it will do (they&amp;rsquo;ve already installed it but app store descriptions can be misleading), and; tell the customer how to use it  Ultimately, large multi-platform applications have many, many, more features then there is time for a Quick Start Guide or First Time User experience.</description>
+      <description>It&#39;s not often that we (as app user or developers) stop to consider how important the First Time User experience or the Getting Started Guide is.</description>
     </item>
     
   </channel>

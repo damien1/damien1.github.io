@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Memory on Damien Saunders</title>
+    <title>Memory on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/memory/</link>
-    <description>Recent content in Memory on Damien Saunders</description>
+    <description>Recent content in Memory on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 11 Apr 2014 13:53:26 +0000</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Fri, 11 Apr 2014 13:53:26 +0000</pubDate>
       
       <guid>http://damien.co/general/got-website-working-memory-issues-8894/</guid>
-      <description>*fingers crossed* I&amp;rsquo;ve got my website working again. I&amp;rsquo;ve had a few out of memory issues and that had stopped all my work on here.</description>
+      <description>*fingers crossed* I&#39;ve got my website working again. I&#39;ve had a few out of memory issues and that had stopped all my work on here.</description>
     </item>
     
     <item>
@@ -26,9 +26,7 @@
       <pubDate>Tue, 27 Dec 2011 12:30:23 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-12-27-how-to-fix-the-fatal-error-allowed-memory-size-in-wordpress-2/</guid>
-      <description>WordPress offers lots of plugins to choose from and if you add to many you will soon come across this Fatal Error message. You can easily fix the problem (and then go back to adding more plugins).
-This out of memory error doesn&amp;rsquo;t mean you have to go buy more RAM — just have to amend a line of text in a wordpress settings file.
- Fix the Fatal Error: Allowed Memory Size When you installed WordPress you either uploaded it using FTP yourself or went to an admin cpanel and installed it.</description>
+      <description>WordPress offers lots of plugins to choose from and if you add to many you will soon come across this Fatal Error message.</description>
     </item>
     
     <item>
@@ -37,8 +35,7 @@ This out of memory error doesn&amp;rsquo;t mean you have to go buy more RAM — 
       <pubDate>Mon, 26 Dec 2011 15:38:28 +0000</pubDate>
       
       <guid>http://damien.co/wordpress/increase-wordpress-memory-help-for-evohosting-co-uk-users-5454/</guid>
-      <description>I&amp;rsquo;ve been using EvoHostingfor a good couple of years now and have always been impressed by their service and flexibility. I&amp;rsquo;ve felt my site has suffered in recent months - I just feel the performance has suffered and have few options to speed-up my website.
-So sometimes you want more freedom to control your server (like Rackspace), but using a shared server gives you few choices to do this. Here is the solution for WordPress sites hosted by EvoHosting UK which you can implement now.</description>
+      <description>I&#39;ve been using EvoHosting for a good couple of years now and have always been impressed by their service and flexibility.</description>
     </item>
     
   </channel>

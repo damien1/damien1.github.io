@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SD Card on Damien Saunders</title>
+    <title>SD Card on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/sd-card/</link>
-    <description>Recent content in SD Card on Damien Saunders</description>
+    <description>Recent content in SD Card on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 08 May 2011 12:31:58 +0000</lastBuildDate>
@@ -17,9 +17,7 @@
       <pubDate>Sun, 08 May 2011 12:31:58 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-05-08-cyanogenmod-how-to-download-big-apps-on-your-sd-card/</guid>
-      <description>Are you suffering from Android Market download issues? Have you just rooted your Android with Cyanogenmod and found you can&amp;rsquo;t download Google Maps?
-If you can&amp;rsquo;t download Google Maps it&amp;rsquo;s because most Android phones have a download cache limited to 3MB and Google Maps is a whooping 5.4MB.
-How to Download large files after rooting your Android The answer to your problems is S2E simple2ext - which moves your download cache off the phone to your SD Card.</description>
+      <description>Are you suffering from Android Market download issues? Have you just rooted your Android with Cyanogenmod and found you can&#39;t download Google Maps?</description>
     </item>
     
   </channel>

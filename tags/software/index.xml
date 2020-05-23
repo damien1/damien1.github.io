@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>software on Damien Saunders</title>
+    <title>software on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/software/</link>
-    <description>Recent content in software on Damien Saunders</description>
+    <description>Recent content in software on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 27 Oct 2010 13:47:52 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Wed, 27 Oct 2010 13:47:52 +0000</pubDate>
       
       <guid>http://damien.co/general/just-installed-office-for-mac-2011-first-thoughts-1755/</guid>
-      <description>So .. Thanks to Amazon and Royal Mail at 730am I received my copy of Office for Mac 2011. Most obvious change is that the floating palette or toolbox is gone, replaced by the Ribbon which has been in Windows Version for a few years.
-It now seems way way faster … Once one office app is open, the others open bleedingly fast. So they must now share more of a common backend.</description>
+      <description>So .. Thanks to Amazon and Royal Mail at 730am I received my copy of Office for Mac 2011.</description>
     </item>
     
     <item>
@@ -27,8 +26,7 @@ It now seems way way faster … Once one office app is open, the others open ble
       <pubDate>Sun, 29 Nov 2009 15:41:38 +0000</pubDate>
       
       <guid>http://damien.co/general/best-apps-for-your-mac-after-a-clean-install-372/</guid>
-      <description>So I have had to rebuild my Mac running OS X 10.6 Snow Leopard 3 times in the past 2 days after having problems with a t-mobile usb modem which corrupts the hard drive.Here&amp;rsquo;s the short list of my favourite, can&amp;rsquo;t live without em, just got to install them apps:
-Best Apps for your Mac  ClamXav - still the best and most recommended free virus protection for your mac Adium - pronounced like stadium, this is the multi chat application for the mac Skype - for free calls to the office and home Dropbox - for sharing files between the office and clients Mac Office 2008 - word, powerpoint and to some extent excel, because all my templates are Office based and the guys in the office use PC&amp;rsquo;s.</description>
+      <description>So I have had to rebuild my Mac running OS X 10.</description>
     </item>
     
     <item>
@@ -37,8 +35,7 @@ Best Apps for your Mac  ClamXav - still the best and most recommended free virus
       <pubDate>Thu, 20 Aug 2009 12:12:26 +0000</pubDate>
       
       <guid>http://damien.co/general/tip-from-a-windows-convert-office-for-mac-excel-keyboard-shortcut-269/</guid>
-      <description>I&amp;rsquo;ve been using keyboard shortcuts for Microsoft Office on Windows for years. So here I am now using Mac Office on a Macbook Pro and still trying to figure out how to get around the keyboard.Tip of the Day - Windows Excel Alt+Enter and in Mac Office Excel keyboard shortcut is Fn+Ctrl+Alt
-This adds a carriage return within the current cell and its great for doing long text entry in 1 cell.</description>
+      <description>I&#39;ve been using keyboard shortcuts for Microsoft Office on Windows for years.</description>
     </item>
     
     <item>
@@ -47,8 +44,7 @@ This adds a carriage return within the current cell and its great for doing long
       <pubDate>Sun, 17 May 2009 20:05:38 +0000</pubDate>
       
       <guid>http://damien.co/general/15-minute-guide-to-running-windows-7-rc1-on-a-mac-180/</guid>
-      <description>So this follows an earlier post of mine about Virtualbox and running Windows XP on a Macbook Pro. Virtualbox is a great piece of software for running virtual operating systems on another machine (like runing Windows 7 on a Mac OSX).Today&amp;rsquo;s guide shows that you can be up n running with Windows 7 RC in about 15 minutes … thats got to be good ??
-So Grab your Windows 7 RC1 ISO file from the Windows website, grab a copy of Virtualbox for Mac and get going.</description>
+      <description>So this follows an earlier post of mine about Virtualbox and running Windows XP on a Macbook Pro.</description>
     </item>
     
   </channel>

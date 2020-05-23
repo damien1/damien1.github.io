@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sticky Nav on Damien Saunders | Management Marketing Consultant</title>
+    <link>http://damien.co/tags/sticky-nav/</link>
+    <description>Recent content in Sticky Nav on Damien Saunders | Management Marketing Consultant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 26 Mar 2012 11:00:22 +0000</lastBuildDate>
+    
+	<atom:link href="http://damien.co/tags/sticky-nav/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Axure Sticky Nav &amp; Scroll Spy part 2</title>
+      <link>http://damien.co/blog/2012-03-26-axure-sticky-nav-scroll-spy-part-2/</link>
+      <pubDate>Mon, 26 Mar 2012 11:00:22 +0000</pubDate>
+      
+      <guid>http://damien.co/blog/2012-03-26-axure-sticky-nav-scroll-spy-part-2/</guid>
+      <description>I wanted another go at the scroll spy and sticky nav bar effect in Axure - which I previously wrote about.</description>
+    </item>
+    
+  </channel>
+</rss>

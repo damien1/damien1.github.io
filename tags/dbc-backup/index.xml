@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DBC Backup on Damien Saunders</title>
+    <title>DBC Backup on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/dbc-backup/</link>
-    <description>Recent content in DBC Backup on Damien Saunders</description>
+    <description>Recent content in DBC Backup on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2014 13:18:37 +0000</lastBuildDate>
     
 	<atom:link href="http://damien.co/tags/dbc-backup/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,9 +17,7 @@
       <pubDate>Wed, 05 Mar 2014 13:18:37 +0000</pubDate>
       
       <guid>http://damien.co/blog/2014-03-05-dbc-backup-2-gets-significant-re-write-support-mysqli-connector/</guid>
-      <description>DBC Backup 2 has just undergone a major update to use mysqli connector. This is a significant change as the PHP mysql connector has been flagged for removal since PHP v5.
-For the first time the plugin will introduce a download function - allow a logged in admin user to download the backup file.
-The new version is slated for release in the next week and is currently in stability testing.</description>
+      <description>DBC Backup 2 has just undergone a major update to use mysqli connector.</description>
     </item>
     
   </channel>

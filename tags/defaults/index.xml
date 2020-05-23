@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>defaults on Damien Saunders</title>
+    <title>defaults on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/defaults/</link>
-    <description>Recent content in defaults on Damien Saunders</description>
+    <description>Recent content in defaults on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 14 Apr 2013 20:08:06 +0000</lastBuildDate>
@@ -17,9 +17,7 @@
       <pubDate>Sun, 14 Apr 2013 20:08:06 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-14-isotope-visual-layouts-how-to-change-the-default-number-of-posts/</guid>
-      <description>In my Isotope Visual Layouts WordPress plugin, you&amp;rsquo;ll find that Inline code documentation has been added to pretty much all the functions so just start by opening the main plugin file dbf_isotope.php and do a search for
-function dbc_isotope_shortcode_handler($atts)Under that you just need to change posts=20 to posts=-1
-Note .. this also applies to Visual Layouts Pro</description>
+      <description>In my Isotope Visual Layouts WordPress plugin, you&#39;ll find that Inline code documentation has been added to pretty much all the functions so just start by opening the main plugin file dbf_isotope.</description>
     </item>
     
   </channel>

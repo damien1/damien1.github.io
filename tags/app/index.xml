@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>App on Damien Saunders</title>
+    <title>App on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/app/</link>
-    <description>Recent content in App on Damien Saunders</description>
+    <description>Recent content in App on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 16 Mar 2013 17:33:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jun 2012 13:39:31 +0000</lastBuildDate>
     
 	<atom:link href="http://damien.co/tags/app/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,9 +17,7 @@
       <pubDate>Mon, 11 Jun 2012 13:39:31 +0000</pubDate>
       
       <guid>http://damien.co/apps-2/app-design-make-sure-your-saves-settings-mobilerss-7230/</guid>
-      <description>Have you ever used an app, thought you saved the settings and then you check and nothing changes … It happens all the time with MobileRSS. This has been bugging me for awhile now. Usually I think I&amp;rsquo;m not the only one who spots these things …
-The funny thing is, a preference change needs to be done in 3 parts
- the visual UI/UE cue to let you know something changed (like a tick or a save button changes text) the backend data / prefs change is stored the app &amp;lsquo;reloads&amp;rsquo; with the new settings  So what goes wrong with saving state changes?</description>
+      <description>Have you ever used an app, thought you saved the settings and then you check and nothing changes - It happens all the time with MobileRSS.</description>
     </item>
     
     <item>
@@ -28,9 +26,7 @@ The funny thing is, a preference change needs to be done in 3 parts
       <pubDate>Sun, 20 May 2012 11:08:15 +0000</pubDate>
       
       <guid>http://damien.co/apps-2/app-design-storify-too-many-windows-7077/</guid>
-      <description>Have you tried Storify? Is it just a little too busy? a little too complicated to get started with?
-I&amp;rsquo;ve read some great stuff about how to use Storify to archive events (weddings for example). Using Storify you can collect all the tweets, Facebook messages, Flickr pictures into a &amp;lsquo;story&amp;rsquo;. Sounds good so far.
-But what if you&amp;rsquo;re creative and not a creative writer? What if you just don&amp;rsquo;t have enough going on in your life?</description>
+      <description>Have you tried Storify? Is it just a little too busy?</description>
     </item>
     
     <item>
@@ -39,8 +35,7 @@ But what if you&amp;rsquo;re creative and not a creative writer? What if you jus
       <pubDate>Mon, 23 May 2011 15:42:54 +0000</pubDate>
       
       <guid>http://damien.co/blog/android/android-apps-run-full-screen-on-honeycomb-tablets-3482/</guid>
-      <description>Google recently announced some exciting new features for Android 3.0 Honeycomb. Most notably, Android 3.0 sees tablets and mobile devices merge to the same code base. This is kind of like having one OS for all devices. There are interface design considerations that need to be understood before launching your app on the big screen.
-Android Apps run full screen - Interface Design The key point to note is that Android apps run in full screen on tablets.</description>
+      <description>Google recently announced some exciting new features for Android 3.</description>
     </item>
     
     <item>
@@ -49,9 +44,7 @@ Android Apps run full screen - Interface Design The key point to note is that An
       <pubDate>Sun, 08 May 2011 12:31:58 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-05-08-cyanogenmod-how-to-download-big-apps-on-your-sd-card/</guid>
-      <description>Are you suffering from Android Market download issues? Have you just rooted your Android with Cyanogenmod and found you can&amp;rsquo;t download Google Maps?
-If you can&amp;rsquo;t download Google Maps it&amp;rsquo;s because most Android phones have a download cache limited to 3MB and Google Maps is a whooping 5.4MB.
-How to Download large files after rooting your Android The answer to your problems is S2E simple2ext - which moves your download cache off the phone to your SD Card.</description>
+      <description>Are you suffering from Android Market download issues? Have you just rooted your Android with Cyanogenmod and found you can&#39;t download Google Maps?</description>
     </item>
     
     <item>
@@ -60,8 +53,7 @@ How to Download large files after rooting your Android The answer to your proble
       <pubDate>Mon, 18 Apr 2011 09:40:54 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-04-18-best-android-app-for-technical-info-network-info-ii/</guid>
-      <description>Mobile apps can be fun to use - but during mobile app testing you might need to diagnosing problems and finding bugs can be complicated. At least with Network Info II on your Android you have a pocket-encyclopedia with all the important information you need.
-At the basic level - Network Info II reports details on your mobile network connection, IP address, Wi-Fi connection, Bluetooth and details about your device and your sim card.</description>
+      <description>Mobile apps can be fun to use - but during mobile app testing you might need to diagnosing problems and finding bugs can be complicated.</description>
     </item>
     
     <item>
@@ -70,10 +62,7 @@ At the basic level - Network Info II reports details on your mobile network conn
       <pubDate>Tue, 12 Apr 2011 10:33:39 +0000</pubDate>
       
       <guid>http://damien.co/marketing-consultant-2/must-have-android-apps-for-marketing-consultants-2866/</guid>
-      <description>What shortcuts or widgets should you save to the desktop of you Anrdoid phone? As a marketing consultant I&amp;rsquo;ve customised my phone lots (thanks to Cyanogenmod) .. but my desktop stays the same.
-I don&amp;rsquo;t have many widgets as they eat up battery life (and annoyingly want internet connection).
-What&amp;rsquo;s on your Android Desktop? Winamp - best music player for Android
-Now that I have a larger long-life battery - I&amp;rsquo;m back to listening to music on my phone.</description>
+      <description>What shortcuts or widgets should you save to the desktop of you Anrdoid phone?</description>
     </item>
     
     <item>
@@ -82,9 +71,7 @@ Now that I have a larger long-life battery - I&amp;rsquo;m back to listening to 
       <pubDate>Wed, 06 Apr 2011 08:37:51 +0000</pubDate>
       
       <guid>http://damien.co/mobile-marketing/how-to-get-started-with-mobile-app-testing-device-checklist-2829/</guid>
-      <description>Do you do mobile app testing? Then maybe you need a getting started checklist to help you with your device settings. One thing has not changed in the (nearly) 10 years since mobile internet got started - we still have to check and change device settings.
- Check .. Does the mobile operator name show in the status bar?
- if it says No Carrier it wont work  Check … you have a data connection â can you open any app or browse to a web page.</description>
+      <description>Do you do mobile app testing? Then maybe you need a getting started checklist to help you with your device settings.</description>
     </item>
     
     <item>
@@ -93,8 +80,7 @@ Now that I have a larger long-life battery - I&amp;rsquo;m back to listening to 
       <pubDate>Thu, 10 Feb 2011 07:53:01 +0000</pubDate>
       
       <guid>http://damien.co/blog/insights-blog/gartner-predicts-app-store-revenue-forecast-to-surpass-15-billion-in-2011-2656/</guid>
-      <description>I&amp;rsquo;ve been on the lookout for this prediction … in 2010 Gartner predicted Worldwide Mobile App Revenues of xx Billion … for 2011 the prediction is for this to exceed $15 billion
-2010 Where are the results! Given that Apple, Android, RIM, Nokia and a whole stack of operators and 3rd parties run mobile app stores - it&amp;rsquo;s extremely difficult to find out how good Gartner is at forecasts. Or is this just a large number guestimate?</description>
+      <description>I&#39;ve been on the lookout for this prediction - in 2010 Gartner predicted Worldwide Mobile App Revenues of xx Billion - for 2011 the prediction is for this to exceed $15 billion</description>
     </item>
     
     <item>
@@ -103,7 +89,7 @@ Now that I have a larger long-life battery - I&amp;rsquo;m back to listening to 
       <pubDate>Thu, 02 Dec 2010 14:00:54 +0000</pubDate>
       
       <guid>http://damien.co/blog/2010-12-02-autodesk-sketchbook-mobile-comes-to-android/</guid>
-      <description>SketchBook Mobile recently got a mention here as the best iPad app fro sketches, notes, photos and more … and now its available on Android. I bet if you have a Samsung Galaxy Tab - this should be the first app that really is worth paying for.With so many features - it can be hard to know where to start - so my suggestion is use it to play around with some of your photos.</description>
+      <description>SketchBook Mobile recently got a mention here as the best iPad app fro sketches, notes, photos and more - and now its available on Android.</description>
     </item>
     
     <item>
@@ -112,8 +98,7 @@ Now that I have a larger long-life battery - I&amp;rsquo;m back to listening to 
       <pubDate>Sat, 06 Nov 2010 10:59:54 +0000</pubDate>
       
       <guid>http://damien.co/general/best-ipad-app-for-design-and-graphics-gets-better-1857/</guid>
-      <description>Sketchbook Pro, in my opinion is the best iPad app for photo editing, graphic and web design. And its new update just makes it better. The new release makes it a great all round tool for note taking, wireframe and web design.
-A Power tool for notes, sketches and mockups I like to think I&amp;rsquo;m a pro digital photographer so I like my photo software to do amazing things - even if I cant.</description>
+      <description>Sketchbook Pro, in my opinion is the best iPad app for photo editing, graphic and web design.</description>
     </item>
     
   </channel>

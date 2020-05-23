@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>winxp on Damien Saunders</title>
+    <title>winxp on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/winxp/</link>
-    <description>Recent content in winxp on Damien Saunders</description>
+    <description>Recent content in winxp on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
@@ -16,9 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://damien.co/blog/2009-04-10-how-to-install-virtualbox-mac-osx-host-winxp-guest-using-tinyxp-rev-09/</guid>
-      <description>Virtualbox is a dream freeware solution for anyone - novice to geek - who wants to run different computers inside their computer - virtual so to speak. Today I&amp;rsquo;ve been tinkering with getting Virtualbox working on a Mac laptop running WinXP.
-this is a very old post whats contained below has not been checked since 2012
-Virtualbox from Oracle Sunis a freeware, open source virtualisation application .. it comes in a number of flavours - I&amp;rsquo;ve previously used it to run WinXP guests inside WinXP hosts for testing and at work it was the only way to install things without having to go to the IT helpdesk.</description>
+      <description>Virtualbox is a dream freeware solution for anyone - novice to geek - who wants to run different computers inside their computer - virtual so to speak.</description>
     </item>
     
   </channel>

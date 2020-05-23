@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Redmine on Damien Saunders</title>
+    <title>Redmine on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/redmine/</link>
-    <description>Recent content in Redmine on Damien Saunders</description>
+    <description>Recent content in Redmine on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 15 May 2011 17:45:38 +0000</lastBuildDate>
@@ -12,13 +12,12 @@
     
     
     <item>
-      <title>Redmine for Issues &amp;#038; Bug track - things I learned</title>
+      <title>Redmine for Issues - Bug track - things I learned</title>
       <link>http://damien.co/marketing-consultant-2/redmine-for-issues-bug-track-things-i-learned-3058/</link>
       <pubDate>Sun, 15 May 2011 17:45:38 +0000</pubDate>
       
       <guid>http://damien.co/marketing-consultant-2/redmine-for-issues-bug-track-things-i-learned-3058/</guid>
-      <description>Redmine is described as a flexible project management web application SaaS. I&amp;rsquo;ve been using it for the past 5 months within a mobile marketing agency - where its used for testing, operations, work orders, issue management and its wiki is used for documentation.
-Redmine can not be compared to other bug track, issues or fault management systems like JIRA or CRM platforms with helpdesk tools. It&amp;rsquo;s flexible, but that comes with a price.</description>
+      <description>Redmine is described as a flexible project management web application SaaS.</description>
     </item>
     
   </channel>

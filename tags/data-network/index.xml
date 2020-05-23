@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>data network on Damien Saunders</title>
+    <title>data network on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/data-network/</link>
-    <description>Recent content in data network on Damien Saunders</description>
+    <description>Recent content in data network on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 03 Apr 2011 21:04:20 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Sun, 03 Apr 2011 21:04:20 +0000</pubDate>
       
       <guid>http://damien.co/blog/android/howto-fix-no-mobile-internet-after-cyanogenmod-install-2822/</guid>
-      <description>Here&amp;rsquo;s a simple fix to problems of no Mobile Internet after installing Cyanogenmod rom on your Android. If you&amp;rsquo;re new to rooting your Android or just forgotten how complicated it can be to get online with your mobile phone - you might think this is a really useful tip.
- Check your APN Settings After you root your phone and install CyanogenMod you can find your have no wifi and no wireless internet connection.</description>
+      <description>Here&#39;s a simple fix to problems of no Mobile Internet after installing Cyanogenmod rom on your Android.</description>
     </item>
     
   </channel>

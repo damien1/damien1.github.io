@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JIRA on Damien Saunders</title>
+    <title>JIRA on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/jira/</link>
-    <description>Recent content in JIRA on Damien Saunders</description>
+    <description>Recent content in JIRA on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 01 Feb 2012 15:51:33 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Wed, 01 Feb 2012 15:51:33 +0000</pubDate>
       
       <guid>http://damien.co/marketing-consultant-2/jira-for-project-management-its-not-just-for-issues-6138/</guid>
-      <description>If you&amp;rsquo;re reading this then you must use JIRA or know of someone who has had a JIRA experience. It seems that JIRA is a bit like a Marmite brand - you love it or you hate it. JIRA can be too much effort for many projects - but thats only cause the project can&amp;rsquo;t find time to build the value in JIRA.
-I think that anything which helps take pain away from managing bugs, issues and tasks is brilliant.</description>
+      <description>If you&#39;re reading this then you must use JIRA or know of someone who has had a JIRA experience.</description>
     </item>
     
   </channel>

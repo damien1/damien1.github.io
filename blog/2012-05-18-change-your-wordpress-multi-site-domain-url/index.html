@@ -1,217 +1,1144 @@
 <!DOCTYPE html>
 <html lang="en-gb"><head>
-  <!-- Basic Page Needs -->
   <meta charset="utf-8">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  
-  <meta name="description" content="Damien Saunders | management consultant">
-  <meta name="author" content="Damien Saunders">
-  <meta name="generator" content="Hugo 0.70.0" />
-  
-  <!-- Mobile Specific Metas -->
-  <meta name="format-detection" content="telephone=no">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Change your WordPress Multi-Site Domain URL</title>
-  <link rel="icon" href="http://damien.co/images/favicon.ico">
 
-  <!-- Twitter Bootstrs CSS -->
-  <link rel="stylesheet" href="http://damien.co/plugins/bootstrap/bootstrap.min.css">
-  <!-- Ionicons Fonts Css -->
-  <link rel="stylesheet" href="http://damien.co/plugins/ionicons/ionicons.min.css">
-  <!-- animate css -->
-  <link rel="stylesheet" href="http://damien.co/plugins/animate-css/animate.css">
-  <!-- Hero area slider css-->
-  <link rel="stylesheet" href="http://damien.co/plugins/slider/slider.css">
-  <!-- slick slider -->
-  <link rel="stylesheet" href="http://damien.co/plugins/slick/slick.css">
-  <!-- Fancybox -->
-  <link rel="stylesheet" href="http://damien.co/plugins/facncybox/jquery.fancybox.css">
-  <!-- hover -->
-  <link rel="stylesheet" href="http://damien.co/plugins/hover/hover-min.css">
-  <!-- template main css file -->
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="Damien Saunders | Management Marketing Consultant">
+  <meta name="author" content="Damien Saunders">
+  <meta name="generator" content="Hugo 0.60.0" />
+
+  <!-- plugins -->
   
-  <link rel="stylesheet" href="http://damien.co/css/style.min.css" integrity="" media="screen">
-</head><body><section class="top-bar animated-header">
+  <link rel="stylesheet" href="http://damien.co/plugins/bootstrap/bootstrap.min.css ">
+  
+  <link rel="stylesheet" href="http://damien.co/plugins/themify/css/themify-icons.css ">
+  
+  <link rel="stylesheet" href="http://damien.co/plugins/owl-carousel/owl.carousel.min.css ">
+  
+  <link rel="stylesheet" href="http://damien.co/plugins/owl-carousel/owl.theme.default.min.css ">
+  
+  <link rel="stylesheet" href="http://damien.co/plugins/animated-text/animated-text.css ">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="http://damien.co/scss/style.min.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="http://damien.co/images/favicon.png " type="image/x-icon">
+  <link rel="icon" href="http://damien.co/images/favicon.png " type="image/x-icon">
+
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-12356173-1"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', "UA-12356173-1");
+  </script>
+  
+</head>
+<body>
+<!-- preloader start -->
+<div class="preloader">
+  
+</div>
+<!-- preloader end -->
+<nav class="navbar navbar-expand-lg  main-nav " id="navbar">
+	<div class="container">
+	  <a class="navbar-brand" href="http://damien.co"><img src="http://damien.co/damiensaunders.png" alt="Damien Saunders | Management Marketing Consultant"></a>
+
+	  <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExample09" aria-controls="navbarsExample09" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="ti-align-justify"></span>
+	  </button>
+  
+		  <div class="collapse navbar-collapse" id="navbarsExample09">
+			<ul class="navbar-nav ml-auto">
+			  <li class="nav-item">
+          <a class="nav-link" href="http://damien.co"> Home </a>
+        </li>
+        
+        
+        <li class="nav-item">
+          <a class="nav-link" href="http://damien.co/about">About</a>
+        </li>
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link" href="http://damien.co/blog">Blog</a>
+        </li>
+        
+        
+			</ul>
+		</div>
+	</div>
+</nav>
+
+<section class="page-title section pb-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="text-center">
+          <h1 class="text-capitalize mb-0 text-lg">Change your WordPress Multi-Site Domain URL</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section blog-post">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        <article class="single-post">
+          
+          
+          <div class="single-post-content mt-4">
+            <div class="post-meta mb-4">
+              <span class="text-black">Tags :</span>
+              
+              <span>domain, </span>
+              
+              <span>multisite, </span>
+              
+              <span>network, </span>
+              
+              <span>SQL, </span>
+              
+              <span>URL, </span>
+              
+              <span class="ml-3">-</span>
+              <span class="date">Friday, May 18, 2012</span>
+            </div>
+            <div class="content"><p>I've just finished <strong>changing my domain name</strong> URL for my <strong>WordPress multisite</strong>. After running <strong>WordPress as a network</strong> for nearly 2 years and managing a number of other WordPress sites, domain changes should be easy to do (but over time things get more complicated).</p>
+<p>WordPress multisite adds a layer of complications - if you just want to update the domain URL for one of your blogs, then check out Domain Mapping plugins.</p>
+<p>It's fairly easily to modify the domain names for a WordPress single stand-alone install. Just go look at your WordPress settings.</p>
+<h2 id="before-you-change-your-wordpress-network-url">Before you change your WordPress Network URL</h2>
+<p>Changing the website domain can be complicated and you need access to DNS domain management tools as well as feel comfortable with using PHPMyAdmin and editing SQL tables.</p>
+<p>If this makes you squeamish, then you'll probably be better of setting up a new instance of WordPress with the new domain and importing / starting from a clean install.</p>
+<h3 id="sql">SQL</h3>
+<ol>
+<li>Always make an EXPORT of your SQL database using <a href="../2020-05-15-wordpress-plugin-archive-dbc-backup-2/">DBC Backup 2</a> you do any of this or you will break your website. Yes, break your website as in 404, 503, database connection errors, redirects and worse search engine errors!</li>
+<li>You'll need to use a MySQL editor like sequelpro or SQLyog. Editing with PHPMyAdmin can take too long.</li>
+</ol>
+<h3 id="dns-records">DNS Records</h3>
+<ol>
+<li>Remember to update your Domain Registration and remove any redirects or unpark the new domain you'll want to use.</li>
+<li>Add the * wildcard sub-domain redirect for your new URL.</li>
+<li>Do delay by a day or do this on a slow traffic day if your DNS records take time to &lsquo;flush&rsquo;.</li>
+</ol>
+<h3 id="isp-host">ISP Host</h3>
+<div>
+  You'll need to check and configure redirects for your Host Provider. If your hosting provider has CPANEL you'll want to check Add-On Domains, Redirects and Sub-Domains.
+</div>
+<div>
+</div>
+<div>
+  You want to check that newsite.com is pointing to the same folder as the oldsite.com, look for something like
+</div>
+<pre>public_html/oldsite.com</pre>
+<div>
+  and make sure your new domain is also mapped to this folder.
+</div>
+<div>
+</div>
+<h2 id="lets-go-change-your-multisite-network-wordpress-site-url">Let's Go Change your Multi-Site Network WordPress Site URL</h2>
+<h3 id="wpconfigphp">wp-config.php</h3>
+<p>You only make one change here the value of</p>
+<pre>Domain_current_site</pre>
+<p>from oldsite.com to newsite.com</p>
+<p>[php] define( &lsquo;DOMAIN_CURRENT_SITE&rsquo;, &lsquo;damiensaunders.com&rsquo; ); [/php]</p>
+<p>Note - adding the hack in wp-config for SiteURL or HomeURL doesn't seem to do anything here.</p>
+<h3 id="wpoptions">wp_options</h3>
+<p>You make 2 changes here</p>
+<pre>siteurl</pre>
+<p>and</p>
+<pre>home</pre>
+<p>from oldsite.com to newsite.com</p>
+<h3 id="wpblogs">wp_blogs</h3>
+<p>WP standalone doesn't have this table. You need to change the domain value for every single one of your blogs. I'm lucky, I've only got 10 blogs to change.</p>
+<p>You need to look for and change</p>
+<pre>siteurl
+home</pre>
+<p>for each of your sub-blogs.</p>
+<h2 id="images-guids-and-other-things">Images, Guids and other things</h2>
+<p>Once you can login - Install Search and Replace plugin and do a &lsquo;sweep&rsquo; of your website for references to your old site name.</p>
+<p>Be very careful with you Search and Replace ….</p>
+<p><span style="text-decoration: underline;">don't</span> just replace <a href="http://oldsite.com">http://oldsite.com</a> with http://newsite.com  because your manual changes should have done this.</p>
+<p><span style="text-decoration: underline;">don't</span> replace oldsite.com with newsite.com as you'll break folder paths etc.  e.g. if your folder path is public_html/oldsite.com/wordpress then you can't do a search &amp; replace.</p>
+<p><span style="text-decoration: underline;">don't</span> change the GUIDs unless you know what you are doing!</p>
+<h2 id="heading"></h2>
+<h2 id="google-analytics--adsense-adwords-feedburner">Google Analytics &amp; Adsense, Adwords, Feedburner</h2>
+<p>Once you've changed your domain name you need to update your Google Analytics and other web-tracker accounts. If you run Adwords you probably have 1/2 a day before Google will recognise and disapprove your ads.</p>
+<h2 id="serp-seo--google-webmaster-tools">SERP, SEO &amp; Google Webmaster Tools</h2>
+<p>Now's the time to read-up on 301 redirects and .htaccess rewrite rules. Afterwards, submit your new site map via Google Webmaster Tools and also follow the options to migrate your old URL to the new URL.</p>
+<h2 id="help--its-all-broken">HELP - it's all broken</h2>
+<p>Well no - it's not all broken. You just have to figure out where things were changed that stop stuff working. In the first place, check your database options and look for the changes you made - maybe you overwrote URL's in too many places.</p>
+<h3 id="links">LINKS</h3>
+<p><a href="http://codex.wordpress.org/Changing_The_Site_URL#Multi-site_notes" target="_blank">Change the Site URL - multisite</a></p>
+</div>
+            <div class="share mt-4">
+              <ul class="list-inline">
+                <li class="list-inline-item">Share Now :</li>
+                
+                <li class="list-inline-item"><a href="https://facebook.com/sharer/sharer.php?u=http%3a%2f%2fdamien.co%2fblog%2f2012-05-18-change-your-wordpress-multi-site-domain-url%2f"><i class="ti-facebook mr-2"></i> Facebook</a></li>
+                <li class="list-inline-item"><a href="ttps://twitter.com/intent/tweet/?text=Change%20your%20WordPress%20Multi-Site%20Domain%20URL&amp;url=http%3a%2f%2fdamien.co%2fblog%2f2012-05-18-change-your-wordpress-multi-site-domain-url%2f"><i class="ti-twitter mr-2"></i> Twitter</a></li>
+                <li class="list-inline-item"><a href="https://reddit.com/submit/?url=http%3a%2f%2fdamien.co%2fblog%2f2012-05-18-change-your-wordpress-multi-site-domain-url%2f&amp;resubmit=true&amp;title=Change%20your%20WordPress%20Multi-Site%20Domain%20URL"><i class="ti-reddit mr-2"></i> Reddit</a></li>
+                <li class="list-inline-item"><a href="mailto:?subject=Change%20your%20WordPress%20Multi-Site%20Domain%20URL&amp;body=http%3a%2f%2fdamien.co%2fblog%2f2012-05-18-change-your-wordpress-multi-site-domain-url%2f"><i class="ti-email mr-2"></i> Email</a></li>
+              </ul>
+            </div>
+          </div>
+        </article>
+
+        
+      </div>
+
+      <div class="col-lg-4">
+  <div class="sidebar-widget mt-5 mt-lg-0">
+    <div class="widget mb-5 follow">
+      <h4 class="mb-4 widget-title">Follow us</h4>
+      <ul class="list-inline">
+        
+        <li class="list-inline-item"><a href="https://linkedin.com/in/damiensaunders"><i class="ti-linkedin"></i></a></li>
+        
+        <li class="list-inline-item"><a href="https://www.instagram.com/3496dasa"><i class="ti-instagram"></i></a></li>
+        
+        <li class="list-inline-item"><a href="https://twitter.com/damiensaunders"><i class="ti-twitter-alt"></i></a></li>
+        
+        <li class="list-inline-item"><a href="/contact"><i class="ti-email"></i></a></li>
+        
+      </ul>
+    </div>
+
+    <div class="widget mb-5">
+      <h4 class="mb-4 widget-title">Latest Posts</h4>
+      <ul class="list-unstyled">
+        
+        <li class="d-flex mb-4">
+          <a href="http://damien.co/blog/2020-05-22-google-analytics-event-tracking-hugo/" class="mr-3">
+            
+            
+            <img src="http://damien.co/images/hugo-logo-wide.svg" alt="post-image" class="img-fluid">
+          </a>
+          <div class="post-body">
+            <span class="text-capitalize">- Friday, May 22, 2020</span>
+            <a href="http://damien.co/blog/2020-05-22-google-analytics-event-tracking-hugo/">
+              <h5>Google Analytics Event Tracking in Hugo</h5>
+            </a>
+          </div>
+        </li>
+        
+        <li class="d-flex mb-4">
+          <a href="http://damien.co/blog/2020-05-15-wordpress-plugin-archive-dbc-backup-2/" class="mr-3">
+            
+            
+            <img src="http://damien.co/images/dbc-back-up-2.png" alt="post-image" class="img-fluid">
+          </a>
+          <div class="post-body">
+            <span class="text-capitalize">- Friday, May 15, 2020</span>
+            <a href="http://damien.co/blog/2020-05-15-wordpress-plugin-archive-dbc-backup-2/">
+              <h5>WordPress Plugin Archive - DBC Backup 2</h5>
+            </a>
+          </div>
+        </li>
+        
+        <li class="d-flex mb-4">
+          <a href="http://damien.co/blog/2020-05-10-proust-project/" class="mr-3">
+            
+            
+            <img src="http://damien.co/images/blog/2020-proust-project.png" alt="post-image" class="img-fluid">
+          </a>
+          <div class="post-body">
+            <span class="text-capitalize">- Tuesday, May 12, 2020</span>
+            <a href="http://damien.co/blog/2020-05-10-proust-project/">
+              <h5>Proust Project</h5>
+            </a>
+          </div>
+        </li>
+        
+      </ul>
+    </div>
+    <div class="widget category mb-5">
+      <h4 class="mb-4 widget-title">Categories</h4>
+      <ul class="list-unstyled">
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/android">Android</a>
+          <span class="cat-count">35</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/apps">Apps</a>
+          <span class="cat-count">6</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/axure">Axure</a>
+          <span class="cat-count">9</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/ci/cd">Ci/ cd</a>
+          <span class="cat-count">3</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/content-and-product">Content and product</a>
+          <span class="cat-count">1</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/culture">Culture</a>
+          <span class="cat-count">1</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/development">Development</a>
+          <span class="cat-count">11</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/digital-marketing">Digital marketing</a>
+          <span class="cat-count">1</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/foursquare">Foursquare</a>
+          <span class="cat-count">14</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/funnies">Funnies</a>
+          <span class="cat-count">1</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/general">General</a>
+          <span class="cat-count">175</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/home-networking">Home networking</a>
+          <span class="cat-count">1</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/hugo">Hugo</a>
+          <span class="cat-count">2</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/insights">Insights</a>
+          <span class="cat-count">7</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/internet-of-things">Internet of things</a>
+          <span class="cat-count">1</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/london-startup-weekend">London startup weekend</a>
+          <span class="cat-count">4</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/marketing">Marketing</a>
+          <span class="cat-count">6</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/marketing-consultant">Marketing consultant</a>
+          <span class="cat-count">10</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/mobile">Mobile</a>
+          <span class="cat-count">2</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/mobile-marketing">Mobile marketing</a>
+          <span class="cat-count">29</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/my-blog">My blog</a>
+          <span class="cat-count">37</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/news-releases">News releases</a>
+          <span class="cat-count">15</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/plugins">Plugins</a>
+          <span class="cat-count">27</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/promo">Promo</a>
+          <span class="cat-count">21</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/resources">Resources</a>
+          <span class="cat-count">25</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/social-crm">Social crm</a>
+          <span class="cat-count">19</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/social-media">Social media</a>
+          <span class="cat-count">74</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/social-media-marketing">Social media marketing</a>
+          <span class="cat-count">3</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/software">Software</a>
+          <span class="cat-count">1</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/startup">Startup</a>
+          <span class="cat-count">10</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/strategy">Strategy</a>
+          <span class="cat-count">8</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/themes">Themes</a>
+          <span class="cat-count">1</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/top-posts">Top posts</a>
+          <span class="cat-count">5</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/travel">Travel</a>
+          <span class="cat-count">1</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/twitter">Twitter</a>
+          <span class="cat-count">8</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/uctd">Uctd</a>
+          <span class="cat-count">1</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/user-experience">User experience</a>
+          <span class="cat-count">1</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/video">Video</a>
+          <span class="cat-count">3</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/website">Website</a>
+          <span class="cat-count">1</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/wordpress">Wordpress</a>
+          <span class="cat-count">96</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/wordpress-multisite">Wordpress multisite</a>
+          <span class="cat-count">1</span>
+        </li>
+        <li class="d-flex justify-content-between align-items-center">
+          <a href="/categories/wordpress-plugins">Wordpress plugins</a>
+          <span class="cat-count">26</span>
+        </li>
+      </ul>
+    </div>
+
+    <div class="widget mb-5 tags">
+      <h4 class="mb-4 widget-title">Popular Tags</h4>
+      <ul class="list-inline">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/analytics">Analytics(11)</a></li>
+        
+        <li class="list-inline-item"><a href="/tags/android">Android(40)</a></li>
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/app">App(10)</a></li>
+        
+        
+        <li class="list-inline-item"><a href="/tags/apple">Apple(35)</a></li>
+        
+        <li class="list-inline-item"><a href="/tags/apps">Apps(22)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/comic">Comic(7)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/crm">Crm(13)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/customer-relationship-management">Customer relationship management(8)</a></li>
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/cyanogen">Cyanogen(7)</a></li>
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/dbc-backup-2">Dbc backup 2(13)</a></li>
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/design">Design(11)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/facebook">Facebook(7)</a></li>
+        
+        <li class="list-inline-item"><a href="/tags/faq">Faq(12)</a></li>
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/featured">Featured(6)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/foursquare">Foursquare(32)</a></li>
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/freetile">Freetile(7)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/google">Google(12)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/gowalla">Gowalla(6)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/how-to">How to(6)</a></li>
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/humour">Humour(7)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/insights">Insights(13)</a></li>
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/internet">Internet(6)</a></li>
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/ipad">Ipad(7)</a></li>
+        
+        
+        <li class="list-inline-item"><a href="/tags/isotope">Isotope(27)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/lithuania">Lithuania(6)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/mac">Mac(13)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/marketing">Marketing(23)</a></li>
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/marketing-strategy">Marketing strategy(6)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/mobile">Mobile(23)</a></li>
+        
+        
+        <li class="list-inline-item"><a href="/tags/mobile-apps">Mobile apps(10)</a></li>
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/mobile-marketing">Mobile marketing(14)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/music">Music(11)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/news">News(25)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/osx">Osx(9)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/plugins">Plugins(14)</a></li>
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/popular-posts">Popular posts(8)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/promo">Promo(13)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/release">Release(8)</a></li>
+        
+        <li class="list-inline-item"><a href="/tags/releases">Releases(19)</a></li>
+        
+        
+        <li class="list-inline-item"><a href="/tags/research">Research(8)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/rules-for-social-media-marketing">Rules for social media marketing(10)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/security">Security(9)</a></li>
+        
+        <li class="list-inline-item"><a href="/tags/selenium">Selenium(7)</a></li>
+        
+        
+        <li class="list-inline-item"><a href="/tags/seo">Seo(9)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/slider">Slider(8)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/social-media">Social media(44)</a></li>
+        
+        <li class="list-inline-item"><a href="/tags/social-media-marketing">Social media marketing(14)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/spam">Spam(6)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/statistics">Statistics(10)</a></li>
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/strategy">Strategy(9)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/testing">Testing(13)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/tools">Tools(14)</a></li>
+        
+        <li class="list-inline-item"><a href="/tags/top-posts">Top posts(8)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/twitter">Twitter(14)</a></li>
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/uk">Uk(13)</a></li>
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/user-experience">User experience(12)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/virtualisation">Virtualisation(6)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/web-design">Web design(6)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/windows">Windows(6)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/wordpress">Wordpress(42)</a></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="list-inline-item"><a href="/tags/zoho">Zoho(14)</a></li>
+        
+        
+        <li class="list-inline-item"><a href="/tags/zoho-crm">Zoho crm(6)</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="footer">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-12">
-				<nav class="navbar navbar-expand-lg navbar-light bg-light">
-					<a class="navbar-brand" href="http://damien.co">
-						<img src="http://damien.co/damiensaunders.png" alt="Damien Saunders">
-					</a>
-					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
-						aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
-						<span class="navbar-toggler-icon"></span>
-					</button>
-
-					<div class="collapse navbar-collapse" id="navigation">
-						<ul class="navbar-nav ml-auto">
-							<li class="nav-item">
-								<a class="nav-link" href="http://damien.co">Home</a>
-							</li>
+			<div class="col-lg-6">
+				<p class="mb-0">
+					
+					Copyright &copy;  2004 - 2020
 							
-							<li class="nav-item">
-								<a class="nav-link" href="http://damien.co/blog">Blog</a>
-							</li>
-							
-					</div>
-				</nav>
+							 Damien Saunders.
+							<a href=" /pages/privacy-policy">Privacy</a> |
+							<a href=" /pages/terms-of-use/">Terms of Use</a>
+			</div>
+			<div class="col-lg-6">
+				<div class="widget footer-widget text-lg-right mt-5 mt-lg-0">
+					<ul class="list-inline mb-0">
+						
+						<li class="list-inline-item"><a href="https://linkedin.com/in/damiensaunders" target="_blank"><i alt="LinkedIn" class="ti-linkedin mr-3"></i></a>
+						</li>
+						
+						<li class="list-inline-item"><a href="https://www.instagram.com/3496dasa" target="_blank"><i alt="Instagram" class="ti-instagram mr-3"></i></a>
+						</li>
+						
+						<li class="list-inline-item"><a href="https://twitter.com/damiensaunders" target="_blank"><i alt="Twitter" class="ti-twitter-alt mr-3"></i></a>
+						</li>
+						
+						<li class="list-inline-item"><a href="/contact" target="_blank"><i alt="Send Email" class="ti-email mr-3"></i></a>
+						</li>
+						
+					</ul>
+				</div>
 			</div>
 		</div>
 	</div>
 </section>
 
-<section class="global-page-header">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="block">
-                    <h2>Change your WordPress Multi-Site Domain URL</h2>
-                    <div class="portfolio-meta">
-                        <span>Friday, May 18, 2012</span>|
-                        <span> Tags:
-                            domain, multisite, network, SQL, URL
-                        </span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
-<section class="single-post">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                
-                <div class="post-content">
-                    <p>I&rsquo;ve just finished <strong>changing my domain name</strong> URL for my <strong>WordPress multisite</strong>. After running <strong>WordPress as a network</strong> for nearly 2 years and managing a number of other WordPress sites, domain changes should be easy to do (but over time things get more complicated).</p>
-<p>WordPress multisite adds a layer of complications - if you just want to update the domain URL for one of your blogs, then check out Domain Mapping plugins.</p>
-<p>It&rsquo;s fairly easily to modify the domain names for a WordPress single stand-alone install. Just go look at your WordPress settings.</p>
-<h2 id="before-you-change-your-wordpress-network-url">Before you change your WordPress Network URL</h2>
-<p>Changing the website domain can be complicated and you need access to DNS domain management tools as well as feel comfortable with using PHPMyAdmin and editing SQL tables.</p>
-<p>If this makes you squeamish, then you&rsquo;ll probably be better of setting up a new instance of WordPress with the new domain and importing / starting from a clean install.</p>
-<h3 id="sql">SQL</h3>
-<ol>
-<li>Always make an <a href="http://wordpress.damien.co/dbc-backup-2/" title="DBC Backup 2">EXPORT of your SQL database using DBC Backup 2 BEFORE</a> you do any of this or you will break your website. Yes, break your website as in 404, 503, database connection errors, redirects and worse search engine errors!</li>
-<li>You&rsquo;ll need to use a MySQL editor like sequelpro or SQLyog. Editing with PHPMyAdmin can take too long.</li>
-</ol>
-<h3 id="dns-records">DNS Records</h3>
-<ol>
-<li>Remember to update your Domain Registration and remove any redirects or unpark the new domain you&rsquo;ll want to use.</li>
-<li>Add the * wildcard sub-domain redirect for your new URL.</li>
-<li>Do delay by a day or do this on a slow traffic day if your DNS records take time to &lsquo;flush&rsquo;.</li>
-</ol>
-<h3 id="isp-host">ISP Host</h3>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<h2 id="lets-go-change-your-multi-site-network-wordpress-site-url">Let&rsquo;s Go Change your Multi-Site Network WordPress Site URL</h2>
-<h3 id="wp-configphp">wp-config.php</h3>
-<p>You only make one change here the value of</p>
-<!-- raw HTML omitted -->
-<p>from oldsite.com to newsite.com</p>
-<p>[php] define( &lsquo;DOMAIN_CURRENT_SITE&rsquo;, &lsquo;damiensaunders.com&rsquo; ); [/php]</p>
-<p>Note … adding the hack in wp-config for SiteURL or HomeURL doesn&rsquo;t seem to do anything here.</p>
-<h3 id="wp_options">wp_options</h3>
-<p>You make 2 changes here</p>
-<!-- raw HTML omitted -->
-<p>and</p>
-<!-- raw HTML omitted -->
-<p>from oldsite.com to newsite.com</p>
-<h3 id="wp_blogs">wp_blogs</h3>
-<p>WP standalone doesn&rsquo;t have this table. You need to change the domain value for every single one of your blogs. I&rsquo;m lucky, I&rsquo;ve only got 10 blogs to change.</p>
-<p>You need to look for and change</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<p>for each of your sub-blogs.</p>
-<h2 id="images-guids-and-other-things">Images, Guids and other things</h2>
-<p>Once you can login - Install Search and Replace plugin and do a &lsquo;sweep&rsquo; of your website for references to your old site name.</p>
-<p>Be very careful with you Search and Replace ….</p>
-<p><!-- raw HTML omitted -->don&rsquo;t<!-- raw HTML omitted --> just replace <a href="http://oldsite.com">http://oldsite.com</a> with http://newsite.com  because your manual changes should have done this.</p>
-<p><!-- raw HTML omitted -->don&rsquo;t<!-- raw HTML omitted --> replace oldsite.com with newsite.com as you&rsquo;ll break folder paths etc.  e.g. if your folder path is public_html/oldsite.com/wordpress then you can&rsquo;t do a search &amp; replace.</p>
-<p><!-- raw HTML omitted -->don&rsquo;t<!-- raw HTML omitted --> change the GUIDs unless you know what you are doing!</p>
-<h2 id="heading"></h2>
-<h2 id="google-analytics--adsense-adwords-feedburner">Google Analytics &amp; Adsense, Adwords, Feedburner</h2>
-<p>Once you&rsquo;ve changed your domain name you need to update your Google Analytics and other web-tracker accounts. If you run Adwords you probably have 1/2 a day before Google will recognise and disapprove your ads.</p>
-<h2 id="serp-seo--google-webmaster-tools">SERP, SEO &amp; Google Webmaster Tools</h2>
-<p>Now&rsquo;s the time to read-up on 301 redirects and .htaccess rewrite rules. Afterwards, submit your new site map via Google Webmaster Tools and also follow the options to migrate your old URL to the new URL.</p>
-<h2 id="help---its-all-broken">HELP - it&rsquo;s all broken</h2>
-<p>Well no - it&rsquo;s not all broken. You just have to figure out where things were changed that stop stuff working. In the first place, check your database options and look for the changes you made - maybe you overwrote URL&rsquo;s in too many places.</p>
-<h3 id="links">LINKS</h3>
-<p><!-- raw HTML omitted -->Change the Site URL - multisite<!-- raw HTML omitted --></p>
-
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+<!-- Google Map API -->
 
 
+<!-- JS Plugins -->
 
-<!-- Footer Section Start -->
-<footer id="footer">
-    <div class="container">
-        <div class="row content-justify-between">
-            <div class="col-md-8 col-12 text-center text-lg-left text-md-left">
-                <p class="copyright">Copyright &copy;  2004 -
-                    <span>
-                        <script>document.write(new Date().getFullYear())</script>
-                    </span>  Damien Saunders.
-                    
-                    <a href=" /pages/privacy-policy">Privacy</a> |
-                    <a href=" /pages/terms-of-use/">Terms of Use</a>
-                    
-                </p>
-            </div>
-            <div class="col-md-4 col-12">
-                <!-- Social Media -->
-                <ul class="social text-center text-md-right text-lg-right">
-                    
-                    <li><a href="https://linkedin.com/in/damiensaunders"><i class="ion-social-linkedin"></i></a></li>
-                    
-                    <li><a href="https://www.instagram.com/3496dasa/"><i class="ion-social-instagram"></i></a></li>
-                    
-                    <li><a href="https://twitter.com/damiensaunders"><i class="ion-social-twitter"></i></a></li>
-                    
-                    <li><a href="mailto:hello@damiensaunders.com"><i class="ion-email"></i></a></li>
-                    
-                </ul>
-            </div>
-        </div>
-    </div>
-</footer>
-<!-- footer section end -->
+<script src="http://damien.co/plugins/jQuery/jquery.min.js"></script>
 
-<!-- jquery -->
-<script src="http://damien.co/plugins/jQurey/jquery.min.js"></script>
-<!-- Form Validation -->
-<script src="http://damien.co/plugins/form-validation/jquery.form.js"></script>
-<script src="http://damien.co/plugins/form-validation/jquery.validate.min.js"></script>
-<!-- slick slider -->
-<script src="http://damien.co/plugins/slick/slick.min.js"></script>
-<!-- bootstrap js -->
 <script src="http://damien.co/plugins/bootstrap/bootstrap.min.js"></script>
-<!-- wow js -->
-<script src="http://damien.co/plugins/wow-js/wow.min.js"></script>
-<!-- slider js -->
-<script src="http://damien.co/plugins/slider/slider.js"></script>
-<!-- Fancybox -->
-<script src="http://damien.co/plugins/facncybox/jquery.fancybox.js"></script>
-<!-- template main js -->
+
+<script src="http://damien.co/plugins/owl-carousel/owl.carousel.min.js"></script>
+
+<script src="http://damien.co/plugins/shuffle/shuffle.min.js"></script>
+
+<script src="http://damien.co/plugins/animated-text/animated-text.js"></script>
+
+<script src="http://damien.co/plugins/google-map/gmap.js"></script>
+
+
+<!-- Main Script -->
 
 <script src="http://damien.co/js/script.min.js"></script>
+
 <!-- google analitycs -->
+
 <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    ga('create', 'UA-12356173-11', 'auto');
-    ga('send', 'pageview');
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-12356173-1', 'auto');
+  ga('send', 'pageview');
 </script>
+
 </body>
 </html>

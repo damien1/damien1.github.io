@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WordPress plugin on Damien Saunders</title>
+    <title>WordPress plugin on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/wordpress-plugin/</link>
-    <description>Recent content in WordPress plugin on Damien Saunders</description>
+    <description>Recent content in WordPress plugin on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 18 Mar 2013 11:57:12 +0000</lastBuildDate>
@@ -17,10 +17,7 @@
       <pubDate>Mon, 18 Mar 2013 11:57:12 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-03-18-1-minute-video-isotope-visual-layouts-wordpress-plugin/</guid>
-      <description>Just been on a bit of a testing mission this weekend … I&amp;rsquo;ve put together this 1 minute screen recording of my WordPress plugin Isotope Visual Layouts.
-Youtube
-The video is taken from my Selenium based testing and goes from plugin install, checking plugin options, adding a page, viewing the results and finally deleting the plugin.
- </description>
+      <description>Just been on a bit of a testing mission this weekend - I&#39;ve put together this 1 minute screen recording of my WordPress plugin Isotope Visual Layouts.</description>
     </item>
     
   </channel>

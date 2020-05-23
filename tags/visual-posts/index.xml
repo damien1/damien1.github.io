@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Visual Posts on Damien Saunders</title>
+    <title>Visual Posts on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/visual-posts/</link>
-    <description>Recent content in Visual Posts on Damien Saunders</description>
+    <description>Recent content in Visual Posts on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 06 Sep 2012 21:49:27 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Thu, 06 Sep 2012 21:49:27 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-09-06-isotope-visual-post-layouts-for-wordpress-version-0-3-is-out/</guid>
-      <description>Isotope Visual Post Layouts is my plugin for WordPress that makes it easy to add some stunning visual effects to your blog. I&amp;rsquo;ve just updated the plugin and if you have this installed, then WordPress should tell you automatically to update sometime in the next 24 hours.
-Isotope Visual Post Layouts version 0.31 is out I&amp;rsquo;ve just updated the plugin to v0.31, it&amp;rsquo;s tested and supported on WordPress 3.4.2 and I also fixed a bug and added a feature.</description>
+      <description>Isotope Visual Post Layouts is my plugin for WordPress that makes it easy to add some stunning visual effects to your blog.</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>masonry on Damien Saunders</title>
+    <title>masonry on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/masonry/</link>
-    <description>Recent content in masonry on Damien Saunders</description>
+    <description>Recent content in masonry on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 07 Apr 2012 12:56:11 +0000</lastBuildDate>
@@ -17,9 +17,7 @@
       <pubDate>Sat, 07 Apr 2012 12:56:11 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-04-07-using-isotope-masonry-with-wordpress/</guid>
-      <description>So I have been using Isotope for sometime on my website … I was recently asked why I had stopped using Isotope at which point I discovered that it had stopped working when I changed my theme.
-Using jQuery instead of $ for javascript The basic script for isotope is &amp;hellip;
-&amp;lt;script type=&amp;amp;quot;text/javascript&amp;amp;quot;&amp;gt; $(function(){ var $container = $(&#39;#container&#39;); $container.isotope({ itemSelector: &#39;.box&#39; }); }); &amp;lt;/script&amp;gt; However, WordPress reserves the use of $ so you need to change your script to</description>
+      <description>So I have been using Isotope for sometime on my website - I was recently asked why I had stopped using Isotope at which point I discovered that it had stopped working when I changed my theme.</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>.htaccess on Damien Saunders</title>
+    <title>.htaccess on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/.htaccess/</link>
-    <description>Recent content in .htaccess on Damien Saunders</description>
+    <description>Recent content in .htaccess on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 18 Apr 2013 21:55:23 +0000</lastBuildDate>
@@ -17,20 +17,16 @@
       <pubDate>Thu, 18 Apr 2013 21:55:23 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-18-wordpress-security-protect-your-wp-admin-with-this-quick-htaccess-trick/</guid>
-      <description>WordPress is under going an attack by a swarm of Zombies- and they are after any site with an Admin user account. Securing WordPress is easy and you can do two things to protect your website and yourself.
-  Change and then delete your Admin account (if you haven&amp;rsquo;t already)
-  Only allow access to WordPress /wp-admin by your IP address
-  Of course, you should also have a backup strategy — and so why not setup my plugin DBC Backup 2 to do the hard work.</description>
+      <description>WordPress is under going an attack by a swarm of Zombies - and they are after any site with an Admin user account.</description>
     </item>
     
     <item>
-      <title>HOW TO FIX: .htaccess &amp;#038; permalinks not working in WordPress</title>
+      <title>HOW TO FIX: .htaccess permalinks not working in WordPress</title>
       <link>http://damien.co/blog/2012-07-23-how-to-fix-htaccess-permalinks-not-working-in-wordpress/</link>
       <pubDate>Mon, 23 Jul 2012 15:30:41 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-07-23-how-to-fix-htaccess-permalinks-not-working-in-wordpress/</guid>
-      <description>If you&amp;rsquo;re setting up WordPress on a new server you may find that your custom permalinks don&amp;rsquo;t work and worse changes you make to your .htaccess file are ignored or have no effect. It sounds like you need to modify your VHOST configuration file on your web server.
-Modify VHOST to AllowOverride By default AllowOverride is disabled, this means .htaccess files and files like php.ini are ignored. Even if you enable mod_rewrite using sudo a2enmod rewrite your .</description>
+      <description>If you&#39;re setting up WordPress on a new server you may find that your custom permalinks don&#39;t work and worse changes you make to your .</description>
     </item>
     
     <item>
@@ -39,8 +35,7 @@ Modify VHOST to AllowOverride By default AllowOverride is disabled, this means .
       <pubDate>Sun, 10 Jun 2012 16:12:48 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-06-10-wordpress-security-5g-blacklist-htaccess/</guid>
-      <description>If you&amp;rsquo;re into WordPress Security (which you should be) … then you&amp;rsquo;ve probably already played around with your .htaccess file to block comment spam. For a number of years now, Perishable Press has been working on a blacklist to help kills spam and other un-welcomes! Now in its 5th Generation the Blacklist is very powerful.
-Perishable Press is a great source of information on .htaccess and URL rewrite rules … but I wanted to just highlight a couple of things (perhaps for my own memory).</description>
+      <description>If you&#39;re into WordPress Security (which you should be) - then you&#39;ve probably already played around with your .</description>
     </item>
     
   </channel>

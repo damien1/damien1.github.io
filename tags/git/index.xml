@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Git on Damien Saunders</title>
+    <title>Git on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/git/</link>
-    <description>Recent content in Git on Damien Saunders</description>
+    <description>Recent content in Git on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 12 May 2013 13:42:39 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Sun, 12 May 2013 13:42:39 +0000</pubDate>
       
       <guid>http://damien.co/development/git-how-to-add-a-submodule-in-the-root-of-your-project-try-git-subtree-instead-8665/</guid>
-      <description>This is just a short post and the title says it all … I&amp;rsquo;ve wanted add submodules to a Git repository but you get an error if you try. So how do you add a submodule to your root folder in your Git project? Easy — Git Subtree Merge is what you need.
-Add your 2nd Git Project as a Remote Actually, you start by adding a git remote with the source being the git project you want to pull in.</description>
+      <description>This is just a short post and the title says it all … I&#39;ve wanted add submodules to a Git repository but you get an error if you try.</description>
     </item>
     
     <item>
@@ -27,18 +26,16 @@ Add your 2nd Git Project as a Remote Actually, you start by adding a git remote 
       <pubDate>Tue, 22 Jan 2013 20:43:49 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-01-22-managing-a-wordpress-plugin-with-svn-and-git/</guid>
-      <description>I&amp;rsquo;m not trying to torture myself — which is why for the past 18 months managing my plugins in the WordPress SVN repository has been separated from my development work which is all saved in Git (Bitbucket to be totally honest).
-The time has come to find out just what &amp;lsquo;git svn&amp;rsquo; is all about and see if I can make it work! I&amp;rsquo;ve yet to become a master or ninja of Git .</description>
+      <description>I&#39;m not trying to torture myself — which is why for the past 18 months managing my plugins in the WordPress SVN repository has been separated from my development work which is all saved in Git (Bitbucket to be totally honest).</description>
     </item>
     
     <item>
-      <title>HOW TO: Install Jenkins-CI on a Mac OS X with Git &amp;#038; Bitbucket</title>
+      <title>HOW TO: Install Jenkins-CI on a Mac OS X with Git - Bitbucket</title>
       <link>http://damien.co/development/how-to-install-jenkins-ci-on-a-mac-os-x-with-git-bitbucket-8072/</link>
       <pubDate>Tue, 18 Dec 2012 13:56:15 +0000</pubDate>
       
       <guid>http://damien.co/development/how-to-install-jenkins-ci-on-a-mac-os-x-with-git-bitbucket-8072/</guid>
-      <description>A few notes on getting Jenkins-CI installed on your Mac and setup with Git and Bitbucket for source code management. I&amp;rsquo;ve been using Git for some time but I had problems / major issues with Jenkins and could never seem to get this working.
-Issues with setting up Jenkins and Git on a Mac Here are the issues I was having … the biggest issue was the Error (unable to clone) which showed up when I created a job and added the path to the Bitbucket repo — even after I had added the SSH Key to Bitbucket.</description>
+      <description>A few notes on getting Jenkins-CI installed on your Mac and setup with Git and Bitbucket for source code management.</description>
     </item>
     
   </channel>

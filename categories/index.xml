@@ -1,31 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Damien Saunders</title>
+    <title>Categories on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/categories/</link>
-    <description>Recent content in Categories on Damien Saunders</description>
+    <description>Recent content in Categories on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2020 17:51:27 +0100</lastBuildDate>
     
 	<atom:link href="http://damien.co/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>WordPress</title>
-      <link>http://damien.co/categories/wordpress/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <title>Hugo</title>
+      <link>http://damien.co/categories/hugo/</link>
+      <pubDate>Fri, 22 May 2020 17:51:27 +0100</pubDate>
       
-      <guid>http://damien.co/categories/wordpress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WordPress Plugin</title>
-      <link>http://damien.co/categories/wordpress-plugin/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://damien.co/categories/wordpress-plugin/</guid>
+      <guid>http://damien.co/categories/hugo/</guid>
       <description></description>
     </item>
     
@@ -39,15 +30,6 @@
     </item>
     
     <item>
-      <title>General</title>
-      <link>http://damien.co/categories/general/</link>
-      <pubDate>Mon, 11 May 2020 23:02:24 +0100</pubDate>
-      
-      <guid>http://damien.co/categories/general/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>UCTD</title>
       <link>http://damien.co/categories/uctd/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
@@ -57,11 +39,20 @@
     </item>
     
     <item>
-      <title>SharePoint</title>
-      <link>http://damien.co/categories/sharepoint/</link>
+      <title>General</title>
+      <link>http://damien.co/categories/general/</link>
+      <pubDate>Sun, 28 Apr 2019 16:56:21 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://damien.co/categories/resources/</link>
       <pubDate>Sun, 03 Apr 2016 18:33:42 +0000</pubDate>
       
-      <guid>http://damien.co/categories/sharepoint/</guid>
+      <guid>http://damien.co/categories/resources/</guid>
       <description></description>
     </item>
     
@@ -71,15 +62,6 @@
       <pubDate>Mon, 01 Sep 2014 16:58:19 +0000</pubDate>
       
       <guid>http://damien.co/categories/my-blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>http://damien.co/categories/resources/</link>
-      <pubDate>Mon, 14 Apr 2014 14:43:46 +0000</pubDate>
-      
-      <guid>http://damien.co/categories/resources/</guid>
       <description></description>
     </item>
     
@@ -98,15 +80,6 @@
       <pubDate>Sat, 18 Jan 2014 23:36:48 +0000</pubDate>
       
       <guid>http://damien.co/categories/home-networking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plugin</title>
-      <link>http://damien.co/categories/plugin/</link>
-      <pubDate>Wed, 01 Jan 2014 11:30:48 +0000</pubDate>
-      
-      <guid>http://damien.co/categories/plugin/</guid>
       <description></description>
     </item>
     
@@ -138,11 +111,20 @@
     </item>
     
     <item>
-      <title>FAQ</title>
-      <link>http://damien.co/categories/faq/</link>
-      <pubDate>Mon, 13 May 2013 21:18:40 +0000</pubDate>
+      <title>WordPress</title>
+      <link>http://damien.co/categories/wordpress/</link>
+      <pubDate>Sun, 23 Jun 2013 16:20:17 +0000</pubDate>
       
-      <guid>http://damien.co/categories/faq/</guid>
+      <guid>http://damien.co/categories/wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI/CD</title>
+      <link>http://damien.co/categories/ci/cd/</link>
+      <pubDate>Tue, 30 Apr 2013 11:00:49 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/ci/cd/</guid>
       <description></description>
     </item>
     
@@ -152,15 +134,6 @@
       <pubDate>Mon, 29 Apr 2013 12:00:56 +0000</pubDate>
       
       <guid>http://damien.co/categories/wordpress-multisite/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development Setup</title>
-      <link>http://damien.co/categories/development-setup/</link>
-      <pubDate>Sun, 21 Apr 2013 16:03:10 +0000</pubDate>
-      
-      <guid>http://damien.co/categories/development-setup/</guid>
       <description></description>
     </item>
     
@@ -197,15 +170,6 @@
       <pubDate>Mon, 10 Sep 2012 14:06:15 +0000</pubDate>
       
       <guid>http://damien.co/categories/startup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mobile</title>
-      <link>http://damien.co/categories/mobile/</link>
-      <pubDate>Mon, 03 Sep 2012 13:21:09 +0000</pubDate>
-      
-      <guid>http://damien.co/categories/mobile/</guid>
       <description></description>
     </item>
     
@@ -273,15 +237,6 @@
     </item>
     
     <item>
-      <title>FAQ&amp;#039;s</title>
-      <link>http://damien.co/categories/faq#039s/</link>
-      <pubDate>Fri, 27 Apr 2012 15:33:20 +0000</pubDate>
-      
-      <guid>http://damien.co/categories/faq#039s/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Twitter</title>
       <link>http://damien.co/categories/twitter/</link>
       <pubDate>Fri, 13 Apr 2012 12:53:32 +0000</pubDate>
@@ -300,15 +255,6 @@
     </item>
     
     <item>
-      <title>Common Issues</title>
-      <link>http://damien.co/categories/common-issues/</link>
-      <pubDate>Fri, 13 Jan 2012 16:05:01 +0000</pubDate>
-      
-      <guid>http://damien.co/categories/common-issues/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Themes</title>
       <link>http://damien.co/categories/themes/</link>
       <pubDate>Thu, 29 Dec 2011 14:02:51 +0000</pubDate>
@@ -323,6 +269,15 @@
       <pubDate>Tue, 27 Dec 2011 16:34:23 +0000</pubDate>
       
       <guid>http://damien.co/categories/foursquare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Marketing</title>
+      <link>http://damien.co/categories/digital-marketing/</link>
+      <pubDate>Wed, 23 Nov 2011 13:53:59 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/digital-marketing/</guid>
       <description></description>
     </item>
     
@@ -390,6 +345,15 @@
     </item>
     
     <item>
+      <title>Mobile</title>
+      <link>http://damien.co/categories/mobile/</link>
+      <pubDate>Sun, 24 Jan 2010 14:33:03 +0000</pubDate>
+      
+      <guid>http://damien.co/categories/mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>User Experience</title>
       <link>http://damien.co/categories/user-experience/</link>
       <pubDate>Wed, 30 Sep 2009 13:48:49 +0000</pubDate>
@@ -422,15 +386,6 @@
       <pubDate>Sun, 01 Aug 2004 17:20:52 +0000</pubDate>
       
       <guid>http://damien.co/categories/travel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CI/CD</title>
-      <link>http://damien.co/categories/ci/cd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://damien.co/categories/ci/cd/</guid>
       <description></description>
     </item>
     

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Filtrify on Damien Saunders</title>
+    <title>Filtrify on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/filtrify/</link>
-    <description>Recent content in Filtrify on Damien Saunders</description>
+    <description>Recent content in Filtrify on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 07 Apr 2013 20:48:56 +0000</lastBuildDate>
@@ -12,16 +12,13 @@
     
     
     <item>
-      <title>Visual Layouts Filtrify &amp;#038; Isotope Visual Layouts - will they work with your WordPress Theme?</title>
+      <title>Visual Layouts Filtrify - Isotope Visual Layouts - will they work with your WordPress Theme?</title>
       <link>http://damien.co/blog/2013-04-07-visual-layouts-filtrify-isotope-visual-layouts-with-your-wordpress-theme/</link>
       <pubDate>Sun, 07 Apr 2013 20:48:56 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-07-visual-layouts-filtrify-isotope-visual-layouts-with-your-wordpress-theme/</guid>
       <description>Hi Damien,
-I&amp;rsquo;m about to start using your amazing plugins and was wondering if you could offer me some advice. Is it possible for me to use your filtering capability with this WordPress theme …
-To be honest … I think I&amp;rsquo;m better off with just the plugins.
-Thanks
- I recently received this email and thought I&amp;rsquo;d write up a few notes on my plugins. Right or Wrong … If you like the style of your theme, WordPress plugins are there to extend the function of your site.</description>
+I&#39;m about to start using your amazing plugins and was wondering if you could offer me some advice.</description>
     </item>
     
     <item>
@@ -30,8 +27,7 @@ Thanks
       <pubDate>Fri, 08 Feb 2013 11:06:13 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-02-08-visual-layouts-isotope-filtrify-and-custom-wordpress-taxonomies/</guid>
-      <description>Creating tag and category based filtering is easy using my new plugin Visual Layouts Filtrify .. and now I want to show you that custom post types and custom taxonomies in WordPress are also handled with this new plugin.
-Using two of my plugins, you can create a visual grid of your posts, photos, portfolio, products and even use it to create your own WooCommerce e-commerce product page without having to get a new theme.</description>
+      <description>Creating tag and category based filtering is easy using my new plugin Visual Layouts Filtrify .</description>
     </item>
     
     <item>
@@ -40,11 +36,7 @@ Using two of my plugins, you can create a visual grid of your posts, photos, por
       <pubDate>Mon, 04 Feb 2013 11:55:45 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-02-04-just-announced-isotope-visual-layouts-plugin-gets-filtrify-for-tags-filtering/</guid>
-      <description>Visual Layouts Filtrify is my newest plugin for WordPress and my first plugin to extend Isotope Visual Post Layouts.
-What does Visual Layouts Filtrify do?   Add drop-down menus and filtering to your website
-  Works with tags and categories (no configuration)
-  Works with my Isotope Visual Post Layouts.
-  My very, very, very popular Isotope Visual Post Layouts — more than 1,000 downloads so far!</description>
+      <description>Visual Layouts Filtrify is my newest plugin for WordPress and my first plugin to extend Isotope Visual Post Layouts.</description>
     </item>
     
     <item>
@@ -53,8 +45,7 @@ What does Visual Layouts Filtrify do?   Add drop-down menus and filtering to you
       <pubDate>Sat, 08 Sep 2012 16:35:17 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-09-08-isotope-filtrify-wordpress-no-sweat/</guid>
-      <description>I&amp;rsquo;ve been busy this weekend catching up on some development work for my favourite WordPress plugin Visual Post Layouts which uses Isotope.
-Today I&amp;rsquo;ve integrated filtrifywhich makes it easy to choose your posts by Category.</description>
+      <description>I&#39;ve been busy this weekend catching up on some development work for my favourite WordPress plugin Visual Post Layouts which uses Isotope.</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Selenium IDE on Damien Saunders</title>
+    <title>Selenium IDE on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/selenium-ide/</link>
-    <description>Recent content in Selenium IDE on Damien Saunders</description>
+    <description>Recent content in Selenium IDE on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 18 May 2012 09:56:53 +0000</lastBuildDate>
@@ -12,13 +12,12 @@
     
     
     <item>
-      <title>Web Application &amp;#038; Automated Testing - Firefox &amp;#038; Selenium IDE</title>
-      <link>http://damien.co/resources/web-application-automated-testing-firefox-selenium-ide-6979/</link>
+      <title>Web Application Automated Testing - Firefox Selenium IDE</title>
+      <link>http://damien.co/blog/2012-05-18-web-application-automated-testing-firefox-selenium-ide/</link>
       <pubDate>Fri, 18 May 2012 09:56:53 +0000</pubDate>
       
-      <guid>http://damien.co/resources/web-application-automated-testing-firefox-selenium-ide-6979/</guid>
-      <description>I&amp;rsquo;ve just getting started automated testing with Selenium for a number of web appprojects that we&amp;rsquo;ve been developing lately. My background has been all about managing the project, test plans and manual test execution, so the learning curve is a bit steep.
-Automated testing fits in well with Agile and Scrum project management. Using Selenium IDE you can first create the test case, try it out manually and then when development is finished, you just run the automated test.</description>
+      <guid>http://damien.co/blog/2012-05-18-web-application-automated-testing-firefox-selenium-ide/</guid>
+      <description>I&#39;ve just getting started automated testing with Selenium for a number of web app projects that we&#39;ve been developing lately.</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Android@Home on Damien Saunders</title>
+    <title>Android@Home on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/androidhome/</link>
-    <description>Recent content in Android@Home on Damien Saunders</description>
+    <description>Recent content in Android@Home on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 16 May 2011 11:34:24 +0000</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Mon, 16 May 2011 11:34:24 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-05-16-whats-androidhome-mean-to-you/</guid>
-      <description></description>
+      <description>Home automation - Internet of Things - Arduino - Near Field Communications (NFC) - these may mean nothing to you right now but Google and Android want to make it something.</description>
     </item>
     
   </channel>

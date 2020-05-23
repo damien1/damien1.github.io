@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>network on Damien Saunders</title>
+    <title>network on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/network/</link>
-    <description>Recent content in network on Damien Saunders</description>
+    <description>Recent content in network on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 29 Apr 2013 12:00:56 +0000</lastBuildDate>
@@ -17,9 +17,7 @@
       <pubDate>Mon, 29 Apr 2013 12:00:56 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-29-get-started-with-wordpress-multisite-build-it-in-5-minutes/</guid>
-      <description>WordPress Multisite or WordPress Network or WPMU - any of these refer to WordPress when it has been setup as a network of blogs or websites.
-I&amp;rsquo;ve been using WordPress Multisite for about 3 years now - many more famous WordPress people have written about setting up WordPress Multisite, but this is my take on it.
-I want to show you that it is easy to get started with WordPress Multisite in fact you can have your network of WordPress sites up in under 5 minutes (supposing you already have WordPress installed).</description>
+      <description>WordPress Multisite or WordPress Network or WPMU - any of these refer to WordPress when it has been setup as a network of blogs or websites.</description>
     </item>
     
     <item>
@@ -28,8 +26,7 @@ I want to show you that it is easy to get started with WordPress Multisite in fa
       <pubDate>Fri, 18 May 2012 15:33:31 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-05-18-change-your-wordpress-multi-site-domain-url/</guid>
-      <description>I&amp;rsquo;ve just finished changing my domain name URL for my WordPress multisite. After running WordPress as a network for nearly 2 years and managing a number of other WordPress sites, domain changes should be easy to do (but over time things get more complicated).
-WordPress multisite adds a layer of complications - if you just want to update the domain URL for one of your blogs, then check out Domain Mapping plugins.</description>
+      <description>I&#39;ve just finished changing my domain name URL for my WordPress multisite.</description>
     </item>
     
   </channel>

@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CI on Damien Saunders</title>
+    <title>CI on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/ci/</link>
-    <description>Recent content in CI on Damien Saunders</description>
+    <description>Recent content in CI on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 07 Apr 2013 21:08:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Nov 2012 13:36:07 +0000</lastBuildDate>
     
 	<atom:link href="http://damien.co/tags/ci/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Continuous Integration for WordPress Jenkins Selenium Apache Ant</title>
-      <link>http://damien.co/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</link>
-      <pubDate>Sun, 07 Apr 2013 21:08:35 +0000</pubDate>
-      
-      <guid>http://damien.co/blog/2013-04-07-continuous-integration-for-wordpress-plugins-jenkins-selenium-apache-ant/</guid>
-      <description>I&amp;rsquo;m no regular WordPress Plugin Developer - I spend most of my day managing projects or other stuff. So when I do develop, I want a trusted, reliable, repeatable workflow setup that is always testing, always building and always telling me whats going on. That&amp;rsquo;s why I believe in Continuous Integration … and why I&amp;rsquo;ve turned to Jenkins as my CI Tool and use Apache Ant and Selenium for testing. A bit of background on Continuous Integration and Tools Continuous Integration Continuous Integration is a fundamentally different approach to software development where the project team work to continuously test as you build software.</description>
-    </item>
     
     <item>
       <title>HOW TO: Start, Stop, Restart or Reload Jenkins - Mac OSx</title>
@@ -26,7 +17,7 @@
       <pubDate>Wed, 28 Nov 2012 13:36:07 +0000</pubDate>
       
       <guid>http://damien.co/general/how-to-start-stop-restart-or-reload-jenkins-mac-osx-8022/</guid>
-      <description>I&amp;rsquo;ve just started to use Jenkins as part of a continuous integration setup that I&amp;rsquo;m building. Mostly I&amp;rsquo;m doing this to learn and then apply this to something bigger. At home, I&amp;rsquo;m using Jenkins as a CI server to manage testing of my PHP WordPress plugins. I know it could be overkill, but as a one man band, automating testing is something that saves me time and increases my confidence that the development feature is tested and ready to deploy!</description>
+      <description>I&#39;ve just started to use Jenkins as part of a continuous integration setup that I&#39;m building.</description>
     </item>
     
   </channel>

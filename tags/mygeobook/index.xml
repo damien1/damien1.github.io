@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>myGeoBook on Damien Saunders</title>
+    <title>myGeoBook on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/mygeobook/</link>
-    <description>Recent content in myGeoBook on Damien Saunders</description>
+    <description>Recent content in myGeoBook on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 17 Dec 2010 11:00:25 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Fri, 17 Dec 2010 11:00:25 +0000</pubDate>
       
       <guid>http://damien.co/social-media/mygeobook-2276/</guid>
-      <description>myGeoBook is about geolocation &amp;amp; social media, with a set of tools for any website developer to use. Maps maybe sexy to some people and yes everyone is talking about mobile location services right now ([ id=”232″ type=”category”]Foursquare[/] anyone).
-Here&amp;rsquo;s a very short guide on how to add a map to WordPress using myGeoBook — but first, here&amp;rsquo;s an example. This map is based on the Frommers best restaurants in Europe.</description>
+      <description>myGeoBook is about geolocation &amp;amp; social media, with a set of tools for any website developer to use.</description>
     </item>
     
   </channel>

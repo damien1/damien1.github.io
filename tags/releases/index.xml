@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Releases on Damien Saunders</title>
+    <title>Releases on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/releases/</link>
-    <description>Recent content in Releases on Damien Saunders</description>
+    <description>Recent content in Releases on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 23 Jun 2013 16:20:17 +0000</lastBuildDate>
@@ -17,9 +17,7 @@
       <pubDate>Sun, 23 Jun 2013 16:20:17 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-06-23-wordpress-3-5-2-is-here-time-to-update-your-site/</guid>
-      <description>WordPress 3.5.2 is here … and it&amp;rsquo;s not to be confused with the 3.6 beta releases. Being a point release, you shouldn&amp;rsquo;t expect significant changes. WordPress 3.5.2 is a security release, which means it&amp;rsquo;s critical that you update your site.
-What&amp;rsquo;s in WordPress 3.5.2? The release note for this specifically looks to address a bunch of security related issues:
- Blocking server-side request forgery attacks, which could potentially enable an attacker to gain access to a site.</description>
+      <description>WordPress 3.5.2 is here - and it&#39;s not to be confused with the 3.</description>
     </item>
     
     <item>
@@ -28,9 +26,7 @@ What&amp;rsquo;s in WordPress 3.5.2? The release note for this specifically look
       <pubDate>Mon, 22 Apr 2013 12:11:05 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-22-teaser-visual-layouts-pro-freetile/</guid>
-      <description>Development has finished on my next plugin … Visual Layouts Pro (Freetile) plugin.
-This takes the Freetile jQuery plugin and mashes it up with Filtrify and Twitter Bootstrap to give you an awesome plugin for a responsive, visual layout …
-Key Features of Visual Layouts Pro  Tags &amp;amp; Category based filters Show / Hide content Show Excerpt Works on posts, pages Includes Twitter Bootstrap with powerful options for CSS and web design Pagination  </description>
+      <description>Development has finished on my next plugin - Visual Layouts Pro (Freetile) plugin.</description>
     </item>
     
     <item>
@@ -39,9 +35,7 @@ Key Features of Visual Layouts Pro  Tags &amp;amp; Category based filters Show /
       <pubDate>Tue, 09 Apr 2013 11:27:00 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-09-visual-layouts-pro/</guid>
-      <description>I&amp;rsquo;ve just finished work on the first release of my WordPress plugin Visual Layouts Pro — this features the awesome Freetile jQuery plugin for a responsive visual grid layout.
-Visual Layouts Pro, like my other plugins, offers the best features for creating a grid layout framework for your WordPress site - without needing to change your theme!
-Key Features Visual Layouts WordPress plugin  Uses Twitter Bootstrap CSS and grid framework Shortcode for including the excerpt Pagination Works on any post, page or custom post type Options to include featured images - image and text, or text only.</description>
+      <description>I&#39;ve just finished work on the first release of my WordPress plugin Visual Layouts Pro — this features the awesome Freetile jQuery plugin for a responsive visual grid layout.</description>
     </item>
     
     <item>
@@ -50,8 +44,7 @@ Key Features Visual Layouts WordPress plugin  Uses Twitter Bootstrap CSS and gri
       <pubDate>Fri, 22 Feb 2013 11:00:42 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-02-22-isotope-visual-layouts-lite-gets-an-update-a-new-name/</guid>
-      <description>WordPress is a great tool for Websites, Blogs, Ecommerce and pretty much anything else … Which is why Isotope Visual Layouts is such a great plugin. Now you can easily change your website without changing your theme.
-How to Update / Upgrade Isotope Visual Layouts lite - slightly newer name - has just had an update to v2 and if you already have it installed, you can get an update / upgrade from your Admin Plugin page (see image below).</description>
+      <description>WordPress is a great tool for Websites, Blogs, Ecommerce and pretty much anything else - Which is why Isotope Visual Layouts is such a great plugin.</description>
     </item>
     
     <item>
@@ -60,11 +53,7 @@ How to Update / Upgrade Isotope Visual Layouts lite - slightly newer name - has 
       <pubDate>Mon, 04 Feb 2013 11:55:45 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-02-04-just-announced-isotope-visual-layouts-plugin-gets-filtrify-for-tags-filtering/</guid>
-      <description>Visual Layouts Filtrify is my newest plugin for WordPress and my first plugin to extend Isotope Visual Post Layouts.
-What does Visual Layouts Filtrify do?   Add drop-down menus and filtering to your website
-  Works with tags and categories (no configuration)
-  Works with my Isotope Visual Post Layouts.
-  My very, very, very popular Isotope Visual Post Layouts — more than 1,000 downloads so far!</description>
+      <description>Visual Layouts Filtrify is my newest plugin for WordPress and my first plugin to extend Isotope Visual Post Layouts.</description>
     </item>
     
     <item>
@@ -73,9 +62,7 @@ What does Visual Layouts Filtrify do?   Add drop-down menus and filtering to you
       <pubDate>Fri, 27 Jul 2012 16:30:12 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-07-27-dbc-backup-2-wordpress-database-backup-here-comes-version-2-1/</guid>
-      <description>DBC Backup 2 for WordPress database backup has just been updated. The new version improves the user experience for managing the plugin as well as fixing minor bugs.
-What is in the new release? The new release includes:
- A new admin page layout consistent with other WordPress plugins moves the link for DBC Backup to the Tools menu, again consistent with other plugins Fixes a problem where the user options where not deleted if the plugin was deleted Addresses a problem where users forgot to check the Active for the backup schedule Includes new options for social media sharing and getting help &amp;amp; support.</description>
+      <description>DBC Backup 2 for WordPress database backup has just been updated.</description>
     </item>
     
     <item>
@@ -84,8 +71,7 @@ What is in the new release? The new release includes:
       <pubDate>Mon, 23 Apr 2012 15:42:59 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-04-23-wordpress-security-make-sure-you-update-today/</guid>
-      <description>When ever there is a security updatefor WordPress you should always update your blog and website as soon as possible. According to Kasperskyone of the reasons that the recent Flashback Mac OSx Trojan malware infected 600,000+ computers was due to infected WordPress websites.
-So how did this happen? When developers build you a website there typically is no time or budget left over for maintenance and updates. This means websites can be left running on old versions of WordPress with known security issues and these can be exploited by hackers.</description>
+      <description>When ever there is a security update for WordPress you should always update your blog and website as soon as possible.</description>
     </item>
     
     <item>
@@ -94,9 +80,7 @@ So how did this happen? When developers build you a website there typically is n
       <pubDate>Sun, 22 Apr 2012 21:31:37 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-04-22-wordpress-3-4-beta-3-is-here/</guid>
-      <description>Another week, another beta so it seem. WordPress 3.4 is on its way … it&amp;rsquo;s entered public beta, which means you can download it and try it for yourself. This is beta 3 so we can probably expect Release Candidate 1 in a week.
-Don&amp;rsquo;t try this at home if you&amp;rsquo;re new to WordPress.
-WordPress 3.4 does a lot for Themes and Theme Developers As I&amp;rsquo;ve previously posted, this release is all about themes.</description>
+      <description>Another week, another beta so it seem. WordPress 3.4 is on its way - it&#39;s entered public beta, which means you can download it and try it for yourself.</description>
     </item>
     
     <item>
@@ -105,20 +89,16 @@ WordPress 3.4 does a lot for Themes and Theme Developers As I&amp;rsquo;ve previ
       <pubDate>Sun, 08 Apr 2012 18:13:40 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-04-08-wordpress-3-4-enters-public-beta-benefits-for-themes/</guid>
-      <description>WordPress 3.4is on its way … it&amp;rsquo;s entered public beta, which means you can download it and try it for yourself. Don&amp;rsquo;t try this at home if you&amp;rsquo;re new to WordPress.
-WordPress 3.4 does a lot for Themes and Theme Developers Basically, WordPress 3.4 is all about themes. Many of the changes are described with a lot of jargon so far.
-The release note details a lot of theme changes:</description>
+      <description>WordPress 3.4is on its way - it&#39;s entered public beta, which means you can download it and try it for yourself.</description>
     </item>
     
     <item>
-      <title>WordPress 3.3 is here &amp;#8230; get updating</title>
+      <title>WordPress 3.3 is here - get updating</title>
       <link>http://damien.co/blog/2011-12-14-wordpress-3-3-is-here-get-updating/</link>
       <pubDate>Wed, 14 Dec 2011 09:11:54 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-12-14-wordpress-3-3-is-here-get-updating/</guid>
-      <description>WordPress 3.3 is here … I&amp;rsquo;ve been a little slow in posting this as I was busying myself checking a number of websites have all updated ok. But now it&amp;rsquo;s time. Get updating!
-If you haven&amp;rsquo;t already figured out that something new is happening with WordPress then read … Getting to grips with WordPress 3.3
-Should you update now? Yes … update to WordPress 3.3 as soon as possible in order to take advantage of the new features.</description>
+      <description>WordPress 3.3 is here - I&#39;ve been a little slow in posting this as I was busying myself checking a number of websites have all updated ok.</description>
     </item>
     
     <item>
@@ -127,9 +107,7 @@ Should you update now? Yes … update to WordPress 3.3 as soon as possible in or
       <pubDate>Mon, 05 Dec 2011 14:30:36 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-12-05-getting-to-grips-with-wordpress-3-3/</guid>
-      <description>Now that the first release candidate for WordPress 3.3 is out, we can all plan (hopefully) for the real thing to be out before we take-off for Christmas Holidays in about 2 weeks.
-Getting to grips with WordPress 3.3 This is a significant point release but don&amp;rsquo;t expect &amp;lsquo;major&amp;rsquo; new features. Anyway, here are the features you&amp;rsquo;ll like and a little run-down of each one:
-  Fly-out Menus with some responsive design</description>
+      <description>Now that the first release candidate for WordPress 3.3 is out, we can all plan (hopefully) for the real thing to be out before we take-off for Christmas Holidays in about 2 weeks.</description>
     </item>
     
     <item>
@@ -138,9 +116,7 @@ Getting to grips with WordPress 3.3 This is a significant point release but don&
       <pubDate>Thu, 01 Dec 2011 19:11:46 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-12-01-wordpress-3-3-release-candidate-1-is-here/</guid>
-      <description>The first release candidate for the next version of WordPress 3.3 is here. If you haven&amp;rsquo;t started testing, now is the time.
- WordPress 3.3 what you can expect WordPress 3.3 has already had 4 beta releases - so this RC is getting close to the finished product.
-WordPress 3.3 has some cool features - including re-work on the WordPress Toolbar for logged in users, changes to backend admin pages and minor improvements for multisite admins.</description>
+      <description>The first release candidate for the next version of WordPress 3.</description>
     </item>
     
     <item>
@@ -149,12 +125,7 @@ WordPress 3.3 has some cool features - including re-work on the WordPress Toolba
       <pubDate>Sun, 17 Jul 2011 23:10:27 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-07-17-wordpress-just-updated-to-3-2-1-2/</guid>
-      <description>WordPress just released 3.2.1 so that means it’s time to update your WordPress install. This is a minor update and only a week since 3.2 was launched..
-What’s in this release?There isn’t much from a user or admin perspective, but you don’t normally expect that in a point release.
-The main deliverables in the release are:
-•Changes to the default Twenty Eleven theme
-•some RTL (right to left) fixes.
-• set browser default font to sans-serif.</description>
+      <description>WordPress just released 3.2.1 so that means it’s time to update your WordPress install.</description>
     </item>
     
     <item>
@@ -163,11 +134,7 @@ The main deliverables in the release are:
       <pubDate>Sun, 17 Jul 2011 22:10:27 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-07-17-wordpress-just-updated-to-3-2-1/</guid>
-      <description>WordPress just released 3.2.1 so that means it’s time to update your WordPress install. This is a minor update and only a week since 3.2 was launched..
-What’s in this release?There isn’t much from a user or admin perspective, but you don’t normally expect that in a point release.
- The main deliverables in the release are:
-• Changes to the default Twenty Eleven theme
-• some RTL (right to left) fixes.</description>
+      <description>WordPress just released 3.2.1 so that means it’s time to update your WordPress install.</description>
     </item>
     
     <item>
@@ -176,10 +143,7 @@ What’s in this release?There isn’t much from a user or admin perspective, bu
       <pubDate>Tue, 05 Jul 2011 12:19:01 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-07-05-wordpress-3-2-is-here-e28093-time-to-update/</guid>
-      <description>The next version of WordPress is here - it&amp;rsquo;s going to make the admin section look awhole lot different.
-So it&amp;rsquo;s true - WordPress 3.2 is here and after a couple of months anticipation it&amp;rsquo;s time to update.
-What&amp;rsquo;s in WordPress 3.2? It has a great new look to the admin section. The whole backend doesn&amp;rsquo;t look so tired. The admin performance should also be somewhat faster.
- Should you update now?</description>
+      <description>The next version of WordPress is here - it&#39;s going to make the admin section look awhole lot different.</description>
     </item>
     
     <item>
@@ -188,10 +152,7 @@ What&amp;rsquo;s in WordPress 3.2? It has a great new look to the admin section.
       <pubDate>Tue, 05 Jul 2011 11:19:01 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-07-05-wordpress-3-2-is-here-time-to-update/</guid>
-      <description>The next version of WordPress is here - it&amp;rsquo;s going to make the admin section look awhole lot different.
-So it&amp;rsquo;s true - WordPress 3.2 is here and after a couple of months anticipation it&amp;rsquo;s time to update.
-What&amp;rsquo;s in WordPress 3.2? It has a great new look to the admin section. The whole backend doesn&amp;rsquo;t look so tired. The admin performance should also be somewhat faster.
-Should you update now?</description>
+      <description>The next version of WordPress is here - it&#39;s going to make the admin section look awhole lot different.</description>
     </item>
     
     <item>
@@ -200,7 +161,7 @@ Should you update now?</description>
       <pubDate>Sat, 02 Jul 2011 15:21:50 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-07-02-wordpress-3-2-release-candidate-3-2/</guid>
-      <description>Improved look n feel / user experience to the Admin pages (after many years) Integrated the admin homepage header (with the WordPress Logo) with the left hand menu Admin bar has changed for single install and network admins Admin left hand menu has changed with big text to collapse / hide Network / Admin menu has been integrated in User menu / dropdown on the top right  Before you update any live site - backup  If you&amp;rsquo;re still stuck … get in contact and I&amp;rsquo;ll be happy to help you through</description>
+      <description>The third and possibly final release candidate of WordPress 3.2 is here.</description>
     </item>
     
     <item>
@@ -209,7 +170,7 @@ Should you update now?</description>
       <pubDate>Sat, 02 Jul 2011 14:21:50 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-07-02-wordpress-3-2-release-candidate-3/</guid>
-      <description>Improved look n feel / user experience to the Admin pages (after many years) Integrated the admin homepage header (with the WordPress Logo) with the left hand menu Admin bar has changed for single install and network admins Admin left hand menu has changed with big text to collapse / hide Network / Admin menu has been integrated in User menu / dropdown on the top right  Before you update any live site - backup Making a backup in WordPress is very easy to do, but you should always follow a simple process like this:</description>
+      <description>The third and possibly final release candidate of WordPress 3.2 is here.</description>
     </item>
     
     <item>
@@ -218,10 +179,7 @@ Should you update now?</description>
       <pubDate>Thu, 30 Dec 2010 13:07:10 +0000</pubDate>
       
       <guid>http://damien.co/blog/2010-12-30-wordpress-security-updates-again-2/</guid>
-      <description>Security Updates, I had thought were a thing that only happened to people running Windows operating system. Yet WordPress has issued 3 patches in the last 30 days to address security fixes.
-30 November 2010WordPress 3.0.2 was a mandatory security update.
-This was the first update in nearly 6 months so it was a surprise that barely a week later we get another update.
-8 December 2010WordPress 3.0.3 came out as an update for all previous versions of WordPress.</description>
+      <description>Security Updates, I had thought were a thing that only happened to people running Windows operating system.</description>
     </item>
     
   </channel>

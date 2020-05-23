@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Release on Damien Saunders</title>
+    <title>Release on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/release/</link>
-    <description>Recent content in Release on Damien Saunders</description>
+    <description>Recent content in Release on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 23 Jun 2013 16:20:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jun 2012 21:03:08 +0000</lastBuildDate>
     
 	<atom:link href="http://damien.co/tags/release/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,9 +17,7 @@
       <pubDate>Wed, 06 Jun 2012 21:03:08 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-06-06-wordpress-3-4-rc2/</guid>
-      <description>The second release candidate for the next version of WordPress 3.4 is here and the project team is hoping to go live next week.
-WordPress 3.4 what you can expect WordPress 3.4 has had a couple of beta releases and 1 RC - so this is getting close to the finished product.
-WordPress 3.4 has some cool features - including Theme customisation which kind of like a WordPress Getting Started Wizard.</description>
+      <description>The second release candidate for the next version of WordPress 3.</description>
     </item>
     
     <item>
@@ -28,9 +26,7 @@ WordPress 3.4 has some cool features - including Theme customisation which kind 
       <pubDate>Tue, 03 Jan 2012 22:41:19 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-01-03-update-time-wordpress-3-3-1-released/</guid>
-      <description>Welcome to 2012, it&amp;rsquo;s &amp;lsquo;barely&amp;rsquo; the first day of work and the WordPress team have released WordPress 3.3.1. This is a security and bug fix release which means it&amp;rsquo;s time to update as this is a mandatory update for us all.
-What&amp;rsquo;s in this release?
-This release is just 2 weeks after the big update to 3.3 so don&amp;rsquo;t be expecting anything new. Release 3.3.1 addresses a security issue with &amp;lsquo;cross site scripting&amp;rsquo; and 15 other maintenance fixes.</description>
+      <description>Welcome to 2012, it&#39;s &amp;lsquo;barely&amp;rsquo; the first day of work and the WordPress team have released WordPress 3.</description>
     </item>
     
     <item>
@@ -39,10 +35,7 @@ This release is just 2 weeks after the big update to 3.3 so don&amp;rsquo;t be e
       <pubDate>Mon, 12 Dec 2011 09:03:57 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-12-12-wordpress-3-3-rc3-this-has-to-be-it/</guid>
-      <description>The third and final release candidate of WordPress 3.3 is here. AND … now we know that hopefully next week the real WordPress 3.3 will be here.
-The release note hints that everything is ready. This version RC3 WordPress 3.3 has a few last minute bug fixes and tidy up.
-If you haven&amp;rsquo;t started testing WordPress 3.3, then now is the time to check plugins, themes and familiarise yourself.
- WordPress 3.</description>
+      <description>The third and final release candidate of WordPress 3.3 is here.</description>
     </item>
     
     <item>
@@ -51,10 +44,7 @@ If you haven&amp;rsquo;t started testing WordPress 3.3, then now is the time to 
       <pubDate>Thu, 08 Dec 2011 22:12:25 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-12-08-wordpress-3-3-rc2-is-here/</guid>
-      <description>The second release candidate for the next version of WordPress 3.3 is here.
-If you develop stuff and haven&amp;rsquo;t started testing your plugins or theme, now is the time.
- WordPress 3.3 what you can expect WordPress 3.3 has already had 4 beta releases - so this RC could be the last one. From experience, this is just bug checking, tidy up and fixing last minute security things.
-You can expect the real thing before Christmas!</description>
+      <description>The second release candidate for the next version of WordPress 3.</description>
     </item>
     
     <item>
@@ -63,9 +53,7 @@ You can expect the real thing before Christmas!</description>
       <pubDate>Thu, 10 Nov 2011 12:33:49 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-11-10-wordpress-3-3-beta-3-is-here/</guid>
-      <description>WordPress 3.3 is on its way … the latest beta 3.3 is now available, which means you can download it and try it for yourself. This beta doesn&amp;rsquo;t add anything new, as the official post says &amp;lsquo;it&amp;rsquo;s all about making things prettier&amp;rsquo; along with lots of bug fixes.
-Typically you can expect to get a release candidate after this and then the official thing will be here.
-Should I update to this beta?</description>
+      <description>WordPress 3.3 is on its way - the latest beta 3.</description>
     </item>
     
     <item>
@@ -74,8 +62,7 @@ Should I update to this beta?</description>
       <pubDate>Sun, 30 Oct 2011 17:18:34 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-10-30-wordpress-3-3-enters-public-beta/</guid>
-      <description>WordPress 3.3 is on its way … it&amp;rsquo;s entered public beta, which means you can download it and try it for yourself. Don&amp;rsquo;t try this at home if you&amp;rsquo;re new to WordPress.
-WordPress 3.3 does a lot for admin and logged in users WordPress 3.3 has some cool features - including much more work on the WordPress Toolbar for logged in users, changes to backend admin pages and minor improvements for multisite admins.</description>
+      <description>WordPress 3.3 is on its way - it&#39;s entered public beta, which means you can download it and try it for yourself.</description>
     </item>
     
     <item>
@@ -84,8 +71,7 @@ WordPress 3.3 does a lot for admin and logged in users WordPress 3.3 has some co
       <pubDate>Mon, 27 Jun 2011 20:10:10 +0000</pubDate>
       
       <guid>http://damien.co/social-media/wordpress-3-2-release-candidate-is-here-3-4440/</guid>
-      <description>The second release candidate for the next version of WordPress 3.2 is here. If you haven&amp;rsquo;t started testing 3.2, now is the time. Previous experience would make this the final RC before the real deal.
- Should I update to this release candidate? As this is a release candidate you shouldn&amp;rsquo;t use this on a really important live site - but it does mean it&amp;rsquo;s pretty stable and useful. You should find that most popular plugins and themes have no issues as developers have been working since RC1.</description>
+      <description>The second release candidate for the next version of WordPress 3.</description>
     </item>
     
     <item>
@@ -94,8 +80,7 @@ WordPress 3.3 does a lot for admin and logged in users WordPress 3.3 has some co
       <pubDate>Mon, 27 Jun 2011 19:10:10 +0000</pubDate>
       
       <guid>http://damien.co/blog/2011-06-27-wordpress-3-2-release-candidate-is-here-2/</guid>
-      <description>The second release candidate for the next version of WordPress 3.2 is here. If you haven&amp;rsquo;t started testing 3.2, now is the time. Previous experience would make this the final RC before the real deal.
- Should I update to this release candidate? As this is a release candidate you shouldn&amp;rsquo;t use this on a really important live site - but it does mean it&amp;rsquo;s pretty stable and useful. You should find that most popular plugins and themes have no issues as developers have been working since RC1.</description>
+      <description>The second release candidate for the next version of WordPress 3.</description>
     </item>
     
   </channel>

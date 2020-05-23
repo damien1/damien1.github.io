@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>web design on Damien Saunders</title>
+    <title>web design on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/web-design/</link>
-    <description>Recent content in web design on Damien Saunders</description>
+    <description>Recent content in web design on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 16 Nov 2011 23:04:49 +0000</lastBuildDate>
@@ -13,12 +13,11 @@
     
     <item>
       <title>Migrating your company website to WordPress Self Hosted</title>
-      <link>http://damien.co/wordpress/migrating-your-company-website-to-wordpress-self-hosted-697/</link>
+      <link>http://damien.co/blog/2011-11-16-migrating-your-company-website-to-wordpress-self-hosted/</link>
       <pubDate>Wed, 16 Nov 2011 23:04:49 +0000</pubDate>
       
-      <guid>http://damien.co/wordpress/migrating-your-company-website-to-wordpress-self-hosted-697/</guid>
-      <description>WordPressis one of the most popular solutions for blogging. What people don&amp;rsquo;t know is that WordPress self hosted is the best solution for building a standalone B2B or SME company website. We recently finished the migration of the mmCHANNEL company website from an in-house developed website (using PHP, etc) to single install, self hosted WordPress installation.
-There were a few times when I felt that maybe WordPress wasn&amp;rsquo;t right, but overall it&amp;rsquo;s going great and the results are visible!</description>
+      <guid>http://damien.co/blog/2011-11-16-migrating-your-company-website-to-wordpress-self-hosted/</guid>
+      <description>WordPress is one of the most popular solutions for blogging. What people don&#39;t know is that WordPress self hosted is the best solution for building a standalone B2B or SME company website.</description>
     </item>
     
     <item>
@@ -27,9 +26,7 @@ There were a few times when I felt that maybe WordPress wasn&amp;rsquo;t right, 
       <pubDate>Wed, 30 Mar 2011 07:05:52 +0000</pubDate>
       
       <guid>http://damien.co/social-media/facebook-wants-your-homepage-2811/</guid>
-      <description>I&amp;rsquo;m not one to always login to Facebook … It&amp;rsquo;s a good week if I don&amp;rsquo;t log in at all. But for about 500 million people Facebook is pretty important.
-As if Facebook really needed to tell you to bookmark their site if you already go there - but this bookmarket / on-site advertising is a fresh change to the usual page prompting you to login from your mobile.
-  </description>
+      <description>I&#39;m not one to always login to Facebook - It&#39;s a good week if I don&#39;t log in at all.</description>
     </item>
     
     <item>
@@ -38,8 +35,7 @@ As if Facebook really needed to tell you to bookmark their site if you already g
       <pubDate>Sat, 01 Jan 2011 10:19:27 +0000</pubDate>
       
       <guid>http://damien.co/blog/welcome-2011-time-for-a-spring-clean-2428/</guid>
-      <description>Hello 2011 — long may you last! If you&amp;rsquo;re new to my site … then Hello to you too. It&amp;rsquo;s time for a spring clean and over the next few days, I&amp;rsquo;ll be tearing everything apart on the website.
-In the first stage, I have taken down the old WordPress website and replaced it with a WordPress Network or Multisite - which means I can make a network of blogs or websites … or more likely microsites for social media marketing campaigns and promotions.</description>
+      <description>Hello 2011 — long may you last! If you&#39;re new to my site - then Hello to you too.</description>
     </item>
     
     <item>
@@ -48,8 +44,7 @@ In the first stage, I have taken down the old WordPress website and replaced it 
       <pubDate>Sat, 06 Nov 2010 10:59:54 +0000</pubDate>
       
       <guid>http://damien.co/general/best-ipad-app-for-design-and-graphics-gets-better-1857/</guid>
-      <description>Sketchbook Pro, in my opinion is the best iPad app for photo editing, graphic and web design. And its new update just makes it better. The new release makes it a great all round tool for note taking, wireframe and web design.
-A Power tool for notes, sketches and mockups I like to think I&amp;rsquo;m a pro digital photographer so I like my photo software to do amazing things - even if I cant.</description>
+      <description>Sketchbook Pro, in my opinion is the best iPad app for photo editing, graphic and web design.</description>
     </item>
     
     <item>
@@ -58,10 +53,7 @@ A Power tool for notes, sketches and mockups I like to think I&amp;rsquo;m a pro
       <pubDate>Tue, 15 Jun 2010 09:00:44 +0000</pubDate>
       
       <guid>http://damien.co/blog/2010-06-15-startup-guide-to-building-a-website-with-wordpress/</guid>
-      <description>So your new business needs a website - and someone told you to build it using WordPress. Cool .. this collection of resources on WordPress for your new venture will help you:
-How to migrate your website to WordPress- from experience and using a real life case study
-9 essential plugins for WordPress- here&amp;rsquo;s my recommendations on WordPress plugins to get you started.
-How to make a landing page template in WordPress- landing pages or static pages are great to promote a new product or service and its easy to add a landing page to WordPress</description>
+      <description>So your new business needs a website - and someone told you to build it using WordPress.</description>
     </item>
     
     <item>
@@ -70,9 +62,7 @@ How to make a landing page template in WordPress- landing pages or static pages 
       <pubDate>Wed, 30 Sep 2009 13:48:49 +0000</pubDate>
       
       <guid>http://damien.co/blog/2009-09-30-app-of-the-day-balsamiq-wireframing-and-user-experience-design/</guid>
-      <description>Balsamiq - I love it - the fonts and stuff can seem a bit cheesy … but I&amp;rsquo;ve take to this like a duck to water. Its much more useful than powerpoint, visio or other tools as its designed for wireframing.
-Being built on Adobe Air means anyone can use it.
-It&amp;rsquo;s very quick to create a UE design and while I couldn&amp;rsquo;t find a template or mockup for cell phone / mobile phone.</description>
+      <description>Balsamiq - I love it - the fonts and stuff can seem a bit cheesy - but I&#39;ve take to this like a duck to water.</description>
     </item>
     
   </channel>

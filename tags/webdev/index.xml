@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Webdev on Damien Saunders</title>
+    <title>Webdev on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/webdev/</link>
-    <description>Recent content in Webdev on Damien Saunders</description>
+    <description>Recent content in Webdev on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 16 Nov 2011 23:04:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Feb 2011 16:52:24 +0000</lastBuildDate>
     
 	<atom:link href="http://damien.co/tags/webdev/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Migrating your company website to WordPress Self Hosted</title>
-      <link>http://damien.co/wordpress/migrating-your-company-website-to-wordpress-self-hosted-697/</link>
-      <pubDate>Wed, 16 Nov 2011 23:04:49 +0000</pubDate>
-      
-      <guid>http://damien.co/wordpress/migrating-your-company-website-to-wordpress-self-hosted-697/</guid>
-      <description>WordPressis one of the most popular solutions for blogging. What people don&amp;rsquo;t know is that WordPress self hosted is the best solution for building a standalone B2B or SME company website. We recently finished the migration of the mmCHANNEL company website from an in-house developed website (using PHP, etc) to single install, self hosted WordPress installation.
-There were a few times when I felt that maybe WordPress wasn&amp;rsquo;t right, but overall it&amp;rsquo;s going great and the results are visible!</description>
-    </item>
     
     <item>
       <title>[Review] The Smashing Book 2 Is Available - Smashing Magazine</title>
@@ -27,8 +17,7 @@ There were a few times when I felt that maybe WordPress wasn&amp;rsquo;t right, 
       <pubDate>Sat, 12 Feb 2011 16:52:24 +0000</pubDate>
       
       <guid>http://damien.co/blog/review-the-smashing-book-2-is-available-smashing-magazine-2659/</guid>
-      <description>So I got my copy of the new ****The Smashing Book 2. Smashing Magazine is for anyone into design, web development and new media. It is one of many websites I follow on a weekly basis.
- The book came nicely (over) packaged and was immediately opened. It is a resource in itself and provides 10+ essays on topics from mobile app design to self-publishing - all new and not available on the website.</description>
+      <description>So I got my copy of the new ****The Smashing Book 2.</description>
     </item>
     
   </channel>

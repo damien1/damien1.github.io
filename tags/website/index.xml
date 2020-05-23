@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Website on Damien Saunders</title>
+    <title>Website on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/website/</link>
-    <description>Recent content in Website on Damien Saunders</description>
+    <description>Recent content in Website on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 15 Apr 2013 13:58:34 +0000</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Mon, 15 Apr 2013 13:58:34 +0000</pubDate>
       
       <guid>http://damien.co/blog/2013-04-15-differences-between-a-plugin-and-a-theme/</guid>
-      <description>In WordPress, as with many things, there are two ways to add features and customise your website, either with themes (php template files) or plugins. There are multiple threads about what&amp;rsquo;s the difference between a theme and a plugin. A plugin &amp;lsquo;should not&amp;rsquo; change your website design / look and feel … But a theme can do everything a plugin does (including installing other plugins). Difference between a plugin and a theme To make things sound simple … Primarily, a plugin gives you the user, fine control via the shortcode as to when my plugin function is activated, and of course you can just turn off the plugin at any time.</description>
+      <description>In WordPress, as with many things, there are two ways to add features and customise your website, either with themes (php template files) or plugins.</description>
     </item>
     
     <item>
@@ -26,9 +26,7 @@
       <pubDate>Wed, 18 Jul 2012 15:59:04 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-07-18-choose-the-right-wordpress-e-commerce-solution-for-you/</guid>
-      <description>WordPress is a very versatile solution for e-commerce. There are many ways you can integrate or setup e-commerce with WordPress allowing you to sell goods and services at the same time as blogging or promoting them.
-Most of the available options are just plugins, a quick scan of the WordPress plugin repo will show there are plenty of options from donation buttons for PayPal to integrations with Magento.
-What WordPress E-Commerce Solutions are there?</description>
+      <description>WordPress is a very versatile solution for e-commerce. There are many ways you can integrate or setup e-commerce with WordPress allowing you to sell goods and services at the same time as blogging or promoting them.</description>
     </item>
     
     <item>
@@ -37,7 +35,7 @@ What WordPress E-Commerce Solutions are there?</description>
       <pubDate>Mon, 08 Mar 2010 22:54:54 +0000</pubDate>
       
       <guid>http://damien.co/blog/2010-03-08-migrating-your-company-website-to-wordpress-self-hosted-2/</guid>
-      <description>WordPressis one of the most popular solutions for blogging. What people don&amp;rsquo;t know is that WordPress self hosted is the best solution for building a standalone SOHO / SME company website. We recently finished the migration of the mmCHANNEL company websitefrom an in-house developed website (using PHP, etc) to single install, self hosted WordPress installaton.There has been some times when I felt that maybe WordPress wasn&amp;rsquo;t right, but overall it&amp;rsquo;s going great and the results are visible!</description>
+      <description>WordPress is one of the most popular solutions for blogging. What people don&#39;t know is that WordPress self hosted is the best solution for building a standalone SOHO / SME company website.</description>
     </item>
     
     <item>
@@ -46,9 +44,7 @@ What WordPress E-Commerce Solutions are there?</description>
       <pubDate>Thu, 07 Jan 2010 16:24:39 +0000</pubDate>
       
       <guid>http://damien.co/blog/2010-01-07-hello-2010/</guid>
-      <description>Welcome to my new look website &amp;hellip; I moved my site and I&amp;rsquo;m sure it looks a lot slicker and more aware of trends in social media
-Best address for the new site is www.damien.co
-any problems - please tweet me @damiensaunders</description>
+      <description>Welcome to my new look website &amp;hellip; I moved my site and I&#39;m sure it looks a lot slicker and more aware of trends in social media</description>
     </item>
     
   </channel>

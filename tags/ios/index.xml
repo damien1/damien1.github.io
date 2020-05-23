@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>iOS on Damien Saunders</title>
+    <title>iOS on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/ios/</link>
-    <description>Recent content in iOS on Damien Saunders</description>
+    <description>Recent content in iOS on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 26 Sep 2012 08:44:34 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Wed, 26 Sep 2012 08:44:34 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-09-26-wtf-tomtom-you-make-apple-maps-really-do-suck/</guid>
-      <description>To me, I used Apple Maps on my iPad to check walking directions. So why is Apple Maps now powered by a Sat nav company like TomTom. Apparently I have to pay tollS to walk 6m to my home … Not just one toll … That&amp;rsquo;s tolls.
-And annoyingly all map data is now from some sat nav company so you can&amp;rsquo;t get walking directions.</description>
+      <description>To me, I used Apple Maps on my iPad to check walking directions.</description>
     </item>
     
     <item>
@@ -27,9 +26,7 @@ And annoyingly all map data is now from some sat nav company so you can&amp;rsqu
       <pubDate>Sun, 20 May 2012 11:08:15 +0000</pubDate>
       
       <guid>http://damien.co/apps-2/app-design-storify-too-many-windows-7077/</guid>
-      <description>Have you tried Storify? Is it just a little too busy? a little too complicated to get started with?
-I&amp;rsquo;ve read some great stuff about how to use Storify to archive events (weddings for example). Using Storify you can collect all the tweets, Facebook messages, Flickr pictures into a &amp;lsquo;story&amp;rsquo;. Sounds good so far.
-But what if you&amp;rsquo;re creative and not a creative writer? What if you just don&amp;rsquo;t have enough going on in your life?</description>
+      <description>Have you tried Storify? Is it just a little too busy?</description>
     </item>
     
     <item>
@@ -38,9 +35,8 @@ But what if you&amp;rsquo;re creative and not a creative writer? What if you jus
       <pubDate>Thu, 17 May 2012 17:30:11 +0000</pubDate>
       
       <guid>http://damien.co/blog/2012-05-17-app-design-google-updates-app-for-ios-result-is-impressive/</guid>
-      <description>Google+ has updated it&amp;rsquo;s app for iPhones -
-Even though the app is not universal - you can see Google+ has high-res / retina display assets and so it renders quite &amp;lsquo;crisp&amp;rsquo; even at 2x zoom on the iPad.
-This is great job using fonts and HTML elements so the overall effect is impressive.</description>
+      <description>Google+ has updated it&#39;s app for iPhones -
+Even though the app is not universal - you can see Google+ has high-res / retina display assets and so it renders quite &amp;lsquo;crisp&amp;rsquo; even at 2x zoom on the iPad.</description>
     </item>
     
   </channel>

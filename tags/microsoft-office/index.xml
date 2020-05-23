@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Microsoft Office on Damien Saunders</title>
+    <title>Microsoft Office on Damien Saunders | Management Marketing Consultant</title>
     <link>http://damien.co/tags/microsoft-office/</link>
-    <description>Recent content in Microsoft Office on Damien Saunders</description>
+    <description>Recent content in Microsoft Office on Damien Saunders | Management Marketing Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 03 Apr 2016 18:33:42 +0000</lastBuildDate>
@@ -17,10 +17,7 @@
       <pubDate>Sun, 03 Apr 2016 18:33:42 +0000</pubDate>
       
       <guid>http://damien.co/blog/2016-04-03-sharepoint-2013-internet-explorer-keeps-crashing/</guid>
-      <description>Internet Explorer 11 recently started to crash every time I visited my SharePoint 2013 site and a SharePoint 2010 site.
-I had recently updated Internet Explorer, Office and Lync communicator. I was pretty sure the error was with one of these updates.
-The error is Internet Explorer has stopped working you can close the error and the page tries to reload, but will crash again,
-I re-ran the Office Updater (Go to Control Panel &amp;gt; Add / Remove Programmes) and selected repair.</description>
+      <description>Internet Explorer 11 recently started to crash every time I visited my SharePoint 2013 site and a SharePoint 2010 site.</description>
     </item>
     
   </channel>
